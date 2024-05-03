@@ -201,7 +201,7 @@ gt.recipe.fakespaceprojects=Space Projects
 gt.recipe.primitiveblastfurnace=Primitive Blast Furnace
 gt.recipe.implosioncompressor=Implosion Compressor
 gt.recipe.vacuumfreezer=Vacuum Freezer
-gt.recipe.largechemicalreactor=Large Chemical Reactor
+gt.recipe.largechemicalreactor=Grand réacteur chimique
 gt.recipe.distillationtower=Colonne de Distillation
 gt.recipe.craker=Craqueur
 gt.recipe.pyro=Four à pyrolyse
@@ -395,6 +395,8 @@ GT5U.machines.dronecentre.shutdown=You cannot control machine when drone centre 
 GT5U.machines.dronecentre.turnon=Successfully turn on all machines!
 GT5U.machines.dronecentre.turnoff=Successfully turn off all machines!
 GT5U.machines.dronecentre.noconnection=No valid connection
+GT5U.machines.dronecentre.enableRender=Enable Drone Render
+GT5U.machines.dronecentre.disableRender=Disable Drone Render
 
 GT5U.recipe_filter.empty_representation_slot.tooltip=§7Click with a machine to set filter
 GT5U.recipe_filter.representation_slot.tooltip=§7Click to clear
@@ -535,7 +537,7 @@ GT5U.multiblock.parallelism=Max parallelism
 GT5U.multiblock.curparallelism=Current parallelism
 
 # NEI recipe handlers
-GT5U.nei.heat_capacity=Heat Capacity: %s K (%s)
+GT5U.nei.heat_capacity=Capacité Thermique : %s K (%s)
 GT5U.nei.tier=Tier: %s
 GT5U.nei.start_eu=Start: %s EU (MK %s)
 GT5U.nei.stages=Stages: %s
@@ -1317,8 +1319,6 @@ for.bees.species.silverfish=Silverfish
 for.mutation.condition.biomeid=Required Biome
 for.mutation.condition.dim=Required Dimension
 
-for.flowers.flaming=Fire
-
 itemGroup.GTtools=Prebuild Tools
 
 gregtech.fertilitySterile=Sterile
@@ -1332,7 +1332,6 @@ gregtech.speedAccelerated=Accelerated
 gregtech.lifeBlink=Blink
 gregtech.lifeEon=Eon
 gregtech.effectTreetwister=Treetwister
-gregtech.effectMachineBoost=Machine Booster
 
 entity.gregtech.GT_Entity_Arrow.name= a GregTech arrow
 

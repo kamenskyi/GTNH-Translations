@@ -1,0 +1,229 @@
+item.bulletThrowable.name=Метательная пуля
+item.grenadeThrowable.name=Метательная граната
+item.bulletCraftable.name=Боеприпасы - Патрон
+item.grenadeCraftable.name=Боеприпасы - Граната
+item.rocketCraftable.name=Боеприпасы - Ракета
+item.ferroSlug.name=Боеприпасы - Ферромагнитная пуля
+item.blazingClayCraftable.name=Ammo - Blazing Clay
+item.upgFire.name=Улучшение - Скорость стрельбы
+item.upgEff.name=Улучшение - Эффективность
+item.upgRan.name=Улучшение - Дальность
+item.upgAcc.name=Улучшение - Точность
+item.upgScatter.name=Upgrade - Scattershot
+item.addonReactor.name=Дополнение - Реактор красного камня
+item.addonDam.name=Дополнение - Усиление урона
+item.addonSolar.name=Дополнение - Солнечный генератор
+item.addonPotentia.name=Addon - Potentia Converter
+item.addonSerialPort.name=Addon - Serial Port
+item.addonRecycler.name=Addon - Recycler
+item.addonConcealer.name=Addon - Turret Concealer
+item.sensorOne.name=Сенсор (Уровень 1)
+item.sensorTwo.name=Сенсор (Уровень 2)
+item.sensorThree.name=Сенсор (Уровень 3)
+item.sensorFour.name=Сенсор (Уровень 4)
+item.sensorFive.name=Sensor (Tier 5)
+item.chamberTierOne.name=Chamber (Tier 1)
+item.chamberTierTwo.name=Chamber (Tier 2)
+item.chamberTierThree.name=Chamber (Tier 3)
+item.chamberTierFour.name=Chamber (Tier 4)
+item.chamberTierFive.name=Chamber (Tier 5)
+item.barrelTierOne.name=Barrel (Tier 1)
+item.barrelTierTwo.name=Barrel (Tier 2)
+item.barrelTierThree.name=Barrel (Tier 3)
+item.barrelTierFour.name=Barrel (Tier 4)
+item.barrelTierFive.name=Barrel (Tier 5)
+item.ioBus.name=Шина ввода-вывода
+tile.baseTierWood.name=Деревянная основа для турели
+tile.baseTierOneBlock.name=Свинцовая основа для турели
+tile.baseTierTwoBlock.name=Усиленная основа для турели
+tile.baseTierThreeBlock.name=Закалённая основа для турели
+tile.baseTierFourBlock.name=Резонирующая основа для турели
+
+tile.disposeItemTurret.name=Одноразовая турель
+tile.potatoCannonTurret.name=Potato Cannon Turret
+tile.rocketTurret.name=Турель с базукой
+tile.teleporterTurret.name=Teleporter Turret
+tile.machineGunTurret.name=Пулемётная турель
+tile.incendiaryTurret.name=Incendiary Turret
+tile.grenadeTurret.name=Турель-гранатомёт
+tile.relativisticTurret.name=Relativistic Turret
+tile.laserTurret.name=Лазерная турель
+tile.railGunTurret.name=Рельсовая турель
+tile.leverBlock.name=Базовая турельная ручка
+tile.expanderPowerTierOne.name=Base Power Expander (Tier 1)
+tile.expanderPowerTierTwo.name=Base Power Expander (Tier 2)
+tile.expanderPowerTierThree.name=Base Power Expander (Tier 3)
+tile.expanderPowerTierFour.name=Base Power Expander (Tier 4)
+tile.expanderPowerTierFive.name=Base Power Expander (Tier 5)
+tile.expanderInvTierOne.name=Base Inventory Expander (Tier 1)
+tile.expanderInvTierTwo.name=Base Inventory Expander (Tier 2)
+tile.expanderInvTierThree.name=Base Inventory Expander (Tier 3)
+tile.expanderInvTierFour.name=Base Inventory Expander (Tier 4)
+tile.expanderInvTierFive.name=Base Inventory Expander (Tier 5)
+
+tile.fenceTierOne.name=Fence (Tier 1)
+tile.fenceTierTwo.name=Fence (Tier 2)
+tile.fenceTierThree.name=Fence (Tier 3)
+tile.fenceTierFour.name=Fence (Tier 4)
+tile.fenceTierFive.name=Fence (Tier 5)
+
+tile.hardWallTierOne.name=Hard Wall (Tier 1)
+tile.hardWallTierTwo.name=Hard Wall (Tier 2)
+tile.hardWallTierThree.name=Hard Wall (Tier 3)
+tile.hardWallTierFour.name=Hard Wall (Tier 4)
+tile.hardWallTierFive.name=Hard Wall (Tier 5)
+
+#for IGWMod
+tile.turretBase.name=Turret Base
+
+itemGroup.openmodularturrets=Open Modular Turrets
+
+tooltip.tier=Уровень
+tooltip.range=Дистанция (в блоках)
+tooltip.accuracy=Точность
+tooltip.ammo=Тип боеприпасов
+tooltip.tierRequired=Необходимая основа
+tooltip.damage.label=Характеристика урона
+tooltip.damage.stat=Урон по противнику
+tooltip.aoe=Радиус АОЕ
+tooltip.firerate=Выстрелов/сек
+tooltip.energy.stat=Расход энергии за выстрел
+tooltip.info=Информация
+tooltip.health=единиц
+
+tooptip.energy.label=Энергия
+tooltip.rf.max=Максимальная ёмкость
+tooltip.rf.io=Максимальный ввод/вывод
+tooltip.extras.label=Дополнения
+tooltip.extras.addons.0=Ничего
+tooltip.extras.addons.1=1x слот дополнений
+tooltip.extras.addons.2=2x слот дополнений
+tooltip.extras.upgrade.0=Ничего
+tooltip.extras.upgrade.1=1x слот улучшений
+tooltip.extras.upgrade.2=2x слот улучшений
+
+tooltip.expander.power1=Turret Base RF Expander
+tooltip.expander.power2=Adds
+tooltip.expander.power3=RF capacity to a turret base.
+
+tooltip.expander.inv1=Turret Base Inventory Expander
+tooltip.expander.inv2=Adds 9 slots of inventory space that the turret base can use.
+tooltip.expander.inv3=Each slot can only accept a max stack size of
+
+flavour.expander.power.1=Now with flavour!
+flavour.expander.power.2=Kinetic expansion.
+flavour.expander.power.3=There, their and they're.
+flavour.expander.power.4=Can be used as a sinking device.
+flavour.expander.power.5=Asymmetrical warfare.
+
+flavour.expander.inv.1=A little goes a long way.
+flavour.expander.inv.2=Supplies!
+flavour.expander.inv.3=Hair, heir and hare.
+flavour.expander.inv.4=Can be used as a floatation device.
+flavour.expander.inv.5=Very space, much inventory.
+
+flavour.base.0=Порох в сырости - и я бездомный.
+flavour.base.1=Выпью твою кровь.
+flavour.base.2=Я сказал: "Доброго дня, сэр!"
+flavour.base.3=Нажать для атаки!
+flavour.base.4a=Вся королевская конница,
+flavour.base.4b=вся королевская рать...
+
+flavour.turret.0=Спокойный сон бедняка.
+flavour.turret.1=ТРАТАТА!! ТРАТАТАТАТА!!
+flavour.turret.2a=Другим примером является побудительная
+flavour.turret.2b=форма парадокса сферической лошади в вакууме.
+flavour.turret.3=Бах-бабах!
+flavour.turret.4=Тесла мог бы гордиться.
+flavour.turret.5=Большое Финишное Глушило.
+flavour.turret.6=A PVC masterpiece.
+flavour.turret.7=Flaming Disjuncture.
+flavour.turret.8=Point of reference.
+flavour.turret.9a=It's like long strands of spaghetti,
+flavour.turret.9b=but in 11 dimensions.
+
+turret.accuracy.low=Низкая
+turret.accuracy.medium=Средняя
+turret.accuracy.high=Высокая
+turret.accuracy.exact=Абсолютная
+
+turret.ammo.0=Любой блок/предмет
+turret.ammo.1=Патрон
+turret.ammo.2=Граната
+turret.ammo.3=Крылатая ракета
+turret.ammo.4=Ничего
+turret.ammo.5=Ферромагнитная пуля
+turret.ammo.6=Potato
+turret.ammo.7=Blazing Clay
+
+base.tier.1=Свинцовая
+base.tier.2=Усиленная
+base.tier.3=Закалённая
+base.tier.4=Резонирующая
+base.tier.5=Tier 5 Turret Base
+
+turret.addon.label=Дополнение для турели
+turret.addon.amp.a.label=Добавляет
+turret.addon.amp.flavour=Теперь у нас есть сокрушительная сила.
+turret.addon.redstone.a=Производит
+turret.addon.redstone.b=RF per
+turret.addon.redstone.c=красной пыли в инвентаре для боеприпасов.
+turret.addon.redstone.flavour=Изысканное поглощение.
+turret.addon.solar.a=Производит
+turret.addon.solar.b=RF/тик, когда светит солнце.
+turret.addon.solar.flavour=Добрый Гелиос!
+turret.addon.potentia.a=Converts piped Potentia into RF (
+turret.addon.potentia.b=RF per unit).
+turret.addon.potentia.c=Adds an internal Potentia capacity of 
+turret.addon.potentia.d=Adding Ordo vis through a network
+turret.addon.potentia.e=multiplies RF conversion rate x10.
+turret.addon.potentia.flavour=Because Eskom can't get it right...
+turret.addon.serial.a=Enables OpenComputers and ComputerCraft
+turret.addon.serial.b=compatibility.
+turret.addon.serial.flavour=Who needs OOP?
+turret.addon.recycler.1=Adds a chance for a turret to not use ammo,
+turret.addon.recycler.2=as well as a chance to generate ammo, per shot.
+turret.addon.recycler.3=Ammo use negation chance:
+turret.addon.recycler.4=Ammo generation chance:
+turret.addon.recycler.flavour=Reduce, reuse, reassert.
+turret.addon.concealer.1=Visually conceals turrets inside turret base if no target is present.
+turret.addon.concealer.flavour=Almost like project rainbow.
+
+turret.upgrade.label=Улучшение для турели
+turret.upgrade.stacks=Не более 4 предметов в стаке.
+
+turret.upgrade.range=блока к дистанции за каждое улучшение.
+turret.upgrade.range.flavour=Не передадите мне вилку?
+
+turret.upgrade.rof=к скорости стрельбы за каждое улучшение.
+turret.upgrade.rof.flavour=Потребление времени потребляет время.
+
+turret.upgrade.eff=RF используется для выстрела, за каждое улучшение.
+turret.upgrade.eff.flavour=Эврика!
+
+turret.upgrade.acc=к точности за каждое улучшение.
+turret.upgrade.acc.flavour.a=Снайпер с острым зрением,
+turret.upgrade.acc.flavour.b=я стреляю - ты бежишь.
+
+turret.upgrade.scatter.a=Adds 2 projectiles to each shot, at the cost of 
+turret.upgrade.scatter.b=+2 ammo usage, decreased accuracy, and increased RF usage. 
+turret.upgrade.scatter.flavour=You just need to shoot more bullets.
+
+status.ownership=Вы не владелец данной турели
+status.missingBase=здесь нет нужной базы для турели.
+status.warning=Вы вошли в зону действия турелей. Двигайтесь дальше на свой страх и риск.
+
+gui.openmodularturrets:owner=Владелец
+gui.openmodularturrets:invert=Inverted
+gui.openmodularturrets:active=Active
+gui.openmodularturrets:mode=Mode
+gui.openmodularturrets:true=true
+gui.openmodularturrets:false=false
+
+death.attack.disposable=Very %s, much dead, such wow...
+death.attack.bullet=%s ate some delicious lead.
+death.attack.blazingclay=%s got cooked to a juicy medium-rare.
+death.attack.grenade=%s may need some assembly.
+death.attack.rocket=%s found that rainbow connection in the form of a rocket.
+death.attack.laser=%s got disintegrated.
+death.attack.ferroslug=%s found atomized minerva.

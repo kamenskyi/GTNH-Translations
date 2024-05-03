@@ -1,0 +1,18 @@
+aromabackuprecovery:selectBackup.delete.Question=Вы уверены, что хотите удалить эту резервную копию?
+aromabackuprecovery:selectBackup.backup="%s" будет потерян навсегда! (Долгое (долгое, долгое) время!)
+aromabackuprecovery:selectBackup.name=%s (%s)
+aromabackuprecovery:button.recover=Backups
+aromabackuprecovery:selectBackup.select=Restore Backup
+
+aromabackuprecovery:restorechunk.button=Restore individual Chunk
+aromabackuprecovery:restorechunk.title=Restore Chunk
+aromabackuprecovery:restorechunk.confirm=Restore Chunk
+aromabackuprecovery:restorechunk.chunkX=ChunkX
+aromabackuprecovery:restorechunk.chunkZ=ChunkY
+aromabackuprecovery:restorechunk.dim=Dim
+aromabackuprecovery:restorechunk.loadCrashlog=Load from Crashlog
+aromabackuprecovery:restorechunk.info.1=Remember, these are Chunk coordinates, not block coordinates.
+aromabackuprecovery:restorechunk.info.2=This will load the selected world and instead of loading the whole world from the world folder, this will load the selected chunk out of the selected backup.
+aromabackuprecovery:restorechunk.crashlog.none=Could not find any useful crash log. If you think, this is a bug, please report it including the crash log that should be considered useful.
+aromabackuprecovery:restorechunk.crashlog.outdated=Crashlog из которого поступает информация довольно устарел. Это может быть плохой идеей.
+aromabackuprecovery:restorechunk.crashlog.success=Информация о чанках успешно загружена из crash log.

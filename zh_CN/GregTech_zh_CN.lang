@@ -5020,7 +5020,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_01170_Index_01=装配线的控制器方块
     S:TileEntity_DESCRIPTION_01170_Index_02=用于制造复杂的机器部件(LuV+)
     S:TileEntity_DESCRIPTION_01170_Index_03=不兼容组装机合成表
-    S:TileEntity_DESCRIPTION_01170_Index_04=-----------------------------------------
+    S:TileEntity_DESCRIPTION_01170_Index_04=配方等级最大为能源仓等级+1。
     S:TileEntity_DESCRIPTION_01170_Index_05=-----------------------------------------
     S:TileEntity_DESCRIPTION_01170_Index_06=按住 §l[LSHIFT]§r§7 以显示结构指导
     S:TileEntity_DESCRIPTION_01170_Index_07=由 §aGregtech§7 添加
@@ -16782,7 +16782,7 @@ languagefile {
     S:for.bees.species.sandwich=三明治
     S:for.bees.species.sapphire=蓝宝石
     S:for.bees.species.saturn=土星
-    S:for.bees.species.seaweed=藻类
+    S:for.bees.species.seaweed=海藻
     S:for.bees.species.shadowmetal=暗影金属
     S:for.bees.species.silver=银
     S:for.bees.species.silverfish=蠹虫
