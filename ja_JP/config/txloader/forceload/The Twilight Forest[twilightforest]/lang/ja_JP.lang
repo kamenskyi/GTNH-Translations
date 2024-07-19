@@ -285,7 +285,7 @@ tile.TrollBer.name=トロールベリー
 tile.KnightmetalBlock.name=ナイトメタルブロック
 tile.ArcticFurBlock.name=防寒毛皮ブロック
 tile.CarminiteBlock.name=カーミナイトブロック
-tile.FieryBlock.name=焦熱鋼ブロック
+tile.FieryBlock.name=焦熱スチールブロック
 tile.IronwoodBlock.name=樹鉄ブロック
 tile.SteeleafBlock.name=葉鋼ブロック
 tile.HugeLilyPad.name=巨大なスイレンの葉
@@ -475,7 +475,7 @@ tooltip.tf.harbinger=使徒、しかし何の？
 
 item.tfspawnegg.name=スポーン
 
-itemGroup.twilightForest=黄昏の森
+itemGroup.twilightForest=Twilight Forest
 
 entity.TwilightForest.Wild Boar.name=イノシシ
 entity.TwilightForest.Bighorn Sheep.name=オオツノヒツジ
@@ -611,7 +611,7 @@ chat.tf.pedestalunworthy=You are unworthy.
 progressionBook.author=忘れ去られた探検家
 progressionBook.default.title=未解決の謎のノート
 progressionBook.default.0=\u00A78[[この本は何度もコピーされているようだ]]\u00A70\n\n私にはこの構造を取り巻くフィールドを説明することはできないが、魔法は強力だ。この呪いが他と同様のものなら、それを解く答えはどこかにある。
-progressionBook.default.1=恐らく、私がやり残したこと、あるいはまだ倒していないモンスターがいるのだろう。私は戻る必要がある。後でこの場所に戻り、何かが変わるかどうか確認してみよう。
+progressionBook.default.1=恐らく、何かやり残したことがあるか、あるいはまだ倒していないモンスターがいるのだろう。私は戻る必要がある。後でこの場所に戻り、何かが変わるかどうか確認してみよう。
 progressionBook.lichTower.title=尖った塔のノート
 progressionBook.lichTower.0=\u00A78[[冒険者のノート、モンスターに齧られている]]\u00A70\n\n私はこの塔を囲む奇妙なオーラを調べ始めた。塔のレンガは、私が以前見たよりも強い呪いによって保護されている。呪いの魔力は周辺まで広がっている。
 progressionBook.lichTower.1=私の故郷では、この魔力を扱う選択肢がたくさんあるが、私にできることは限られている。研究しなければならないだろう…

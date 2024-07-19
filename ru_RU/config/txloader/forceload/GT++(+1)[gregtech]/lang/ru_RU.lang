@@ -124,7 +124,7 @@ GTPP.MBTT.SteamOutputBus=Выходной люк (Пар)
 //Achievements
 
 //4/2/19
-achievement.gt.blockmachines.fusioncomputer.tier.09=Компьютер термоядерного реактора MK IV
+achievement.gt.blockmachines.fusioncomputer.tier.09=Компьютер термоядерного реактора Марк IV
 achievement.gtplusplus.blockcasings.3.12=Fusion Casing MK III
 achievement.gtplusplus.blockcasings.3.13=Advanced Magnetic Containment!
 achievement.gtplusplus.blockcasings.3.15=Quantum Containment!
@@ -215,7 +215,7 @@ achievement.multi.cokeoven=Промышленная коксовая печь [I
 achievement.multi.cokeoven.desc=Better than a Pyrolyse
 achievement.multi.boiler.thermal=Тепловой бойлер
 achievement.multi.boiler.thermal.desc=Pahoehoe works too!
-achievement.multi.zhuhai=Zhuhai, Fishing Port
+achievement.multi.zhuhai=Чжухай, Рыбный порт
 achievement.multi.zhuhai.desc=Actually exists
 achievement.casing.abs=Slow Progress
 achievement.casing.abs.desc=Eventually, you will have your ABS.

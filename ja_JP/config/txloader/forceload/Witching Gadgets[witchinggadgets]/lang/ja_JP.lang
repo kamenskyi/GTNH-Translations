@@ -3,13 +3,13 @@ tile.WG_WallMirror.name=Mirror on the Wall
 tile.WG_VoidWalkway.name=Void Walkway
 tile.WG_StoneDevice.etherealWall.name=Ethereal Wall
 tile.WG_StoneDevice.magicTileLock.name=Magical Lock
-tile.WG_StoneDevice.obsidianPlate.name=Obsidian Plate
+tile.WG_StoneDevice.obsidianPlate.name=黒曜石プレート
 tile.WG_StoneDevice.obsidianDecoration0.name=Obsidian Rune
 tile.WG_StoneDevice.obsidianDecoration1.name=Obsidian Rune
 tile.WG_StoneDevice.obsidianDecoration2.name=Obsidian Rune
 tile.WG_StoneDevice.sarcophagus.name=Sarcophagus
 tile.WG_StoneDevice.timeStone.name=Ageing Stone
-tile.WG_StoneDevice.blastFurnace.name=Infernal Blast Furnace
+tile.WG_StoneDevice.blastFurnace.name=地獄の高炉
 
 tile.WG_WoodenDevice.spinningWheel.name=Spinning Wheel
 tile.WG_WoodenDevice.loom.name=Loom
@@ -22,7 +22,7 @@ tile.WG_WoodenDevice.saunaStove.name=Thaumic Sauna Stove
 tile.WG_WoodenDevice.labelLibrary.name=Aspect Library
 
 tile.WG_MetalDevice.essentiaPump.name=Essentia Pump
-tile.WG_MetalDevice.voidmetalBlock.name=Void metal Block
+tile.WG_MetalDevice.voidmetalBlock.name=虚無鋼ブロック
 tile.WG_MetalDevice.terraformer.name=Arcane Terrestrial Reformer
 tile.WG_MetalDevice.tfFocusPlains.name=Terrestrial Focus: Plains
 tile.WG_MetalDevice.tfFocusColdTaiga.name=Terrestrial Focus: Cold Taiga
@@ -52,16 +52,16 @@ item.WG_Material.calculator.name=Arcane Abacus
 item.WG_Material.cuttingTools.name=Gemcutter's Tools
 item.WG_Material.photoPlate.name=Iconographic Plate
 item.WG_Material.developedPhoto.name=Developed Iconograph
-item.WG_Material.clusterAluminum.name=Aluminum Cluster
-item.WG_Material.clusterCobalt.name=Cobalt Cluster
-item.WG_Material.clusterArdite.name=Ardite Cluster
-item.WG_Material.clusterNickel.name=Nickel Cluster
-item.WG_Material.clusterFZDarkIron.name=Dark Iron Cluster
+item.WG_Material.clusterAluminum.name=アルミニウムクラスター
+item.WG_Material.clusterCobalt.name=コバルトクラスター
+item.WG_Material.clusterArdite.name=アーダイトクラスター
+item.WG_Material.clusterNickel.name=ニッケルクラスター
+item.WG_Material.clusterFZDarkIron.name=ダークアイアンクラスター
 item.WG_Material.guidingString.name=Guiding Thread
 item.WG_Material.powerlessPearl.name=Powerless Pearl
 item.WG_Material.gemstoneDust.name=Gemstone Dust
 
-item.WG_Cluster.name=Native %1$s Cluster
+item.WG_Cluster.name=自然%1$sクラスター
 
 item.WG_Bag.normal.name=Bag of Tricks
 item.WG_Bag.void.name=Voidlinked Bag
@@ -131,7 +131,7 @@ item.WG_ScanCamera.name=Thaumic Iconograph Box
 
 item.WG_CrystalFlask.name=Crystal Capsule
 
-item.modifiedTC.luckyCoin=Lucky Gold Coin
+item.modifiedTC.luckyCoin=幸運の金貨
 
 # -- Creative --
 itemGroup.witchinggadgets=Witching Gadgets
@@ -389,7 +389,7 @@ witchinggadgets_research_text.TRANSALUMINUM=[WG] Transformation of metals into a
 witchinggadgets_research_page.TRANSALUMINUM.1=You have discovered a way to multiply aluminum by steeping aluminum nuggets in §5metallum§0 harvested from other metals.
 
 #INFERNALBLASTFURNACE
-witchinggadgets_research_name.INFERNALBLASTFURNACE=[WiP] Infernal Blast Furnace
+witchinggadgets_research_name.INFERNALBLASTFURNACE=[WiP] 地獄の高炉
 witchinggadgets_research_text.INFERNALBLASTFURNACE=[WG] IT BURNS!...it smelts, actually...
 witchinggadgets_research_page.INFERNALBLASTFURNACE.1=Burning with an intensely hot magical flame, this furnace is the Thaumaturge's response to the engineer's tedious steps of cleaning their ores. It will smelt any clusters of metal thrown within it into three ingots, which the occasional nugget added to that.<BR>Furthermore, should you require steel for other operations, the impure flame of this devilish artifact is a surefire way to get it. Simply throw in iron ingots or blocks and place Ignis essentia jars aside and wait.<BR>The speed of this construct can be increased by the same means as on the Infernal Furnace.
 witchinggadgets_research_page.INFERNALBLASTFURNACE.2=For normal smelting purposes however, this flame is far too hot, so don't try throwing chicken into it.<BR>Disclaimer: Though the lava in this furnace has been enhanced by magic, it is still just as (if not more) dangerous. Any items not supposed to go into this furnace will be vapourized, as will any Thaumaturge stupid enough to fall into it.
