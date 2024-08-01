@@ -19,11 +19,11 @@ tile.rocks.shale.name=頁岩
 tile.rocks.shalesmooth.name=磨かれた頁岩
 
 tile.ash.name=灰ブロック
-tile.flesh.name=肉塊ブロック
+tile.flesh.name=肉塊
 
 tile.lilyBop.mediumlily.name=中くらいのスイレンの葉
 tile.lilyBop.smalllily.name=小さなスイレンの葉
-tile.lilyBop.tinylily.name=とても小さいスイレンの葉
+tile.lilyBop.tinylily.name=とても小さなスイレンの葉
 
 tile.plants.deadgrass.name=枯れた草
 tile.plants.desertgrass.name=砂漠の草
@@ -49,7 +49,7 @@ tile.flowers.glowflower.name=グロウフラワー
 tile.flowers.hydrangea.name=青色のアジサイ
 tile.flowers.cosmos.name=橙色のコスモス
 tile.flowers.daffodil.name=桃色ののスイセン
-tile.flowers.wildflower.name=野草
+tile.flowers.wildflower.name=ワイルドフラワー
 tile.flowers.violet.name=スミレ
 tile.flowers.anemone.name=白色のアネモネ
 tile.flowers.lilyflower.name=スイレン
@@ -64,9 +64,9 @@ tile.flowers2.lilyofthevalley.name=スズラン
 tile.flowers2.burningblossom.name=燃え盛る花
 tile.flowers2.lavender.name=ラベンダー
 tile.flowers2.goldenrod.name=アキノキリンソウ
-tile.flowers2.bluebells.name=イトシャジン
+tile.flowers2.bluebells.name=ブルーベル
 tile.flowers2.minersdelight.name=マイナーズ・デライト
-tile.flowers2.icyiris.name=寒冷地のアイリス
+tile.flowers2.icyiris.name=冷たいアイリス
 tile.flowers2.rose.name=バラ
 
 tile.fruitBop.apple_block.name=リンゴ
@@ -132,16 +132,16 @@ tile.colorizedSaplings.mahoganySapling.name=マホガニーの苗木
 tile.colorizedSaplings.floweringSapling.name=開花したオークの苗木
 
 tile.willow.name=ヤナギ
-tile.ivy.name=ツタ
+tile.ivy.name=蔦
 tile.bamboo.name=竹
 tile.mudBricksStairs.name=泥レンガの階段
 tile.originGrass.name=原初の草ブロック
 tile.longGrass.name=育ち切った草ブロック
 tile.overgrownNetherrack.name=草の生えたネザーラック
-tile.treeMoss.name=不老草
+tile.treeMoss.name=フロウソウ
 tile.turnip.name=カブ
 tile.flowerVine.name=開花したツタ
-tile.wisteria.name=フジ
+tile.wisteria.name=藤
 
 tile.coral1.kelpbottom.name=コンブ
 tile.coral1.kelpsingle.name=コンブ
@@ -155,21 +155,21 @@ tile.coral2.algae.name=藻
 tile.newBopGrass.silty.name=シルト質の草ブロック
 tile.newBopGrass.sandy.name=砂礫質の草ブロック
 tile.newBopGrass.loamy.name=ローム質の草ブロック
-tile.newBopDirt.dirt_silty.name=シルト質の土
-tile.newBopDirt.dirt_sandy.name=砂礫質の土
-tile.newBopDirt.dirt_loamy.name=ローム質の土
-tile.newBopDirt.coarse_dirt_silty.name=粗いシルト質の土
-tile.newBopDirt.coarse_dirt_sandy.name=粗い砂礫質の土
-tile.newBopDirt.coarse_dirt_loamy.name=粗いローム質の土
+tile.newBopDirt.dirt_silty.name=シルト土
+tile.newBopDirt.dirt_sandy.name=砂礫土
+tile.newBopDirt.dirt_loamy.name=ローム土
+tile.newBopDirt.coarse_dirt_silty.name=粗いシルト土
+tile.newBopDirt.coarse_dirt_sandy.name=粗い砂礫土
+tile.newBopDirt.coarse_dirt_loamy.name=粗いローム土
 tile.newBopFarmland.silty.name=シルト質の耕地
 tile.newBopFarmland.sandy.name=砂礫質の耕地
 tile.newBopFarmland.loamy.name=ローム質の耕地
 
 tile.bopGrass.spectralmoss.name=コケが生えたエンドストーン
-tile.bopGrass.smolderinggrass.name=焦熱の草ブロック
+tile.bopGrass.smolderinggrass.name=燻った草ブロック
 
 tile.gemOre.amethystore.name=エンダーアメジスト鉱石
-tile.gemOre.amethystblock.name=アメジストブロック
+tile.gemOre.amethystblock.name=エンダーアメジストブロック
 tile.gemOre.rubyore.name=ルビー鉱石
 tile.gemOre.rubyblock.name=ルビーブロック
 tile.gemOre.peridotore.name=ペリドット鉱石
@@ -178,8 +178,8 @@ tile.gemOre.topazore.name=トパーズ鉱石
 tile.gemOre.topazblock.name=トパーズブロック
 tile.gemOre.tanzaniteore.name=タンザナイト鉱石
 tile.gemOre.tanzaniteblock.name=タンザナイトブロック
-tile.gemOre.malachiteore.name=マラカイト鉱石
-tile.gemOre.malachiteblock.name=マラカイトブロック
+tile.gemOre.malachiteore.name=孔雀石鉱石
+tile.gemOre.malachiteblock.name=孔雀石ブロック
 tile.gemOre.sapphireore.name=サファイア鉱石
 tile.gemOre.sapphireblock.name=サファイアブロック
 tile.gemOre.amberore.name=琥珀鉱石
@@ -198,14 +198,14 @@ tile.jellyBlock.strawberry.name=イチゴジャムブロック
 tile.jellyBlock.raspberry.name=ラズベリージャムブロック
 tile.jellyBlock.grape.name=ブドウジャムブロック
 
-tile.bones.bones_small.name=細い骨の柱
-tile.bones.bones_medium.name=骨の柱
-tile.bones.bones_large.name=骨ブロック
+tile.bones.bones_small.name=細い骨筍
+tile.bones.bones_medium.name=骨筍
+tile.bones.bones_large.name=太い骨筍
 
-tile.bones.bones_small_side_1.name=細い骨の柱
-tile.bones.bones_small_side_2.name=細い骨の柱
-tile.bones.bones_medium_side_1.name=骨の柱
-tile.bones.bones_medium_side_2.name=骨の柱
+tile.bones.bones_small_side_1.name=細い骨筍
+tile.bones.bones_small_side_2.name=細い骨筍
+tile.bones.bones_medium_side_1.name=骨筍
+tile.bones.bones_medium_side_2.name=骨筍
 
 tile.grave.name=墓石
 
@@ -230,7 +230,7 @@ tile.planks.mahoganyPlank.name=マホガニーの板材
 
 tile.logs1.sacredoakWood.name=神聖なるオークの原木
 tile.logs1.cherryWood.name=サクラの原木
-tile.logs1.darkWood.name=闇の木の原木
+tile.logs1.darkWood.name=闇の原木
 tile.logs1.firWood.name=モミの原木
 
 tile.logs2.etherealWood.name=エーテルの原木
@@ -240,7 +240,7 @@ tile.logs2.palmWood.name=ヤシの原木
 
 tile.logs3.redwoodWood.name=セコイアの原木
 tile.logs3.willowWood.name=ヤナギの原木
-tile.logs3.deadWood.name=枯れ木の原木
+tile.logs3.deadWood.name=枯れ木
 tile.logs3.bigflowerstemWood.name=巨大な花の茎
 
 tile.logs4.pineWood.name=シロマツの原木
@@ -250,8 +250,8 @@ tile.logs4.mahoganyWood.name=マホガニーの原木
 
 tile.leaves1.yellowautumn.name=紅葉したシラカバの葉
 tile.leaves1.bamboo.name=竹の葉
-tile.leaves1.magic.name=魔法の木の葉
-tile.leaves1.dark.name=闇の木の葉
+tile.leaves1.magic.name=魔法の葉
+tile.leaves1.dark.name=闇の葉
 
 tile.leaves2.dead.name=枯れ葉
 tile.leaves2.fir.name=モミの葉
@@ -325,7 +325,7 @@ tile.jacarandaStairs.name=ジャカランダの階段
 tile.mahoganyStairs.name=マホガニーの階段
 
 item.food.berries.name=ベリー
-item.food.shroompowder.name=キノコの胞子
+item.food.shroompowder.name=シュルーム粉末
 item.food.wildcarrots.name=野生のニンジン
 item.food.peach.name=桃
 item.food.saladfruit.name=フルーツサラダ
@@ -348,7 +348,7 @@ item.mudball.name=泥だんご
 
 item.misc.mudbrick.name=泥レンガ
 item.misc.ash.name=煤
-item.misc.fleshchunk.name=肉塊
+item.misc.fleshchunk.name=一つかみの肉
 item.misc.emptyhoneycomb.name=空のハニカム
 item.misc.crystalshard.name=天界のクリスタルの破片
 item.misc.bluedye.name=青色の染料
@@ -363,7 +363,7 @@ item.misc.pinecone.name=松ぼっくり
 
 item.jarEmpty.name=空の大瓶
 item.jarFilled.jarhoney.name=ハチミツ入りの大瓶
-item.jarFilled.jarpoison.name=抽出された毒入りの瓶
+item.jarFilled.jarpoison.name=抽出毒入りの大瓶
 item.jarFilled.jarpixie.name=妖精入りの大瓶
 
 item.gems.amethyst.name=エンダーアメジスト
@@ -371,7 +371,7 @@ item.gems.ruby.name=ルビー
 item.gems.peridot.name=ペリドット
 item.gems.topaz.name=トパーズ
 item.gems.tanzanite.name=タンザナイト
-item.gems.malachite.name=マラカイト
+item.gems.malachite.name=孔雀石
 item.gems.sapphire.name=サファイア
 item.gems.amber.name=琥珀
 
@@ -385,23 +385,23 @@ item.chestplateMud.name=泥のチェストプレート
 item.leggingsMud.name=泥のレギンス
 item.bootsMud.name=泥のブーツ
 
-item.pickaxeAmethyst.name=アメジストのピッケル
-item.axeAmethyst.name=アメジストの斧
-item.shovelAmethyst.name=アメジストのシャベル
-item.swordAmethyst.name=アメジストの剣
-item.hoeAmethyst.name=アメジストのクワ
-item.helmetAmethyst.name=アメジストのヘルメット
-item.chestplateAmethyst.name=アメジストのチェストプレート
-item.leggingsAmethyst.name=アメジストのレギンス
-item.bootsAmethyst.name=アメジストのブーツ
+item.pickaxeAmethyst.name=エンダーアメジストのピッケル
+item.axeAmethyst.name=エンダーアメジストの斧
+item.shovelAmethyst.name=エンダーアメジストのシャベル
+item.swordAmethyst.name=エンダーアメジストの剣
+item.hoeAmethyst.name=エンダーアメジストのクワ
+item.helmetAmethyst.name=エンダーアメジストのヘルメット
+item.chestplateAmethyst.name=エンダーアメジストのチェストプレート
+item.leggingsAmethyst.name=エンダーアメジストのレギンス
+item.bootsAmethyst.name=エンダーアメジストのブーツ
 
-item.scytheWood.name=木の大鎌
-item.scytheStone.name=石の大鎌
-item.scytheIron.name=鉄の大鎌
-item.scytheGold.name=金の大鎌
-item.scytheDiamond.name=ダイヤモンドの大鎌
+item.scytheWood.name=木の草刈り鎌
+item.scytheStone.name=石の草刈り鎌
+item.scytheIron.name=鉄の草刈り鎌
+item.scytheGold.name=金の草刈り鎌
+item.scytheDiamond.name=ダイヤモンドの草刈り鎌
 item.scytheMud.name=泥の大鎌
-item.scytheAmethyst.name=アメジストの大鎌
+item.scytheAmethyst.name=エンダーアメジストの草刈り鎌
 
 item.ancientStaff.ancientstaff.name=古の杖
 item.ancientStaff.staffhandle.name=古の杖の柄
@@ -423,7 +423,7 @@ item.flowerBand.lushflowerband.name=青々とした花冠
 item.flowerBand.exoticflowerband.name=エキゾチックな花冠
 
 item.wadingBoots.name=厚底ブーツ
-item.flippers.name=ひれ
+item.flippers.name=足ひれ
 
 item.biomeBook.name=ブック O' バイオームス
 item.biomeFinder.name=バイオーム・レーダー
@@ -488,7 +488,7 @@ achievement.bop.achDartBlower.desc=その目玉を撃ち抜くぞ！
 achievement.bop.achScythe=殺草鬼
 achievement.bop.achScythe.desc=死神がやっているように
 achievement.bop.achEnderporter=ホーム スィート ホーム
-achievement.bop.achEnderporter.desc=エンダーポーターの魔法を使ってみる
+achievement.bop.achEnderporter.desc=§7《§fエンダーポーター§7／Ebderoirter》§fの魔法を使ってみる。
 
 achievement.bop.achHoney=焼け焦げた甘味
 achievement.bop.achHoney.desc=血液とハチミツの地

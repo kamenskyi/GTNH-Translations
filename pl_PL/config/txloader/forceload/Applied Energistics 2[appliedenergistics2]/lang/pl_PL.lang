@@ -110,6 +110,8 @@ chat.appliedenergistics2.FBOUnsupported=FBO OpenGL nie są obsługiwane, nie mo�
 chat.appliedenergistics2.PriorityInvalidTarget=Cel nie ma priorytetu
 chat.appliedenergistics2.PriorityReadout=Aktualny priorytet to %d
 chat.appliedenergistics2.PriorityConfigured=Zaktualizowano priorytet do %d
+chat.appliedenergistics2.DriveLocked=Digital Singularity cells in drive were locked to the current item on them
+chat.appliedenergistics2.ChestLocked=Digital Singularity cell in chest was locked to the current item on it
 # Creative Tabs
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Fasady
@@ -576,6 +578,7 @@ item.appliedenergistics2.ItemAdvancedStorageCell.16384k.name=Dysk ME 16384k
 item.appliedenergistics2.ItemExtremeStorageCell.Container.name=Dysk ME - Magazyn Bloków
 item.appliedenergistics2.ItemExtremeStorageCell.Quantum.name=Kwantowy Dysk ME
 item.appliedenergistics2.ItemExtremeStorageCell.Singularity.name=Dysk ME Cyfrowej Jedności
+item.appliedenergistics2.ItemExtremeStorageCell.Universe.name=Artificial Universe Cell
 item.appliedenergistics2.ItemCreativeStorageCell.name=Kreatywny Dysk ME
 item.appliedenergistics2.ItemVoidStorageCell.name=Dysk ME Pustki
 item.appliedenergistics2.ItemEncodedPattern.name=Zakodowany Wzorzec
