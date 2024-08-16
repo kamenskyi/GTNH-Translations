@@ -50,7 +50,6 @@ tile.blockVolumetricFlaskSetter.name=Volumetric Flask Configurator
 tile.blockSuperLight.name=Shining Star
 tile.blockPestKiller.name=Pest Killer
 tile.blockSuperJukebox.name=Sir Mixalot [Jukebox]
-tile.blockSuperJukebox.deprecated=§cDEPRECATED, Use the Electric Jukeboxes instead
 
 //Tools
 item.itemBufferCore.name=Energy Core
@@ -2089,7 +2088,7 @@ tile.blockWorkbenchGT.name=Workbench
 tile.blockWorkbenchGTAdvanced.name=Advanced Workbench
 tile.blockHeliumGenerator.name=Helium Generator
 tile.blockFirePit.name=Fire Pit
-tile.blockFishTrap.name=魚獲りかご
+tile.blockFishTrap.name=補強型魚用かご網
 tile.blockInfiniteFluidTank.name=Infinite Fluid Tank
 tile.blockMiningExplosives.name=掘削用爆弾
 tile.blockHellFire.name=Hellish Fire
