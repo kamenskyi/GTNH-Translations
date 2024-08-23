@@ -1,5 +1,5 @@
 itemGroup.storageDrawers=Storage Drawers
-itemGroup.storageDrawersSorting=Storage Drawers - ソート
+itemGroup.storageDrawersSorting=Storage Drawers (ソート)
 
 storageDrawers.container.drawers=引き出し
 storageDrawers.container.compDrawers=圧縮引き出し
@@ -123,7 +123,7 @@ storageDrawers.waila.sorting=ソート
 storageDrawers.waila.protected=保護中
 
 # Configuration
-storageDrawers.config.title=Storage Drawersの設定
+storageDrawers.config.title=Storage DrawersのConfig設定
 
 storageDrawers.config.general=一般設定
 storageDrawers.config.general.tooltip=もろもろ。

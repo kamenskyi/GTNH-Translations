@@ -86,7 +86,7 @@ gtpp.recipe.thermalgeneratorfuel=Тепловой бойлер
 gtpp.recipe.solartower=Солнечная башня
 gtpp.recipe.cyclotron=КОМЕТА - Компактный циклотрон
 gtpp.recipe.fishpond=Чжухай - Рыбный порт
-gtpp.recipe.cryogenicfreezer=Cryogenic Freezer
+gtpp.recipe.cryogenicfreezer=Криогенный холодильник
 gtpp.recipe.multicentrifuge=Multiblock Centrifuge
 gtpp.recipe.multielectro=Мультиблок Электролизёр
 gtpp.recipe.multimixer=Multiblock Mixer
@@ -111,7 +111,7 @@ gtpp.nei.chemplant.tier.5=Титан
 gtpp.nei.chemplant.tier.6=Вольфрамовая сталь
 gtpp.nei.chemplant.tier.7=Лоуренсий
 gtpp.nei.chemplant.tier.8=Ботмий
-gtpp.nei.rtg.days=Fuel Value: %s Minecraft Days
+gtpp.nei.rtg.days=Стоимость топлива: %s Minecraft дней
 gtpp.nei.solar_tower.1=Solar Heater rings boost tier
 gtpp.nei.solar_tower.2=R1:T1, R2:T2, R3:T4, R4:T8, R5:T16
 gtpp.nei.solar_tower.3=Input Amount = 1000 x T
@@ -260,8 +260,8 @@ item.itemBaseItemHotFood.tooltip.0=§7Warning: §cVery hot!§7 Avoid direct hand
 item.itemBaseItemHotFood.tooltip.1=This food has %d seconds left, until it is cool.
 item.itemBoilerChassis.name=Advanced Boiler Chassis [Tier %d]
 item.itemDehydratorCoilWire.name=Coil Wire [%s]
-item.itemDehydratorCoil.name=Dehydrator Coil [%s]
-item.itemLavaFilter.name=Lava Filter
+item.itemDehydratorCoil.name=Катушка дегидратора [%s]
+item.itemLavaFilter.name=Лавовый фильтр
 item.itemLavaFilter.tooltip=Filters Lava within a Thermal Boiler.
 item.itemGrindleTablet.name=Grindle
 item.itemGrindleTablet.tooltip=Used to read data from DataSticks & DataOrbs.
@@ -1808,7 +1808,7 @@ item.itemFoilUranium235.name=Фольга из урана-235
 
 item.itemBoilerChassis_0.name=Advanced Boiler Chassis [Tier 1]
 item.itemDehydratorCoilWire_0.name=Coil Wire [EV]
-item.itemDehydratorCoil_0.name=Dehydrator Coil [EV]
+item.itemDehydratorCoil_0.name=Катушка дегидратора [EV]
 item.itemAirFilter_0.name=Воздушный фильтр
 item.itemAirFilter_1.name=Воздушный фильтр
 item.itemDragonJar.name=Dragon Capture Jar
@@ -1899,7 +1899,7 @@ item.itemBufferCore7.name=Энергетическое ядро [LuV].
 item.itemBufferCore8.name=Энергетическое ядро [ZPM].
 item.itemBufferCore9.name=Энергетическое ядро [UV].
 item.itemBufferCore10.name=Энергетическое ядро [MAX].
-item.itembookgt.name=§oThermal Boiler Manual
+item.itembookgt.name=§oТепловой бойлер - руководство
 
 // Everglade Items
 item.everglades.trigger.name=§6Alkalus Disk [§cActivated§6]
@@ -3387,8 +3387,8 @@ item.itemBasicTurbine_0.name=Basic Iron Turbine
 item.itemBasicTurbine_1.name=Basic Bronze Turbine
 item.itemBasicTurbine_2.name=Basic Steel Turbine
 
-interaction.voidexcess.enabled=Void Excess Enabled
-interaction.voidexcess.disabled=Void Excess Disabled
+interaction.voidexcess.enabled=Уничтожение излишек вкл.
+interaction.voidexcess.disabled=Уничтожение излишек выкл.
 
 interaction.separateBusses.enabled=Input busses are separated
 interaction.separateBusses.disabled=Input busses are not separated
