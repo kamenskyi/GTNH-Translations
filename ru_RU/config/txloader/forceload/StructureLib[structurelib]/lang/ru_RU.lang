@@ -20,12 +20,12 @@ item.structurelib.frontRotationTool.desc.0=Открывает интерфейс
 item.structurelib.frontRotationTool.desc.1=Поворачивает только лицевую сторону,
 item.structurelib.frontRotationTool.desc.2=что позволяет повернуть всю структуру.
 
-item.structurelib.constructableTrigger.name=Голограммный проектор многоблочной структуры
+item.structurelib.constructableTrigger.name=Голограммный проектор мультиблоковой структуры
 item.structurelib.constructableTrigger.desc.0=Используется по интерфейсу контроллера
 item.structurelib.constructableTrigger.desc.1=Показывает схему постройки мультиблочной структуры,
-item.structurelib.constructableTrigger.desc.2=использовать на контроллере.
-item.structurelib.constructableTrigger.desc.3=(Shift+ПКМ на контроллере для создания структуры)
-item.structurelib.constructableTrigger.desc.4=Количество схем в стаке предметов влияет на тир/режим/тип
+item.structurelib.constructableTrigger.desc.2=используется при нажатии по контроллеру
+item.structurelib.constructableTrigger.desc.3=(Shift+ПКМ для автоматической постройки)
+item.structurelib.constructableTrigger.desc.4=Количество проекторов в одном слоте влияет на тир/режим/тип постройки, если он не задан в GUI проектора
 item.structurelib.constructableTrigger.desc.5=Удерживайте §l[LSHIFT]§r для отображения данных канала
 item.structurelib.constructableTrigger.desc.lshift.0=Содержит %d подканал
 item.structurelib.constructableTrigger.too_fast=Подождите %d миллисекунд перед очередным автозаполнением...
