@@ -1,0 +1,167 @@
+# RecipeMaps
+gtnhlanth.recipe.digester=煮解池
+gtnhlanth.recipe.disstank=溶解罐
+gtnhlanth.recipe.tc=Target Chamber
+gtnhlanth.recipe.sc=Source Chamber
+
+gtnhlanth.tt.beaminfo=Use a §bportable scanner §7for info about the input/output of this multiblock.
+gtnhlanth.tt.blueprint=Follow the §9Structure§2Lib §7hologram projector to build the main structure.
+gtnhlanth.tt.pc=§6Partially consumed: §7Takes damage in the process
+
+gtnhlanth.tt.hintdot=Hint block with dot %s
+
+GT5U.gui.text.gtnhlanth.nocoolant=No coolant present in machine!
+GT5U.gui.text.gtnhlanth.inscoolant=Insufficient coolant in machine!
+GT5U.gui.text.gtnhlanth.noaccel=Particle type can't be accelerated!
+GT5U.gui.text.gtnhlanth.low_input_rate=Input amount too low!
+GT5U.gui.text.gtnhlanth.scerror=Math error, broken recipe?
+
+# NEI
+value.disstank=比例: %s:1
+
+DissolutionTank.hint.0=提示方块：1号：洁净不锈钢机械方块
+DissolutionTank.hint.1=24x硼玻璃(任意等级)
+DissolutionTank.hint.2=9x隔热机械方块
+DissolutionTank.hint.3=输入总线、输出总线、输入仓、输出仓
+DissolutionTank.hint.4=能源仓、维护仓
+
+Digester.hint.0=提示方块：1号：强化钨钢机械方块
+Digester.hint.1=9x洁净不锈钢机械方块
+Digester.hint.2=16x隔热机械方块
+Digester.hint.3=16x线圈方块
+Digester.hint.4=输入总线、输出总线、输入仓、输出仓
+Digester.hint.5=能源仓、维护仓
+
+SourceChamber.hint.0=56x Shielded Accelerator Casing
+SourceChamber.hint.1=52x Shielded Accelerator Glass
+SourceChamber.hint.2=16x Electrode Casing
+SourceChamber.hint.3=提示方块：1号：输入总线
+SourceChamber.hint.4=提示方块：2号：输出总线
+SourceChamber.hint.5=提示方块：3号：维护仓、能源仓
+SourceChamber.hint.6=Dot 4: Beamline Output Hatch
+
+LINAC.hint.0=325-1285x Shielded Accelerator Casing
+LINAC.hint.1=148-852x Coolant Delivery Casing
+LINAC.hint.2=127-703x Shielded Accelerator Glass
+LINAC.hint.3=56-312x Superconducting Coil Block
+LINAC.hint.4=156-732x Electrode Casing
+LINAC.hint.5=47x Grate Machine Casing
+LINAC.hint.6=48x Borosilicate Glass (LuV+)
+LINAC.hint.7=Dot 1: Energy Hatch, Maintenance Hatch
+LINAC.hint.8=Dot 2: Input Hatch, Output Hatch
+LINAC.hint.9=Dot 3: Beamline Input Hatch
+LINAC.hint.10=Dot 4: Beamline Output Hatch
+
+Synchrotron.hint.0=676x Shielded Accelerator Casing
+Synchrotron.hint.1=90x Superconducting Coil Block
+Synchrotron.hint.2=64x Niobium Cavity Machine Casing
+Synchrotron.hint.3=28x Coolant Delivery Casing
+Synchrotron.hint.4=16x Borosilicate Glass (LuV+)
+Synchrotron.hint.5=4x Antenna Casing
+Synchrotron.hint.6=Dot 1: Beamline Input Hatch
+Synchrotron.hint.7=Dot 2: Beamline Output Hatch
+Synchrotron.hint.8=Dot 3: Maintenance Hatch
+Synchrotron.hint.9=Dot 4: Input Hatch
+Synchrotron.hint.10=Dot 5: Output Hatch
+Synchrotron.hint.11=Dot 6: Energy Hatch
+
+TargetChamber.hint.0=28x Shielded Accelerator Casing
+TargetChamber.hint.1=34x Shielded Accelerator Glass
+TargetChamber.hint.2=16x Borosilicate Glass (any)
+TargetChamber.hint.3=29x Grate Machine Casing
+TargetChamber.hint.4=4x Focus Manipulation Casing
+TargetChamber.hint.5=4x Target Receptacle Casing
+TargetChamber.hint.6=1x Focus Holder
+TargetChamber.hint.7=1x Target Holder
+TargetChamber.hint.8=Dot 1: Focus Input Bus
+TargetChamber.hint.9=Dot 2: Energy Hatch, Maintenance Hatch
+TargetChamber.hint.10=Dot 3: Input Bus
+TargetChamber.hint.11=Dot 4: Output Bus
+TargetChamber.hint.12=Dot 5: Beamline Input Hatch
+
+
+fluid.Antimony Pentafluoride Solution=五氟化锑溶液
+fluid.Hafnium Tetrachloride Solution=四氯化铪溶液
+fluid.Zirconium Tetrachloride Solution=四氯化锆溶液
+fluid.Iodine=熔融碘
+fluid.Muddy Monazite Rare Earth Solution=独居石稀土浊溶液
+fluid.Diluted Monazite Rare Earth Mud=稀释独居石稀土泥浆
+fluid.Diluted Monazite Sulfate=稀释硫酸独居石溶液
+fluid.Nitrogenated Monazite Rare Earth Concentrate=浓缩氮化独居石稀土溶液
+fluid.Nitric Monazite Leached Concentrate=浓缩硝酸独居石浸出溶液
+fluid.Ammonium Nitrate Solution=硝酸铵溶液
+fluid.Seaweed Concentrate=浓缩海藻溶液
+fluid.Potassium Permanganate Solution=高锰酸钾溶液
+fluid.Seaweed Byproducts=海藻副产
+fluid.Nitric-Leached Monazite Mixture=硝酸独居石浸出混合物
+fluid.Muddy Bastnasite Rare Earth Solution=氟碳镧铈稀土浊溶液
+fluid.Sodiumfluorosilicate=氟硅酸钠
+fluid.Steam-Cracked Bastnasite Mud=蒸汽裂化氟碳镧铈泥浆
+fluid.Conditioned Bastnasite Mud=调制氟碳镧铈泥浆
+fluid.Diluted Bastnasite Mud=稀释氟碳镧铈泥浆
+fluid.Filtered Bastnasite Mud=过滤氟碳镧铈泥浆
+fluid.Nitrogenated Bastnasite Rarer Earth Oxides=氮化氟碳镧铈罕土氧化物
+fluid.Bastnasite Rarer Earth Oxide Suspension=氟碳镧铈罕土氧化物悬浊液
+fluid.Calcium Fluoride=氟化钙
+fluid.Tetrahydrofuran=四氢呋喃
+"fluid.1,4-Butanediol"=1,4-丁二醇
+"fluid.Acidicised 1,4-Butanediol"=酸化1,4-丁二醇
+fluid.Polytetrahydrofuran=聚四氢呋喃
+fluid.Tungstophosphoric Acid=磷钨酸
+fluid.Toluene Diisocyanate=甲苯二异氰酸酯
+fluid.Dinitrotoluene=二硝基甲苯
+fluid.Diaminotoluene=二氨基甲苯
+fluid.Toluene Tetramethyl Diisocyanate=PTMEG橡胶粗胚
+fluid.Diluted Acetone=稀释丙酮
+
+tile.casing.shielded_accelerator_glass.name=Shielded Accelerator Glass
+casing.electrode.name=Electrode Casing
+casing.coolant_delivery.name=Coolant Delivery Casing
+casing.antenna_t1.name=Antenna Casing (T1)
+casing.antenna_t2.name=Antenna Casing (T2)
+casing.niobium_cavity.name=Niobium Cavity Machine Casing
+casing.focus_manipulator.name=Focus Manipulator
+casing.focus_holder.name=Focus Holder
+casing.target_receptacle.name=Target Receptacle
+casing.target_holder.name=Target Holder
+casing.shielded_accelerator.name=Shielded Accelerator Casing
+
+item.capillary_exchange.name=Capillary Exchange
+item.mm_lattice.name=Mu-Metal Lattice
+item.iron_quartz_plate.name=Iron Quartz Plate
+item.mask_substrate.name=Mask Substrate
+item.etched_mask1.name=Etched Mask
+item.substrate_precursor.name=Substrate Precursor
+item.masked_mask_substrate.name=Processed Mask Substrate
+
+
+
+
+beamline.info=Machine Information
+
+beamline.in_pre=Multiblock Beamline Input
+beamline.particle=Particle
+beamline.energy=Energy
+beamline.focus=Focus
+beamline.amount=Amount
+beamline.rate=Rate
+
+beamline.temperature=Temperature
+beamline.coolusage=Coolant Usage
+
+beamline.out_pre=Multiblock Beamline Output
+
+beamline.particleinput=Input Particle Info:
+
+beamline.pipe.desc.0=Transport for particles
+beamline.pipe.desc.1=Signal does not cross or bend
+
+tile.recipe.tc=Target Chamber
+tile.recipe.sc=Source Chamber
+
+particle.electron=Electron
+particle.photon=Photon
+particle.alpha=Alpha
+particle.neutron=Neutron
+particle.proton=Proton
+GT5U.gui.text.dissolution_ratio=§7流体输入比例错误

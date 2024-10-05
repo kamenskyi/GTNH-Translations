@@ -1744,15 +1744,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.desc=Вы когда-нибудь х
 
 # Quest: Advanced Compressor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.name=§6§lПродвинутый компрессор
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.desc=The MV compressor is twice as fast as the LV one but uses 4x the power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.desc=MV Компрессор работает в два раза быстрее, чем LV, но потребляет в 4 раза больше энергии.
 
 # Quest: Advanced Macerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.name=§6§lПродвинутый дробитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.desc=The MV macerator is twice as fast as the LV one but uses 4x the power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.desc=MV Дробитель работает в два раза быстрее, чем LV, но потребляет в 4 раза больше энергии.
 
 # Quest: Advanced Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKg.name=§6§lПродвинутая центрифуга
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKg.desc=The MV centrifuge is twice as fast as the LV one but uses 4x the power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKg.desc=MV Центрифуга работает в два раза быстрее, чем LV, но потребляет в 4 раза больше энергии.
 
 # Quest: Biomass
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKw.name=§5§6§lБиомасса
@@ -1760,7 +1760,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKw.desc=Chose the IC2 or the gregtech w
 
 # Quest: Advanced Fluid Extractor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLA.name=§6§lПродвинутый жидкостный экстрактор
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLA.desc=The MV fluid extractor is twice as fast as the LV one but uses 4x the power.%n%nTo make bio diesel you need seed oil or fish oil. Seeds give seed oil and fish produce fish oil when placed in a fluid extractor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLA.desc=MV Центрифуга работает в два раза быстрее, чем LV, но потребляет в 4 раза больше энергии.%n%nДля производства биодизеля тебе понадобится растительное масло или рыбий жир. Семена дают растительное масло и рыба - рыбий жир при помещении в жидкостный экстрактор.
 
 # Quest: MV Superconductors (128 EU/t)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.name=§6§lMV Сверхпроводник (128 EU/t)
@@ -10117,7 +10117,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.name=Breed some imperial bees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.desc=Cross breeding noble and majestic bees can result in imperial bees.%n%nThese bees produce a Regeneration buff in their active area.  You can probably find a use for this in case of...accidents.%n%nImperial bees produce dripping combs every 3.8 minutes and royal jelly every 5.1 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time. %n%nRoyal jelly is needed in making scented paneling for an Alveary - the third tier bee housing.%n%nYou can now start working towards the Master Registry in the How to Be(e) tab.
 
 # Quest: Royal Jelly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.name=Royal Jelly
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.name=Маточное молочко
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.desc=Royal jelly is a honey bee secretion that is used in the nutrition of larvae, as well as adult queens. It is only produced by the imperial bee. It's production can be increased with proven frames or any other kind of frames except for the soul frame. Royal jelly is also useful because it can craft ambrosia, which fills 8 hunger points (4 full food icons) and gives Regeneration I for 40 seconds. Royal jelly is used to craft scented paneling which are required in the creation of alveary blocks.
 
 # Quest: Aromatic Lump
@@ -10217,31 +10217,31 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.name=Ash
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.desc=A bee to make ashes?  What insanity is this?  At least you can get Large territory from them. You'll need to pay the Nether a visit. Breed them from Clay and Coal.
 
 # Quest: Fruity bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.name=Fruity bees
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.name=Фруктовые пчёлы
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.desc=Fruity bees will make your Forestry trees ripen their fruit faster. Breed them using a Sweetened and Thriving.
 
 # Quest: Sweetened
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.name=Сладкая
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.desc=Sweetened bees can make you sugar. Breed them from Valiant and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.desc=Сладкие пчёлы могут сделать тебе сахар. Выведите их из Доблестной и Прилежной.
 
 # Quest: Thriving
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.name=Процветающая
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.desc=Thriving bees don't have an effect, but are a necessary step for Fruity. Breed them from Growing and Unweary.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.desc=Процветающие пчёлы не имеют эффекта, но являются необходимым шагом для Фруктовой. Выведите их из Растущей и Неутомимой.
 
 # Quest: Diligent
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.name=Прилежная
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.desc=Diligent bees are a core breeding stock bee. Breed them from Common and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.desc=Прилежные пчёлы являются основной породой пчел для разведения. Выведите их из Обычно и Развитой.
 
 # Quest: Unweary
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.name=Неутомимая
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.desc=Unweary bees are key to a couple of breeding lines. Breed them with Diligent and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.desc=Неутомимые пчёлы являются ключевыми для пары линий разведения. Выведите их из Прилежной и Развитой.
 
 # Quest: Growing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.name=Growing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=Growing bees are the start of the Fruity specific breeding tree.  Breed them from Forest and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.name=Прорастающая
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=Прорастающие пчёлы являются началом специфического дерева разведения Фруктовой. Выведите их из Лесной и Прилежной.
 
 # Quest: Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.name=Медь
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.name=Медная
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=The Copper bee is the first of the metal lines. There are too many metal breeding lines to cover here, but by now you should be able to use NEI to figure out how to breed more bee types. Copper bees require a copper block beneath the bee housing. Breed them from Majestic and Clay.
 
 # Quest: Clay bee
@@ -10357,11 +10357,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.name=Изменчивая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.desc=If you go deep into AE2, you'll want cheap sources of Fluix from these bees. Breeding will require a block of Fluix. Breed them from Lapis and Redstone.
 
 # Quest: Ruby
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.name=Рубин
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.name=Рубиновая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.desc=For early Chrome, a Ruby bee is a great source. It will require a block of Ruby. Breed them from Redstone and Diamond.
 
 # Quest: Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.name=Оловяная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.name=Оловянная
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.desc=Tin is a great early bee to get, saving your time looking for Cassiterite Sand. You'll need a Tin block. Breed them from Clay and Diligent.
 
 # Quest: Iron
@@ -10409,56 +10409,56 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAImw.name=Платина
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImw.desc=Platinum. Precious metal for the ages. You don't even need a block of Platinum, just a block of Nickel! Breed them from Diamond and Chrome.
 
 # Quest: Uranium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.name=Uranium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.name=Урановая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.desc=All that hatred had a purpose - to create this bee, capable of producing enormous power. As before, keep away from everything.  This bee will require a block of Uranium. Breed them from Avenging and Platinum.%n%nTo actually get the combs you need to either find a biome with cold temperature and normal humidity or emulated these conditions.%n%n[note]With these combs and the iridium ones you can now make climate control units for modules in your industrial apiary![/note]
 
 # Quest: Plutonium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.name=Плутоний
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.name=Плутониевая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.desc=A metal that represents the epitome of technology. Never existing in the universe before man. Destroying everything around it. This bee will require a block of Plutonium. Breed them from Uranium and Emerald.%n%n[note]Plutonium Combs are also used in a few crafting recipes![/note]
 
 # Quest: Avenging
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.name=Avenging
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.name=Мстящая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.desc=Hatred distilled into its most violent form. Keep away from everything. Breed them from Vengeful and Vindictive.
 
 # Quest: Vengeful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.name=Vengeful
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.name=Мстительная
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.desc=Hatred. Of all things, living and solid. Keep bee housing away from anything valuable, or even not valuable. Breed them from Monastic and Vindictive.
 
 # Quest: Vindictive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.name=Vindictive
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.name=Карательная
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.desc=Beware. These bees not only hate everything, they even hate blocks. Put their bee housing far away from everything. Breed them from Demonic and Monastic.
 
 # Quest: Arcane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.name=Arcane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.name=Магическая
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.desc=Enchanting drops from Arcane bees are used to create Aromatic Lumps for use in the Swarmer. It has a higher chance of success than normal Royal Jelly. These bees are the other bedrock of the Magic Bees branch. Breed them from Esoteric and Mysterious.
 
 # Quest: Eldritch
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.name=Eldritch
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.desc=Eldritch are the start of the magic bee family. Breed them from Mystical and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.name=Древняя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.desc=Древняя являются началом волшебной семьи пчёл. Выведите их из Мистической и Развитой.
 
 # Quest: Supernatural
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpg.name=Supernatural
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpg.desc=What have those two brothers gotten into now? The Supernatural bee is a keystone of the Magical branch of bees. Check NEI for details on the best lunar phase for breeding. Breed it from Charmed and Enchanted.
 
 # Quest: Enchanted
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.name=Enchanted
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.desc=Enchanted is the next step in the progression. Breed them from Charmed and Eldritch.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.name=Зачарованная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.desc=Зачарованная это следующий шаг в прогрессии. Выведите их из Заколдованной и Древней.
 
 # Quest: Charmed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.name=Charmed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.desc=The power of three!  Charmed bees are your next step up the magic bee tree. Breed them from Eldritch and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.name=Заколдованная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.desc=Сила трех! Заколдованные пчёлы твой следующий шаг на пути к волшебному пчелиному дереву. Выведите их из Древней и Развитой.
 
 # Quest: Mysterious
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.name=Mysterious
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.desc=Just your mysterious stranger... Breed them from Eldritch and Esoteric.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.name=Таинственная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.desc=Просто ваш таинственный незнакомец... Выведите их из Древней и Тайной.
 
 # Quest: Esoteric
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.name=Esoteric
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.desc=Another basic Magic branch bee. Breed them from Eldritch and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.name=Тайная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.desc=Еще одна базовая волшебная ветка пчёл. Выведите их из Древней и Развитой.
 
 # Quest: Ethereal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.name=Ethereal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.desc=Ethereal bees are critical for all the magical aspect bees. Breed them from Arcane and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.name=Эфирная
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.desc=Эфирные пчёлы имеют решающее значение для всех магических аспектов пчёл.Выведите их из Магической и Сверхъестественной.
 
 # Quest: Aqua
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrA.name=Aqua
@@ -11016,7 +11016,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.desc=Don't want to guess at what has
 
 # Quest: Warp Warnings
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.name=Warp Warnings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=Thaumcraft offers considerable power from its devices and tools. But power comes with a price.... That price is represented by Warp: A corruption of the character's mind and soul, inflicting progressively more dire effects upon them. %n%nWhile the effects of warp can range from annoying to deadly, accumulating enough of it can also grant you access to greater power... at the cost of increasing madness, and attention from dark powers. At least, others may call it madness... but is it truly insanity, when the voices in your head grant useful knowledge?%n%nWarp Theory adds a bunch of new Warp Effects to the Player. Be very careful because you don't want to spawn a Wither in your base.%n%n5 warp: Message%n10 warp: Fake Explosion%n15 warp: Coin, Pumpkin%n20 warp: Lay Eggs, Spawn Phantoms%n25 warp: Fake Creeper, Fake Rain%n30 warp: GregTech Fake Sounds, Spawn Bats%n35 warp: Blood, Fake Enderman%n40 warp: Spawn Friendly Creeper%n45 warp: Jump Boost, Nausea%n50 warp: Insomnia, Vis Drain%n55 warp: Thunderstorm%n60 warp: Spawn Fire Bats%n65 warp: Blindness, Poison%n70 warp: Livestock Rain%n75 warp: Spawn Doppelganger%n80 warp: Spawn Endermen, Wither Potion%n85 warp: Wind%n90 warp: Ender Pearl%n95 warp: Blaze Fireball%n100 warp: Litmus Paper, Junk%n110 warp: Obsidian%n120 warp: Lightning%n125 warp: Inventory Swap%n130 warp: Random Teleport%n140 warp: Acceleration%n150 warp: Fake Wither, Inventory Scramble%n160 warp: Countdown Bomb%n170 warp: Mushrooms%n175 warp: Snow%n180 warp: Decay%n190 warp: Swamp%n200 warp: Spawn Wither
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=Таумкрафт обеспечивает значительную мощность своих устройств и инструментов. Но сила имеет свою цену... Эта цена представляет собой искажение: порча разума и души персонажа, оказывающая на них все более пагубное воздействие. %n%nТем временем эффекты искажения могут варьироваться от раздражающих до смертельных, хотя накопление достаточного количества искажения может дать вам доступ к большей силе... ценой растущего безумия и внимания со стороны темных сил. Тем не менее, другие могут назвать это безумием... но действительно ли это безумие, когда голоса в твоей голове дают полезные знания? %n%nТеория искажения даёт игроку множество новых эффектов порчи. Будьте очень осторожны, ведь вы не хотите появления иссушителя на своей базе.%n%n5 варпа: Сообщения%n10 варпа: Ложный взрыв%n15 варпа: Монета, Тыква%n20 варпа: Откладывайте яйца, Заспаунить фантомов%n25 варпа: Поддельный Крипер, Поддельный дождь%n30 варпа: GregTech поддельные звуки, Заспаунить Летучих мышей%n35 варпа: Кровь, Поддельный Эндермен%n40 варпа: Заспаунить Дружелюбного Крипера%n45 варпа: Увеличение прыжка, Тошнота%n50 варпа: Бессонница, Vis Drain%n55 варпа: Гроза%n60 варпа: Заспаунить Огненных летучих мышей%n65 варпа: Слепота, Отравление%n70 варпа: Livestock Rain%n75 варпа: Заспаунить Двойника%n80 варпа: Заспаунить Эндермена, Зелья иссушения%n85 варпа: Wind%n90 варпа: Жемчуг Края%n95 варпа: Blaze Fireball%n100 варпа: Лакмусовая бумажка, Junk%n110 варпа: Обсидиан%n120 варпа: Молния%n125 варпа: Обмен инвентаря%n130 варпа: Случайный телепорт%n140 варпа: Ускорение%n150 варпа: Поддельный Иссушитель, Inventory Scramble%n160 варпа: Countdown Bomb%n170 варпа: Mushrooms%n175 варпа: Snow%n180 варпа: Decay%n190 варпа: Swamp%n200 варпа: Заспаунить Иссушителя
 
 # Quest: The Night's Not Dark Anymore
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.name=The Night's Not Dark Anymore
@@ -11067,7 +11067,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.name=Infinite Bats! Wait, What??
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.desc=Tired of the constant chirping from the thousands of bats drawn to your world-bending activities? Use this handy device to attract them to a central location where they can be...disposed. The Corporeal Attractor can be configured to attract or repel mobs, and the redstone strength applied divided by two determines the range.%n%nYou can use Soul Moulds to filter the mobs the Attractor draws in or pushes away. This gives you some idea for automating...
 
 # Quest: Greedy Chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.name=Greedy Chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.name=Жадный сундук
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.desc=The Greedy Chest from Automagy looks to have some interesting uses. It also gates a pretty important device for a magician...
 
 # Quest: Knightmetal
@@ -12273,8 +12273,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=Tier 1 Slates
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=The basic slates. Basically just stone with blood infused in it.%n%nYou can either pump the blood out, use buckets, or fill cells to get the blood for the cutting machine.
 
 # Quest: See All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=See All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=It's quite difficult to see how much blood there is in your altar, or your personal blood network. This little device will solve that problem for you. Just a little prick in the finger, and everything will be revealed.%n%nYou can also make the sigil of sight when you have the alchemy set too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=Увидеть всё
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=Довольно сложно определить, сколько крови находится на твоём алтаре или в твоей личной кровавой сети. Это небольшое устройство решит эту проблему. Просто слегка уколи палец, и все откроется.%n%nТы также можешь создать сигил зрения, если у тебя уже есть алхимическая установка.
 
 # Quest: Basic Rune
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=Basic Rune
@@ -12285,7 +12285,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=Alchemy With Blood
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=Not like "blood alchemy". You probably will need more than one later, but for now one is sufficient.%n%nPlace an orb in the slot to start crafting, using LP from your network. You'll need higher tier orbs to craft more complicated items.%n%nIf the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.
 
 # Quest: Potion Catalysts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=Potion Catalysts
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=Катализаторы зелий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=In order to manipulate potions you need catalysts. You then combine the ingredient you used to get the potion effect in with either a lengthening or power catalyst to increase the duration or the strength of the potion effect.
 
 # Quest: Simple Alchemical Things
@@ -12293,11 +12293,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.name=Simple Alchemical Things
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.desc=Alchemy can be weird, and tedious. There are a lot of reagents and even more possible combinations. For now, and in order to get started, you need a couple of basic things.
 
 # Quest: Refilling Your Potions
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.name=Refilling Your Potions
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.name=Пополнение ваших зелий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.desc=If empty, you don't have to throw the potion away. Just refill it.
 
 # Quest: Special Potion Flasks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.name=Special Potion Flasks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.name=Специальные колбы для зелий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=Regular glass phials are unable to hold these special potions you want. You need to imbue them with some blood from your altar.
 
 # Quest: Potion: Flight Mode
@@ -12333,12 +12333,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=Tier 2 slates
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=You need MOOORE. Imbue some slates with even more blood.
 
 # Quest: Apprentice Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=Apprentice Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=Your tier 2 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=Кровавый шар ученика
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=Твой шар 2 уровня.
 
 # Quest: Magican's Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=Magican's Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=Your tier 3 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=Кровавый шар мага
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=Твой шар 3 уровня.
 
 # Quest: Elemental Chalk
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=Elemental Chalk
@@ -12426,11 +12426,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=Top tier chalk, for fancy wall 
 
 # Quest: Archmage Orb. Let Them Come!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=Archmage Orb. Let Them Come!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=Your tier 5 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=Твой шар 5 уровня.
 
 # Quest: Master Orb: Getting Close
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=Master Orb: Getting Close
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=Your tier 4 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=Твой шар 4 уровня.
 
 # Quest: Elemental Chalk II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.name=Elemental Chalk II
@@ -12559,7 +12559,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=Demons are powerful, evil being
 
 # Quest: The Power of Infinity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=The Power of Infinity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=You've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=Ты освоил всё, что только возможно. А теперь пришло время окончательного усовершенствования. Яйцо бесконечности - отличное дополнение к твоему алтарю. Оно довольно дорогое, но оно того стоит.
 
 # Quest: Time to Kill (Witch)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.name=Time to Kill (Witch)
@@ -12654,8 +12654,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.name=Time to Kill (Wither)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.desc=After collecting a couple of those wither skeleton heads, you feel like you could use some more action. So why not kill a wither? You'll need a ton of nether stars anyway...%n%nKill it twice for something nice.
 
 # Quest: Secret: The Trade For Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.name=Secret: The Trade For Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.desc=You have been busy my friend. I have something for you. Give me your hearts, and I will magically enhance them so you can actually use them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.name=Секрет: Сделка за жизнь
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.desc=Ты был занят, мой друг. У меня есть кое-что для тебя. Отдай мне свои сердца, и я волшебным образом улучшу их, чтобы ты смог ими воспользоваться.
 
 # Quest: Skeleton: Evolved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.name=Skeleton: Evolved
@@ -13451,7 +13451,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYA.name=Стойкие пчёлы
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYA.desc=Обычно стойкого трутня можно найти в сундуках с лутом в подземельях. Если вам ещё не повезло, и они все расхватаны, или если владельцы вашего сервера жестоки и отключили подземелья, вы можете купить их здесь.
 
 # Quest: Monastic Bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.name=Монашеские пчелы
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.name=Монашеские пчёлы
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYQ.desc=Обычно вы находите Монастырских пчёл, торгуя с жителями-пчеловодами. Если вам пока не повезло, все ваши деревни мертвы, или если владельцы вашего сервера жестоки и отключают деревни, вы можете купить их здесь.%n%n[note]Это дорого, чтобы побудить вас попытаться усердно искать и попытаться исцелить жителей-зомби. Удачи![/note]
 
 # Quest: Gold Ore exchange
@@ -13880,7 +13880,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsQ.desc=Your fancy new Large Plasma Tur
 
 # Quest: All Alone in the Night
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1w.name=§1§lОдин в ночи
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1w.desc=Если ты играешь в одиночный режим (ОР), обновление модпака означает необходимость в перезагрузке журнала квестов. %n%nИспользуй "Блок загрузки по умолчанию" чтобы сделать это без необходимости переключения в креативный режим - ты не потеряешь прогресс, а возможно получишь новые квесты для прохождения! Используй указанные предметы для его крафта, затем поставь на землю и нажми ПКМ.%n%Прости, но никаких наград, кроме удовлетворения от осознания, что ты один против всего мира.%n%nЭтот блок делает то же самое, что и команда /bq_admin default load.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1w.desc=Благодаря нашим замечательным разработчикам, тебе больше не придется использовать командный блок для перезагрузки книги заданий после обновлений. Это означает, что ты получишь все новые задания автоматически после обновления до новой версии GTNH! Разве это не удобно?%n%nЕсли по какой-либо причине ты хочешь вручную перезагрузить книгу заданий, ты можешь сделать это, набрав "/bq_admin default load" в окне чата. Однако, чтобы это сработало, тебе нужно быть администратором.%n%nВот еще одна книга заданий на случай, если ты уже потерял ту, с которой в первый раз зашел в мир. Не забывай, что её также можно просмотреть в любое время, нажав клавишу Тильда (~) или (Ё), если ты не изменил привязку клавиш.%n%n§3Некоторые командные блоки по-прежнему используются для определенных задач, но они не касаются обычного игрока, поскольку доступны только администратору и, следовательно, не могут быть скрафчены.
 
 # Quest: How the Heck Do I Find Ores?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2A.name=§2§lКак, черт возьми, найти руду?
