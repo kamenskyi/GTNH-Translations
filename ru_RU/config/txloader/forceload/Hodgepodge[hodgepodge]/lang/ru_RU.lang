@@ -2,3 +2,23 @@ key.hodgepodge.category=Hodgepodge
 key.fastBlockPlacing.desc=Быстрое размещение блоков
 key.fastBlockPlacing.enabled=§fБыстрое размещение блоков §aВключено
 key.fastBlockPlacing.disabled=§fБыстрое размещение блоков §aВыключено
+
+tile.dirt.name=Земля
+tile.sapling.name=Саженец
+tile.sand.name=Песок
+tile.flower1.name=Цветок
+tile.flower2.name=Цветок
+tile.stoneSlab.name=Плита
+tile.monsterStoneEgg.name=Яйцо каменного монстра
+tile.woodSlab.name=Плита
+tile.cobbleWall.name=Стена
+tile.quartzBlock.name=Кварцевый блок
+tile.clayHardenedStained.name=Цветная глина
+tile.woolCarpet.name=Ковёр
+tile.doublePlant.name=Большое растение
+
+item.dyePowder.name=Краситель
+item.skull.name=Череп
+item.fish.name=Рыба
+
+hodgepodge.soundsmenu.refreshsounds=Обновить звуки

@@ -36,6 +36,12 @@ tooltip.warptheory.cleanser=Crujiente
 tooltip.warptheory.amulet=Limpia Warp
 tooltip.warptheory.something=Probablemente comestible...
 tooltip.warptheory.paper=Reacciona al Warp
+tooltip.warptheory.portableshower=Quita tu mugre de un duchazo
+
+# << portable shower >>
+tc.research_name.warptheory.portableshower=Ducha Portátil
+tc.research_text.warptheory.portableshower=Una forma muy mundana de limpiar tu mente
+research.warptheory.portableshower=Te has dado cuenta de que te sigues sintiendo algo transtornado mientras llevas tu armadura favorita. Así que has pensado largo y tendido sobre cómo solucionarlo... Mientras le hurgabas a tu spa tuviste una revelación: "¿Por qué no me baño constantemente para estar fresco todo el tiempo?" Has terminado por crear este simple amuleto; produce agua de spa arcana para ti, usando esencia natural y algo de vis del entorno.
 
 # << hunk of something >>
 tc.research_name.warptheory.something=Trozo de Algo
