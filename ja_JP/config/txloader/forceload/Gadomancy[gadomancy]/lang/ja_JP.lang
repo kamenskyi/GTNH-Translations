@@ -5,6 +5,7 @@ item.ItemFamiliar.name=天上のファミリア (廃止)
 item.ItemEtherealFamiliar.name=天上のファミリア
 item.ItemAuraCore.name=オーラコア
 item.ItemArcanePackage.name=神秘の梱包機
+item.ItemElement.name=Element
 item.ItemElement.0.name=暗黒の素子
 item.ItemElement.1.name=[WIP] 光の素子
 item.ItemElement.2.name=[WIP] 火の素子
@@ -76,15 +77,15 @@ gadomancy.research_page.FAMILIAR_WEAKNESS.1=This upgrade removes the familiars d
 
 tc.research_name.GADOMANCY.FAMILIAR_DAMAGE=Arc Amplification
 tc.research_text.GADOMANCY.FAMILIAR_DAMAGE=What does the scouter say about its power level?
-gadomancy.research_page.FAMILIAR_DAMAGE.1=By concentrating more arcane energy into the wisp, the potency of its infusion effects is effectively doubled.<LINE>Consumes 0.03 Ignis vis per attack and level.
+gadomancy.research_page.FAMILIAR_DAMAGE.1=By concentrating more arcane energy into the wisp, its attack power is effectively doubled.<LINE>Consumes 0.03 Ignis vis per attack and level.
 
 tc.research_name.GADOMANCY.FAMILIAR_RANGE=Sensitivity Boost
 tc.research_text.GADOMANCY.FAMILIAR_RANGE=Attacking even further
-gadomancy.research_page.FAMILIAR_RANGE.1=By enhancing the wisps sensitivity to external influence, you can slightly increasing the range of its infusion effects.<LINE>Consumes additionally 0.02 Aer vis and 0.01 Ordo vis per attack and level.
+gadomancy.research_page.FAMILIAR_RANGE.1=By enhancing the wisps sensitivity to external influence, you can slightly increasing its range.<LINE>Consumes additionally 0.02 Aer vis and 0.01 Ordo vis per attack and level.
 
 tc.research_name.GADOMANCY.FAMILIAR_SPEED=Frequency Emission Overdrive
 tc.research_text.GADOMANCY.FAMILIAR_SPEED=A certain scientific Railgun
-gadomancy.research_page.FAMILIAR_SPEED.1=Some variants of familiars can have a considerable amount of difficulty dealing with large numbers of foes at once. This upgrade enhances an Ethereal Familiar so that it can apply its infusion effects twice as fast as before. The second stage both increases its attack speed and allows it to hit multiple enemies in a single strike.<LINE>Consumes 0.02 Ordo and 0.01 Ignis vis per attack and level.
+gadomancy.research_page.FAMILIAR_SPEED.1=Some variants of familiars can have a considerable amount of difficulty dealing with large numbers of foes at once. This upgrade enhances an Ethereal Familiar so that it can attack twice as fast as before. The second stage both increases its attack speed and allows it to hit multiple enemies in a single strike.<LINE>Consumes 0.02 Ordo and 0.01 Ignis vis per attack and level.
 
 tc.research_name.GADOMANCY.KNOWLEDGE_BOOK=知識の本
 tc.research_text.GADOMANCY.KNOWLEDGE_BOOK=Knowledge is power
@@ -206,9 +207,12 @@ tile.BlockStickyJar.name=Sticky Jar
 tile.BlockArcaneDropper.name=神秘のドロッパー
 tile.BlockInfusionClaw.name=注入のかぎ爪
 tile.BlockRemoteJar.name=鏡面の瓶
+item.nodePlacer.name=Aura Node
 tile.BlockNode.name=オーラ節
 tile.BlockExtendedNodeJar.name=瓶詰めのオーラ節
+tile.BlockNodeManipulator.name=Node Manipulator
 tile.BlockNodeManipulator.5.name=ノード操作器
+tile.BlockStoneMachine.name=Randomization Focus
 tile.BlockStoneMachine.0.name=無作為化の焦点
 tile.BlockStoneMachine.1.name=古の台座
 tile.BlockStoneMachine.2.name=神秘のエナベーションエミッター
@@ -217,6 +221,7 @@ tile.BlockStoneMachine.4.name=神秘の梱包機
 tile.BlockStoneMachine.5.name=Ai シャットダウン (WIP)
 tile.BlockStoneMachine.11.name=Manipulation Pillar
 tile.BlockStoneMachine.15.name=Manipulation Pillar
+tile.BlockAuraPylon.name=Aura Pylon
 tile.BlockAuraPylon.0.name=オーラパイロン
 tile.BlockAuraPylon.1.name=オーラパイロンピーク
 tile.BlockKnowledgeBook.name=知識の本
