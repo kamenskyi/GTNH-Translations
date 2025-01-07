@@ -1024,7 +1024,7 @@ languagefile {
     S:Material.grade4purifiedwater=pH中和水（4级）
     S:Material.grade5purifiedwater=极端温度处理水（5级）
     S:Material.grade6purifiedwater=紫外线处理电平衡水（6级）
-    S:Material.grade7purifiedwater=脱气无污染水（7级）
+    S:Material.grade7purifiedwater=脱气无去污剂水（7级）
     S:Material.grade8purifiedwater=究极绝对完美净化水（8级）
     S:Material.graniteblack=黑花岗岩
     S:Material.granitered=红花岗岩
@@ -3175,7 +3175,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00686_Index_02=工业精密车床的控制器方块
     S:TileEntity_DESCRIPTION_00686_Index_03=§6---------------------------------------------------------------------------------------
     S:TileEntity_DESCRIPTION_00686_Index_04=§9最大并行数取决于物品管道方块和电压.
-    S:TileEntity_DESCRIPTION_00686_Index_05=最大并行数 = 物品管道方块并行数 + (电压等级 * 2).
+    S:TileEntity_DESCRIPTION_00686_Index_05=最大并行数 = 物品管道方块对应并行数 + (电压等级 * 2).
     S:TileEntity_DESCRIPTION_00686_Index_06=§9更高的物品管道方块等级和电压提升处理速度.
     S:TileEntity_DESCRIPTION_00686_Index_07=时间缩短量 = 1 / (物品管道方块速度增益 + 电压等级 / 4).
     S:TileEntity_DESCRIPTION_00686_Index_08=速度增益 = (100 / 时间缩短量).
@@ -7221,12 +7221,12 @@ languagefile {
     S:TileEntity_DESCRIPTION_02713_Index_04=手持剪线钳右键以改变仓室与ME网络的连接模式
     S:TileEntity_DESCRIPTION_02714_Index_00=为多方块机器输入物品(进阶)
     S:TileEntity_DESCRIPTION_02714_Index_01=仓室等级：§1§lUIV
-    S:TileEntity_DESCRIPTION_02714_Index_02=直接处理ME网络中的样板
+    S:TileEntity_DESCRIPTION_02714_Index_02=根据放入其中的样板对接ME系统处理,为每个样板提供输入隔离
     S:TileEntity_DESCRIPTION_02714_Index_03=支持包含流体的样板
     S:TileEntity_DESCRIPTION_02714_Index_04=手持剪线钳右键以改变仓室与ME网络的连接模式
     S:TileEntity_DESCRIPTION_02715_Index_00=为多方块机器输入物品(进阶)
     S:TileEntity_DESCRIPTION_02715_Index_01=仓室等级：§dLuV
-    S:TileEntity_DESCRIPTION_02715_Index_02=直接处理ME网络中的样板
+    S:TileEntity_DESCRIPTION_02715_Index_02=根据放入其中的样板对接ME系统处理,为每个样板提供输入隔离
     S:TileEntity_DESCRIPTION_02715_Index_03=不支持包含流体的样板
     S:TileEntity_DESCRIPTION_02715_Index_04=手持剪线钳右键以改变仓室与ME网络的连接模式
     S:TileEntity_DESCRIPTION_02716_Index_00=样板输入总成或样板输入总线的镜像端
@@ -8884,7 +8884,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_10505_Secondary_Index_14=§f   束流输入仓：§7  提示方块：3号
     S:TileEntity_DESCRIPTION_10505_Secondary_Index_15=§f   束流输出仓：§7  提示方块：4号
     S:TileEntity_DESCRIPTION_10506_Index_00=机器类型：§e粒子源§r
-    S:TileEntity_DESCRIPTION_10506_Index_01=源仓的控制器方块
+    S:TileEntity_DESCRIPTION_10506_Index_01=高能粒子辐射激发源室的控制器方块
     S:TileEntity_DESCRIPTION_10506_Index_02=输出能量随EU/t根据配方指示增加
     S:TileEntity_DESCRIPTION_10506_Index_03=请参考§9Structure§2Lib§7全息投影，构建主体结构
     S:TileEntity_DESCRIPTION_10506_Index_04=用§b扫描仪§7右键来获取多方块输入输出信息
@@ -8936,7 +8936,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_10507_Secondary_Index_13=§f   输出仓：§7  提示方块：5号
     S:TileEntity_DESCRIPTION_10507_Secondary_Index_14=§f   能源仓：    §7提示方块：6号
     S:TileEntity_DESCRIPTION_10508_Index_00=机器类型：§e对撞腔§r
-    S:TileEntity_DESCRIPTION_10508_Index_01=靶仓的控制器方块
+    S:TileEntity_DESCRIPTION_10508_Index_01=高能束流聚焦对撞靶室的控制器方块
     S:TileEntity_DESCRIPTION_10508_Index_02=用一样东西去撞另一样东西
     S:TileEntity_DESCRIPTION_10508_Index_03=请参考§9Structure§2Lib§7全息投影，构建主体结构
     S:TileEntity_DESCRIPTION_10508_Index_04=用§b扫描仪§7右键来获取多方块输入输出信息
@@ -16776,7 +16776,7 @@ languagefile {
     S:fluid.grade4purifiedwater=pH中和水（4级）
     S:fluid.grade5purifiedwater=极端温度处理水（5级）
     S:fluid.grade6purifiedwater=紫外线处理电平衡水（6级）
-    S:fluid.grade7purifiedwater=脱气无污染水（7级）
+    S:fluid.grade7purifiedwater=脱气无去污剂水（7级）
     S:fluid.grade8purifiedwater=究极绝对完美净化水（8级）
     S:fluid.greensapphirejuice=绿色蓝宝石汁
     S:fluid.growthmediumraw=培养基原液
@@ -21665,7 +21665,7 @@ languagefile {
     S:gt.blockmachines.simplewasher.01.tier.09.name=简易洗矿池 VII
     S:gt.blockmachines.solarreflector.simple.single.name=太阳能反射器
     S:gt.blockmachines.solartower.controller.tier.single.name=太阳能塔
-    S:gt.blockmachines.source_chamber.name=源仓
+    S:gt.blockmachines.source_chamber.name=高能粒子辐射激发源室
     S:gt.blockmachines.spaceelevator.name=太空电梯
     S:gt.blockmachines.sparge.controller.single.name=气涤塔
     S:gt.blockmachines.substation.01.input.single.name=能源站控制节点
@@ -21686,7 +21686,7 @@ languagefile {
     S:gt.blockmachines.super.tank.tier.05.name=超级缸 V
     S:gt.blockmachines.supercriticalsteamturbine.name=超临界蒸汽涡轮
     S:gt.blockmachines.synchrotron.name=同步加速器
-    S:gt.blockmachines.target_chamber.name=靶仓
+    S:gt.blockmachines.target_chamber.name=高能束流聚焦对撞靶室
     S:gt.blockmachines.tesseract.generator.name=超立方体发生器
     S:gt.blockmachines.tesseract.terminal.name=超立方体终端
     S:gt.blockmachines.thaumcraft.gtpp.machine.01.name=污染研究者
@@ -69888,7 +69888,7 @@ languagefile {
     S:gt.metaitem.03.32757.name=时间碎片
     S:gt.metaitem.03.32757.tooltip=小心戴帽子的孩子
     S:gt.metaitem.03.32758.name=超维校准矩阵
-    S:gt.metaitem.03.32758.tooltip=支持跨维度空间对齐的设备。\n在DTPF上启用维度收敛。
+    S:gt.metaitem.03.32758.tooltip=支持跨维度空间对齐的设备。/n 在DTPF上启用维度收敛。
     S:gt.metaitem.03.32759.name=热能超导体
     S:gt.metaitem.03.32759.tooltip=With the power of second sound!
     S:gt.metaitem.03.32760.name=相对论性热容器
