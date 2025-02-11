@@ -71,6 +71,10 @@ item.em.parametrizerMemoryCard.desc.0=Хранит параметры
 item.em.parametrizerMemoryCard.desc.1=Используйте на параметризаторе/контроллере чтобы настроить их конфигурацию
 item.em.parametrizerMemoryCard.desc.2=Используйте на параметризаторе/контроллере чтобы сохранить параметры
 item.em.parametrizerMemoryCard.desc.3=Shift+ПКМ чтобы заблокировать/разблокировать
+item.em.parametrizerMemoryCard.copyMessage=Configuration copied to the card
+item.em.parametrizerMemoryCard.pasteMessage=Configuration pasted from the card
+item.em.parametrizerMemoryCard.controllerMismatch=Can't paste configuration from %s to %s!
+item.em.parametrizerMemoryCard.noConfig=Can't paste from empty card!
 
 item.tm.teslaCoilCapacitor.name=Тесла конденсатор
 item.tm.teslaCoilCapacitor.0.name=LV Тесла конденсатор
@@ -507,11 +511,6 @@ gt.blockmachines.emout.tier.13.name=UXV Выходной элементный ш
 gt.blockmachines.emout.desc=Вывод элементной материи в мультиблоки
 
 #TODO change tier.05 to tier.04
-gt.blockmachines.hatch.param.tier.05.name=Параметрайзер
-gt.blockmachines.hatch.param.tier.07.name=Параметрайзер X
-gt.blockmachines.hatch.param.tier.10.name=Параметрайзер tXt
-gt.blockmachines.hatch.param.desc.0=Для параметризации мультиблоков
-gt.blockmachines.hatch.param.desc.1=E=mine*craft
 
 gt.blockmachines.hatch.certain.tier.05.name=Разрешитель неопределенности
 gt.blockmachines.hatch.certain.tier.07.name=Разрешитель неопределенности
@@ -662,7 +661,6 @@ gt.blockmachines.multimachine.em.transformer.machinetype=Active Transformer, AT
 gt.blockmachines.multimachine.em.transformer.hint=1 - Энерговывод/вывод и Высокоэнергетический корпус
 gt.blockmachines.multimachine.em.transformer.desc.1=Может преобразовывать в любой вольтаж и обратно
 gt.blockmachines.multimachine.em.transformer.desc.2=Всего 0.004% энергопотерь, ВАУ!!!
-gt.blockmachines.multimachine.em.transformer.desc.3=Взорвется, если сломается во время работы.
 
 gt.blockmachines.multimachine.tm.microwave.name=Совершенная микроволновая печь
 gt.blockmachines.multimachine.tm.microwave.hint.0=1 - Шлюзы или Чистый корпус из нержавеющей стали
@@ -786,7 +784,7 @@ gt.blockmachines.multimachine.em.research.desc.2=Needs to be fed with computatio
 gt.blockmachines.multimachine.em.research.desc.3=Does not consume the item until the Data Stick is written
 gt.blockmachines.multimachine.em.research.desc.4=Используйте отвёртку для смены режима
 gt.blockmachines.multimachine.em.research.desc.5=Computation required in scanner mode follows the formula:
-gt.blockmachines.multimachine.em.research.desc.6=Recipe duration in seconds * (2 ^ Recipe voltage tier)
+gt.blockmachines.multimachine.em.research.desc.6=Recipe duration in seconds * (2 ^ (Recipe voltage tier - 1))
 gt.blockmachines.multimachine.em.research.mode.Assembly_line=Режим: Исследовательская станция
 gt.blockmachines.multimachine.em.research.mode.Scanner=Режим: Сканер
 
@@ -989,7 +987,7 @@ fog.upgrade.lore.12=Воздействие гравитонно-индуциро
 fog.upgrade.lore.13=При увеличении концентрации гравитонных осколков в топливной камере начинают проявляться бесконечные фракталоподобные свойства в ограниченном пространстве, что еще больше повышает производительность. Правда, для этого необходимо соразмерно увеличить количество звездного топлива, чтобы энергия достигла материи в глубине камеры.
 fog.upgrade.lore.14=Используя уникальные свойства гравитонных осколков по управлению энергией, можно более эффективно использовать энергию в кузнице. Управление электронами с помощью гравитации, а не материи или электромагнитных сил приводит к меньшим потерям энергии и, следовательно к большей скорости обработки.
 fog.upgrade.lore.15=Подобно Квантовому силовому преобразователю, квантово-механические свойства гравитонных осколков позволяют Кузнице завершить сложную серию процессов ядерного синтеза за одно событие, напрямую манипулируя субатомными частицами самих материалов.
-fog.upgrade.lore.16=Еще один пример эффекта запутывания гравитонных осколков - простой модуль Power Forge теперь также демонстрирует улучшения, внесенные в модуль Кузницы Melting Core . Это позволяет повысить эффективность обработки и распределения тех немногих гравитонных осколков, которые можно получить.
+fog.upgrade.lore.16=Еще один пример эффекта запутывания гравитонных осколков - простой модуль Power Forge теперь также демонстрирует улучшения, внесенные в модуль Кузницы Melting Core. Это позволяет повысить эффективность обработки и распределения тех немногих гравитонных осколков, которые можно получить.
 fog.upgrade.lore.17=Обычные методы плавки экзотических материалов становятся слишком неэффективными даже при экстремальных температурах. Гравитонные осколки облегчают туннелирование беспрецедентного количества критически заряженных нейтрино, что значительно улучшает теплопередачу к целевому материалу - один из самых эффективных методов преобразования электрической энергии в тепловую для материалов.
 fog.upgrade.lore.18=Гравитонные осколки могут манипулировать не только обрабатываемой материей, но и звездой в центре Кузницы. Вращая звезду на релятивистских скоростях, пульсарные всплески дают больше энергии в единицу времени, чем простое статическое воздействие. Это позволяет быстрее обрабатывать большие объемы материалов.
 fog.upgrade.lore.19=Постоянное улучшение плотности хранения энергии с помощью гравитонных осколков повышает эффективность кузницы и улучшает использование тепла для обработки. Достижение порога энергии сингулярности оказывает двойное влияние на эффективность обработки: гравитационные эффекты можно использовать для манипулирования самой материей, а микро-кугельблицы как ни парадоксально делают энергию более доступной для использования в Кузнице.
@@ -1038,7 +1036,7 @@ fog.upgrade.text.29=Allows construction of the third ring and adds 4 module slot
 fog.upgrade.text.30=Unlocks Magmatter production in the Heliofusion Exoticizer, creation of exotic plasmas in the Heliothermal Plasma Fabricator and Graviton Shard ejection & injection.
 
 fog.debug.resetbutton.text=Сброс
-fog.debug.resetbutton.tooltip=Resets all upgrades to zero
+fog.debug.resetbutton.tooltip=Сбрасывает все улучшения до нуля
 fog.debug.unlockall.text=Unlock all upgrades
 fog.debug.gravitonshardsetter.tooltip=Set the amount of available graviton shards
 
@@ -1070,7 +1068,7 @@ fog.button.color.tooltip=Cosmetics Menu
 fog.button.statistics.tooltip=Stats Overview
 fog.text.tooltip.heat=Heat value used for checking if a recipe can run
 fog.text.tooltip.effectiveheat=Heat value used for calculating bonuses
-fog.text.tooltip.parallel=Maximum parallel amount
+fog.text.tooltip.parallel=Максимальное количество параллелей
 fog.text.tooltip.speedbonus=Multiplier for base recipe time, making it shorter
 fog.text.tooltip.energydiscount=Multiplier for base energy usage, reducing it
 fog.text.tooltip.ocdivisor=Divisor for recipe time reduction per overclock (does not affect perfect OCs)
@@ -1168,8 +1166,8 @@ gt.blockmachines.multimachine.FOG.energydiscount=Energy Discount
 gt.blockmachines.multimachine.FOG.ocdivisor=OC Divisor
 gt.blockmachines.multimachine.FOG.clickstat=Click to view value breakdown
 
-gt.blockmachines.multimachine.FOG.hint.0=1 - Classic Hatches or Transcendentally Amplified Magnetic Confinement Casing
-gt.blockmachines.multimachine.FOG.hint.1=2 - Module Controllers or Singularity Reinforced Stellar Shielding Casing
+gt.blockmachines.multimachine.FOG.hint.0=1 - Классические шлюзы или Трансцендентно усиленный магнитно-удерживающий корпус
+gt.blockmachines.multimachine.FOG.hint.1=2 - Контроллеры модулей или Укрепленный сингулярностью звездный экранирующий корпус
 
 # Godforge Star Cosmetics
 fog.cosmetics.header=Star Cosmetics
@@ -1343,6 +1341,7 @@ GT5U.gui.text.invalid_hysteresis=§7Неверные настройки гист
 GT5U.gui.text.invalid_transfer_radius=§7Неверные настройки радиуса передачи
 GT5U.gui.text.invalid_voltage_setting=§7Неверная настройка вольтажа
 GT5U.gui.text.invalid_current_setting=§7Неверная текущая настройка
+GT5U.gui.text.invalid_primary_winding=§7Primary winding tier is too low!
 GT5U.gui.text.invalid_time_setting=§7Неверная настройка времени
 GT5U.gui.text.invalid_overdrive_setting=§7Неверная настройка перегрузки
 GT5U.gui.text.insufficient_power_no_val=§7Недостаточно энергии
@@ -1455,7 +1454,12 @@ tt.keyphrase.Tier_Rating=Тир вольтажа
 tt.keyphrase.Amp_Rating=Кол-во ампер
 tt.keyphrase.Computation_Available=Доступно вычислений
 tt.keyphrase.Computation_Remaining=Вычислений осталось
-tt.keyphrase.Content_Stack_Count=Содержимое: количество стаков
+tt.keyphrase.AL_Recipe_Providing=Providing §6%s§7 Assembly Line Recipes
+tt.keyphrase.AL_Recipe_Receiving=Receiving §6%s§7 Assembly Line Recipes
+tt.keyphrase.AL_Recipe_Transmitting=Transmitting §6%s§7 Assembly Line Recipes
+tt.keyphrase.AL_Recipe_Header=§7Assembly Line Recipes:
+tt.keyphrase.AL_Recipe_Desc=§7- §a%s§7
+tt.keyphrase.AL_Recipe_None=§7- None
 tt.keyphrase.Base_computation=Базовые вычисления
 tt.keyphrase.After_overclocking=После оверклока
 tt.keyphrase.Heat_Accumulated=Тепла накоплено
