@@ -418,8 +418,8 @@ ttresearch.page.FOCUS_HEAL.0=Вы знаете гнома, несущего мо
 # -- WAND FOCUS: ENDER RIFT
 ttresearch.name.FOCUS_ENDER_CHEST=Набалдашник: Вмешательство Края
 ttresearch.lore.FOCUS_ENDER_CHEST="Карман" четвертого измерения
-ttresearch.page.FOCUS_ENDER_CHEST.0=Совместив Магическое зеркало с Червоточиной, Вы создали набалдашник, дающий дистанционный доступ к Вашему сундуку Края.
-ttresearch.page.FOCUS_ENDER_CHEST.ES=Совместив Магическое зеркало с Червоточиной, Вы создали набалдашник, дающий дистанционный доступ к Вашему сундуку Края. <BR> SHIFT+ПКМ по сундуку Края, чтобы установить набалдашник на этот цвет или SHIFT+ПКМ по блоку обсидиана, чтобы установить набалдашник на обычное хранилище Края.
+ttresearch.page.FOCUS_ENDER_CHEST.0=Совместив Магическое зеркало с Червоточиной, Вы создали набалдашник, дающий дистанционный доступ к Вашему сундуку Эндера.
+ttresearch.page.FOCUS_ENDER_CHEST.ES=Совместив Магическое зеркало с Червоточиной, Вы создали набалдашник, дающий дистанционный доступ к Вашему сундуку Эндера. <BR> SHIFT+ПКМ по сундуку Эндера, чтобы установить набалдашник на этот цвет или SHIFT+ПКМ по блоку обсидиана, чтобы установить набалдашник на обычное хранилище эндера.
 
 # -- CURSED SPIRIT'S BLADE
 ttresearch.name.BLOOD_SWORD=Проклятое лезвие духа
@@ -468,7 +468,7 @@ ttresearch.page.PLATFORM.0=Вы смогли создать блок, позво
 # -- DIMENSIONAL SHARDS
 ttresearch.name.DIMENSION_SHARDS=Кристаллы измерений
 ttresearch.lore.DIMENSION_SHARDS=Редкости обычного мира
-ttresearch.page.DIMENSION_SHARDS.0=Как и в обычном мире, в Нижнем мире и в Крае также есть специфические кристаллы, которые редко носят Свинозомби в Нижнем мире или странники Края в Крае. Они могут быть полезны, но Вы пока не знаете, в чем.<BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
+ttresearch.page.DIMENSION_SHARDS.0=Как и в обычном мире, в Нижнем мире и в Энде также есть специфические кристаллы, которые редко носят Свинозомби в Нижнем мире или Эндермены в Энде. Они могут быть полезны, но Вы пока не знаете, в чем.<BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
 
 # -- ICHOR
 ttresearch.name.ICHOR=Ихор
