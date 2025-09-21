@@ -64,7 +64,7 @@ gt.crop.liveroots.name=Живые корни
 gt.crop.meatrose.name=Мясная роза
 gt.crop.micadia.name=Микадия
 gt.crop.milkwart.name=Молочный нарост
-gt.crop.nickelback.name=Nickelback
+gt.crop.nickelback.name=Пятицентовик
 gt.crop.oilberries.name=Нефтяная ягода
 gt.crop.olivia.name=Оливия
 gt.crop.onion.name=Лук
@@ -868,7 +868,7 @@ GT5U.turbine.tight=Оптимальный
 
 GT5U.engine.output=Текущий выход
 GT5U.engine.consumption=Расход топлива
-GT5U.engine.value=Стоимость топлива
+GT5U.engine.value=Энергоёмкость
 GT5U.engine.efficiency=Текущая эффективность
 
 GT5U.PA.machinetier=Тир установленных механизмов
@@ -1656,6 +1656,39 @@ GT5U.gui.circuit.timer.description=Pulses Redstone
 GT5U.gui.circuit.timer.data_description.pulses=Pulses
 GT5U.gui.circuit.timer.data_description.time=Время
 
+GT5U.gui.text.second=%s second
+GT5U.gui.text.second.plural=%s seconds
+GT5U.gui.text.minute=%s minute
+GT5U.gui.text.minute.plural=%s minutes
+GT5U.gui.text.hour=%s hour
+GT5U.gui.text.hour.plural=%s hours
+GT5U.gui.text.day=%s day
+GT5U.gui.text.day.plural=%s days
+
+GT5U.gui.text.show-powerfail-layer=Show Powerfails
+GT5U.gui.chat.powerfail=%s at %s in %s powerfailed %s time %s ago
+GT5U.gui.chat.powerfail.plural=%s at %s in %s powerfailed %s times %s ago
+GT5U.gui.chat.powerfail.waypoint=%s (%s time, %s ago)
+GT5U.gui.chat.powerfail.waypoint.plural=%s (%s times, %s ago)
+
+GT5U.gui.chat.powerfail.waypoint.tooltip=Machine: %s\nLocation: %s\nCount: %s\nLast Occurrence: %s\nPress %s to clear
+
+GT5U.gui.chat.powerfail.hint=§7Use /powerfails help for more info.
+
+GT5U.gui.chat.powerfail.login=You have %s uncleared powerfail.
+GT5U.gui.chat.powerfail.login.plural=You have %s uncleared powerfails.
+
+GT5U.gui.chat.powerfail.cleared=Cleared all of your powerfails.
+GT5U.gui.chat.powerfail.cleared-dim=Cleared all of your powerfails in the current dimension.
+
+GT5U.gui.chat.powerfail.list.none=No powerfails have occurred.
+GT5U.gui.chat.powerfail.list.uncleared-header=Uncleared powerfails:
+GT5U.gui.chat.powerfail.list.entry=- %s
+GT5U.gui.chat.powerfail.list.truncated=%s additional powerfails truncated
+
+GT5U.gui.chat.powerfail.shown=Enabled powerfail overlay rendering.
+GT5U.gui.chat.powerfail.hidden=Disabled powerfail overlay rendering.
+
 # Note to translators: this translation entry is supposed to be a number indicating how many taunts you define here
 # Game will randomly display one of them
 GT5U.item.programmed_circuit.no_screwdriver.count=3
@@ -1752,7 +1785,7 @@ GT5U.nei.heat_capacity=Теплоёмкость: %s K (%s)
 GT5U.nei.tier=Тир: %s
 GT5U.nei.start_eu=Запуск: %s EU (MK %s)
 GT5U.nei.stages=Этапы: %s
-GT5U.nei.fuel=Стоимость топлива: %s EU
+GT5U.nei.fuel=Энергоёмкость: %s EU
 GT5U.nei.qc.heating=Константа нагрева: %s
 GT5U.nei.qc.cooling=Константа охлаждения: %s
 GT5U.nei.qc.computation=Вычисление: %s
@@ -3049,24 +3082,24 @@ GT5U.infodata.boiler_solar.current_output=Текущий выход: %s
 
 GT5U.infodata.undefined=Неопределенный
 
-GT5U.infodata.hatch.me.diagnostics.proxy=(proxy)
-GT5U.infodata.hatch.me.diagnostics.node=(node)
+GT5U.infodata.hatch.me.diagnostics.proxy=(прокси)
+GT5U.infodata.hatch.me.diagnostics.node=(узел)
 GT5U.infodata.hatch.me.diagnostics.grid=(grid)
-GT5U.infodata.hatch.me.diagnostics.channels=(channels)
-GT5U.infodata.hatch.me.diagnostics.booting=(booting)
+GT5U.infodata.hatch.me.diagnostics.channels=(каналы)
+GT5U.infodata.hatch.me.diagnostics.booting=(загрузка)
 GT5U.infodata.hatch.me.diagnostics.power=(power)s
-GT5U.infodata.hatch.crafting_input_me.bus.online=The bus is §aonline§r
-GT5U.infodata.hatch.crafting_input_me.bus.offline=The bus is §coffline%s§r
+GT5U.infodata.hatch.crafting_input_me.bus.online=Люк §aонлайн§r
+GT5U.infodata.hatch.crafting_input_me.bus.offline=Люк §cоффлайн%s§r
 GT5U.infodata.hatch.internal_inventory=Внутренний инвентарь:
 GT5U.infodata.hatch.internal_inventory.slot=Слот %d %s
 GT5U.infodata.hatch.crafting_input_slave.linked_to=This bus is linked to the Crafting Input Buffer at %d, %d, %d.
 GT5U.infodata.hatch.crafting_input_slave.not_linked_to=This bus is not linked to any Crafting Input Buffer.
-GT5U.infodata.hatch.output_bus_me.cache_capacity=Item cache capacity: %s
+GT5U.infodata.hatch.output_bus_me.cache_capacity=Размер кэша предметов: %s
 GT5U.infodata.hatch.output_bus_me.empty=The bus has no cached items
 GT5U.infodata.hatch.output_bus_me.contains=The bus contains %d cached stacks:
-GT5U.infodata.hatch.output_me.cache_capacity=Fluid cache capacity: %s
+GT5U.infodata.hatch.output_me.cache_capacity=Размер кэша жидкостей: %s
 GT5U.infodata.hatch.output_me.empty=The bus has no cached fluids
-GT5U.infodata.hatch.output_me.contains=The hatch contains %d cached fluids:
+GT5U.infodata.hatch.output_me.contains=Шлюз содержит %d жидкости в кэше:
 
 GT5U.infodata.juke_box.uuid=UUID проигрывателя: %s
 GT5U.infodata.juke_box.uuid.unset=сбросить

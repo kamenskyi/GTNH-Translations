@@ -876,7 +876,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=Olá! Parece que você entrou n
 
 # Quest: Damn You, Wire Cutter!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=§5§lDroga, Cortador de Fios!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=This should be one of your first machines. You get 2 wires for every ingot. You can run them back through to get 4 fine wires each or get them from ingots by changing the circuit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=Essa deve ser uma de suas primeiras máquinas. Você consegue 2 Fios por cada lingote. Pode também passá-los pela máquina novamente para conseguir 4 fios finos cada, ou mude o circuito e use lingotes para o mesmo resultado
 
 # Quest: You're Gonna Hate This #1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=§5§lVocê Vai Odiar Isso #1 FOI QUANDO JAIRO FINALMENTE ENTENDEU O UNIVERSO NÃO SE IMPORTA COMIGO
@@ -997,78 +997,78 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.desc=Após a purificação do seu mi
 
 # Quest: A Truly Sharp Saw Blade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.name=§5§lUma Lâmina de Serra Verdadeiramente Afiada. OLHA A FACAAAA!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.desc=Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.desc=Com latão de cobalto e um pouco de pó de diamante se obtém uma serra para sua makita... Quero dizer, cortadora
 
 # Quest: A New Alloy - Cobalt Brass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.name=§5§lA New Alloy - Cobalt Brass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.desc=If you want to cut diamond blocks into plates, it's time to get a new alloy, Cobalt Brass.%n%nFirst you need to make brass out of zinc (only found in small ores or TiCo Zinc Gavel Ore in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with tin and cobalt dust (you can get it as a byproduct of a couple ores, go searching in the nether, or go to the Twilight Forest for Cobaltite) to get the cobalt brass dust.%n%nNow that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.name=§5§lUma Nova Liga - Latão de Cobalto
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.desc=Se quiser cortar blocos de diamante em placas é hora de produzir uma nova liga, Latão de Cobalto.%n%nPrimeiro você terá que tirar latão de zinco (encontrado apenas em pequenos minérios, Cascalho de Zinco no Overworld ou como um subproduto da centrifugação de estanho ou tetraedrita) e cobre. Misture-o com estanho e cobalto em pó(pode ser obtido como um subproduto de um punhado de minérios, procure no nether ou vá para a Floresta Crepuscular em busca de cobaltita) para conseguir latão de cobalto em pó.%n%nAgora que chegou tão longe achamos que da conta de olhar os minérios que precisa sozinho com a ajuda do NEI
 
 # Quest: Electrically Separating Dusts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.name=§5§lElectrically Separating Dusts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.desc=Using the power of electricity you can get even more out of your dusts. Somehow. With no catalysts, electrolytes, or anything. Look, don't ask me how it works. §oIt just works§r.%n%nAside from that, this is a very important machine to process some items and fluids into other, more useful items and fluids. A basic example of this is electrolyzing Water, which should be completely free to you, to get both Hydrogen and Oxygen, two very important fluids for your progression.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.name=§5§lSeparando Pós com Eletricidade
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.desc=Usando o poder da eletricidade você pode tirar ainda mais de seus pós. Sem catalizadores, eletrólitos ou qualquer coisa do tipo...Olha não me pergunta como funciona só abaixa a cabeça e aceita§r.%n%nDeixando isso de lado essa máquina é crucial para processamento de sólidos e líquidos em sólidos e líquidos mais úteis.Um exemplo básico disso é electrolisar água(Que deve ser de graça pra você a esse ponto), pra conseguir Hydrogênio e Oxigênio, dois gases extremamente importantes para sua progressão
 
 # Quest: C9H8O4...NaCl...H2O...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.name=§5§lC9H8O4...NaCl...H2O...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=Want to make some cetane-boosted diesel, plastic or some chemical dyes? Then it's time to craft a chemical reactor.%n%nYou can use the battery slot and the other extra slot in the GUI to store items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=Quer fazer um pouco de diesel aditivado com cetano, plástico ou algumas tintas químicas maneiras? Então é hora de fazer um reator químico.%n%nVocê pode usar o slot de bateria e o slot extra na interface gráfica para armazenar itens
 
 # Quest: Compact? Or is it?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§5§lCompact? Or is it?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§5§lCompacto? Ou será que não?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=It's a compressor but that doesn't mean it's compact...%n%nIt is highly recommended to get one of these electric compressors, as the efficiency in terms of coal/steam used to compress something is a lot better when using EU.%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
 
 # Quest: Suction Device... Nice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§3§5§lSuction Device... Nice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=I hope you're not thinking about what I'm thinking you're thinking about...%n%nIt's highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§3§5§lDispositivo de sucção... Hehehe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Espero que não esteja pensando sobre o que eu estou pensando que está pensando...%n%nÉ altamente recomendado que você consiga um desses pra já, considerando que a eficiência em termos de uso de carvão/vapor usado para extrair algo é bem maior usando UE
 
 # Quest: Your Oil is Too Crude? Refine it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§5§lYour Oil is Too Crude? Refine it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to refine it.%n%nYou'll need to use a circuit to pick which of the products you want. Later on you can make a Distillation Tower to get all of them, but that's far away for now.%n%nYou can also distill many other fluids! There are two that are useful, but take a long time to distill, so you should set them up in advance:%nLubricant (from Creosote) and Distilled Water (from Water).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§5§lSeu Petróleo está muito bruto? Refino-O !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=Queimar petróleo em um gerador a combustão é uma maneira bem ineficiente de produzir energia. Cada balde/célula apenas produz 20.000 UE. Hora de refina-lo.%n%nSerá necessário que use um circuito para escolher qual dos subprodutos você quer, mais tarde poderá fazer uma torre de destilação fracionada para conseguir todos eles, mas isso está bem longe por agora%n%nVocê também pode destilar outros fluidos! Dois deles em particular são bem úteis mas demoram uma eternidade para destilar, então você deveria os ajeitar pra já:%nLubrificante(De Creosoto) e Água Destilada(de Água).
 
 # Quest: Light Sulfuric Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=§5§lLight Sulfuric Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=You can distill your oil into light sulfuric fuel, that has a burn value of 40,000 EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=§5§lCombustível leve Sulfúrico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=Você pode destilar seu petróleo em combustível leve sulfúrico, o mesmo tem um valor energético de 40.000 UE.
 
 # Quest: Light Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=§5§lLight Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=By adding Hydrogen to Sulfuric Light Fuel in a Chemical Reactor you can produce Light Fuel with the very high burn value of 305,000 EU per cell. It is also the main component of Diesel, an excellent fuel that becomes available in MV%n%nThe remaining Hydrogen Sulfide can be used to produce Sulfuric Acid for, well, tons of stuff. You can never have enough of it! You can also crack Light Fuel in a Chemical Reactor and then distill it to get Ethylene, for Polyethylene. But Refinery Gas is better for that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=§5§lCombustível Leve
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=Dentro de um Reator Químico adicione Hidrogênio ao seu Combustível Leve Sulfúrico para produzir Combustível Leve com o incrível valor energético de 305.000 UE por célula. Também é o componente principal do Diesel que é um combustível excelente que fica disponível em MV%n%nO Sulfeto de Hidrogênio pode ser transformado em Ácido Sulfurico que é útil para uma grande variedade de coisas, nunca da pra ter demais disso. Você pode também quebrar o Combustível Leve em um Reator Químico e destilar para conseguir Etileno, o que faz Polietileno. Mas Gás de Refinaria é melhor para esse processo
 
 # Quest: H for Hydrogen... the Rest of the Alphabet is Too Complicated...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§5§lH for Hydrogen... the Rest of the Alphabet is Too Complicated...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Centrifuge some brown or yellow limonite dust, or use an Electrolyzer with water to get some hydrogen.%n%nThere are many other ways of obtaining hydrogen which you might want to look into. Some are only available much later.%n%nExamples are: chemical processing or electrolysis of methane obtained from organic sources, electrolysis of water or salt water, mixing sodium with water, or eventually siphoning hydrogen directly from a gas giant.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§5§lH de Hidrogênio... esquece o resto do alfabeto...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Centrifigue um pouco de limonita marrom ou amarela em pó, ou use um Eletrolizador com água para conseguir um pouco de hidrogênio.%n%nTem um monte de outros jeitos de conseguir hidrogênio(coisa que você deveria fazer pra já).Alguns só estão disponíveis mais tarde.%n%nBons exemplos são:Processamento químico ou electrolise de metano obtido de fontes orgânicas, electrolise de água e água salgada, misturando sódio com água, ou eventualmente coletando diretamente de um gigante gasoso.
 
 # Quest: Heavy Sulfuric Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=§5§lHeavy Sulfuric Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=You can distill your oil into heavy sulfuric fuel, that has a burn value of 80,000 EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=§5§lCombustível Pesado Sulfúrico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=Você pode destilar petróleo em combustível pesado sulfúrico, que tem um valor energético de 80,000 UE
 
 # Quest: Heavy Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=§5§lHeavy Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=By adding Hydrogen to sulfuric Heavy Fuel in a Chemical Reactor you can produce Heavy Fuel, with a burn value of 360,000 EU per cell! Aside from this, it's also required for Diesel, in MV, which is a better fuel, and it can also be distilled into three very useful fluids: Benzene, Toluene and Phenol.%n%nIf you want to use Heavy Fuel as a power source, you will need Semi-Fluid generators, unlike Light Fuel and Diesel which use Combustion generators.%n%nIt's honestly not especially efficient to make Heavy Fuel out of regular Oil. You should try to get Heavy Oil to make it, like from Oilsands Ore in MV once you can. Then use it to make Diesel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=§5§lCombustível Pesado
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=Dentro de um Reator Químico adicione Hidrogênio ao seu Combustível Pesado Sulfúrico para produzir Combustível Pesado com o valor energético absurdo de 360.000 UE por célula. Além disso também é necessário para produzir Diesel que é um combustível excelente que fica disponível em MV, também pode ser destilado em três fluidos muito úteis. Benzeno, Tolueno e Fenol.%n%Se quiser pode usar o Combustível Pesado como uma fonte de energia, você vai precisar de Geradores a Semifluidos, diferente de Combustível Leve e Diesel que usam o Gerador a Combustão.%n%nNão é recomendado fazer Combustível Pesado utilizando Petróleo normal.O mais eficiente seria conseguir Petróleo Pesado para produzi-lo, Uma boa fonte são minérios de areia petrolífera em MV quando puder. Então use-o para fazer Diesel
 
 # Quest: Hey DJ, Mix it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=§5§lHey DJ, Mix it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=The mixer is a very useful device. You can mix all kinds of fluids and items. Useful to prevent dust from falling to the ground when crafting - most mixer recipes give a slight boost over hand crafting!%n%nYou get +3 slots in the EV+ versions, this one has 6.%n%nYou can use the battery slot and other extra slots in the GUI to store anything you like!%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=§5§lAê DJ, Mixa isso ai!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=O misturador é um dispositivo bem útil. Você pode misturar todo tipo de fluido e item. Útil para prevenir a poeira caindo no chão quando quiser criar algo - a maioria das receitas do misturador dão um pequeno aumento de efetividade!%n%nApós EV você consegue versões com +3 slots, esse tem apenas 6.%n%nVocê consegue usar o slot de bateria e outros slots na interface visual  para armazenar o que quiser%n%n[note]Você pode usar o multibloco de vapor ao invés desse se quiser[/note]
 
 # Quest: N Like Nitrogen... Hide, the Alphabet Strikes Again!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§5§lN Like Nitrogen... Hide, the Alphabet Strikes Again!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=You can get some nitrogen by centrifuging... air. This process takes a long time, especially at LV tier.%n%nYou get that air from compressed air cells, which are gotten from running cells through a compressor. Each one contains 2000L, unlike a normal cell that contains 1000L.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§5§lN Tipo Nitrogênio... Faz silêncio o alfabeto ta aqui de novo!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Você consegue um pouco de nitrogênio centrifugando... ar. Esse processo demora bastante considerando que está em LV.%n%nVocê consegue ar de células de ar comprimido, que são obtidas colocando células vazias em um compressor.Cada um contém 2000L,diferente de uma célula comum que contém 1000L.
 
 # Quest: Molten Redstone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.name=§5§lMolten Redstone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.desc=You heard that the carpenter needs some molten redstone for a few recipes. Converting redstone dust into a fluid requires a fluid extractor. Let's build one.%n%nIf you want to get that molten redstone into a cell, you'll need a fluid canner instead of a GT tank. Why? Because Reasons.%n%nFortunately, most fluids work properly, but redstone, cracked fluids, and certain other ones do not. Or just use a universal cell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.name=§5§lRedstone Derretida?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.desc=Você escutou que o carpinteiro precisa de um pouco de redstone derretida para algumas receitas. Converter pó de redstone em um fluido requer um extrator de fluido. Vamos fazer um.%n%nVocê tem que colocar essa redstone derretida em uma célula e para isso vai precisar de um enlatador de fluidos ao invés de um Tanque GT.Por que? você pergunta, e eu respondo , porque eu disse que é assim e pronto!.%n%Felizmente, a maioria dos fluidos funciona perfeitamente, mas redstone, fluidos quebrados e certos tipos não funcionam. Pode também fazer uma célula universal
 
 # Quest: Magnetize Your Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.name=§5§lMagnetize Your Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.desc=Magnetic steel rods will §oneed§r a Polarizer to craft. You'll need them later on for MV Motors and MV hatches.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.name=§5§lMagnetize suas varas (≖ ͜ʖ≖)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.desc=Varas de aço magneticas vão§oprecisar§r de um Polarizador para fabricar. Você vai precisar delas depois para motores MV e Válvulas MV
 
 # Quest: Tetrahedrite, Stibnite and Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=§5§lTetrahedrite, Stibnite and Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=Maybe you're wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries. Batteries store power, so you can have highs and lows in your power production while still outputting stable power.%n%nThe veins can be found between Y level 80-120.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=§5§lTedraedrita, Estibina e Cobre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=Talvez você estaja pensando "Por que eu preciso de Tetraedrita ou Estibnita" Bom, antimônio pode retirado delas via centrifugação ,antimônio esse que é essencial para baterias. Elas armazenam energia, então você pode ter flutuações em sua produção de energia e ainda sim ter uma saída de energia estável.%n%Os veios de minério são encontradas entre o Y 80-120
 
 # Quest: Antimony
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=§5§lAntimony
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=The most efficient way to get antimony for batteries is to run stibnite through a BBF or EBF, burning off the impurities (sulfur), and giving you more antimony. You can also centrifuge it if you want to keep the sulfur. You can also centrifuge tetrahedrite dust if you're desperate.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=§5§lAntimônio
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=A maneira mais eficaz de conseguir antimônio para baterias é passar estibnita por uma BBF ou EBF, retirando impurezas (enxofre)do petróleo o que te dá mais antimônio. Você também pode centrifuga-lo se quiser preservar o enxofre. Há também a possibilidade de centrifugar tetraedrita em pó se estiver desesperado
 
 # Quest: Thermal Centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=§5§lThermal Centrifuge
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=§5§lCentrifuga Térmica
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=A machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.%n%nWhen you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.%n%nIf you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version.%n%nIn LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.%n%n[warn]Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.[/warn]
 
 # Quest: A Lead About Lead That Leads to Lead
@@ -5871,6 +5871,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcA.desc=Yet another custom block system
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.name=Catwalks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=The Catwalks Mod adds several cosmetic blocks to deck out your factory.%n%nScaffolds and Builder's Scaffolds are useful for building up in the air before you get access to flight. They can be climbed like ladders, and break instantly when punched. You will also not fall off of them if you let go of movement keys while climbing. If you right-click the Builder's Scaffold with a solid block, the scaffold will be replaced by that block.%n%nCatwalks can connect to each other to form a wide passageway. You can decorate them by attaching Caution Tape or Rope Lights, the latter provide dim lighting.%n%nCaged Ladders give you a way to move up and down without a risk of falling off. Climbing them is much faster than vanilla ladders.%n%nSupport Columns are purely decorative. They connect to each other in all directions. They also work as ladders.%n%nSturdy Rails let you run minecart tracks across gaps without supports. Right-click the Sturdy Powered Rail with a Blowtorch to power it permanently, you don't need a redstone torch. If you don't have enough distractions already, use them to build a rollercoaster!%n%nThe Blowtorch lets you remove railings or even the floor from a catwalk by right-clicking. Use it to make an opening to let you walk onto the catwalk, or if you don't know what an "OSHA violation" is. The same function can be performed by a GT or Forge-compatible wrench, so you don't actually need to make this.
 
+# Quest: Excavation Upgrade
+betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.name=Excavation Upgrade
+betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.desc=Mining out large chunks of stone can be a huge pain when it comes to creating bases. Why not craft the excavator upgrade for your Prototype Matter Manipulator so that you have the ability to remove blocks quickly?
+
 # Quest: Crystal Shulker Box
 betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.name=§5§6§lCrystal Shulker Box
 betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diamond Shulker that allows you to see the contents within.%n%nHas §n108§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
@@ -5886,6 +5890,10 @@ betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II
 # Quest: Obsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§5§6§lObsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
+# Quest: Manipulator Upgrades
+betterquesting.quest.NKKa001sQ9qXBPAUEV4Vrg.name=Manipulator Upgrades
+betterquesting.quest.NKKa001sQ9qXBPAUEV4Vrg.desc=Now that you have a Matter Manipulator... why not make it better?%n%nThese upgrades will give huge quality of life improvements when using should you choose to craft them. %n%n[note]Pay attention to the applicable tier of MM before you do so![/note]
 
 # Quest: Obsidian Chest
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.name=§8Obsidian Chest
@@ -5906,6 +5914,10 @@ betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.desc=Concrete. Eh sorry, Hempcrete! 
 # Quest: Gold Shulker Box
 betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.name=§3§lGold Shulker Box
 betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=The portable equivalent of the Gold Barrel.%n%nHas §n81§n§n§n§n§n§n§n§r slots.%n%n[note]Can be Dyed![/note]
+
+# Quest: Finally, Some Real Power!
+betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.name=Finally, Some Real Power!
+betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.desc=The Energy Tunnel Manipulator Upgrade is incredibly useful for the heavy potential Matter Manipulator usage in §4§lUHV+§r. %n%nYou can now link directly with either the §5§lQuantum Link§r or a §5§lLaser Target Hatch§r for much quicker recharging. No need to rely on those slow wireless chargers any longer!
 
 # Quest: Shulker Upgrades
 betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§lShulker Upgrades
@@ -14711,6 +14723,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzg.desc=Why use a small nozzle to print
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.name=Nano Forge Tier 1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=There must be a way to make a nano scale robots to work in a machine. Carbon ones can be made in an assembly line, but very inefficiently. There must be a better way.%n%nWhat about a Nano Forge, able to cut up blocks into nano-thin sheets and then creating the first nanite, which helps create thousands of them in mere seconds.%n%n[note]The Nano Forge is a big multiblock requiring lots of power over the course of a couple minutes. It is able to use TT energy hatches (including lasers). The controller must have a carbon nanite inside to make tier 1 recipes.[/note]%n%n[note]Despite what NEI might claim there are no minimum voltages for the Nano Forge recipes. If you want to do a recipe you just have to achieve the minimum EU/t required, no matter the voltage[/note].
 
+# Quest: Prototype Matter Manipulator
+betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.name=§9§lPrototype Matter Manipulator
+betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=The §4§lMatter Manipulator§r is an extremely powerful tool that you can use during your entire playthrough. It is essentially a survival version of world-edit that is custom made for the GTNH player's convenience.%n%nThe §3§lPrototype Matter Manipulator§r is expectedly the least powerful, most rudimentary version. You can only use the §5§lGeometry Mode§r to create and manipulate shapes for use in building. You will §nnot§r be able to remove blocks until you install an upgrade unlocked in §2§lEV§r.%n%nFor the most accurate and detailed information visit: [url]https://github.com/RecursivePineapple/MatterManipulator/blob/master/README.md[/url]%n%n[note]The best way to learn about it is to use it! Experiment with the UI and become familiar with how it works.[/note]%n%n[warn]Checkout the Building Better Bases tab for the complete Manipulator questline.[/warn]
+
+# Quest: Matter Manipulator MKII
+betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.name=§c§lMatter Manipulator MKII
+betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.desc=The MKII is the penultimate upgrade in the Matter Manipulator line. This one being much more powerful, storing §210x§o§r the power, with a range of §2128 Blocks§r, and the ability to place §2256 Blocks/Second§r.%n%nIn addition to all of the MKI features you now unlock §5two powerful new modes§r:%n%n§l- Copy / Paste§r: Copy a selection of blocks and paste it as many times as you'd like. Works best with GT & AE2.%n%n§l- Move§r: Similar to Copy / Paste, but will physically relocate something already built.%n%nHere is a short list of things that are copied / moved with the MM, the more complete list is on the Readme, but this should give you a general idea of how versatile it is.%n§3%n§lGregTech:§r%n%n- Pipe/Cable connections%n- Machine color%n- Machine front & output directions%n- Basic machine settings (auto outputs, etc)%n- Hatch settings (sorting, stack limiting, etc)%n- Multi machine settings (void protection, batch mode, etc)%n- Multi rotation%n- Covers%n- Strong redstone output%n- Custom names%n- Ghost circuits%n- Bus/hatch item/fluid lock%n- Modes (for machines that use the new mode system)%n- Data stick data%n- TecTech machine input parameters%n- ME output bus/hatch capacity%n§3%n§lAE2:§r%n%n- Any coloring%n- The orientation%n- The configuration%n- The upgrades%n- Custom names%n- Any stored cells (will also automatically configure cells & install their upgrades)%n- Any patterns (will encode but not decode patterns)%n- Priority Settings%n- P2P Settings%n- OreDict / Regular Filter
+
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to portably tote it's contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs in the Coins tab%n3. Manually crafting the shells[/note]
@@ -14739,6 +14759,14 @@ betterquesting.quest.V4jinTYRSueIrEqn90dRzQ.desc=While being significantly more 
 betterquesting.quest.V9BupH47RI6RWX6vff5dpw.name=§2§lThe future is here!
 betterquesting.quest.V9BupH47RI6RWX6vff5dpw.desc=EFR adds with it vanilla Barrels (not to be confused with JABBA barrels). These are essentially like chests, but they can be placed next to each other and opened with a block above them. And you can upgrade them! Great for those compact machine setups.
 
+# Quest: Matter Manipulator MKI
+betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.name=§b§lMatter Manipulator MKI
+betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.desc=The MKI is where you really start unlocking the potential of the Matter Manipulator. This new one has a §264 Block§r range and a §264 Block/Second§r speed limit.%n%nUnlike it's prototype predecessor, this now has §53 new modes§r made available to you:%n%n§l- Geometry§r: Places standard blocks in a selected and configurable shape.%n%n§l- Cable§r: Allows you to place AE and GT cables & pipes in lines (and connecting them automatically).%n%n§l- Exchange§r: Allows you to swap large swaths of blocks like the TC Equal Trade Focus.%n%nAdditionally, it can now connect to your §5AE network§r for automatically transferring items and liquids. You can link the tool in your security terminal and use it while within wireless range.%n%nWhen something is placed into the world, the tool will §3pull§r from inventories in this order:%n1 - ME system%n2 - Player's inventory%n3 - Uplink§r%n%nWhen something is removed from the world, the tool will §3push§r into inventories in this order:%n1 - ME system%n2 - Uplink%n3 - Player's inventory%n4 - The Ground (Items Only)%n%n[note]This also comes stock with the ability to remove blocks, so there is no need for another excavation upgrade.[/note]
+
+# Quest: Matter Manipulator MKIII
+betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.name=Matter Manipulator MKIII
+betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade in the Matter Manipulator series, and grants you access to it's most heightened capabilities. With §210x§r the EU storage as the MKII, it also boasts an §5§lUnlimited§r block range and can handle placing §21024 Blocks / Second§r.%n%nFeature wise, the MKIII comes with all of the same abilities as the MKII, except now with the ability to use the §3§lQuantum Uplink§r, though you won't be able to build that multiblock until §4§lUV§r.
+
 # Quest: Silver Barrel
 betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.name=§3§lSilver Barrel
 betterquesting.quest.fhzjYvdATJuUQTMUO1pVvA.desc=The Silver barrel has 72 slots.
@@ -14750,6 +14778,10 @@ betterquesting.quest.hEsmeH74S4aOOrROI1AHxQ.desc=The steam machines you have bee
 # Quest: NEI Next Level Recipe Search
 betterquesting.quest.hmQlN9vLSEOyCnCSOOXz7Q.name=§2§lNEI Next Level Recipe Search
 betterquesting.quest.hmQlN9vLSEOyCnCSOOXz7Q.desc=NEI recipe search got improved even further!%n%nSelect a search mode extended+ to try it out!%n%nHere backticks `` are used around the search queries. You don't need them when searching.%n%nBy default the search works like in the extended mode, searching in §lany§r of the inputs and outputs of a recipe. So if you search a recipe by `§1-§rdust`, it would return all the recipes where there's at least one item that doesn't have §o"dust"§r.%n%nLet's say you want to search only in §linputs§r. Put §a<§r before your search query to do that! For example `§a<§riron` returns all the recipes with §o"iron"§r in one of the §linputs§r, `§a<§rsteel§5@gregtech§r` returns the recipes with at least one item from mods, containing §9Gregtech§r in their name, with §o"steel"§r.%n%nBut then, if you search by `§a<§1-§rdust` it still returns the recipes with §o"dust"§r on the left. Why is that? Because §a<§r searches among §lany§r items. So if there's one item that doesn't have §o"dust"§r, then it would still match the recipe, even if the rest of the inputs are dusts.%n%nTo solve this use §a<&§r instead. Like this: `§a<&§1-§rdust`. It returns §lall§r the recipes without §o"dust"§r among the inputs! §a<&§r sets a §lstrict§r condition on §lall§r inputs, unlike §a<§r that sets a condition on §lany§r input.%n%nTo filter the §loutputs§r use §a>§r and §a>&§r. They work the same way, but allow you to filter the §loutputs§r of a recipe. So `§a>§rgold` gives you the recipes with at least one §loutput§r with §o"gold"§r. And `§a>&§rgold` gives you the recipes with §o"gold"§r in every outputted item.%n%nWant to combine multiple conditions? Sure, just put them one after another in any order. E.g. you could search for `§a<§riron§a>§rsteel`, `§a<&§r §1-§b$dust§r §a<§r cell`, `§a>&§1-§rdust cell`.%n%nOr even for `dust§a>§rcell`. Here the non-prefixed part works like default, searching among §lany§r items from the inputs or outputs. So this query returns the recipes with §o"dust"§r in one of the inputs or outputs and §o"cell"§r in one of the outputs.%n%nIn some recipes you might have items that don't belong to inputs or outputs. In order to filter them use `§a^§r` and `§a^&§r` respectively.%n%nYou could add spaces for readability too, because (unless you have space mode on) spaces could be used anywhere while in extended+ mode.
+
+# Quest: Quantum Uplink
+betterquesting.quest.jZURYQZlSuitTiiasN4J8A.name=Quantum Uplink
+betterquesting.quest.jZURYQZlSuitTiiasN4J8A.desc=The §5§lQuantum Uplink§r is a multi made specifically for the Matter Manipulator that is unlocked with the aid of §4§lUV§r tech. %n%nThis allows the Matter Manipulator to connect to your ME system over an §2infinite range§r, and §3across dimensions§r. The tool can be linked by placing it into the controller while the uplink is active. The uplink will take a continous 1A of ZPM power to function.%n%nAdditionally, you can now use it to create fake ME patterns upon selecting an area. This will make it quick to order all of the parts needed for Copy & Pasting in an area. %n%n[warn]The Uplink is powerful, but at a cost. Moving all items / fluids from the AE system will cost a small amount of plasma per transfer. %n%nSpecifically: 16k EU of plasma per item / per 1000L of fluid[/warn]
 
 # Quest: NEI Next Level Search
 betterquesting.quest.kR1YVSq2R4WFu9KNM9lCZQ.name=§2§lNEI Next Level Search
