@@ -1671,18 +1671,18 @@ GT5U.gui.chat.powerfail.plural=%s at %s in %s powerfailed %s times %s ago
 GT5U.gui.chat.powerfail.waypoint=%s (%s time, %s ago)
 GT5U.gui.chat.powerfail.waypoint.plural=%s (%s times, %s ago)
 
-GT5U.gui.chat.powerfail.waypoint.tooltip=Machine: %s\nLocation: %s\nCount: %s\nLast Occurrence: %s\nPress %s to clear
+GT5U.gui.chat.powerfail.waypoint.tooltip=Механизм: %s\nМестоположение: %s\nКоличество: %s\nПоследнее появление: %s\nНажмите %s, чтобы очистить
 
-GT5U.gui.chat.powerfail.hint=§7Use /powerfails help for more info.
+GT5U.gui.chat.powerfail.hint=§7Используйте /powerfails для получения информации
 
-GT5U.gui.chat.powerfail.login=You have %s uncleared powerfail.
-GT5U.gui.chat.powerfail.login.plural=You have %s uncleared powerfails.
+GT5U.gui.chat.powerfail.login=У вас %s устранен сбой питания.
+GT5U.gui.chat.powerfail.login.plural=У вас %s не устранённых сбоев питания.
 
-GT5U.gui.chat.powerfail.cleared=Cleared all of your powerfails.
-GT5U.gui.chat.powerfail.cleared-dim=Cleared all of your powerfails in the current dimension.
+GT5U.gui.chat.powerfail.cleared=Устранены все сбои в питании.
+GT5U.gui.chat.powerfail.cleared-dim=Устранены все сбои в питания в текущем измерении.
 
 GT5U.gui.chat.powerfail.list.none=No powerfails have occurred.
-GT5U.gui.chat.powerfail.list.uncleared-header=Uncleared powerfails:
+GT5U.gui.chat.powerfail.list.uncleared-header=Неустраненные сбои питания:
 GT5U.gui.chat.powerfail.list.entry=- %s
 GT5U.gui.chat.powerfail.list.truncated=%s additional powerfails truncated
 
@@ -1890,7 +1890,7 @@ GT5U.nei.display.usage.original=Первоначально использует�
 GT5U.nei.display.usage.steam=Использование: %s Л/с пара
 GT5U.nei.display.voltage=Вольтаж: %s EU/t %s
 GT5U.nei.display.amperage=Ампераж: %s A
-GT5U.nei.display.overclock= (OC)
+GT5U.nei.display.overclock=(OC)
 GT5U.nei.display.average=Среднее: %s EU/t %s
 
 GT5U.biomes.humidity=Влажность:
@@ -1939,7 +1939,7 @@ GT5U.waila.status.insufficient_energy=Статус: Недостаточно э�
 GT5U.waila.status.obstructed_steam_vent=Статус: Засорен выход пара
 GT5U.waila.machine.working_disabled=Работа остановлена
 GT5U.waila.machine.idle=Простой
-GT5U.waila.machine.in_progress=В прогрессе: %,.1fs / %,.1fs (%,.1f%%)
+GT5U.waila.machine.in_progress=Прогресс: %,.1fs / %,.1fs (%,.1f%%)
 GT5U.waila.machine_facing=Лицевая сторона механизма: %s
 GT5U.waila.output_facing=Выходная сторона: %s
 GT5U.waila.facing=Сторона: %s

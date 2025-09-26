@@ -206,7 +206,7 @@ gt.blockmachines.multimachine.ig.dyson.type=Рой Дайсона
 gt.blockmachines.multimachine.ig.dyson.desc1=Поместите Модули роя Дайсона во входную люк(и), чтобы отправить их к следующей звезде.
 gt.blockmachines.multimachine.ig.dyson.desc2=Выдаёт §a%s*§9§lИ§r §7EU/t на модуль до §a10,000
 gt.blockmachines.multimachine.ig.dyson.desc3=Каждый час, модули уничтожаются по формуле: §6§lН§r§a * (2 * %s) / (exp(-%s * (§6§lН§r§a - 1)) + exp(%s * §b§lВ§r§a))§7.
-gt.blockmachines.multimachine.ig.dyson.desc4=§b§lВ§r§ычисления§r/с§r, §6§lН§r§6ачальное количество модулей, коэффициент, зависящий от §9§lИ§r§9змерения §7 (перепроверьте квест на значение)
+gt.blockmachines.multimachine.ig.dyson.desc4=§b§lВ§r§bычисления§r/с§r, §6§lН§r§6ачальное количество модулей, коэффициент, зависящий от §9§lИ§r§9змерения §7 (перепроверьте квест на значение)
 gt.blockmachines.multimachine.ig.dyson.desc5=Требует §a%sЛ/ч §7из %s.
 gt.blockmachines.multimachine.ig.dyson.desc6=Щелкните ПКМ с помощью вантуза, чтобы извлечь как можно больше модулей в свой инвентарь.
 gt.blockmachines.multimachine.ig.dyson.desc7=Подкравшись, вы сбросите остальные на землю.
@@ -227,7 +227,7 @@ gt.blockmachines.multimachine.ig.elevator.desc7=Макс. количество �
 gt.blockmachines.multimachine.ig.elevator.desc8=Отключение этого контроллера также приостанавливает работу всех модулей
 gt.blockmachines.multimachine.ig.elevator.lore0=10:Поднимает в космос
 gt.blockmachines.multimachine.ig.elevator.lore1=10:Что вам больше всего нравится в космосе? Мне больше всего нравится космос.
-gt.blockmachines.multimachine.ig.elevator.lore2=10:Putting all those VMs out of jobs
+gt.blockmachines.multimachine.ig.elevator.lore2=10:Оставим работяг без работы
 gt.blockmachines.multimachine.ig.elevator.lore3=Представлено Константином Циолковским
 gt.blockmachines.multimachine.ig.elevator.lore4=Вы читали "Фонтаны рая"?
 gt.blockmachines.multimachine.ig.elevator.lore5=Вы читали "Сеть между мирами"?

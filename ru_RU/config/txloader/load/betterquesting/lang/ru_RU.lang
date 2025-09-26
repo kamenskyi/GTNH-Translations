@@ -245,7 +245,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=Теперь, когда ты �
 
 # Quest: Important Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=§2§lВажные инструменты
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=Для того чтобы изготовить даже базовые механизмы, тебе потребуются новые инструменты. Большинство из них в дальнейшем будет заменено механизмами. Но сейчас, тебе следует познакомиться с рецептом каждого из них, т.к. на данном этапе тебе потребуются довольно много этих инструментов.%n%nТвои новые инструменты также могут быть использованы для создания водонапорной башни из Railcraft, очень полезной мультиблочной постройки, учитывая что вода не бесконечна.%n%nЗдесь также есть электрические версии инструментов, перейти на которые ты можешь в дальнейшем, если захочешь. Также, существует множество версий каждого инструмента, характеристики которых определяются по той же логике, как у инструментов из Tinkers Construct. Это, кстати, относится и к характеристикам роторов для турбин. Ты можешь посмотреть информацию на вкладке с молоточком, нажав ЛКМ на материал в NEI, для уточнения характеристик GT инструментов и роторов турбин из него.%n%nДля этого квеста, ты можешь использовать какой угодно материал. Пила из драгоценных камней крафтится иначе, чем из металлов. Инструменты более высокого уровня требуют стальные или вольфрамово-стальные стержни вместо палок.%n%n[note]Если ты хочешь быстро найти рецепт инструмента из конкретного материала, то нажми на инструмент и ткни на значок лупы сверху и введи нужный материал.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=Для того чтобы изготовить даже базовые механизмы, тебе потребуются новые инструменты. Большинство из них в дальнейшем будет заменено механизмами. Но сейчас, тебе следует познакомиться с рецептом каждого из них, т.к. на данном этапе тебе потребуются довольно много этих инструментов.%n%nТвои новые инструменты также могут быть использованы для создания водонапорной башни из Railcraft, очень полезной мультиблочной постройки, учитывая что вода не бесконечна.%n%nЗдесь также есть электрические версии инструментов, перейти на которые ты можешь в дальнейшем, если захочешь. Также, существует множество версий каждого инструмента, характеристики которых определяются по той же логике, как у инструментов из Tinkers Construct. Это, кстати, относится и к характеристикам роторов для турбин. Ты можешь посмотреть информацию на вкладке с молоточком, нажав ЛКМ на материал в NEI, для уточнения характеристик GT инструментов и роторов турбин из него.%n%nДля этого квеста, ты можешь использовать какой угодно материал. Пила из драгоценных камней крафтится иначе, чем из металлов. Инструменты более высокого уровня требуют стальные или вольфрамово-стальные стержни вместо палок.%n%n[note]Если ты хочешь быстро найти рецепт инструмента из конкретного материала, то нажми на инструмент и ткни на значок лупы сверху и введи нужный материал. (Например, попробуй найти и сделать железные инструменты!)[/note]
 
 # Quest: Getting Iron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=§2§lПолучение железа
@@ -3587,6 +3587,14 @@ betterquesting.quest.zb1nbwNuSFKuSEyW3mVj-Q.desc=At long last... the final ingre
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHg.name=Этап 7 - ZPM
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHg.desc=Congratulations, you've completed the platline, assline, CAL, §oand§r fusion reactor and made it to the Zero Point Module tier. You're well into the late game now, but there's still a lot of stuff to do. Good luck!
 
+# Quest: Prismatic Naquadah Composite Slurry
+betterquesting.quest.-wpUfFlVT5GytSWoT6QAdg.name=Prismatic Naquadah Composite Slurry
+betterquesting.quest.-wpUfFlVT5GytSWoT6QAdg.desc=Why stop at §2Prismatic Naquadah§r? Given it's malleable nature you suspect that it may be advantageous to use it's unique strength to form new, much more durable, foil types.%n%nCombing the §2Prismatic Naquadah§r with your choice of §2binding powder§r in a §5§lMixer§r and you'll create exactly the type of substance you were looking for; A §3Prismatic Naquadah Composite Slurry§r to mold into foil. 
+
+# Quest: Prismatic Acid
+betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.name=Prismatic Acid
+betterquesting.quest.9CIs8MP4TBuyRgn8lDu3Mg.desc=Almost there I promise!%n%nNow that you have obtained the §2Prismatic Gas§o§r, you must cool it down in a §5§lVacuum Freezer§r with the assistance of §2Liquid Nitrogen§r. This will give you §3Prismatic Acid§r.%n%n[warn]Aside from continuing down this line, you can also use Prismatic Acid in the processing of Gaia blocks later.[/warn]%n
+
 # Quest: Power, So Much Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.name=Power, So Much Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.desc=If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.%n%n[note]The quests to get items will trigger the next part once you hold the item in question.[/note]
@@ -3783,9 +3791,53 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALiw.desc=Расплавьте его с 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsw.name=The Final Goal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsw.desc=Thanks to your help I have managed to create the ultimate energy source: An encased wormhole that drains energy from a synthesized pocket universe, to the point when it reaches heat death. I have no use for it, so you may have it. Thank you for making my dream come true!
 
+# Quest: Prismarine Recycling Pt. 2
+betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.name=Prismarine Recycling Pt. 2
+betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.desc=You'll notice after processing your first Prismarine Precipitates you are left with a second §2Contaminated Prismarine Solution§r. You can also recycle this for added §3Prismarine Solution§o§r and §3Prismarine-Rich Nitrobenzene Solution§r. Again, technically optional, but highly recommended.%n%n[warn]If you didn't setup the recycling for the Contaminated Hydrogen Peroxide then you'll want to now since this recycling actively produces it.[/warn]
+
+# Quest: Prismarine Solution
+betterquesting.quest.J9eklidSTbyHgMgImYT3-g.name=Prismarine Solution
+betterquesting.quest.J9eklidSTbyHgMgImYT3-g.desc=After you've managed to grab some §2Prismarine§r, you must process it with §2Industrial Strength Hydrofluoric Acid§r and §2Hydrogen Peroxide§r in the §5§lDissolution Tank§r. Using these ingredients you can make your very first batch of §3Prismarine Solution§r.%n%n[warn]After you've created your first batch of Industrial Strength HF, it's highly recommended to check the Chemical Plant recipes for further creation of it![/warn]
+
+# Quest: Prismarine!? What Do I Need That For?
+betterquesting.quest.JhZaTiUfTH2AfBcHulTMVA.name=Prismarine!? What Do I Need That For?
+betterquesting.quest.JhZaTiUfTH2AfBcHulTMVA.desc=§5§lPrismarine§r is an ancient material long rumored to have originated from structures found deep within the ocean. Learning how to create this is extremely important, and may lead to advancements in technology with further exploration into the substrate.%n%nYou can get Prismarine in a few different ways as shown resource-wise by the optional tasks:%n%n§31. Through Botania by transmutating §nNether Quartz§r§3 directly to §nPrismarine§r§3 via an §nAlchemical Catalyst or the Fountain of Alchemy§r%n§r%n§22. Using §nRed Algae Biomass§r§2 and §nCertus Quartz§r §2dust in an §nAutoclave%n§r%n§c3. Using §nRed Algae Biomass§r§c and §nPrismatic Combs§r §cin an §nAutoclave.%n§r%nWhich method you choose is entirely up to you and dependent on what infrastructure you have setup thus-far. Either way you would be wise to make a robust setup as you will be needing a decent amount of Prismarine in the future.%n%n[warn]Hold 16 Naquarite Insulator Foil to skip the Prismarine line Quests.[/warn]
+
+# Quest: Prismatic Gas
+betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.name=Prismatic Gas
+betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.desc=The §2Prismatic Crystal§r will then be processed in a §5§lVacuum Furnace§r with §2Boron Plasma§r in order to successfully convert it to the highly sought after §3Prismatic Gas§r.
+
+# Quest: Naquarite Universal Insulator Foil
+betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.name=Naquarite Universal Insulator Foil
+betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=Finally, you can combine the §2Radiation-Proof Composite Sheet§r with §2Netherite Foil§r and §2Manyullyn§r in the §5§lForming Press§r to create §3Naquarite Universal Insulator Foil§r. This incredibly strong foil can be used to bind ingredients to all of your future coils due to it's unrivaled radiation and heat resistance. 
+
+# Quest: Prismarine Precipitate
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.name=Prismarine Precipitate
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=After creating the §2Prismarine-Rich Nitrobenzene Solution§r, you'll need to process it using a §5§lChemical Plant§r with §2Strontium Hydroxide§r. Once processed, you can successfully obtain your first §3Prismarine Precipitate§r.%n%n[warn]The Strontium is completely recyclable within the line, so no need to worry about it's continuous injection.[/warn]
+
+# Quest: Prismarine Recycling
+betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=Prismarine Recycling
+betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.desc=§2Prismarine-Contaminated Hydrogen Peroxide§r is a byproduct of a couple different recipes in this line, it's best to recycle it for the bonus §3Prismarine Solution§r. Of course, you don't have to, but it would be ill-advised to avoid it.
+
 # Quest: Superdense
 betterquesting.quest.sB_lbhZZRnmZNjJiF8-1Hg.name=Superdense
 betterquesting.quest.sB_lbhZZRnmZNjJiF8-1Hg.desc=The advanced machines you are now creating require more advanced materials, as well as more advanced ways to process them. In ZPM, you can construct the Hot Isostatic Pressurization Unit, an upgrade to the Large Electric Compressor. This multiblock heats material to extreme temperatures under extreme pressure, allowing it to create superdense plates with minimal imperfections.%n%nThe HIP Unit heats up while it is running, and must be given some time to cool off. If it reaches its maximum heat threshold, it will significantly slow your recipes or even void the inputs. Use better coils to increase how long it will take to overheat, and use Heat Sensor Hatches to automate it properly.%n%n[note]Can perform compression recipes which say "Requires HIP Unit" in NEI.[/note]
+
+# Quest: Prismatic Naquadah Composite Sheet
+betterquesting.quest.sHI1n7unRWecpNcyBAgUfw.name=Prismatic Naquadah Composite Sheet
+betterquesting.quest.sHI1n7unRWecpNcyBAgUfw.desc=§5§lDehydrating§r this §2Prismatic Naquqdah Composite Slurry§r over the top of §2Tungsten Carbide§r & §2Lead foil§r creates a completely §3Radiation-Proof Composite Sheet§r. This will prove to be very useful in protecting your environment from radiation emitting structures.
+
+# Quest: Prismatic Crystal
+betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.name=Prismatic Crystal
+betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.desc=After finally getting the §2Prismarine Precipitate§r, the logical next step is to crystallize the Prismarine into a §3Prismatic Crystal§r. Using a §2Magneto-Resonance Lens§r we can do this in a §5§lLaser Engraver§r with the assistance of §2Molten Crystalline Alloy§r.
+
+# Quest: Prismarine-Rich Nitrobenzene Solution
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.name=Prismarine-Rich Nitrobenzene Solution
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.desc=After you've gotten ahold of some §2Prismarine Solution§r, combine it with §2Nitrobenzene§r in a §5§lChemical Bath§r in order to create a §3rich solution mixture§r. %n%nAdditionally, you will start to receive some §3Prismarine-Contaminated Hydrogen Peroxide§r byproduct.
+
+# Quest: Prismatic Naquadah
+betterquesting.quest.zIDk7MniRMGE9u_1Slo2qg.name=Prismatic Naquadah
+betterquesting.quest.zIDk7MniRMGE9u_1Slo2qg.desc=Woah, a new metal?%n%nBy combining the forces of your newly created §2Enriched Naquqdah§r and §2Prismatic Acid§r in the §5§lAlloy Blast Smelter§r, you find that a new metal forms; §3Prismatic Naquadah§r. %n%n[warn]This extremely strong, yet shockingly pliant material will be used in quite a few different structures and materials going forth.[/warn]
 
 
 ## Quest Line: Tier 8 - UV
@@ -4293,7 +4345,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=В самых темных уг
 
 # Quest: The Darkness of Choice for Edgelords
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbQ.name=The Darkness of Choice for Edgelords
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbQ.desc=%nIn order to get to the riches you rightfully deserve, you'll first need to make a Raw Portal, then complete it with more materials. You can then access this dimension that should contain every ore imaginable...%n%n[note]Unfortunately, those tasty ores are locked beneath the mantle of the planet. You'll need to use a Void Miner to get them out.[/note]%n%n[note]This should help with the Tartarite problems due to Proto-Halkonite Steel Base.[/note]%n%n[warn]If there is ever an ore that you need but cannot find, it's guarenteed to be gatherable from this dimension.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbQ.desc=%nIn order to get to the riches you rightfully deserve, you'll first need to make a Raw Portal, then complete it with more materials. You can then access this dimension that should contain every ore imaginable...%n%n[note]Unfortunately, those tasty ores are locked beneath the mantle of the planet. You'll need to use a Void Miner to get them out.[/note]%n%n[note]This should help with the Tartarite problems due to Proto-Halkonite Steel Base.[/note]%n%n[warn]If there is ever an ore that you need but cannot find, it's guaranteed to be gatherable from this dimension.[/warn]
 
 # Quest: Chaotic Energy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKjQ.name=Хаотическая Энергия
@@ -5659,7 +5711,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHlw.desc=Также есть неско�
 
 # Quest: Concrete and GT Stones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmA.name=Бетон и камень из GT
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmA.desc=Стамеской можно переделать бетон и камень из GT в новые примечательные блоки. Некоторые блоки камня из GT даже предотвращают спавн монстров на них. Бетон из GT ускоряет передвижение.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmA.desc=Стамеской можно переделать бетон и камень из GT в новые примечательные блоки. Некоторые блоки камня из GT даже предотвращают спавн монстров на них. Бетон ускоряет передвижение.
 
 # Quest: Basic Builder's Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHmQ.name=Простой жезл строителя
@@ -6604,16 +6656,16 @@ betterquesting.quest.jreOZVXRQa2sGXViV7-3Gg.name=§6§lКопаем глубже
 betterquesting.quest.jreOZVXRQa2sGXViV7-3Gg.desc=Твоя водонапорная башня не вывозит? Или ты поставил её в засушливом биоме и отчаянно нуждаешься в воде? Не бойся, паровая Водяная Помпа решит твою проблему! Эта мультиблочная постройка способна производить большое количество воды, если запитать её паром (1500Л/с).%n%nКак и другие паровые МБ, её можно улучшить, используя стальные каркасы вместо бронзовых, что удвоит выход воды, без увеличения затрат пара.%n%n§3§4Однако, выход воды всё ещё зависит от влажности биома, так что держи это в уме.§r%n%n[note]P.S. Указанные материалы включают в себя затраты на создание контроллера.[/note]
 
 # Quest: UMV Glass
-betterquesting.quest.m5N5Q9QEREyzF1B4eObk0Q.name=§6§lUMV Glass
-betterquesting.quest.m5N5Q9QEREyzF1B4eObk0Q.desc=The next tier of Borosilicate glass is Transcendent (12).
+betterquesting.quest.m5N5Q9QEREyzF1B4eObk0Q.name=§6§lUMV стекло
+betterquesting.quest.m5N5Q9QEREyzF1B4eObk0Q.desc=Следующий тир боросиликатного стекла - трансцендентный металл (12).
 
 # Quest: Component Assembly Line
 betterquesting.quest.n7yjRSr0R7O2agebw73FGA.name=§6§l§6§lКомпонентная сборочная линия
 betterquesting.quest.n7yjRSr0R7O2agebw73FGA.desc=Посмотри в NEI, какие замечательные рецепты есть у этой малышки. Идеально подходит для производства GT компонентов пачками.
 
 # Quest: UEV Glass
-betterquesting.quest.pbLvv9tvQaKGp2Y2usPMSw.name=§6§lUEV Glass
-betterquesting.quest.pbLvv9tvQaKGp2Y2usPMSw.desc=The next tier of Borosilicate glass is Cosmic Neutronium (10).
+betterquesting.quest.pbLvv9tvQaKGp2Y2usPMSw.name=§6§lUEV стекло
+betterquesting.quest.pbLvv9tvQaKGp2Y2usPMSw.desc=Следующий тир боросиликатного стекла - космический нейтроний (10).
 
 # Quest: A Not So Useful Scanner...
 betterquesting.quest.pd68ySXjTD6yW1MN6x6swg.name=§6§lНе совсем сканер...
@@ -6624,12 +6676,12 @@ betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.name=§6§6§6§l§r§6§l§5§l§o�
 betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.desc=...но он может быть таким же трудолюбивым, как пчёлы. Эти новые электрические друзья - отличные помощники для мультиблочных механизмов: обслуживание, контроль, управление - они справятся со всем.%n%nЦентр дронов - это недавно разработанный механизм. Ему не требуется энергия - просто вставь дрон, и он начнёт работу.%nКогда он активен, дрон автоматически сканирует пространство в поисках '§lМодуля связи с дроном§r' (заменяющего люки техобслуживания в мультиблоках) в определённом радиусе и пытается установить соединение с хост-механизмом. Если подключение успешно, ты сможешь управлять этим мультиблочным механизмом удалённо через интерфейс Центра дронов! Кроме того, можно переименовать механизм для удобства идентификации.%n%n[note]Переименовать можно либо ПКМ по Модулю связи с дроном, либо через интерфейс Центра дронов.[/note]%n%nИспользование более продвинутых дронов увеличивает радиус центрального управления, причём ограничений на количество дронов нет.%n%n[warn]Обрати внимание: дрон может выйти из строя во время работы - вероятность снижается от тира 1 к тиру 3, а дроны с антигравитацией (тир 3) никогда не выходят из строя.%nКроме того, если хост-механизм находится слишком далеко от Центра дронов, функция удалённого управления через GUI будет отключена, но кнопка включения/выключения всех механизмов и функции техобслуживания останутся доступными.[/warn]%n§6§l%nМожет быть, однажды наши дроны смогут управлять механизмами на других планетах... запуск двигателя!
 
 # Quest: UIV Glass
-betterquesting.quest.qnXgpGxbRc-nHbshgUs1jA.name=§6§lUIV Glass
-betterquesting.quest.qnXgpGxbRc-nHbshgUs1jA.desc=The next tier of Borosilicate glass is Infinity (11).
+betterquesting.quest.qnXgpGxbRc-nHbshgUs1jA.name=§6§lUIV стекло
+betterquesting.quest.qnXgpGxbRc-nHbshgUs1jA.desc=Следующий тир боросиликатного стекла - бесконечность(11).
 
 # Quest: UHV Glass
-betterquesting.quest.r9VceRoLQr-bpZq_EVu1Ig.name=§6§lUHV Glass
-betterquesting.quest.r9VceRoLQr-bpZq_EVu1Ig.desc=The next tier of Borosilicate glass is Neutronium (9).
+betterquesting.quest.r9VceRoLQr-bpZq_EVu1Ig.name=§6§lUHV стекло
+betterquesting.quest.r9VceRoLQr-bpZq_EVu1Ig.desc=Следующий тир боросиликатного стекла - нейтроний (9).
 
 # Quest: Draconic Development
 betterquesting.quest.rZCrzZ3QTni28BdPZf2-0w.name=Draconic Development
@@ -7419,7 +7471,7 @@ betterquesting.quest._O6stWM3RR-qJdcvs0i-Mw.desc=You've mastered antimatter prod
 
 # Quest: Welcome to the Plasma Chain
 betterquesting.quest.bNiieqPgSFqwFpC2DZkj-g.name=Welcome to the Plasma Chain
-betterquesting.quest.bNiieqPgSFqwFpC2DZkj-g.desc=Hello there! If you've unlocked fusion, you can start this questline, but keep in mind that it's divided into three segments (the three fusion chains): one for each tier of Fusion Reactor, from Mk1 to Mk3.%n%nThere is a spreadsheet for all these chains, although it has some reactor count numbers that aren't right. To see it, check the Excel spreadsheet that set these numbers, in the following GitHub link: [url]https://github.com/GTNewHorizons/GTplusplus/pull/669[/url]%n%nThese quests follow the process of creating some truly powerful plasmas that are useful for power generation at the beginning of endgame, when you've scaled up your setup to a Compact Fusion Reactor and XL Plasma Turbines. As you might have seen before, those huge turbines can go very fast with good materials, like Trinium or Infinity, but they will apply EU/t penalties according to the fuel value of the plasma used. This means that Helium and Tin Plasma are both much weaker there than they were in Large Plasma Turbines.%n%nThe end product of this whole process is Celestial Tungsten Plasma, which has no penalties even at Spacetime and can somewhat match what Helium Plasma would have produced, per compact reactor. The last step is the slowest, but, if there are no other bottlenecks, you can expect around §2§lover 8 billion EU/t§r assuming a single compact doing the last step with huge infinity turbines in a plasma XL.%n%nHowever, getting there won't be easy. This whole process uses 15 fusion recipes in total, and a lot more material automation than any of the simple fusion setups. This questline will help explain what is simple, not simple, or possibly a bottleneck. If you complete this, you will be sustained in powergen until the Dyson Swarm, or whatever other option appears later on, and it will continue being useful later on!
+betterquesting.quest.bNiieqPgSFqwFpC2DZkj-g.desc=Hello there! If you've unlocked fusion, you can start this questline, but keep in mind that it's divided into three segments (the three fusion chains): one for each tier of Fusion Reactor, from Mk1 to Mk3.%n%nThere are more fine details surrounding plasma power generation you can access by using the following Wiki link: [url]https://wiki.gtnewhorizons.com/wiki/Fusion_Reactor[/url]%n%nThese quests follow the process of creating some truly powerful plasmas that are useful for power generation at the beginning of endgame, when you've scaled up your setup to a Compact Fusion Reactor and XL Plasma Turbines. As you might have seen before, those huge turbines can go very fast with good materials, like Trinium or Infinity, but they will apply EU/t penalties according to the fuel value of the plasma used. This means that Helium and Tin Plasma are both much weaker there than they were in Large Plasma Turbines.%n%nThe end product of this whole process is Celestial Tungsten Plasma, which has no penalties even at Spacetime and can somewhat match what Helium Plasma would have produced, per compact reactor. The last step is the slowest, but, if there are no other bottlenecks, you can expect around §2§lover 8 billion EU/t§r assuming a single compact doing the last step with huge infinity turbines in a plasma XL.%n%nHowever, getting there won't be easy. This whole process uses 15 fusion recipes in total, and a lot more material automation than any of the simple fusion setups. This questline will help explain what is simple, not simple, or possibly a bottleneck. If you complete this, you will be sustained in powergen until the Dyson Swarm, or whatever other option appears later on, and it will continue being useful later on!
 
 # Quest: XL Turbo SC Steam Turbine
 betterquesting.quest.bz_RazGFSl6k7fUkEt1Lzw.name=XL Турбо SC паровая турбина
@@ -7949,7 +8001,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJg.name=Fractioned Benzene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJg.desc=One of the most important steps is to remove the limitation you had when distilling. Wood Tar turns into Benzene? That's not how it should be, there's much more to get from that tar than what you've been extracting from it. To keep the rest, you need more space in the distillation process, or, more specifically, more height. Each of the fluids that can be separated from within the tar will stick at a different height level, sitting on top of all the others that are denser than itself.%n%nBasically, you need a multiblock, instead of a singleblock. The Distillation Tower you will need for this recipe has to be at least 6 blocks tall, with 1 input plus 5 outputs. Out of it, you will get Benzene, Toluene and Phenol, which are all viable gases for power alongside being very useful for progression (Toluene for compressing with TNT and moving past HV, Phenol for crafting circuits in the next tier and other chemical lines). You will also get various types of Dimethylbenzene. For now the only one of interest is 1,2-Dimethylbenzene which is a part of the PBI line in IV. Though even that is unfortunately of little use to you right now. You also get Creosote for your Lubricant needs, or a little extra power.
 
 # Quest: Creosote's Work
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJw.name=Creosote's Work
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJw.name=Переработка креозота
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMJw.desc=Your old pal, Creosote Oil, is back in the game! That's right, you can get it automatically from Charcoal processing again, as you did with the first Coke Ovens, and what you can do with it is about the same. The two main purposes it has are power generation and Lubricant, which you will want to use in Cutting Machines, and will also be required in some later multiblocks like the Large Combustion Engine and the Multiblock Miner. Using a Brewery, you can add some Redstone to quickly convert this oil to Lubricant and keep it in stock for whatever machine or craft needs it.%n%nAlternatively, you can get a bit of extra power from this. The fuel value per bucket is much lower than the big three, but it still has an interesting use. When the semifluid generators were broken, and the Creosote wasn't usable in them, there were setups using two max-size LP Railcraft boilers to turn the amount you get from one DT into the EU needed to run it, making that step completely free in terms of power. There were some fine details, such as the Steam Turbines needing to all be LV for the fuel efficiency, but it'd be easier to use semifluid generators from the start. Either way, you can at least remove the EU cost from the DT from the equation, if you wish to.
 
 # Quest: Phenol's Width
@@ -7973,7 +8025,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLA.name=Direct Ethylene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLA.desc=Wood Gas has a big portion of barely useful outputs, but also some hidden gems. The hardest one to get, arguably, is Ethylene, since it needs automated Sulfuric Acid alongside the Ethanol you're already getting. DTing Wood Gas is the main way to get Ethylene directly, without worrying about the acid, when it comes to renewable power. This make Polyethylene, an important plastic you've already worked with at this point.%n%nThe caveat is, of course, the small amount that you get in this recipe. Whether or not you set this process up is your choice, but it's generally useful, especially if your main Ethanol source is Wood Vinegar.
 
 # Quest: No Benzene Yet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLQ.name=No Benzene Yet
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLQ.name=Бензола ещё нет
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMLQ.desc=This questbook page is supposed to explain the Benzene powergen line, but you might have noticed that you haven't made any Benzene yet. That's because the recipe path to get it from Charcoal has an MV recipe, and you can't just skip straight to MV with the small amount of steam you were using in the Bronze Age.%n%nThere are also other paths for renewable power in this page. They have similar sources, or the same source, but different processing lines, and the entire thing looks like a tree branch, with many different ways in which you can go. The Carbon Monoxide path is one example of this, and there are many more to come in the future.%n%nRegardless of which path you chose to get power from your Charcoal, you can now sustain an EBF comfortably and get power more efficiently. It's recommended that you move away from steam in the next tier, because you will need to transport too much of it to produce good amounts of MV power. Fortunately, you won't need steam at all!
 
 # Quest: Green Nitric Acid
@@ -8021,7 +8073,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOA.name=CBD Into Steam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOA.desc=There are no more Diesel-related upgrades for the CBD. To continue using Combustion Generators, or the LCE, you can only make your setup bigger or upgrade energy hatches. There is, however, a more power-dense fuel that uses CBD in its recipe, but there's a catch: it's a solid fuel, to be used in steam boilers, which gives it advantages and disadvantages.%n%nEverything from this quest onwards is about those solid fuels. There are two versions, one with additional inputs over the other, and they both follow the same logic: they need to be converted to Steam, which is hard to transport, convert into EU and basically require the EV and IV Large Steam Boilers. However, the combination of these fuels and those boilers is much, much more fuel efficient than before, if you are willing to face the additional challenges in this kind of setup.%n%nHow does it generally go? If you already have CBD, you can get power from it by putting it directly in Combustion Generators. In this line, though, you need to automate Fuel Binder, add blocks of Charcoal, Coal or Coal Coke and then put the Super Fuel in a Titanium or Tungstensteel Large Boiler, where you get Superheated Steam. After that, you need an HP Steam Turbine multi, followed by a regular Steam Turbine multi, and the setup is complete.%n%nIf you want to continue, then you'll need at least one Titanium Large Boiler. Build one.
 
 # Quest: Mass Distilled Water
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOg.name=Mass Distilled Water
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOg.name=Чистая дистиллированная вода
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOg.desc=Water is completely free, that much is obvious. Distilled Water, though? It's the same input, but it needs a machine to process it into this version, and you best not choose singleblock Distilleries to do this, because they are incredibly slow and will never keep up with your demands.%n%nThe obvious option is a Distillation Tower. The less obvious option is a Steam Turbine multi, which outputs Distilled Water that is supposedly piped back to where the steam is made. However, there are several steam producers that use regular water, so you can try that? The DT is the simplest and most direct option, though. 3-high is the minimum, so you have to build it like that. It doesn't need a lot of power, it will fill up a tank of any size over time since the water input is completely free.%n%nTo prevent it from running continuously, though, here's a neat trick, in case you haven't done it already: take the output hatch on the second layer, where the Distilled Water comes from, and put it directly above the DT controller. Then, put a Fluid Detector Cover on the bottom side of the hatch and a Machine Controller Cover on the top side of the controller, so that the covers are facing each other. Set the controller cover to "Disable with Redstone", and the DT will stop after the fluid tank you've chosen is full. When it gets full, the output hatch will get stuck with some water, and it will send a redstone signal that stops the DT.
 
 # Quest: Nitric And Sulfuric Acid
@@ -8154,7 +8206,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.name=Vacuum Nukes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.desc=What's the next step, running nuclear reactors in a perfect vacuum? That would be pretty funny, I'd like to see that.%n%nDisclaimer: this last step is not very stable. It's very risky to do it in servers with no backups, because it relies on redstone circuits to keep the reactor from exploding. Use multiple failsafes to guarantee safety. Never ever build a vacuum nuke in a Thermos server!%n%nVacuum nukes are an interesting GTNH-specific setup. They use only three components: fuel rods, platings to fill the empty slots for automation purposes, and coolant cells. Those cells you have used to make Energy Hatches, for example, they're used here to keep the reactor from overheating and exploding. The main difference this setup has is that these cells are consumable, and will wear out over time. You will need to add fresh cells into the reactor to keep running it safely, but the crux of the show is that you don't need to make new ones - you just need to cool them down again.%n%nThe Vacuum Freezer! That's why it's called a vacuum nuke! Elementary, my dear Steve. This kind of setup relies on using EU to refill the coolant cells, so to speak, and get much more EU from the reactor than you spend to keep it running. However, the redstone automation for this is quite tricky. If you just try it blindly, it might take you a long time to figure it out, and it might have explosive results. Check the Vacuum Reactors page on the wiki ([url]https://wiki.gtnewhorizons.com/wiki/Vacuum_Reactor[/url]) if you want a detailed guide that goes far beyond what I could write in this quest description.%n%nThis quest task is for the last setup shown in the wiki, specifically the 8720-43600 EU, 40 Quad Uranium setup. As the title implies, it can produce up to 43600 EU/t, but it will require multiple filters and failsafes to run it safely. The bonus, compared to fluid nukes, is that the LHE + turbine setup is not necessary for these high output numbers.
 
 # Quest: Can We Get Uranium Here?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMYA.name=Can We Get Uranium Here?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMYA.name=Можно ли здесь добыть уран?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMYA.desc=Yes, you can. In fact, you can get it much earlier than EV, but the speed at which you get it can vary wildly, depending on how you approach this problem. Uranium is the main upgrade to Thorium in nukes, with a lot more power to give and a different useful breeding byproduct, but you need about 3 stacks of Uranium 238 to set up the most powerful basic IC2 Uranium Nuke.%n%nHow do you get it, though? The one answer is, you get it from Thorium. Looking at NEI, the Thorium ore processing has a chance to give Uranium dusts, which you can use as fuel, but this happens very slowly, especially considering that Thorium is a rare ore in the Nether, even if each ore block gives 4 crushed dust. The reality seems to be that fast Uranium only happens when you can mine from t2 planets, but this is not the only way. There is a secret, and this secret involves IC2 crops.%n%nHow does it work? Well, it's simple. The IC2 crop that corresponds to Thorium, the God of Thunder, can quadruple each Crushed Thorium Ore into 4 Purified Thorium Ore, but it also outputs, in fluid form, one Uranium Ingot! This means that each Thorium Ore gives you 4 Uranium Ingots, and with around 42 ore, you can do one cycle of that big reactor setup. God of Thunder needs the ore under it, though, so make sure you save some for that purpose.%n%nEV Uranium nukes are an achievement intended mostly for IC2 crop users, so this quest won't demand something like that. Still, it's a useful secret, so here it is. Additionally, the Uranium crop quest in the questbook awards you with 32 Pitchblende when you complete it, which might prove useful for both for quadrupling Uranium and getting Radium for Radon!
 
 # Quest: Uranium Basic Nukes
@@ -14832,6 +14884,10 @@ betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.desc=Без описания
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.name=Триггер: Пропуск ракетного шаттла
 betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.desc=Без описания
 
+# Quest: Trigger: Naquadria Skip
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.name=Триггер: Пропуск наквадрии
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.desc=Без описания
+
 # Quest: Trigger: Samarium Skip
 betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.name=Триггер: Пропуск самария
 betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.desc=Без описания
@@ -14976,6 +15032,10 @@ betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.desc=Без описания
 betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.name=Триггер: Пропуск церия
 betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.desc=Без описания
 
+# Quest: Trigger: Enriched Naquadah Skip
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.name=Триггер: Пропуск обогащённого наквадаха
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.desc=Без описания
+
 # Quest: Trigger: Graphene Skip
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Триггер: Пропуск графена
 betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=Без описания
@@ -15047,6 +15107,10 @@ betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.desc=Без описания
 # Quest: Trigger: LV Extruder Skip
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.name=Триггер: LV Экструдер
 betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.desc=Без описания
+
+# Quest: Trigger: Prismarine Line Skip
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.name=Триггер: Пропуск призмариновой линии
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.desc=Без описания
 
 # Quest: Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
 betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Триггер: Пропуск CN3H7O3 (Фиолетового) ракетного топлива
