@@ -122,33 +122,33 @@ thaumicenergistics.research_page.TESTORAGE.1=既存のデジタル保存媒体�
 thaumicenergistics.research_page.TESTORAGE.2=§lコンポーネント§r<BR>エッセンシアをデジタル形式で貯蔵する。セル筐体を使ってネットワークに接続することで初めて機能する。<BR>§lセル筐体§r<BR>ストレージコンポーネントを接続・保護する。<BR>§lエッセンシアセルワークベンチ§r<BR>セルを分割し、貯蔵するエッセンシアの種類を指定する。
 
 # Research IO
-tc.research_name.thaumicenergistics.TEIO=Digi-sentia Transportation
-tc.research_text.thaumicenergistics.TEIO=Moving Essentia Digitally!
-thaumicenergistics.research_page.TEIO.1=Now that you know how to digitize essentia, it's time to put that knowledge to work.<LINE>§lImport & Export§r<BR>By binding the appropriate core to an essentia tube and chamber, you are able to move essentia in and out of the storage network. The use of a filter tube allows you to specify what aspects are allowed to be transferred.
-thaumicenergistics.research_page.TEIO.2=§lStorage Bus§r<BR>Combining the import and export buses into a single device allows you to use external essentia containers as network storage.<BR>As well as storage, the bus can also be used to remove excess essentia from the network by using a void jar or ME Condenser. If using a void jar, you must select the allow void button in the GUI. Setting a low priority on the storage bus is recommended here.
+tc.research_name.thaumicenergistics.TEIO=デジセンシア輸送
+tc.research_text.thaumicenergistics.TEIO=エッセンシアをデジタルに移動！
+thaumicenergistics.research_page.TEIO.1=エッセンシアをデジタル化する方法を知った今、その知識を実務に活用する時だ。<LINE>§lインポート & エクスポート§r<BR>適切なコアをエッセンシア管とバッファー空間に結合させることで、ネットワークからエッセンシアを出し入れできるようになる。フィルター付きエッセンシア管を使用することで、輸送する相を指定可能になっている。
+thaumicenergistics.research_page.TEIO.2=§lストレージバス§r<BR>インポート・エクスポートバスを1つの装置に融合させることで、外部のエッセンシア貯蔵容器をネットワーク内のストレージとして使えるようになる。<BR>ストレージと同様、虚無の瓶かMEコンデンサーを使用してネットワークから超過分のエッセンシアを削除することができる。虚無の瓶を使用する場合、GUIの"超過分の消去"ボタンから設定する必要がある。このときストレージバスの優先度は低く設定しておくことを推奨する。
 
 # Research Arcane crafting terminal
-tc.research_name.thaumicenergistics.TEARCANETERM=Arcane Crafting Terminal
-tc.research_text.thaumicenergistics.TEARCANETERM=Crafting with magic §oand technology.§r
-thaumicenergistics.research_page.TEARCANETERM.1=You have discovered that using primal aspects to bind a §lTerminal§r to an §lArcane Worktable§r allows you to imbue the terminal with the worktable's ability to craft arcane items.<BR>The terminal retains its ability to access items on the ME network allowing faster and more plentiful crafting, as well as store and swap a set of armor for when you need a quick vis discount.
+tc.research_name.thaumicenergistics.TEARCANETERM=神秘のクラフトターミナル
+tc.research_text.thaumicenergistics.TEARCANETERM=§o科学と§r魔法を使ったクラフト
+thaumicenergistics.research_page.TEARCANETERM.1=根源相を用いて§lターミナル§rに§l神秘の作業台§rを結合させることで、神秘のクラフト能力をターミナルに吹き込むことが可能であることを発見した。<BR>ターミナルはMEネットワーク内のアイテムにアクセスする能力を保持し、より高速かつ大量のクラフトを可能にする。さらにVis消費軽減が必要な際に素早く用意できるよう、防具の保持・入れ替え機能も有する。
 
 # Research Essentia terminal
-tc.research_name.thaumicenergistics.TEESSTERM=Essentia Monitoring
-tc.research_text.thaumicenergistics.TEESSTERM=Knowing how much you have.
-thaumicenergistics.research_page.TEESSTERM.1=The §lEssentia Terminal§r provides a convenient way to insert or extract essentia stored within the network.<BR>When placing a jar or phial it will be emptied if it contains any essentia, or filled with the selected aspect. Labels can also be set or cleared depending on the selected aspect.
-thaumicenergistics.research_page.TEESSTERM.2=For the Thaumaturge with little time on their hands and many aspects to work with, the displayed aspects can be clicked with an item to fill, drain, or set the item in question.<BR>When holding multiple of an item, items will be returned to your inventory.
-thaumicenergistics.research_page.TEESSTERM.3=The §lEssentia Level Emitter§r provides a redstone signal when the level of essentia in the network falls below or rises above a set amount.
-thaumicenergistics.research_page.TEESSTERM.4=The §lEssentia Storage Monitor§r & §lEssentia Conversion Monitor§r allow you to see how much of an aspect is in the network at a glance. The conversion monitor also allows you to insert and extract essentia from the network.<BR>Right-clicking with a wrench will lock/unlock the monitor.<BR>Right-clicking an unlocked monitor with a label or filled jar or phial will set the displayed aspect, and right-clicking with an empty hand will clear aspect.<BR>Right-clicking a locked conversion monitor will fill jar or phial and Shift-Right-Clicking will empty them.<BR>Shift-Double-Right-Click will empty all essentia from your inventory.
+tc.research_name.thaumicenergistics.TEESSTERM=エッセンシアのモニタリング
+tc.research_text.thaumicenergistics.TEESSTERM=どのくらい持っているか、知っておこう。
+thaumicenergistics.research_page.TEESSTERM.1=§lエッセンシアターミナル§rはネットワーク内に保存されたエッセンシアの搬入出に便利だ。<BR>スロットにエッセンシアの入った瓶や薬瓶を配置するとそれを空にし、空の瓶や薬瓶を配置すると選択した相のエッセンシアを充填する。選択した相に応じてラベルを指定または消去することも可能だ。
+thaumicenergistics.research_page.TEESSTERM.2=表示されている相をアイテムでクリックすることでエッセンシアを直接充填・搬入・設定することもでき、一度に大量のエッセンシアを扱わなければならない際に役立つ。<BR>複数のアイテムを持って先述のように相を直接クリックした場合、そのアイテムはインベントリに戻ってくる。
+thaumicenergistics.research_page.TEESSTERM.3=§lエッセンシアレベルエミッター§r はネットワーク内にあるエッセンシアが設定量を上回る、または下回るとレッドストーン信号を出力する。
+thaumicenergistics.research_page.TEESSTERM.4=§lエッセンシアストレージモニター§rと§lエッセンシア変換モニター§rを使えば、ネットワーク内の1種類のエッセンシア量が一目でわかるようになる。変換モニターはネットワーク内のエッセンシアを搬入出することも可能だ。<BR>モニターをレンチで右クリックするとロック/ロック解除する。<BR>ロック解除されたモニターをラベル付きまたはエッセンシア入り瓶、もしくは薬瓶で右クリックすると表示する相を設定でき、素手で右クリックすると解除できる。<BR>ロック済みの変換モニターを瓶や薬瓶で右クリックするとエッセンシアを充填し、Shift右クリックすると瓶や薬瓶を空にする。<BR>Shift右ダブルクリックでインベントリ内にある全てのエッセンシア入りアイテムを空にする。
 
 # Research Essentia Provider
-tc.research_name.thaumicenergistics.TEESSPROV=Essentia Provider
-tc.research_text.thaumicenergistics.TEESSPROV=Ask and you shall receive.
-thaumicenergistics.research_page.TEESSPROV.1=While import and export buses are useful for an array of jobs, they lack the flexibility to interface with complex alchemical constructs. To overcome this limitation you have created a device that will allow these constructs to request any essentia directly from the network.<BR>Using the §lEssentia Provider§r should prove to be a simple task. Simply connect it to both the network and construct, and it will do the rest.<BR>Like an essentia buffer it has a small amount of suction(8).
+tc.research_name.thaumicenergistics.TEESSPROV=エッセンシアプロバイダー
+tc.research_text.thaumicenergistics.TEESSPROV=求めなさい。そうすれば、与えられる。
+thaumicenergistics.research_page.TEESSPROV.1=入力・出力バスは便利だが、複雑な錬金術構造体とのやりとりに用いるには柔軟性に欠ける。この制約を取り払うため、錬金術構造体がネットワークから直接エッセンシアを要求可能にする装置を生み出した。<BR>§lエッセンシアプロバイダー§rの使用は簡単なはずだ。ネットワークと錬金術構造体の両方に接続するだけで、後はよしなにやってくれる。<BR>エッセンシアバッファと同様、8の陰圧を持つ。
 
 # Research Infusion Provider
-tc.research_name.thaumicenergistics.TEINFPROV=Infusion Provider
-tc.research_text.thaumicenergistics.TEINFPROV=Infusion made easier.
-thaumicenergistics.research_page.TEINFPROV.1=By researching the process of essentia infusion, you have discovered a method for instantaneous conversion between digi-sentia and essentia that can be used for infusion.<BR>By placing the §lInfusion Provider§r near a thaumic device, the device can draw essentia directly from the network as if it were a warded jar.<BR>This could prove to be very useful for the infusion alter.
+tc.research_name.thaumicenergistics.TEINFPROV=注入プロバイダー
+tc.research_text.thaumicenergistics.TEINFPROV=注入を簡単に。
+thaumicenergistics.research_page.TEINFPROV.1=エッセンシア注入の工程を研究することで、デジセンシアを注入に使えるエッセンシアへと瞬時に変換する方法を発見した。<BR>§l注入プロバイダー§rを魔導学的装置の近くに設置することで、保護瓶からエッセンシアを引き出すのと同様に、その装置がネットワークから直接エッセンシアを引き出せるようになる。<BR>これは注入の祭壇で非常に重宝するだろう。
 
 # Research Advanced Infusion Provider
 tc.research_name.thaumicenergistics.TEADVINFPROV=Advanced Infusion Provider

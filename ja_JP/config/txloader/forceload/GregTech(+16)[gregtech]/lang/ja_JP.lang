@@ -222,7 +222,9 @@ gt.interact.desc.freq=周波数
 gt.interact.desc.freq_format=周波数: %s
 gt.interact.desc.freq_perm=周波数: %s、送信: %s
 gt.interact.desc.normal=通常
+gt.interact.desc.normal.tooltip=Normal
 gt.interact.desc.inverted=反転
+gt.interact.desc.inverted.tooltip=Inverted
 gt.interact.desc.inverted_b=(反転)
 gt.interact.desc.ready=準備完了
 gt.interact.desc.not_ready=準備中
@@ -773,40 +775,41 @@ GT5U.MBTT.Uncertainty=不確定性ハッチ
 GT5U.MBTT.InputData=データ受信コネクター
 GT5U.MBTT.OutputData=データ送信コネクター
 GT5U.MBTT.Causes=毎秒
-GT5U.MBTT.Produces=Produces
+GT5U.MBTT.Produces=生産中
 GT5U.MBTT.PPS=の汚染を排出します
 GT5U.MBTT.Hold=Hold
 GT5U.MBTT.Display=を押して構造ガイドを表示します
 GT5U.MBTT.StructureHint=ブロックによっては複数の候補があったり、どのTierでも使用できるものがあります
 GT5U.MBTT.Mod=制作者:
 GT5U.MBTT.Air=ブロックの設置不可
-GT5U.MBTT.ParallelBase=Processes %s items per %s Tier
-GT5U.MBTT.ParallelBase_Singular=Processes %s item per %s Tier
-GT5U.MBTT.SpeedBase=%s faster than single block machines of the same voltage
-GT5U.MBTT.SpeedTiered=%s faster than single block machines of the same voltage, per %s Tier
-GT5U.MBTT.EuDiscountBase=Uses %s of the EU normally required
-GT5U.MBTT.EuDiscountTiered=Uses %s less EU per %s Tier
-GT5U.MBTT.Parallel_Multiplicative=%s Parallels per %s Tier
+GT5U.MBTT.ParallelBase=%s 個のアイテムを処理 (%s Tier毎)
+GT5U.MBTT.ParallelBase_Singular=%s 個のアイテムを処理 (%s Tier毎)
+GT5U.MBTT.SpeedBase=同一電圧のシングルブロック機械と比較して速度%s倍
+GT5U.MBTT.SpeedTiered=同一電圧のシングルブロック機械と比較して速度%s倍 (%s Tier毎)
+GT5U.MBTT.EuDiscountBase=通常の電力消費量の%sを使用
+GT5U.MBTT.EuDiscountTiered=%s Tier毎に消費EUの%sを削減
+GT5U.MBTT.Parallel_Multiplicative=並列処理数 %s (%s Tier毎)
 
-GT5U.MBTT.Parallel.Base=%s Parallels
-GT5U.MBTT.Parallel.Additional=%s Parallels per %s Tier
-GT5U.MBTT.Parallel.Singular=%s Parallel
-GT5U.MBTT.Speed.Base=%s Speed
-GT5U.MBTT.Speed.Additional=%s Speed per %s Tier
-GT5U.MBTT.EuDiscount.Base=%s EU Usage
-GT5U.MBTT.EuDiscount.Additional=%s EU Usage per %s Tier
-GT5U.MBTT.SteamDiscount.Base=%s Steam Usage
-GT5U.MBTT.Tiers.Voltage=Voltage
-GT5U.MBTT.Tiers.Machine=Machine
-GT5U.MBTT.Tiers.Coil=Heating Coil
-GT5U.MBTT.Tiers.MachineCasing=Machine Casing
-GT5U.MBTT.Tiers.MetalMachineCasing=Metal Machine Casing
-GT5U.MBTT.Tiers.ItemPipe=Item Pipe Casing
-GT5U.MBTT.Tiers.FluidPipe=Pipe Casing
-GT5U.MBTT.Tiers.Solenoid=Solenoid
-GT5U.MBTT.Tiers.Turbine=Sum of Turbine
-GT5U.MBTT.Steam.Speed=%s faster than using single block steam machines of the same pressure
-GT5U.MBTT.Steam.Eff=Only consumes steam at %s of the steam flowrate normally required
+GT5U.MBTT.Parallel.Base=並列処理数 %s
+GT5U.MBTT.Parallel.Additional=並列処理数 %s (%s Tier毎)
+GT5U.MBTT.Parallel.Singular=並列処理数 %s
+GT5U.MBTT.Speed.Base=速度 %s
+GT5U.MBTT.Speed.Additional=速度 %s (%s Tier毎)
+GT5U.MBTT.EuDiscount.Base=消費電力 %s
+GT5U.MBTT.EuDiscount.Additional=消費電力 %s (%s Tier毎)
+GT5U.MBTT.SteamDiscount.Base=蒸気消費 %s
+GT5U.MBTT.Tiers.Voltage=電圧
+GT5U.MBTT.Tiers.Machine=機械
+GT5U.MBTT.Tiers.Coil=コイルブロック
+GT5U.MBTT.Tiers.MachineCasing=マシン外装
+GT5U.MBTT.Tiers.MetalMachineCasing=金属マシン外装
+GT5U.MBTT.Tiers.ItemPipe=アイテムパイプ外装
+GT5U.MBTT.Tiers.FluidPipe=パイプ外装
+GT5U.MBTT.Tiers.Solenoid=ソレノイド
+GT5U.MBTT.Tiers.Turbine=タービンの合計
+GT5U.MBTT.Tiers.Glass=Glass
+GT5U.MBTT.Steam.Speed=同一圧力のシングルブロック蒸気機械と比較して速度%s倍
+GT5U.MBTT.Steam.Eff=通常の蒸気消費量の%sを使用
 GT5U.MBTT.Structure.Complex=構造が複雑すぎます！
 GT5U.MBTT.Structure.SeeStructure1=構造を見るには、本体に
 GT5U.MBTT.Structure.SeeStructure2=ホログラムプロジェクターを使用してください！
@@ -1009,8 +1012,8 @@ gt.recipe.replicator=複製機
 gt.recipe.replicator.description=マターから元素を生成する
 gt.recipe.rockbreaker=削岩機
 gt.recipe.rockbreaker.description=§b水§7と§c溶岩§7を側面に隣接させるか、§c溶岩§7を周囲に設置しソウルサンドを下に設置する必要がある
-gt.recipe.rockbreaker.fakeitem.side=IT'S FREE! Place Lava on Side
-gt.recipe.rockbreaker.fakeitem.top=IT'S FREE! Place Lava on Top
+gt.recipe.rockbreaker.fakeitem.side=アイテムは必要ありません！水と溶岩を隣接させてください
+gt.recipe.rockbreaker.fakeitem.top=アイテムは必要ありません！溶岩を上面に設置してください
 gt.recipe.scanner=スキャナー
 gt.recipe.scanner.description=作物や素材をスキャンする
 gt.recipe.sifter=ふるい機
@@ -1175,9 +1178,9 @@ GT5U.GTPP_MULTI_WASH_PLANT.mode.1=簡易式洗浄機
 GT5U.GTPP_MULTI_WASH_PLANT.mode.2=化学槽
 GT5U.GTPP_MULTI_INDUSTRIAL_PLATE_PRESS.mode.0=圧延機
 GT5U.GTPP_MULTI_INDUSTRIAL_PLATE_PRESS.mode.1=成型プレス機機
-GT5U.GTPP_MULTI_STEAM_FURNACE.mode.0=Furnace
-GT5U.GTPP_MULTI_STEAM_FURNACE.mode.1=Blasting
-GT5U.GTPP_MULTI_STEAM_FURNACE.mode.2=Smoking
+GT5U.GTPP_MULTI_STEAM_FURNACE.mode.0=かまど
+GT5U.GTPP_MULTI_STEAM_FURNACE.mode.1=溶鉱
+GT5U.GTPP_MULTI_STEAM_FURNACE.mode.2=燻製
 GT5U.INDUSTRIAL_ELECTROMAGNETIC_SEPARATOR.mode.0=電磁分離機
 GT5U.INDUSTRIAL_ELECTROMAGNETIC_SEPARATOR.mode.1=磁化機
 GT5U.MULTI_CANNER.mode.0=缶詰機
@@ -1274,7 +1277,6 @@ GT5U.machines.stocking_bus.auto_pull.tooltip.2=右クリックして詳細設定
 GT5U.machines.stocking_bus.min_stack_size=最小スタックサイズ
 GT5U.machines.stocking_bus.refresh_time=スロット更新時間 (tick)
 GT5U.machines.stocking_bus.force_check=変更時のレシピ確認
-GT5U.machines.stocking_bus.hatch_warning=適用するには構造体の新規チェックが必要です (再起動/本体の再設置)
 GT5U.machines.stocking_bus.auto_pull_toggle.enabled=自動アイテムプルを有効化
 GT5U.machines.stocking_bus.auto_pull_toggle.disabled=自動アイテムプルを無効化
 GT5U.machines.stocking_hatch.auto_pull.tooltip.1=クリックしてMEネットワークからの自動液体プルモードを設定します。
@@ -1389,7 +1391,7 @@ GT5U.gui.button.drone_showLocalName=カスタムネームを表示します
 GT5U.gui.button.toggle_output_slot_lock=出力スロットの切り替え
 GT5U.gui.button.power_panel=電力パネルを開く
 GT5U.gui.button.turbinemenu=Open Chamber Controller
-GT5U.gui.button.machineinfo=Display Machine Information
+GT5U.gui.button.machineinfo=機械の情報表示
 GT5U.gui.button.max_parallel=常に最大で使う
 GT5U.gui.text.rangedvalue=範囲: %s-%s
 GT5U.gui.text.lockedvalue=ロック: %s
@@ -1497,7 +1499,7 @@ GT5U.gui.missing_casings_specific=%s不足: %s個必要です。現在%s個
 GT5U.gui.missing_hatch=%sが不足しています
 GT5U.gui.too_many_hatches=%sが多すぎます (最大%s個)
 GT5U.gui.text.power_panel=パワーコントロールパネル
-GT5U.gui.text.powerfail_events=Powerfail Events
+GT5U.gui.text.powerfail_events=パワーフェイル通知
 GT5U.gui.text.too_uncertain=不確定性が高すぎます。
 GT5U.gui.text.invalid_parameters=無効なパラメータです。
 GT5U.gui.text.enabled=§a有効§f
@@ -1524,7 +1526,7 @@ GT5U.gui.text.cluster=クラスター崩壊
 GT5U.gui.text.alpha-transfer=アルファ移行
 GT5U.gui.text.beta-minus=ベータマイナス崩壊
 GT5U.gui.text.beta-plus=ベータプラス崩壊
-GT5U.gui.text.invalidfluidsup=Invalid Fluid Supplied
+GT5U.gui.text.invalidfluidsup=無効な液体が供給されました
 
 GT5U.gui.config.client=クライアント
 GT5U.gui.config.client.color_modulation=色の変更
@@ -1569,18 +1571,18 @@ GT5U.gui.tooltip.redstone_circuit.change=レッドストーン回路の切り替
 GT5U.gui.tooltip.redstone_receiver.analog=ANALOG Mode\nOnly use this mode with ONE transmitter in total,\nno logic involved
 GT5U.gui.tooltip.hatch.crafting_input_me.place_manual_items=Place manual items
 GT5U.gui.tooltip.hatch.crafting_input_me.export=Return all internally stored items back to AE
-GT5U.gui.text.fluid_limiter.threshold=Percent threshold
+GT5U.gui.text.fluid_limiter.threshold=§8Percent threshold
 GT5U.gui.text.volumetric_flask.capacity=Capacity
 GT5U.gui.text.volumetric_flask.confirm=Confirm
 
-GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=No Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=>= 1 Issue
-GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=>= 2 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=>= 3 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge4_issues=>= 4 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.ge5_issues=>= 5 Issues
-GT5U.gui.text.wireless_maintenance_detector.extra.rotor_lt20=Rotor < 20%
-GT5U.gui.text.wireless_maintenance_detector.extra.rotor_0=Rotor ≈ 0%
+GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=§8No Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=§8>= 1 Issue
+GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=§8>= 2 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=§8>= 3 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge4_issues=§8>= 4 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge5_issues=§8>= 5 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.rotor_lt20=§8Rotor < 20%
+GT5U.gui.text.wireless_maintenance_detector.extra.rotor_0=§8Rotor ≈ 0%
 
 GT5U.gui.text.fusion_computer.hit_to_start=始動しない場合、ソフトマレットで右クリックして機械を(再)始動してください。
 GT5U.gui.text.fusion_computer.running_perfectly=動作は完璧です
@@ -1664,38 +1666,38 @@ GT5U.gui.circuit.timer.description=Pulses Redstone
 GT5U.gui.circuit.timer.data_description.pulses=Pulses
 GT5U.gui.circuit.timer.data_description.time=Time
 
-GT5U.gui.text.second=%s second
-GT5U.gui.text.second.plural=%s seconds
-GT5U.gui.text.minute=%s minute
-GT5U.gui.text.minute.plural=%s minutes
-GT5U.gui.text.hour=%s hour
-GT5U.gui.text.hour.plural=%s hours
-GT5U.gui.text.day=%s day
-GT5U.gui.text.day.plural=%s days
+GT5U.gui.text.second=%s秒
+GT5U.gui.text.second.plural=%s秒
+GT5U.gui.text.minute=%s分
+GT5U.gui.text.minute.plural=%s分
+GT5U.gui.text.hour=%s時間
+GT5U.gui.text.hour.plural=%s時間
+GT5U.gui.text.day=%s日
+GT5U.gui.text.day.plural=%s日
 
-GT5U.gui.text.show-powerfail-layer=Show Powerfails
-GT5U.gui.chat.powerfail=%s at %s in %s powerfailed %s time %s ago
-GT5U.gui.chat.powerfail.plural=%s at %s in %s powerfailed %s times %s ago
-GT5U.gui.chat.powerfail.waypoint=%s (%s time, %s ago)
-GT5U.gui.chat.powerfail.waypoint.plural=%s (%s times, %s ago)
+GT5U.gui.text.show-powerfail-layer=パワーフェイルを表示
+GT5U.gui.chat.powerfail=%s(%s、%s)に%s回パワーフェイルが発生(%s前)
+GT5U.gui.chat.powerfail.plural=%s(%s、%s)に%s回パワーフェイルが発生(%s前)
+GT5U.gui.chat.powerfail.waypoint=%s (%s回、%s前)
+GT5U.gui.chat.powerfail.waypoint.plural=%s (%s回、%s前)
 
-GT5U.gui.chat.powerfail.waypoint.tooltip=Machine: %s\nLocation: %s\nCount: %s\nLast Occurrence: %s\nPress %s to clear
+GT5U.gui.chat.powerfail.waypoint.tooltip=機械: %s\n場所: %s\n回数: %s\n最後の発生: %s\n%sを押して消去
 
-GT5U.gui.chat.powerfail.hint=§7Use /powerfails help for more info.
+GT5U.gui.chat.powerfail.hint=§7/powerfails を使用すると詳細な情報を表示します。
 
-GT5U.gui.chat.powerfail.login=You have %s uncleared powerfail.
-GT5U.gui.chat.powerfail.login.plural=You have %s uncleared powerfails.
+GT5U.gui.chat.powerfail.login=%s個のパワーフェイルがあります。
+GT5U.gui.chat.powerfail.login.plural=%s個のパワーフェイルがあります。
 
-GT5U.gui.chat.powerfail.cleared=Cleared all of your powerfails.
-GT5U.gui.chat.powerfail.cleared-dim=Cleared all of your powerfails in the current dimension.
+GT5U.gui.chat.powerfail.cleared=全てのパワーフェイルを消去しました。
+GT5U.gui.chat.powerfail.cleared-dim=現在のディメンションにある全てのパワーフェイルを消去しました。
 
-GT5U.gui.chat.powerfail.list.none=No powerfails have occurred.
-GT5U.gui.chat.powerfail.list.uncleared-header=Uncleared powerfails:
+GT5U.gui.chat.powerfail.list.none=パワーフェイルは発生していません。
+GT5U.gui.chat.powerfail.list.uncleared-header=パワーフェイル:
 GT5U.gui.chat.powerfail.list.entry=- %s
 GT5U.gui.chat.powerfail.list.truncated=%s additional powerfails truncated
 
-GT5U.gui.chat.powerfail.shown=Enabled powerfail overlay rendering.
-GT5U.gui.chat.powerfail.hidden=Disabled powerfail overlay rendering.
+GT5U.gui.chat.powerfail.shown=パワーフェイルのオーバーレイ表示を有効化。
+GT5U.gui.chat.powerfail.hidden=パワーフェイルのオーバーレイ表示を無効化。
 
 # Note to translators: this translation entry is supposed to be a number indicating how many taunts you define here
 # Game will randomly display one of them
@@ -1740,6 +1742,8 @@ gt.behaviour.paintspray.infinite.tooltip.pick=ホイールクリック: ブロ�
 gt.behaviour.paintspray.infinite.tooltip.lock=スニーク + ホイールクリック: スプレー缶をロック/ロック解除
 gt.behaviour.paintspray.infinite.tooltip.gui=ホイールクリック: 色設定GUIを開く
 gt.behaviour.paintspray.infinite.tooltip.prevent_shake=%s + ホイールクリック: 色の循環をロック
+gt.behaviour.paintspray.infinite.tooltip.author_byline=§o"Try using this in your offhand!"§r -§cQuerns§r
+
 GTPacketInfiniteSpraycan.Action.TOGGLE_SHAKE_LOCK=無限スプレー缶 : 色をロック
 
 
@@ -1786,7 +1790,7 @@ GT5U.multiblock.fluidPipeTier=液体パイプTier
 GT5U.multiblock.itemPipeTier=アイテムパイプTier
 GT5U.multiblock.coilLevel=コイルブロックのレベル
 GT5U.multiblock.preciseassemblercasing=外装Tierで制限された電圧: %s
-GT5U.multiblock.runningMode=§eRunning Mode:
+GT5U.multiblock.runningMode=§e動作モード:
 
 # NEI recipe handlers
 GT5U.nei.heat_capacity=要求熱容量: %s K (%s)
@@ -1886,9 +1890,154 @@ GT5U.interface.coverTabs.redstone.west=西
 GT5U.interface.coverTabs.redstone.east=東
 GT5U.interface.coverTabs.redstone.unknown=<unknown>
 
+## Redstone Receiver
+GT5U.gui.tooltip.redstone_receiver.GateMode=§8Gate Mode
+GT5U.gui.tooltip.redstone_receiver.AND_Gate=AND Gate
+GT5U.gui.tooltip.redstone_receiver.NAND_Gate=NAND Gate
+GT5U.gui.tooltip.redstone_receiver.OR_Gate=OR Gate
+GT5U.gui.tooltip.redstone_receiver.NOR_Gate=NOR Gate
+
+## Arm
+gt.interact.desc.arm.any=Any
+gt.interact.desc.arm.Internal_Slot=§8Internal slot#
+gt.interact.desc.arm.Adjacent_Slot=§8Adjacent slot#
+
+## Machine Controller Cover
+gt.interact.desc.MachContr.EnRedstone=§8Enable with Redstone
+gt.interact.desc.MachContr.DisRedstone=§8Disable with Redstone
+gt.interact.desc.MachContr.DisMachine=§8Disable machine
+gt.interact.desc.MachContr.SafeMode=§8Safe Mode
+
+## Conveyor
+gt.interact.desc.conveyor.AlwaysOn=Always On
+gt.interact.desc.conveyor.MachProcState=Use Machine Processing State
+gt.interact.desc.conveyor.InvertedMachProcState=Use Inverted Machine Processing State
+gt.interact.desc.conveyor.AllowIn=Allow Input
+gt.interact.desc.conveyor.AllowOut=Allow Output
+gt.interact.desc.conveyor.BlockIn=Block Input
+gt.interact.desc.conveyor.BlockOut=Block Output
+gt.interact.desc.conveyor.ExpImp=§8Export/Import
+gt.interact.desc.conveyor.Conditional=§8Conditional
+gt.interact.desc.conveyor.InputBlock=§8Input Blocking
+gt.interact.desc.conveyor.OutputBlock=§8Output Blocking
+
+## DoesWorkUI
+gt.interact.desc.MachineEnabled=§8Machine enabled
+gt.interact.desc.MachineIdle=§8Machine idle
+gt.interact.desc.RecipeProgress=§8Recipe progress
+
+## EU MEter
+gt.interact.desc.EnergyTHR=§8Energy threshold
+
+## Facade
+gt.interact.desc.facade.Redstone=§8Redstone
+gt.interact.desc.facade.Energy=§8Energy
+gt.interact.desc.facade.Fluids=§8Fluids
+gt.interact.desc.facade.Items=§8Items
+
+## FluidFilter
+gt.interact.desc.FluidFilter.FilterInput=Filter Input
+gt.interact.desc.FluidFilter.FilterOutput=Filter Output
+gt.interact.desc.FluidFilter.BlockOutput=Block Output
+gt.interact.desc.FluidFilter.AllowOutput=Allow Output
+gt.interact.desc.FluidFilter.WhitelistFluid=Whitelist Fluid
+gt.interact.desc.FluidFilter.BlacklistFluid=Blacklist Fluid
+gt.interact.desc.FluidFilter.Direction=§8IFilter Direction
+gt.interact.desc.FluidFilter.Type=§8IFilter Type
+gt.interact.desc.FluidFilter.BlockFlow=§8IBlock Flow
+gt.interact.desc.FluidFilter.Empty=§8IFilter Empty
+
+## Fluid Regulator
+gt.interact.desc.fluid_regulator.AlwaysOn=Always On
+gt.interact.desc.fluid_regulator.MachProcState=Use Machine Processing State
+gt.interact.desc.fluid_regulator.InvertedMachProcState=Use Inverted Machine Processing State
+
+gt.interact.desc.fluid_regulator.ExpImp=§8Export/Import
+gt.interact.desc.fluid_regulator.Conditional=§8Conditional
+gt.interact.desc.fluid_regulator.L=§8 L
+gt.interact.desc.fluid_regulator.Ticks=§8 ticks
+gt.interact.desc.fluid_regulator.Average=Average: 
+gt.interact.desc.fluid_regulator.L_Sec=L/sec
+
+## Item Filter
+gt.interact.desc.Item_Filter.Whitelist_Mode=Whitelist Mode
+gt.interact.desc.Item_Filter.Blacklist_Mode=Blacklist Mode
+gt.interact.desc.Item_Filter.Filter=§8Filter 
+gt.interact.desc.Item_Filter.CheckMode=§8Check Mode
+
+## Item Meter
+gt.interact.desc.Item_Meter.All=All
+gt.interact.desc.Item_Meter.DetectSlot=§8Detect slot #
+gt.interact.desc.Item_Meter.ItemTHR=§8Item threshold
+
+## Liquid Meter (Fluid meter)
+gt.interact.desc.Fluid_Meter.FluidTHR=§8Fluid threshold
+
+## Player Detector
+gt.interact.desc.Player_Detector.Emit_Player_Close=Emit if any Player is close
+gt.interact.desc.Player_Detector.Emit_Player_No_Close=Emit if other Player is close
+gt.interact.desc.Player_Detector.Emit_You_Close=Emit if you are close
+gt.interact.desc.Player_Detector.Any_Player=§8Any player
+gt.interact.desc.Player_Detector.Other_Players=§8Other players
+gt.interact.desc.Player_Detector.Only_Owner=§8Only owner
+
+## Pump
+gt.interact.desc.Pump.AlwaysOn=Always On
+gt.interact.desc.Pump.MachProcState=Use Machine Processing State
+gt.interact.desc.Pump.InvertedMachProcState=Use Inverted Machine Processing State
+gt.interact.desc.Pump.AllowIn=Allow Input
+gt.interact.desc.Pump.AllowOut=Allow Output
+gt.interact.desc.Pump.BlockIn=Block Input
+gt.interact.desc.Pump.BlockOut=Block Output
+gt.interact.desc.Pump.ExpImp=§8Export/Import
+gt.interact.desc.Pump.Conditional=§8Conditional
+gt.interact.desc.Pump.InputBlock=§8Input Blocking
+gt.interact.desc.Pump.OutputBlock=§8Output Blocking
+
+## RedstoneWirelessBase
+gt.interact.desc.RedstoneWirelessBase.Use_Private_Freq=§8Use Private Frequency
+
+## Shutter
+gt.interact.desc.Shutter.Open_Enabled=§8Open if work enabled
+gt.interact.desc.Shutter.Open_Disabled=§8Open if work disabled
+gt.interact.desc.Shutter.OutAllow=§8Only Output allowed
+gt.interact.desc.Shutter.InAllow=§8Only Input allowed
+
+## Wireless Activity
+
+gt.interact.desc.Wireless_Activity.Enabled=§8Machine enabled
+gt.interact.desc.Wireless_Activity.Idle=§8Machine idle
+gt.interact.desc.Wireless_Activity.Recipe_Progress=§8Recipe progress
+
+gt.interact.tooltip.Wireless_Activity.Recipe_Progress=Recipe progress
+gt.interact.tooltip.Wireless_Activity.Idle=Machine idle
+gt.interact.tooltip.Wireless_Activity.Enabled=Machine enabled
+
+## Wireless Fluid Detector
+gt.interact.desc.Wireless_Fluid_Detector.FluidTHR=§8Fluid threshold
+
+## Wireless Item Detector
+gt.interact.desc.Item_Item_Detector.All=All
+gt.interact.desc.Item_Item_Detector.ItemTHR=§8Item threshold
+gt.interact.desc.Item_Item_Detector.DetectSlot=§8Detect slot #
+
+## Energy Detector
+gt.interact.desc.Energy_Detector.universal=§8Universal
+gt.interact.desc.Energy_Detector.universal.tooltip=§fUniversal Storage
+gt.interact.desc.Energy_Detector.electricity=§8Int. EU
+gt.interact.desc.Energy_Detector.electricity.tooltip=§fElectricity Storage
+gt.interact.desc.Energy_Detector.steam=§8Steam
+gt.interact.desc.Energy_Detector.steam.tooltip=§fSteam Storage
+gt.interact.desc.Energy_Detector.average_in=§8Avg. Input
+gt.interact.desc.Energy_Detector.average_in.tooltip=§fAverage Electric Input
+gt.interact.desc.Energy_Detector.average_out=§8Avg. Output
+gt.interact.desc.Energy_Detector.average_out.tooltip=§fAverage Electric Output
+gt.interact.desc.Energy_Detector.eu_stored=§8EU stored
+gt.interact.desc.Energy_Detector.eu_stored.tooltip=§fElectricity Storage(Including Batteries)
+
 # NEI Display
-GT5U.nei.display.steam_variant.bronze=青銅
-GT5U.nei.display.steam_variant.steel=スチール
+GT5U.nei.display.steam_variant.bronze=青銅製
+GT5U.nei.display.steam_variant.steel=スチール製
 GT5U.nei.display.duration.seconds=時間: %s 秒
 GT5U.nei.display.duration.ticks=時間: %d tick
 GT5U.nei.display.total=合計: %s EU
@@ -2565,8 +2714,8 @@ for.bees.species.salty=岩塩
 for.bees.species.electrotine=青粉
 for.bees.species.uranium=放鉱
 for.bees.species.plutonium=冥鉱
-for.bees.species.naquadah=Naquadah
-for.bees.species.naquadria=Naquadria
+for.bees.species.naquadah=星門
+for.bees.species.naquadria=亜星
 for.bees.species.dob=D-O-B
 for.bees.species.thorium=雷鉱
 for.bees.species.lutetium=巴鉱
@@ -2634,7 +2783,7 @@ for.bees.species.dragonessence=龍質
 for.bees.species.enderman=終者
 for.bees.species.endermanhead=終頭
 for.bees.species.silverfish=紙魚
-for.bees.species.rareearth=Rare Earth
+for.bees.species.rareearth=希土
 for.bees.species.neodymium=Neodymium
 for.bees.species.europium=Europium
 for.bees.species.fireessence=Fire Essence
@@ -3474,3 +3623,6 @@ item.gt.depletedRodNaquadria4.name=ナクアドリアの四重燃料棒 (使用�
 
 # Entities
 entity.gregtech.PowderBarrelPrimed.name=着火した火薬樽
+
+#mui1
+mui.button.close=x
