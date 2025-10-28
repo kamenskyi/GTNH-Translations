@@ -262,8 +262,8 @@ gt.interact.desc.need_maint_rotor_lo=Излучать, если ротор ну�
 gt.interact.desc.need_maint_rotor_hi=Излучать, если ротору требуется техобслуживание мод высокой точности
 gt.interact.desc.issue=1 проблема
 gt.interact.desc.issues=%s проблемы(а)
-gt.interact.desc.issue_rotor_low=Ротор < 20%
-gt.interact.desc.issue_rotor_dead=Ротор ≈ 0%
+gt.interact.desc.issue_rotor_low=Ротор < 20%%
+gt.interact.desc.issue_rotor_dead=Ротор ≈ 0%%
 
 # GT++ items
 item.GTPP.air_intake_hatch.name=Воздухозаборный шлюз
@@ -705,7 +705,7 @@ GTPP.algae.tooltip.lifespan=Модификатор срока жизни: %d
 GTPP.algae.tooltip.generation=Generation: %d
 
 # Power Goggles
-GT5U.power_goggles.open_config_gui=Открыть конфигурацию очков
+GT5U.power_goggles.open_config_gui=Открыть конфигурацию энергетических очков
 GT5U.power_goggles.toggle_power_chart=Toggle Power Goggles Chart
 GT5U.power_goggles.link_lsc=Goggles linked to LSC at %d,%d,%d.
 GT5U.power_goggles.link_fail=Это не LSC...
@@ -941,7 +941,7 @@ gt.casing.hawking-focus=Управляет исходящим потоком и�
 gt.casings.advanced-filter=Менее пяти 0,1мкм частиц на м^3
 
 # Machine types
-gt.recipe.alloysmelter=Плавильная печь
+gt.recipe.alloysmelter=Сплавоплавильная печь
 gt.recipe.alloysmelter.description=Комбинированная высокотехнологичная плавильня
 gt.recipe.arcfurnace=Дуговая печь
 gt.recipe.arcfurnace.description=
@@ -1095,8 +1095,8 @@ gt.recipe.category.arc_furnace_recycling=Переработка в дугово�
 gt.recipe.category.plasma_arc_furnace_recycling=Переработка в плазменной дуговой печи
 gt.recipe.category.macerator_recycling=Переработка в дробителе
 gt.recipe.category.fluid_extractor_recycling=Переработка в жидкостном экстракторе
-gt.recipe.category.alloy_smelter_recycling=Переработка в плавильной печи
-gt.recipe.category.alloy_smelter_molding=Формовка в плавильной печи
+gt.recipe.category.alloy_smelter_recycling=Переработка в сплавоплавильной печи
+gt.recipe.category.alloy_smelter_molding=Формовка в сплавоплавильной печи
 gt.recipe.category.forge_hammer_recycling=Переработка в кузнечном молоте
 gt.recipe.category.tic_part_extruding=Экструдирование TiC деталей
 gt.recipe.category.tic_bolt_molding=Формовка TiC болтов
@@ -1472,7 +1472,7 @@ GT5U.gui.text.pump_rate.2= Л/тик
 GT5U.gui.text.pump_recovery.1=Извлечение §b%s§r
 GT5U.gui.text.pump_recovery.2= Л за операцию
 GT5U.gui.text.not_enough_energy=§7Недостаточно энергии
-GT5U.gui.text.power_overflow=§7Переполнение энергии
+GT5U.gui.text.power_overflow=§7Переполнение энергии: Потребляемая энергия слишком высока для этого механизма.
 GT5U.gui.text.duration_overflow=§7Переполнение времени обработки
 GT5U.gui.text.insufficient_power=§7Для запуска рецепта требуется больше энергии. Необходимо: %s EU/t (%s§7)
 GT5U.gui.text.insufficient_voltage=§7Для запуска рецепта требуется более высокий вольтаж. Требуется: %s EU/t (%s§7)
@@ -2208,8 +2208,8 @@ achievement.simplyeco=Экология
 achievement.simplyeco.desc=Скрафтите солнечный бойлер
 achievement.firststeam=Первый пар
 achievement.firststeam.desc=Скрафтите бронзовый бойлер
-achievement.alloysmelter=Плавильная печь
-achievement.alloysmelter.desc=Скрафтите паровую плавильную печь
+achievement.alloysmelter=Сплавоплавильная печь
+achievement.alloysmelter.desc=Сделай паровую сплавоплавильная печь
 achievement.macerator=Дробитель
 achievement.macerator.desc=Скрафтите паровой дробитель
 achievement.extract=Суперкраник
@@ -3023,6 +3023,11 @@ gt.item.redstone_sniffer.locate=Найдено
 gt.item.redstone_sniffer.teleport=Телепорт
 gt.item.redstone_sniffer.highlight_message=Highlighting cover at %d,%d,%d
 gt.item.redstone_sniffer.wrong_dim_message=Невозможно выделить, так как вы находитесь не в том же измерении!
+gt.item.chaos_locator.warp=WARP
+gt.item.chaos_locator.coords=Enter Coordinates
+gt.item.chaos_locator.tooltip.01=Tracking works across dimensions
+gt.item.chaos_locator.x=X * 10тыс.
+gt.item.chaos_locator.z=Z * 10тыс.
 
 gt.cover.info.format.tick_rate=§b%s§r %s
 gt.cover.info.chat.tick_rate=Тиковая скорость модуля установлен на %s
@@ -3253,7 +3258,7 @@ GT5U.tooltip.volumetric_flask.empty=Пусто
 GT5U.tooltip.volumetric_flask.set_volume=ПКМ по воздуху, чтобы задать объем (только когда он пуст)
 
 GT5U.tooltip.purify.1=Бросьте в котёл для получения чистой пыли
-GT5U.tooltip.purify.2=Может использоваться как заменитель топлива из обогащённого наквадаха
+GT5U.tooltip.purify.2=Бросьте в котёл для получения чистой измельчённой руды
 GT5U.tooltip.nqgen=Может использоваться как заменитель топлива из обогащённого наквадаха
 
 # info data
@@ -3490,7 +3495,7 @@ achievement.hatch.control=This is where you put the Control Core
 achievement.hatch.control.desc=Специальный шлюз, необходимый всем GT++ мультиблокам.
 achievement.hatch.dynamo.buffered=Буферизованный энерговывод
 achievement.hatch.dynamo.buffered.desc=More energy from the same multi!
-achievement.multi.abs=Плавильная доменная печь [ABS]
+achievement.multi.abs=Сплавоплавильная доменная печь [ABS]
 achievement.multi.abs.desc=Used to create most late game alloys.
 achievement.dust.potin=Потин!
 achievement.dust.potin.desc=Ну, надо же с чего-то начать...
@@ -3590,7 +3595,7 @@ achievement.gtplusplus.blockcasings.5.14=Пространственно-врем
 achievement.gtplusplus.blockcasings.5.14.desc=[AL] Просто посмотри рецепт в NEI
 achievement.gt.blockmachines.sparge.controller.single=Барботажная башня
 achievement.gt.blockmachines.sparge.controller.single.desc=[AL] Просто посмотри рецепт в NEI
-achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega=Мега плавильная доменная печь
+achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega=Мега сплавоплавильная доменная печь
 achievement.gt.blockmachines.industrialsalloyamelter.controller.tier.mega.desc=[AL] Просто посмотри рецепт в NEI
 achievement.gt.blockmachines.moleculartransformer.controller.tier.single=Молекулярный преобразователь
 achievement.gt.blockmachines.moleculartransformer.controller.tier.single.desc=[AL] Просто посмотри рецепт в NEI
