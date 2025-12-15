@@ -821,7 +821,7 @@ GT5U.MBTT.HatchDots=（点：%s）
 GT5U.MBTT.BoroGlassAny=硼玻璃（任意种类，混合）
 GT5U.MBTT.BoroGlassTiered=硼玻璃（任意种类）
 GT5U.MBTT.ConfigMenu=配置菜单
-GT5U.MBTT.PerfectOC=机器超频时不会损失效率
+GT5U.MBTT.PerfectOC=超频时不会损失效率
 GT5U.MBTT.PCB.Tier=PCB工厂等级
 GT5U.MBTT.PCB.Bio=生物仓
 GT5U.MBTT.PCB.RotBio=生物仓旋转
@@ -1694,7 +1694,7 @@ GT5U.gui.chat.powerfail.hidden=已禁用电力故障覆盖渲染.
 # Note to translators: this translation entry is supposed to be a number indicating how many taunts you define here
 # Game will randomly display one of them
 GT5U.item.programmed_circuit.no_screwdriver.count=3
-GT5U.item.programmed_circuit.no_screwdriver.0=想要再空手编程电路板,嗯哼?
+GT5U.item.programmed_circuit.no_screwdriver.0=还在尝试赤手拨弄电路板吗？
 GT5U.item.programmed_circuit.no_screwdriver.1=你的拇指不是螺丝刀.拿个真的过来.
 GT5U.item.programmed_circuit.no_screwdriver.2=Chuck Norris可以盯着电路板,然后电路板就自己再编程了. 但你不行.
 GT5U.item.programmed_circuit.select.header=再编程电路
@@ -1745,7 +1745,7 @@ gt.behaviour.switch_mode.tooltip=按[%s]切换模式
 GT5U.hatch.disableFilter.true=输入过滤：§c关闭§r
 GT5U.hatch.disableFilter.false=输入过滤：§a开启§r
 GT5U.hatch.disableMultiStack.true=多组输入：§c关闭§r
-GT5U.hatch.disableMultiStack.false=多组输入：§c开启§r
+GT5U.hatch.disableMultiStack.false=多组输入：§a开启§r
 GT5U.hatch.disableSort.true=整理模式：§c关闭§r
 GT5U.hatch.disableSort.false=整理模式：§c开启§r
 GT5U.hatch.disableLimited.true=限制模式：§c关闭§r
@@ -1800,7 +1800,7 @@ GT5U.nei.large_boiler.titanium_boiler=钛制锅炉：%.4f
 GT5U.nei.large_boiler.titanium_boiler.ban=钛制锅炉：禁止使用
 GT5U.nei.large_boiler.tungstensteel_boiler=钨钢锅炉：%.4f
 GT5U.nei.large_boiler.tungstensteel_boiler.ban=钨钢锅炉：禁止使用
-GT5U.nei.large_boiler.solid=并非所有固体燃料都列出来了。\n任何燃烧时间至少为%d/%d的可燃物品，\n将分别在大型青铜/钢制锅炉中燃烧。
+GT5U.nei.large_boiler.solid=此处并未列出所有固体燃料\n任何燃烧时间大于等于\n%d/%d的燃料都可在\n大型青铜/钢锅炉中燃烧
 GT5U.nei.nuclear.model.mox=MOX模型
 GT5U.nei.nuclear.model.uranium=铀模型
 GT5U.nei.nuclear.neutron_pulse=中子脉冲：%d
@@ -1870,14 +1870,14 @@ GT5U.interface.coverTabs.south=南
 GT5U.interface.coverTabs.west=西
 GT5U.interface.coverTabs.east=东
 GT5U.interface.coverTabs.cover_on=%s覆盖板：%s
-GT5U.interface.coverTabs.emits_redstone=在%s侧发出强烈的红石信号
+GT5U.interface.coverTabs.emits_redstone=在%s发出强红石信号
 
-GT5U.interface.coverTabs.redstone.bottom=底部
-GT5U.interface.coverTabs.redstone.top=顶部
-GT5U.interface.coverTabs.redstone.north=北
-GT5U.interface.coverTabs.redstone.south=南
-GT5U.interface.coverTabs.redstone.west=西
-GT5U.interface.coverTabs.redstone.east=东
+GT5U.interface.coverTabs.redstone.bottom=底面
+GT5U.interface.coverTabs.redstone.top=顶面
+GT5U.interface.coverTabs.redstone.north=北侧
+GT5U.interface.coverTabs.redstone.south=南侧
+GT5U.interface.coverTabs.redstone.west=西侧
+GT5U.interface.coverTabs.redstone.east=东侧
 GT5U.interface.coverTabs.redstone.unknown=<未知>
 
 # NEI Display

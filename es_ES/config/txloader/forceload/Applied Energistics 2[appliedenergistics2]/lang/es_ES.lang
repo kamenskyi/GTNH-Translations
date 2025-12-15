@@ -678,6 +678,8 @@ waila.appliedenergistics2.ConnectedTo=Connected to
 waila.appliedenergistics2.Disconnected=Disconnected
 waila.appliedenergistics2.Singularity=Singularity
 
+# Baubles Extended
+slot.Terminal=§aTerminal§7
 
 # Items
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=§61k§r Celda de Almacenamiento ME 
@@ -942,3 +944,4 @@ stat.ae2.TurnedCranks=Vueltas a la Manivela
 key.appliedenergistics2.category=Applied Energistics 2
 key.toggle_focus.desc=Escribir en la caja de búsqueda
 key.search_connected_inventories.desc=Buscar objeto en la red de inventarios 
+key.control_operation.desc=Control operation

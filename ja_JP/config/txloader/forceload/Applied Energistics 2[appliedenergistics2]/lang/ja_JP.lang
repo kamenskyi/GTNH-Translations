@@ -499,7 +499,7 @@ gui.tooltips.appliedenergistics2.ReportInaccessibleItemsNo=いいえ。搬出で
 gui.tooltips.appliedenergistics2.TypeFilter=フィルター方法
 gui.tooltips.appliedenergistics2.TypeFilterShowAll=全て表示
 gui.tooltips.appliedenergistics2.TypeFilterShowItemsOnly=アイテムのみ表示
-gui.tooltips.appliedenergistics2.TypeFilterShowFluidsOnly=液体ドロップのみ表示
+gui.tooltips.appliedenergistics2.TypeFilterShowFluidsOnly=液体のみ表示
 
 gui.tooltips.appliedenergistics2.BlockPlacement=ブロック設置
 gui.tooltips.appliedenergistics2.BlockPlacementYes=ブロックはブロックとして設置される。
@@ -678,6 +678,8 @@ waila.appliedenergistics2.ConnectedTo=Connected to
 waila.appliedenergistics2.Disconnected=Disconnected
 waila.appliedenergistics2.Singularity=Singularity
 
+# Baubles Extended
+slot.Terminal=§aTerminal§7
 
 # Items
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=§61k§r MEストレージセル
@@ -942,3 +944,4 @@ stat.ae2.TurnedCranks=Turned Cranks
 key.appliedenergistics2.category=Applied Energistics 2
 key.toggle_focus.desc=Toggle search box focus
 key.search_connected_inventories.desc=Search network inventories for item
+key.control_operation.desc=Control operation

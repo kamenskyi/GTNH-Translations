@@ -690,7 +690,7 @@ gt.blockmachines.multimachine.tm.teslaCoil.desc.4=Первичные обмот�
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.0=Настройки нижнего порога гистерезиса
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.1=Настройки верхнего порога гистерезиса
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.2=Настройки радиуса передачи Башни Теслы
-gt.blockmachines.multimachine.tm.teslaCoil.cfgi.3=Настройки радиуса работы Приемопередатчика Теслы
+gt.blockmachines.multimachine.tm.teslaCoil.cfgi.3=Настройки радиуса работы Приёмопередатчика Теслы
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.4=Настройки радиуса работы Тесла-МЕГАпокрытия
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.5=Настройка выходного вольтажа
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.6=Настройка текущего выхода
@@ -698,7 +698,7 @@ gt.blockmachines.multimachine.tm.teslaCoil.cfgi.7=Настройки време�
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.8=Настройки перегрузки
 gt.blockmachines.multimachine.tm.teslaCoil.cfgi.9=Пока не используется
 gt.blockmachines.multimachine.tm.teslaCoil.cfgo.0=Отображение радиуса передачи Башни Теслы
-gt.blockmachines.multimachine.tm.teslaCoil.cfgo.1=Отображение радиуса работы Приемопередатчика Теслы
+gt.blockmachines.multimachine.tm.teslaCoil.cfgo.1=Отображение радиуса работы Приёмопередатчика Теслы
 gt.blockmachines.multimachine.tm.teslaCoil.cfgo.2=Отображение радиуса работы Тесла-МЕГАпокрытия
 gt.blockmachines.multimachine.tm.teslaCoil.cfgo.3=Отображение выходного вольтажа
 gt.blockmachines.multimachine.tm.teslaCoil.cfgo.4=Отображение текущего выхода
@@ -1056,7 +1056,7 @@ fog.debug.unlockall.text=Разблокировать все улучшения
 fog.debug.gravitonshardsetter.tooltip=Установите количество доступных гравитонных осколков
 
 fog.button.fuelconfig.tooltip=Меню конфигурации топлива
-fog.button.upgradetree.tooltip=Path of Celestial Transcendence
+fog.button.upgradetree.tooltip=Путь небесного превосходства
 fog.button.furnacemode.tooltip.01=Режим доменной печи
 fog.button.furnacemode.tooltip.02=Режим печи
 fog.button.magmattermode.tooltip.01=Режим кварк-глюонная плазма
@@ -1071,7 +1071,7 @@ fog.button.milestones.tooltip=Обзор вехи
 fog.button.materialrequirements.tooltip=Для улучшения требуются дополнительные материалы
 fog.button.materialrequirementsmet.tooltip=Все материалы предоставлены
 fog.button.materialrequirements.tooltip.clickhere=Щелкните, чтобы открыть окно вставки материала
-fog.button.ejection.tooltip=Toggle Graviton Shard Ejection
+fog.button.ejection.tooltip=Переключить выброс гравитонных осколков
 fog.button.formatting.tooltip=Переключить форматирование чисел
 fog.button.exoticinputs.tooltip=Click to display expected inputs
 fog.button.possibleexoticinputs.tooltip=Click to display all possible inputs
@@ -1153,7 +1153,7 @@ gt.blockmachines.multimachine.FOG.inversion=Инверсия
 gt.blockmachines.multimachine.FOG.expectedinputs=Expected Inputs
 gt.blockmachines.multimachine.FOG.possibleinputsqgp=Возможные входные материалы для QGP
 gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=Возможные входные материалы для Магматерии
-gt.blockmachines.multimachine.FOG.inversioninfotext=Once all milestones of the Forge reach tier 7,  inversion activates. This uncaps the maximum tier of all milestones and allows to scale infinitely. The scaling of each milestone changes from exponential to linear, but the granted graviton shard amount keeps increasing. The amount of progress needed for each subsequent milestone is as much as needed for the 7th tier of each milestone. The Composition milestone is once again an exception, as that continues to scale by 1 each tier, with it's own formula for calculating progress. Each module type is given a value, ranging from 1 for the Helioflare Power Forge to 5 for the Heliofusion Exoticizer in magmatter mode, then the amount of each module present is substracted by 1 and multiplied by its value. These values are added up and divided by 5, this is the final milestone tier on top of the base 7.
+gt.blockmachines.multimachine.FOG.inversioninfotext=Как только все вехи Кузницы достигнут 7-го тира, активируется инверсия. Это снимает ограничение на максимальный тир всех вех и позволяет масштабировать до бесконечности. Масштабирование каждой вехи меняется с экспоненциального на линейное, но предоставленное количество гравитонных осколков продолжает увеличиваться. Количество прогресса, необходимое для каждой последующей вехи, равно количеству, необходимому для 7-го тира каждой вехи. Веха "Структура" является исключением, поскольку она продолжает масштабироваться на 1 на каждом тире, имея собственную формулу для расчета прогресса. Каждому типу модуля присваивается значение, начиная от 1 для Helioflare Power Forge до 5 для Heliofusion Exoticizer в режиме магматерии, затем количество каждого присутствующего модуля вычитается на 1 и умножается на его значение. Эти значения суммируются и делятся на 5, это последний тир вехи поверх базового 7.
 gt.blockmachines.multimachine.FOG.powermilestone=Заряд
 gt.blockmachines.multimachine.FOG.recipemilestone=Конверсия
 gt.blockmachines.multimachine.FOG.fuelmilestone=Катализатор
@@ -1162,7 +1162,7 @@ gt.blockmachines.multimachine.FOG.power=Расход EU
 gt.blockmachines.multimachine.FOG.recipes=Recipes Processed
 gt.blockmachines.multimachine.FOG.fuelconsumed=Потреблено единиц топлива
 gt.blockmachines.multimachine.FOG.extensions=Extensions Built
-gt.blockmachines.multimachine.FOG.shardgain=Graviton Shards gained
+gt.blockmachines.multimachine.FOG.shardgain=Получено гравитонных осколков
 gt.blockmachines.multimachine.FOG.payUpgradeCosts=Pay Upgrade Cost
 gt.blockmachines.multimachine.FOG.consumeUpgradeMats=Нажмите, чтобы использовать материалы для улучшения
 gt.blockmachines.multimachine.FOG.clickhere=Запутались? Нажмите здесь, чтобы получить общую информацию
@@ -1338,11 +1338,11 @@ gt.blockmachines.machine.tt.buck.desc.0=Электронный вольтажн�
 gt.blockmachines.machine.tt.buck.desc.1=Регулируемый понижающий трансформатор
 gt.blockmachines.machine.tt.buck.desc.2=Импульсный источник питания...
 
-gt.blockmachines.machine.tt.tesla.01.name=LV Приемопередатчик Теслы
-gt.blockmachines.machine.tt.tesla.02.name=MV Приемопередатчик Теслы
-gt.blockmachines.machine.tt.tesla.03.name=HV Приемопередатчик Теслы
-gt.blockmachines.machine.tt.tesla.04.name=EV Приемопередатчик Теслы
-gt.blockmachines.machine.tt.tesla.05.name=IV Приемопередатчик Теслы
+gt.blockmachines.machine.tt.tesla.01.name=LV Приёмопередатчик Теслы
+gt.blockmachines.machine.tt.tesla.02.name=MV Приёмопередатчик Теслы
+gt.blockmachines.machine.tt.tesla.03.name=HV Приёмопередатчик Теслы
+gt.blockmachines.machine.tt.tesla.04.name=EV Приёмопередатчик Теслы
+gt.blockmachines.machine.tt.tesla.05.name=IV Приёмопередатчик Теслы
 gt.blockmachines.machine.tt.tesla.desc.0=Ваш личный Теслоприёмник
 gt.blockmachines.machine.tt.tesla.desc.1=Сила молнии для промышленных магнатов
 
@@ -1935,7 +1935,7 @@ tt.chat.debug.generator=Режим лазера: %s
 
 GT5U.gui.config.general.debug=Отладка
 GT5U.gui.config.general.features=Особенности
-GT5U.gui.config.general.teslatweaks=Tesla Tweaks
+GT5U.gui.config.general.teslatweaks=Настройки Тесла
 GT5U.gui.config.general.visual=Visual
 
 tt.eoh.fancy_names.crude=Грубый
@@ -2025,7 +2025,7 @@ tt.infodata.fog.upgrades.unlocked=Всего разблокировано улу
 tt.infodata.fog.connected=Подключено модулей: %s
 
 ## Tesla Tower
-tt.infodata.tesla.energy=Tesla Energy: %s EU / %s EU
+tt.infodata.tesla.energy=Тесла энергия: %s EU / %s EU
 tt.infodata.tesla.current_output=Текущий выход: %s EU / %s EU
 
 ## Base factory pipe
@@ -2038,8 +2038,8 @@ tt.gui.tooltip.safe_void=Safe Void
 tt.gui.tooltip.power_switch=Выключатель питания
 
 tt.gui.tooltip.plasma_module.debug_window=Окно отладки
-tt.gui.tooltip.plasma_module.debug_window.multi_step=multi-step
-tt.gui.tooltip.plasma_module.debug_window.fusion_tier=fusion tier
+tt.gui.tooltip.plasma_module.debug_window.multi_step=мульти-шаг
+tt.gui.tooltip.plasma_module.debug_window.fusion_tier=тир плазмы
 tt.gui.tooltip.plasma_module.debug_window.parallel=параллель
 
 tt.gui.text.debug.eut=EUT:
