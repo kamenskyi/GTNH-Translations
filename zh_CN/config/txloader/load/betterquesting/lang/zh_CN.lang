@@ -3043,7 +3043,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJGQ.desc=镀铑钯是LuV的机械方块�
 
 # Quest: Ruri... Ruridididi?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJGg.name=§b§l钌铱合金?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJGg.desc=钌与铱结合会产生一种非常特殊的金属,主要用于LuV部件.%n%n你会需要一大堆钌铱合金的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJGg.desc=钌与铱结合会产生一种非常特殊的金属，主要用于LuV部件。%n%n你会需要一大堆钌铱合金的。
 
 # Quest: Osmiridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJGw.name=§b§l铱锇合金
@@ -3059,11 +3059,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKig.desc=此阶段的矿脉,如果在水
 
 # Quest: Leach The Concentrate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-A.name=§b§l浸出浓缩物
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-A.desc=这里有两个选择：你可以将硝酸浸出混合物与水混合,得到相对较低的产率;或是选择把水换成富铈混合物,得到双倍的产率.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-A.desc=这里有两个选择：你可以将硝酸浸出混合物与水混合，得到相对较低的产出，或是选择把水换成从矿石中得到的富铈混合物，得到双倍的量。
 
 # Quest: A Sift, a Sift! My Kingdom for a Sift!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-Q.name=§b§l筛选，筛选！用我的王国换一次筛选！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-Q.desc=现在,筛选(或者说过滤)硝酸浸出混合物,即可从中获取二氧化铈.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-Q.desc=现在，筛选（或者说过滤）硝酸浸出混合物以获取铈。
 
 # Quest: The Start of Cerium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL-g.name=§b§l铈处理开始
@@ -3083,11 +3083,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5A.desc=浊溶液太过浓稠了，你�
 
 # Quest: Zirconia-Hafnia Blend
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.name=§b§l氧化铪-氧化锆混合物
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.desc=这个过程有点复杂,所以我会指导你完成它.首先,将从溶解罐中获得的粉进行离心.%n%n铪和锆都是难溶金属,类似于钛和锆,%n所以它们的处理过程比较相似. %n%n译者注:我猜他想说的是"类似于铌和钽"...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.desc=这个过程有点复杂，所以我会指导你完成它。首先，将从溶解罐中获得的粉进行离心。%n%n铪和锆都是难熔金属，类似于钛和锆，%n所以它们的处理过程比较相似。 %n%n[note]译者注：我猜他想说的是“类似于铌和钽”……[/note]
 
 # Quest: Sifting the Goodness Out
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5g.name=§b§l筛出好东西
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5g.desc=是的,你没看错,筛选流体的配方!这里的很多材料都并非其最佳来源,但总比没有好.%n%n另外,硫酸独居石其实也并不是实际的化合物,仅仅作为一个术语,代指稀土的各种硫酸盐集合体.%n%n由于不想让大家担心其余产物的几率问题,所以本任务只要求主产物即可.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5g.desc=是的，你没看错，筛选流体的配方！这里的很多材料都并非其最佳来源，但总比没有好。%n%n另外，硫酸独居石其实也并不是实际的化合物，仅仅作为一个术语，代指稀土的各种硫酸盐集合体。%n%n本任务只要求主产物，毕竟谁想担心几率问题呢？
 
 # Quest: Hafnium Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5w.name=§b§l铪处理线
@@ -3119,43 +3119,43 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7Q.desc=那些硫酸盐可不会自己�
 
 # Quest: Now for Nitration
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7g.name=§b§l现在进行硝化
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7g.desc=下一步你需要用到硝酸铵(又要跟硝酸打交道了!),还有稀释硫酸独居石.%n将两者在大型化学反应釜中进行反应.%n%n流体产物就那么简单地消失在虚空中.最好不要担心它们.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7g.desc=下一步你需要用到硝酸铵（又要跟硝酸打交道了！），还有稀释硫酸独居石。%n需要在大型化学反应釜中进行反应。%n%n流体产物会直接消失在虚空中。最好别担心。
 
 # Quest: A Little Bit of Sifting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7w.name=§b§l来点筛选
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7w.desc=现在,你可以筛出来一些放射性杂质了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL7w.desc=现在你可以筛出来一些放射性杂质了。
 
 # Quest: This Is Probably Not Worth It
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8A.name=§b§l这可能不太值
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8A.desc=你可以直接用高炉煅烧获得的磷酸钍滤饼粉,以继续完成处理链,不过最终的产量不高...%n%n不过,如果你的资源充足,何乐而不为?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8A.desc=你可以直接用高炉煅烧获得的磷酸钍滤饼粉，以继续完成处理链，不过最终的产量不高……%n%n不过，如果你的资源充足，何乐而不为？
 
 # Quest: Chemically Bathing!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8Q.name=§b§l化学浸洗!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8Q.desc=是的,这真是一条全方位的处理线.再一次,你需要用到硝酸铵. 这只是再次提醒那些尚未制造专门的硝酸自动化设施的玩家 :P
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8Q.desc=是的，这真是一条全方位的处理线。再一次，你需要用到硝酸铵。这只是再次提醒那些尚未制造专门的硝酸自动化设施的玩家。:P
 
 # Quest: Thorium and Phosphate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8g.name=§b§l钍与磷酸盐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8g.desc=现在,将所获得的精粉热力离心,你就可以获得钍和磷酸盐粉.告诉过你产量不高...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8g.desc=现在，将所获得的精粉热力离心，你就可以获得钍和磷酸盐粉。告诉过你产量不高……
 
 # Quest: To Sift, or Not to Sift?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8w.name=§b§l筛，还是不筛？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8w.desc=真正的问题是,是谁想出这些筛选合成表的?%n%n你可以从中获得一些铀,所以这个合成表还不算太糟.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL8w.desc=真正的问题是，是谁想出这些筛选合成表的？%n%n你可以从中获得一些铀，所以这个合成表还不算太糟。
 
 # Quest: Uranium Filtrate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9A.name=§b§l铀滤渣
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9A.desc=稍后,你可以用一些氢氟酸处理这些铀滤渣粉.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9A.desc=你可以用一些氢氟酸进一步处理这些铀滤渣粉。
 
 # Quest: Uranium?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9Q.name=§b§l铀?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9Q.desc=...再筛选它以获得铀单质。你§o确实§r能够从中获得一些铀-235，所以这一切并不是只是在浪费时间……吧？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9Q.desc=……再筛选它以获得铀单质。你§o确实§r能够从中获得一些铀-235，所以这一切并不是只是在浪费时间……吧？
 
 # Quest: Dry It Real Good
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9g.name=§b§l烘干真棒
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9g.desc=你的浓缩粉实在太潮湿了!需要在工业高炉中烘干它们.%n%n谢天谢地,这种加工并不困难.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9g.desc=你的浓缩粉实在太潮湿了！需要在工业高炉中烘干它们。%n%n谢天谢地，这个配方并不困难。
 
 # Quest: Nitration Time... Again
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9w.name=§b§l硝化时间...再一次
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9w.desc=想要进一步处理这些干燥粉,你还需要投入更多硝酸. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL9w.desc=想要进一步处理这些粉，你还需要投入更多硝酸。
 
 # Quest: IV Energy Hatch
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALDg.name=§b§lIV能源仓
@@ -3207,11 +3207,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCA.desc=是的,你没看错：一条带
 
 # Quest: Not Quite Ferromagnetic...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.name=§b§l铁磁性不太强...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.desc=...但是足够电磁离析机将其分离.%n%n现在,你获得了氧化铕(III)和一些更稀有的稀土,我们称之为罕土.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.desc=……但是足够电磁离析机将其分离。%n%n现在，你获得了氧化铕（III）和一些更稀有的稀土，我们称之为罕土。
 
 # Quest: EuO
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCg.name=§b§l氧化铕(EuO)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCg.desc=独居石中含铕?%n%n然而,在你获得一些真的铕之前,暂时没有办法处理它们,所以现在继续前进吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCg.desc=独居石中含铕？%n%n不幸的是，在获得一些真的铕之前，你暂时没有办法处理它们，所以现在先攒着它们吧。
 
 # Quest: Samarium, The Other Way
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCw.name=§b§l钐,另一条路
@@ -3219,11 +3219,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCw.desc=现在,只需要离心你的浓
 
 # Quest: The Other Part
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDA.name=§b§l另一部分
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDA.desc=被这些名字整疲了是吧?希望如此.%n%n现在轮到了氯化与加热,以对所得粉进一步分离.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDA.desc=被这些名字整疲了是吧？希望如此。%n%n现在轮到了氯化与加热，以对所得粉进一步分离。
 
 # Quest: Saturation Needed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDQ.name=§b§l饱和需求
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDQ.desc=你快成功了!%n%n现在你需要将其与丙酮混合.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDQ.desc=你快成功了！%n%n现在你需要将其与丙酮混合。
 
 # Quest: Separate Those Last Specks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMDg.name=§b§l分离这些最后的微粒
@@ -3328,7 +3328,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0g.desc=一些机器需要发射器和�
 
 # Quest: Tier 6 (LuV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.name=§c§l第6阶段(LuV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.desc=在LuV阶段,你需要镀铑钯制造机器.(建议锤铂系处理作者Bartimaeusnek.)%n建议到访的星球: 木卫一、金星和水星.%n当前阶段机器零件需要装配线才能制作-请查看多方块任务栏获取详细信息.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.desc=LuV阶段。你需要镀铑钯制造机器。建议到访的行星和卫星: 木卫一、金星和水星。当前阶段机器零件需要装配线才能制作——请查看多方块任务栏获取详细信息。
 
 # Quest: Fluid TP for Magic-Haters
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVQ.name=§c§l反魔法者的流体传送
@@ -3364,7 +3364,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlw.desc=要制造这些芯片,你需要
 
 # Quest: Elite Circuit Board
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmA.name=§c§l精英电路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmA.desc=新的电路板,新的电路板工艺.而且高算力工作站 MK-I也需要它.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmA.desc=新的电路板产线，新的电路基板。高算力工作站MK-I也需要它。
 
 # Quest: LuV Laser Engraver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmQ.name=§c§lLuV激光蚀刻机
@@ -3432,7 +3432,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLw.desc=建造聚变反应堆需要一�
 
 # Quest: Advanced SMDs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKMA.name=§c§l进阶贴片元件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKMA.desc=制造晶体系列以上电路板时需要用到进阶贴片元件.%n%n如果使用进阶贴片元件合成比晶体电路更低阶的电路板,其消耗数量为普通贴片元件的1/4,同时加工时间为原来的一半.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKMA.desc=制造晶体系列及以上电路板时，需要用到进阶贴片元件。%n%n如果使用进阶贴片元件合成比晶体电路更低阶的电路板，其消耗数量为普通贴片元件的1/4，同时加工时间为原来的一半。
 
 # Quest: Mysterious...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKMQ.name=§c§l神秘...
@@ -3572,7 +3572,7 @@ betterquesting.quest.afDCORKvSI-Vk_Mh2-rnZw.desc=当你收集到足够的泡沫�
 
 # Quest: Relentless Glue
 betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.name=§c§l顽固胶水
-betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.desc=氰基丙烯酸乙酯,俗称超级胶水,是这里最好的胶水.但强大的力量也带来了...巨大的复杂性.现在不需要它,在未来几个阶段也可能不需要,但它会让你的配方更有效率并且在后期是必要的.%n%n[note]从技术上讲,这一行在 IV 中是可用的,但只是可选.请亲自在 NEI 中搜索配方,以显示您的真本事![/note]
+betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.desc=氰基丙烯酸乙酯，俗称强力胶水，是最好的胶水。但是强度越高……也越复杂。你现在不需要它，未来几个阶段可能也不需要，但它会让你的配方更有效率，并且在后期是必需的。%n%n[note]严格来说这条产线在IV即可搭建，但并非必须；要展示一下你的真本领的话，就自己去NEI搜索配方吧！[/note]
 
 # Quest: Rich Nether Waste
 betterquesting.quest.nx7KEyhlTc6qYVM1vImkBA.name=§c§l贫瘠下界废水
@@ -3821,7 +3821,7 @@ betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=最终，你可以在§5§l冲�
 
 # Quest: Prismarine Precipitate
 betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.name=海晶沉淀
-betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=在制得§2富海晶硝基苯溶液§r后，你需要将其置于§5§l化工厂§r中，并使用§2氢氧化锶§r对其进行处理。处理完毕后，即可成功获得你的第一份§3海晶沉淀§r。%n%n[warn]在该工艺中，锶元素是完全循环的，因此无需费心向产线中持续添加它。[/warn]%n%n[note]如果你还没有取得锶，你可以从稀土(III)或锰铝榴石泡沫中获取氧化锶。[/note]
+betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=在制得§2富海晶硝基苯溶液§r后，你需要将其置于§5§l化工厂§r中，并使用§2氢氧化锶§r对其进行处理。处理完毕后，即可成功获得你的第一份§3海晶沉淀§r。%n%n[warn]这条处理线中锶是净产出的，因此无需费心向产线中持续添加它。[/warn]%n%n[note]如果你还没有取得锶，你可以从稀土(III)或锰铝榴石泡沫中获取氧化锶。[/note]
 
 # Quest: Prismarine Recycling
 betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=海晶石回收
@@ -6533,11 +6533,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL1w.desc=是时候造个大家伙了：�
 
 # Quest: Getting Muddy With Monazite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4Q.name=§6§l获得独居石浊溶液
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4Q.desc=很快你就会用到镧系元素,大量的镧系元素.%n然而,它们性质接近,可不是轻易就能分离的....%n%n请先制造一台煮解池,以解锁IV任务栏中的镧系任务线.%n%n请注意：如果不安装消声仓,这台多方块机器就无法正常工作.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4Q.desc=很快你就会用到镧系元素，大量的镧系元素。%n然而，它们可不是轻易就能分离的……%n%n制造一台煮解池以解锁IV任务页中相应的任务线。%n%n请注意：如果不安装消声仓，这台多方块机器就无法正常工作。
 
 # Quest: Dissolution Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4g.name=§6§l溶解罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4g.desc=专为稀释而设计的一种特殊搅拌机.%n%n你需要为其按比例(NEI所示)提供输入,否则就无法获得输出.%n%n不管怎么说,溶解罐在镧系处理中扮演了相当重要的角色,所以赶紧制造一台吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL4g.desc=基本上就是专为稀释而设计的一种特殊搅拌机。%n%n你需要为其按比例（NEI所示）提供输入，否则就无法获得输出。%n%n不管怎么说，溶解罐在镧系处理中扮演了相当重要的角色，所以赶紧制造一台吧。
 
 # Quest: Advanced MB Construction
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALKA.name=§6§l多方块机器结构-进阶
@@ -6601,7 +6601,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3A.desc=你可以考虑将§3无尽强�
 
 # Quest: Your New Friend
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEQ.name=§6§l你的新朋友
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEQ.desc=在物品栏里携带所有工具是一种不太愉快的体验.你可以将GT工具以及电烙铁(包括焊料)放入IC2的工具盒中,以节省物品栏空间.%n%n你还可以直接用工具盒进行维护工作,而无需取出其中工具.只需手持工具盒右击维护仓即可.现在谁还需要航空胶带啊?你.它之后会被用于自动化维护.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEQ.desc=在物品栏里携带所有工具是一种不太愉快的体验。你可以将GT工具以及电烙铁（包括焊料）放入IC2的工具盒中，以节省物品栏空间。%n%n你还可以直接用工具盒进行维护工作，而无需取出其中工具。只需手持工具盒右击维护仓即可。现在谁还需要航空胶带啊？你。它之后会被用于自动化维护。
 
 # Quest: Too much Indium?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSA.name=铟太多了?
@@ -8896,7 +8896,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwA.desc=经过无数小时的寻找,你
 
 # Quest: Space Pumping
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3Q.name=太空钻机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3Q.desc=你可能曾经想过：太阳系中有这么多气态巨行星-有没有办法"收获"它们?当然有.只要构建"行星气体钻机"这种多方块机器,你就可以无限抽取那些气态巨行星(木星、土星、天王星和海王星)的大气了.当然,你还需要在目标行星上空建造空间站,距离也需要把控好,既要方便抽取,又不会坠入大气.%n%n通过GUI中的编程电路控制抽取深度,即可提取不同气体.同时还需要提供64*深度的采矿管道,以到达选定的深度.%n%n此多方块运行时功率为：d*4^(T+2),T为空间站等级,d为深度.%n%n可以在"提示、技巧"章节找到你可以在何处泵取何种流体的概述.%n%n§o木星(T3)§r%n1 氢 - 15000 L/s%n2 氦 - 500 L/s%n3 氮 - 300 L/s%n4 氧 - 200 L/s%n%n§o土星(T4)§r%n1 氢 - 18000 L/s%n2 氦 - 800 L/s%n3 氧 - 500 L/s%n4 液态氧 - 150 L/s%n%n§o天王星(T5)§r%n1 氘 - 5000 L/s%n2 氖 - 450 L/s%n3 氩 - 250 L/s%n4 氪 - 100 L/s%n%n§o海王星(T6)§r%n1 氚 - 3000 L/s%n2 氦-3 - 500 L/s%n3 氨 - 400 L/s%n4 氙 - 350 L/s
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3Q.desc=你可能曾经想过：太阳系中有这么多气态巨行星-有没有办法"收获"它们?当然有.只要构建"行星气体钻机"这种多方块机器,你就可以无限抽取那些气态巨行星(木星、土星、天王星和海王星)的大气了.当然,你还需要在目标行星上空建造空间站,距离也需要把控好,既要方便抽取,又不会坠入大气.%n%n通过GUI中的编程电路控制抽取深度,即可提取不同气体.同时还需要提供64*深度的采矿管道,以到达选定的深度.%n%n此多方块运行时功率为：d*4^(T+2),T为空间站等级,d为深度.%n%n可以在"提示、技巧"章节找到你可以在何处泵取何种流体的概述.%n%n§o木星(T3)§r%n1 氢 - 15000 L/s%n2 氦 - 500 L/s%n3 氮 - 300 L/s%n4 氧 - 200 L/s%n%n§o土星(T5)§r%n1 氢 - 18000 L/s%n2 氦 - 800 L/s%n3 氧 - 500 L/s%n4 液态氧 - 150 L/s%n%n§o天王星(T5)§r%n1 氘 - 5000 L/s%n2 氖 - 450 L/s%n3 氩 - 250 L/s%n4 氪 - 100 L/s%n%n§o海王星(T6)§r%n1 氚 - 3000 L/s%n2 氦-3 - 500 L/s%n3 氨 - 400 L/s%n4 氙 - 350 L/s
 
 # Quest: How the Eff Do I Charge This Sh*t?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALIA.name=我该怎么为这*玩意充电?
@@ -9596,7 +9596,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.desc=将ME存储总线贴在其他�
 
 # Quest: Interfacing with Tanks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.name=ME流体存储总线
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.desc=存储总线,但只能存储流体.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.desc=存储总线，但只能存储流体。
 
 # Quest: For Fluid Recipes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.name=ME流体接口
@@ -14767,7 +14767,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMeA.desc=某些涡轮材料对你还不�
 
 # Quest: Gas Planets
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiQ.name=气态行星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiQ.desc=你可能还想要全面了解可以通过行星气体钻机能在这些气态行星采集到什么,还有星球的等级.所以让我们开始吧：%n%n木星(T3)%n1 氢 - 15000 L/s%n2 氦 - 500 L/s%n3 氮 - 300 L/s%n4 氧 - 200 L/s%n%n土星(T4)%n1 氢 - 18000 L/s%n2 氦 - 800 L/s%n3 氧 - 500 L/s%n4 液氧 - 150 L/s%n%n天王星(T5)%n1 氘 - 5000 L/s%n2 氖 - 450 L/s%n3 氩 - 250 L/s%n4 氪 - 100 L/s%n%n海王星(T6)%n1 氚 - 3000 L/s%n2 氦-3 - 500 L/s%n3 氨 - 400 L/s%n4 氙 - 350 L/s
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiQ.desc=你可能还想要全面了解可以通过行星气体钻机能在这些气态行星采集到什么,还有星球的等级.所以让我们开始吧：%n%n木星(T3)%n1 氢 - 15000 L/s%n2 氦 - 500 L/s%n3 氮 - 300 L/s%n4 氧 - 200 L/s%n%n土星(T5)%n1 氢 - 18000 L/s%n2 氦 - 800 L/s%n3 氧 - 500 L/s%n4 液氧 - 150 L/s%n%n天王星(T5)%n1 氘 - 5000 L/s%n2 氖 - 450 L/s%n3 氩 - 250 L/s%n4 氪 - 100 L/s%n%n海王星(T6)%n1 氚 - 3000 L/s%n2 氦-3 - 500 L/s%n3 氨 - 400 L/s%n4 氙 - 350 L/s
 
 # Quest: Hypogen Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkg.name=§6§l升级海珀珍线圈

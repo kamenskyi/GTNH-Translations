@@ -49,7 +49,7 @@ kubatech.gui.text.tea_ultimate.exchange.cost=Cost: %s Tea
 kubatech.gui.text.tea_ultimate.benefits=BENEFITS
 kubatech.gui.tooltip.tea_ultimate.tea_acceptor_research_note=Tea Acceptor Research Note
 
-kubatech.gui.text.tea_acceptor.name=Tea Acceptor
+kubatech.gui.text.tea_acceptor.name=Приёмщик чая
 kubatech.gui.text.tea_acceptor.tea=[Чай]
 kubatech.gui.text.tea_acceptor.not_owner=Это не твой блок
 kubatech.gui.text.tea_acceptor.in=Ввод: %s/t
@@ -77,6 +77,8 @@ kubatech.gui.text.status=Статус
 kubatech.gui.text.operating=Работает
 kubatech.gui.text.input=Ввод
 kubatech.gui.text.output=Вывод
+kubatech.gui.text.usage_line=Usage: %s EU/t
+kubatech.gui.text.time_line=Time: %s secs
 kubatech.gui.text.eig.setup_mode=Режим настройки
 kubatech.gui.text.eig.disabled=Отключено
 kubatech.gui.text.eig.enabled=Включено

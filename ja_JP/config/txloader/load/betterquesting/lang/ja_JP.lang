@@ -75,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GregTech New Horizons は大量
 
 # Quest: Even more challenges needed?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=§9§nもっとチャンレジが必要？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=もう既に何度もModpackをプレイした事がある？すでに §7《§rスターゲート§7／Stargate》§r を作った事がある？もっと難しい物を探している？%n%n心配しないで、そんなあなたに向けた、いくつかの選択肢が用意されていますよ。%n%n - ハードコア: Minecraftのハードコア、もしくはBetterQuestingのハードコアモードでプレイしてください。後者は少しだけ易しい(?)でしょう。一見不可能に見えるかもしれませんが、MinecraftのハードコアモードでUEV+に到達したプレイヤーが存在します。もちろん、何度もリスタートする覚悟が必要です。明らかに、誰にでも出来る事ではないですが...%n%n - ロケット縛り: §oNo-Rocket Run§r と呼ばれているこのチャレンジは、パック側で公式にサポートされています。蜂、IC2農業、 Blood Magic の隕石など、このModpackに含まれるおよそ全ての要素を資源生産に利用しましょう。チャレンジを通して進行が遅く、そして繰り返しが多くなる事に気をつけてください。一例として、最初の §7《§rチタン§7／Titanium》§r を手に入れるために大量の §7《§rアンドラタイト鉱石§7／Andratite Ore》§r 集めるか、アルミニウムのボーキサイトスラグを経由するか、あるいはマシン等の技術的な補助が少ない中、早期から養蜂を開始する必要があります。%n%n - スカイブロック: そう、スカイブロックです。 §4Garden of Grind§r と呼ばれるこのチャレンジは、究極的に過酷です。このModpackはスカイブロック環境でのプレイは公式にサポートされていませんが、最小限の変更で進行できることを発見したプレイヤーがいます。...ただこのチャレンジに楽しさを期待しないでください。これはゲームと呼ぶにはあまりにも過酷です。%n%n - スピードラン: 何人かのプレイヤーが基本的なルールを定め、 §7《§rコークス炉§7／Coke Oven》§r を作る等のゲーム初期のゴールまでのスピードラン記録を作り初めています。公式Discodでどのようにスピードランが行われているのかを確認してみてください。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=もう既に何度もModpackをプレイした事がある？すでに §7《§rスターゲート§7／Stargate》§r を作った事がある？もっと難しい物を探している？%n%n心配しないで、そんなあなたに向けた、いくつかの選択肢が用意されていますよ。%n%n - ハードコア: Minecraftのハードコア、もしくはBetterQuestingのハードコアモードでプレイしてください。後者は少しだけ易しい(?)でしょう。一見不可能に見えるかもしれませんが、MinecraftのハードコアモードでUEV+に到達したプレイヤーが存在します。もちろん、何度もリスタートする覚悟が必要です。明らかに、誰にでも出来る事ではないですが...%n%n - ロケット縛り: §oNo-Rocket Run§r と呼ばれているこのチャレンジは、パック側で公式にサポートされています。蜂、IC2農業、 Blood Magic の隕石など、このModpackに含まれるおよそ全ての要素を資源生産に利用しましょう。チャレンジを通して進行が遅く、そして繰り返しが多くなる事に気をつけてください。一例として、最初の §7《§rチタン§7／Titanium》§r を手に入れるために大量の §7《§r灰鉄柘榴石鉱石§7／Andradite Ore》§r 集めるか、アルミニウムのボーキサイトスラグを経由するか、あるいはマシン等の技術的な補助が少ない中、早期から養蜂を開始する必要があります。%n%n - スカイブロック: そう、スカイブロックです。 §4Garden of Grind§r と呼ばれるこのチャレンジは、究極的に過酷です。このModpackはスカイブロック環境でのプレイは公式にサポートされていませんが、最小限の変更で進行できることを発見したプレイヤーがいます。...ただこのチャレンジに楽しさを期待しないでください。これはゲームと呼ぶにはあまりにも過酷です。%n%n - スピードラン: 何人かのプレイヤーが基本的なルールを定め、 §7《§rコークス炉§7／Coke Oven》§r を作る等のゲーム初期のゴールまでのスピードラン記録を作り初めています。公式Discodでどのようにスピードランが行われているのかを確認してみてください。
 
 # Quest: Oak Trees Are Not Apple Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§nオークの木はリンゴの木にあらず
@@ -235,17 +235,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=水を持ち運ぶ方法を見�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§a§n鋳掛けの時間
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=木製の道具はブタやウシを食べたいときには便利ですが、長持ちはしないし修理もできません。%n%nそれに、インファーナルはあなたが彼らを殺そうとやってくるたびに嘲笑います。%n%nそこで、修理やアップグレードができる道具の作り方を編み出しましょう。%nしかし、これにはより高度な製造技術が要求されるようです。%n%n[note]オーク以外の木で部品作成台をクラフトした場合でも、単体クラフトで変換することでクエストを完了できます。[/note]
 
-# Quest: Zinc Gravel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§a§n亜鉛砂利
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=地表にある砂利の塊の中には§7《§r亜鉛砂利鉱石§7／Zinc Gravel Ore》§rが見つかることがあります。 %n%n消費を最小限に抑え、残った鉱石を蒸気時代で作れる §7《§r破砕機§7／Macerator》§r で処理すると、2倍の量を手に入れることができます。%n%nもし見つからなかった場合、§7《§r自動販売機§7／Vending Machine》§r で購入できます！%n%n十分な量を確保してしっかり鉱石処理を行えば、LV時代にはヒ化ガリウム用のガリウムを入手することもできます。
-
 # Quest: Making Bronze
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=§a§n青銅を作る
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=§7《§r銅§7／Copper》§r と §7《§r錫§7／Tin》§r を採掘してきたあなたは、自分へのご褒美として §7《§r青銅§7／Bronze》§r を作れるようになりました。%n%n粉砕k... §7《§rすり鉢§7／Mortar》§r を使用して、いくつかの銅と錫のインゴットを粉砕し、それらを混ぜ合わせてください！
 
 # Quest: Important Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=§a§n重要なツールたち
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=基本的な機械を作るためには、新たなツールが必要になります。%n%nこれらを使用する工程は、後々機械で代用できるようになりますが、今はこちらに慣れておいた方がいいでしょう。%n%nなぜなら、これらのツールを使う機会は今後大量に訪れるからです。そして、それは今日からです。%n%nこれらのツールはRailcraftの §7《§r貯水槽§7／Water Tank》§r の作成にも使用します。例の"有限水源問題"について考慮すると、非常に便利な設備になるはずです。%n%nツールには電動バージョンもあり、後々アップグレードすることができます。%n%nさらに、これらのツールは様々な素材で作成でき、その性能は一般的に Tinkers' Construct のパーツや、 §7《§rタービン§7／Turbine》§r のように、一定のルールに従います。%n%nGT製ツールの統計情報については、スプレッドシートから確認が可能です。%n%nこのクエストはどのような素材でツールを作っても完了できます。%n%nまた、宝石製の §7《§rノコギリ§7／Saw》§r は金属製のものとは異なるレシピで作られること、上位のツールは棒の代わりに、 §7《§rスチール§7／Steel》§r や §7《§rタングステンスチール§7／Tungstensteel》§r の棒を柄とすることに注意してください。%n%n[note]NEIで特定の素材を使ったツールのレシピを調べたい場合、上部にある虫眼鏡アイコンを検索に利用してみてください。(このクエストなら"iron"または"鉄"で試してみるといいでしょう！)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=基本的な機械を作るためには、新たなツールが必要になります。%n%nこれらを使用する工程は、後々機械で代用できるようになりますが、今はこちらに慣れておいた方がいいでしょう。%n%nなぜなら、これらのツールを使う機会は今後大量に訪れるからです。そして、それは今日からです。%n%nこれらのツールはRailcraftの §7《§r貯水槽§7／Water Tank》§r の作成にも使用します。例の"有限水源問題"について考慮すると、非常に便利な設備になるはずです。%n%nツールには電動バージョンもあり、後々アップグレードすることができます。%n%nさらに、これらのツールは様々な素材で作成でき、その性能は一般的に Tinkers' Construct のパーツや、 §7《§rタービン§7／Turbine》§r のように、一定のルールに従います。%n%nGT製ツールの統計情報については、スプレッドシートから確認が可能です。%n%nこのクエストはどのような素材でツールを作っても完了できます。%n%nまた、宝石製の §7《§rノコギリ§7／Saw》§r は金属製のものとは異なるレシピで作られること、上位のツールは棒の代わりに、 §7《§rスチール§7／Steel》§r や §7《§rタングステンスチール§7／Tungstensteel》§r の棒を柄とすることに注意してください。%n%n[note]NEIで特定の素材を使ったツールのレシピを調べたい場合、レシピ表示画面の上部にある虫眼鏡アイコンを検索に利用してみてください。(このクエストなら"iron"または"鉄"で試してみるといいでしょう！)[/note]
 
 # Quest: Getting Iron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=§a§n鉄を入手する
@@ -417,7 +413,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=このパックではTinker's C
 
 # Quest: Options For Finding Zinc
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§a§n亜鉛を見つける他の方法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=古いワールドからプレイを続けていたり、または本当に運が悪かった場合、 §7《§r亜鉛の砂利鉱石§7／Zinc Gravel Ore》§r を見つけることを難しく感じるかもしれません。%n%nそこで、亜鉛を入手する代替手段を次に示します:%n%n- §7《§rコイン、コイン、コイン§7／Coins, Coins, Coins》§r 項目から §7《§r亜鉛の砂利鉱石§7／Zinc Gravel Ore》§r を購入する。%n%n-オーバーワールドで §7《§r亜鉛の小さな鉱石§7／Small Zinc Ore》§r を探す。%n%n- §7《§r液体経験値入りバケツ§7／XP Bucket》§r を使い、 §7《§r亜鉛の粉§7／Zinc Dust》§r をクラフトする。%n%nLV電圧Tierに到達すると、 §7《§rアンチモン§7／Antimony》§r や §7《§r閃亜鉛鉱§7／Sphalerite》§r 、 §7《§r安四面銅鉱§7／Tetrahedrite》§r そして §7《§r錫§7／Tin》§r などの鉱石の処理の副産物から亜鉛を入手できるようになります。%n詳細はNEIを参照してください。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=現段階における§7《§r亜鉛§7／Zinc》§rの主な入手元は、地表で見つかる§7《§r亜鉛砂利鉱石§7／Zinc Gravel Ore》§rになります。%n%n古いワールドからプレイを続けていたり、または本当に運が悪かった場合、次の代替手段を用いて亜鉛を入手することもできます。%n%n1. オーバーワールドで §7《§r小さな亜鉛鉱石§7／Small Zinc Ore》§r を探す。%n%n2. §7《§r液体経験値入りバケツ§7／XP Bucket》§r を使い、 §7《§r亜鉛の粉§7／Zinc Dust》§r をクラフトする。%n%n3. §7《§r自動販売機§7／Vending Machine》§r で亜鉛砂利鉱石を購入する。(このタブを進めると解放されます！)%n%n[note]LV電圧Tierに到達すれば、 §7《§rアンチモン§7／Antimony》§r や §7《§r閃亜鉛鉱§7／Sphalerite》§r 、 §7《§r安四面銅鉱§7／Tetrahedrite》§r そして §7《§r錫§7／Tin》§r といった鉱石を処理した際の副産物から亜鉛を入手できるようになります。また、§7《§r粉砕機§7／Macerator》§rを用いれば1個の砂利鉱石から亜鉛2個分の粉を取り出すことも可能なので、粉砕機を入手するまではできるだけ亜鉛砂利鉱石を温存しておくのがいいでしょう。[/note]
 
 # Quest: How to Open Your Wooden Doors?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name=§a§n木のドアはどうやって開ける？
@@ -879,7 +875,7 @@ betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc=A feat of human engineering at 
 
 # Quest: Welcome to Tier 1, LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=§2§nTier1 - LV時代へようこそ
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=おお、こんにちは！電気時代に突入したみたいですね。しばらくは使うことになると思うので、蒸気機械はすぐには捨てないでくださいね。%n%n生活を楽にするために、まずは§7《§3ワイヤミル§7／Wiremill》§3と§7《§3折り曲げ機§7／Bender》§3を作ることに注力したほうがいいでしょう...機械部品を作るのに十分苦しんだと思います。%n%nそのあと、§7《§3電気磁化機§7／Polarizer》§3、§7《§3組み立て機§7／Assembler》§3、§7《§3旋盤§7／Lathe》§3、そして(ゴム用の)§7《§3化学反応器§7／Chemical Reactor》§3と§7《§3液体成型機§7／Fluid Solidifier》§3はすべて、ものをより低コストで作るのに役立ちます。%n%n蒸気機械は蒸気を50%の効率でエネルギーに変換するが、LV蒸気タービンは85%%の効率で蒸気をエネルギーに変換するのでLV機械のほうが優れた効率です。%n%nULV機械は存在しません。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=おお、こんにちは！電気時代に突入したみたいですね。しばらくは使うことになると思うので、蒸気機械はすぐには捨てないでくださいね。%n%n生活を楽にするために、まずは§7《§3ワイヤミル§7／Wiremill》§3と§7《§3折り曲げ機§7／Bender》§3を作ることに注力したほうがいいでしょう...機械部品を作るのに十分苦しんだと思います。%n%nそのあと、§7《§3電気磁化機§7／Polarizer》§3、§7《§3組み立て機§7／Assembler》§3、§7《§3旋盤§7／Lathe》§3、そして(ゴム用の)§7《§3化学反応器§7／Chemical Reactor》§3と§7《§3液体成型機§7／Fluid Solidifier》§3はすべて、ものをより低コストで作るのに役立ちます。%n%n蒸気機械は蒸気を50%%の効率でエネルギーに変換するが、LV蒸気タービンは85%%の効率で蒸気をエネルギーに変換するのでLV機械のほうが優れた効率です。%n%nULV機械は存在しません。
 
 # Quest: Damn You, Wire Cutter!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=§2§nワイヤーカッターのばーか！
@@ -1335,7 +1331,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.desc=地震探査機を使用する�
 
 # Quest: Better Gallium and Arsenic Sources
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.name=§2§nガリウムとヒ素の効率的な入手方法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=ガリウムの入手量を増やす方法はいくつかあります。%n%n1. TiCon亜鉛砂利鉱石を見つけて加工し、ガリウムを抽出します。%n%n2. 亜鉛蜂を繁殖させ、ガリウムの巣板を塩酸と反応させます。この蜂は繁殖段階が比較的浅く、加工に必要なレベルも低いです。%n%n3. 「農業」タブのIC2作物を使用してガルバニーアの葉を入手し、亜鉛と閃亜鉛鉱の粉砕鉱石を4倍に精製します。%n%n4. HV破砕機を使用して遠心分離した鉱石を処理すると、ガリウム粉末が10%の確率で完全な形で得られます。%n%n5. 月で豊富に採れるボーキサイト鉱石を利用します。%n%n6. Twilight Forestでレッドキャップ/レッドキャップ工兵を討伐します。また、コボルトもヒ素をドロップします。%n%n7. Thaumcraftでナゲットを複製します。この方法は§nタブー§r研究を必要とするため、実行するかどうかはよく考えてください。%n%nヒ素については、トワイライトフォレストで採れるコバルト鉱が優れた供給源です。より詳しい情報については「コバルト鉱からのコバルトとヒ素」クエストを参照してください。%n%nコバルト鉱はIC2作物のニッケルバックを使用することで4倍に増殖させることも可能です。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=ガリウムの入手量を増やす方法はいくつかあります。%n%n1. TiCon亜鉛砂利鉱石を見つけて加工し、ガリウムを抽出します。%n%n2. 亜鉛蜂を繁殖させ、ガリウムの巣板を塩酸と反応させます。この蜂は繁殖段階が比較的浅く、加工に必要なレベルも低いです。%n%n3. 「農業」タブのIC2作物を使用してガルバニーアの葉を入手し、亜鉛と閃亜鉛鉱の粉砕鉱石を4倍に精製します。%n%n4. HV破砕機を使用して遠心分離した鉱石を処理すると、ガリウム粉末が10%%の確率で完全な形で得られます。%n%n5. 月で豊富に採れるボーキサイト鉱石を利用します。%n%n6. Twilight Forestでレッドキャップ/レッドキャップ工兵を討伐します。また、コボルトもヒ素をドロップします。%n%n7. Thaumcraftでナゲットを複製します。この方法は§nタブー§r研究を必要とするため、実行するかどうかはよく考えてください。%n%nヒ素については、トワイライトフォレストで採れるコバルト鉱が優れた供給源です。より詳しい情報については「コバルト鉱からのコバルトとヒ素」クエストを参照してください。%n%nコバルト鉱はIC2作物のニッケルバックを使用することで4倍に増殖させることも可能です。
 
 # Quest: Filling the World With Fluids...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.name=§2§n世界を液体で満たす...
@@ -1399,7 +1395,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.desc=砂利、石、黒曜石、そ�
 
 # Quest: Magnets != Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.name=§2§n磁石 ≠ 魔法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.desc=鉱石やその他のブロックを追いかけて走り回るのにうんざりしていませんか？ 磁石を使いましょう！ 有効範囲は限られていますが、気にする必要はありません。ただ電源を入れるのを忘れないでくださいね。%n%nHV環境でまだ磁石が必要な場合には、必要に応じてより高性能なバージョンをクラフトすることも可能です。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.desc=鉱石やその他のブロックを追いかけて走り回るのにうんざりしていませんか？ 磁石を使いましょう！ 有効範囲は限られていますが、気にする必要はありません。ただ電源を入れるのを忘れないでくださいね。%n%nHV環境でまだ磁石が必要な場合には、必要に応じてより高性能なバージョンをクラフトすることも可能です。%n%n[note]Tips:%n- 電源の切り替えはDraconic Evolutionの"マグネットを切り替え"キーで行うことができます。%n%n- アイテム拾得音はDraconic EvoutionのMod設定から無効化できます。[/note]
 
 # Quest: Cobalt and Arsenic from Cobaltite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALYg.name=§2§n輝コバルト鉱からのコバルトとヒ素
@@ -1427,7 +1423,7 @@ betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=押出機や固化装置の近�
 
 # Quest: Refined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.name=§2§lRefined Firestone
-betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond Lens or Flint Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
+betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond Lens or Flint Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
 
 # Quest: Precision Laser Engraver
 betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.name=§2§lPrecision Laser Engraver
@@ -1572,7 +1568,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7Q.desc=ステンレススチールがH
 
 # Quest: Molten Plastic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.name=§6§n溶融プラスチック
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.desc=ポリエチレンを化学反応機で製造するには、エチレン、圧縮空気セル、または酸素を使用します。酸素を使用すると50%の効率アップが得られます。液体成型機でプレートを作るための型を使用し、ポリエチレンシートを製造してください。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.desc=ポリエチレンを化学反応機で製造するには、エチレン、圧縮空気セル、または酸素を使用します。酸素を使用すると50%%の効率アップが得られます。液体成型機でプレートを作るための型を使用し、ポリエチレンシートを製造してください。
 
 # Quest: Mixing at MV level
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=§6§nMVレベルの混合作業
@@ -1660,11 +1656,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=ついにHV回路の登場で�
 
 # Quest: Methane Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=§6§nメタンガス
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=Methane gas has a burn value of 104,000 EU per cell and can be burned in the Gas Turbine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=メタンガスはセルあたり104,000 EUの燃料として使用でき、ガスタービンで燃焼させて発電することができます。
 
 # Quest: Methanol
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.name=§6§nメタノール
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=Methanol has a burn value of 84,000 EU per cell and can be used to make Bio Diesel and other fluids. It's also used to make certain rocket fuels.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=メタノールはセルあたり84,000 EUの燃料として使用でき、バイオディーゼルやその他の液体を作るために使用できます。また、特定のロケット燃料の材料としても使用できます。
 
 # Quest: Ethanol
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.name=§6§nエタノール
@@ -1788,7 +1784,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.desc=Ever wanted to trap a wither bu
 
 # Quest: Advanced Compressor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.name=§6§n発展型圧縮機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.desc=The MV compressor is twice as fast as the LV one but uses 4x the power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.desc=MV圧縮機はLV圧縮機と比べて2倍の処理速度を誇りますが、その分、消費電力は4倍になります。
 
 # Quest: Advanced Macerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.name=§6§n発展型破砕機
@@ -1979,7 +1975,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiw.name=§6§n未精製シリコンの�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMiw.desc=シリコンはブール(そしてそれに伴うウェハー、チップ、回路)の製造において不可欠な材料です。したがって、シリコンは§o極めて重要な素材§rと言えます。%n%n新しく作成した電解槽を使えば、さまざまな原料から未精製シリコン粉を入手できます。また、レッドストーンを遠心分離機で分離する方法もあります。二酸化ケイ素から入手することも可能で、マグネシウム粉を化学反応器で添加した後、電解槽でリサイクルすることで、大量のボーナス酸素も得られます。
 
 # Quest: Silicon Tetrachloride
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjA.name=§6§n四塩化シリコン
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjA.name=§6§n四塩化ケイ素
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjA.desc=未精製シリコンの粉を手に入れました。しかしながら、入手したシリコン粉末は純度が不十分です。これを精製する必要があります。合理的な方法は2つありますが、まずは最初の方法から見ていきましょう。ご心配なく、これは簡単な2段階のプロセスです。まずは化学反応器で塩素と反応させることから始めましょう。
 
 # Quest: Silicon Tetrachloride - continued
@@ -1989,6 +1985,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjQ.desc=2段階目として、四塩化
 # Quest: Salty from all the silicon?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.name=§6§nケイ素から常に塩が出てくるの？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMjg.desc=もし、ケイ素精製に必要な原料について不満をお持ちなら、良いお知らせがあります！使用した塩素とナトリウムはすべて、生成した塩を電気分解することで回収できます！%n%n[note]ナトリウムの代わりに亜鉛を使用することも可能です。最初の反応時間は長くなりますが、リサイクルコストは大幅に削減できます。[/note]
+
+# Quest: Dislocator Inhibitor
+betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.name=§6§lDislocator Inhibitor
+betterquesting.quest.epVKHW7jSUiiLW4BPCqv9g.desc=Tired of your magnet picking up everything? Fortunately, with the advent of Dark Steel this no longer needs to be an issue.%n%nThe Dislocator Inhibitor will restrict the function of the Draconic Evolution Item Dislocator within a customizable range of up to 16 blocks. You can stop it from picking up items entirely, or configure a whitelist or blacklist of your choosing. Additionally, you can choose whether it is always active or only enabled by a redstone signal.
 
 
 ## Quest Line: Tier 3 - HV
@@ -2440,8 +2440,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=Mars has a few new ores you nee
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=§8§lDimensional Goal: Phobos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=Phobos has new ores, go get them!%n%n[note]Honestly, aside from the dungeon, Phobos has all the ores you need.[/note]
 
-# Quest: Dimensional goal: Deimos
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.name=§8§lDimensional goal: Deimos
+# Quest: Dimensional Goal: Deimos
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.name=§8§lDimensional Goal: Deimos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.desc=You can actually get the ores you want from the other two, but visit if you like?
 
 # Quest: HEV Mark III Protective System
@@ -2747,10 +2747,6 @@ betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.desc=Now that you're in EV tier you 
 # Quest: EV Field Generator
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.name=§8§nEV 空間発生器
 betterquesting.quest.Jna1jgAySNSs8nS0YMXpLw.desc=With Field Generators you can make your first Quantum Chests or Quantum Tanks. But the first two should be for your T2 rocket.%n%n[note]Note that the Assembler recipe is more resource efficient.[/note]
-
-# Quest: Supersized Buses
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.name=§8§lSupersized Buses
-betterquesting.quest.Mt25IP2aShSSUBhZ1GGItg.desc=Input and output buses not holding enough for you?%n%nUpgrade your buses to the Super bus and enjoy increased slots.%n%n[note]To get Molten Silicon Carbide without an ABS, you can make Silicon Carbide Dust in a Mixer, then smelt it and fluid extract.[/note]
 
 # Quest: EXTREME MIXING
 betterquesting.quest.kQL8JceoSMSLDU_2AFjoqw.name=§8§lEXTREME MIXING
@@ -3091,7 +3087,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5A.desc=That mud on its own is far too 
 
 # Quest: Zirconia-Hafnia Blend
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.name=§9§nジルコニア-ハフニアブレンド
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.desc=This process is a little involved so I'll guide you through it. First, centrifuge the dust you got from the dissolution tank.%n%nBecause Hafnium and Zirconium are refractory metals, like Titanium and Zirconium,%nthey have very similar process to it and each other.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5Q.desc=This process is a little involved so I'll guide you through it. First, centrifuge the dust you got from the dissolution tank.%n%nBecause Hafnium and Zirconium are refractory metals like Titanium, they use a similar process.
 
 # Quest: Sifting the Goodness Out
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5g.name=§9§lSifting the Goodness Out
@@ -3866,7 +3862,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAErg.desc=Mk 2は素晴らしいですが
 
 # Quest: I Put Fusion in Your Fusion so you Can Fusion While You Fusion
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.name=§2§l§nI Put Fusion in Your Fusion so you Can Fusion While You Fusion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.desc=To make Oganesson, you'll need to make Californium. To make that, you'll need Beryllium and Plutonium 239, all in the Fusion Reactor. After the two fusion chains, you'll have the best noble gas in the pack, which is used in several places.%n%nIn this tier, you can send it to Void Miners, to increase their ore production speed, or EBFs, to make them run faster, although the EBF option is too weak right now (changes coming soon). Later on, Oganesson will be used in other places, like the optical circuit line, or to produce Metastable Oganesson, which is needed in much larger quantities later on.%n%nOganesson replication is on the way out, and the fusion recipe has improved a lot, so there is no longer an incentive to replicate and your Fusion Reactor should keep running for Og.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.desc=To make Oganesson, you'll need to make Californium. To make that, you'll need Beryllium and Plutonium 239, all in the Fusion Reactor. After the two fusion chains, you'll have the best noble gas in the pack, which is used in several places.%n%nIn this tier, you can send it to Void Miners, to increase their ore production speed, or EBFs, to make them run faster, although the EBF option is too weak right now (changes coming soon). Later on, Oganesson will be used in other places, like the optical circuit line, or to produce Metastable Oganesson, which is needed in much larger quantities later on.
 
 # Quest: Time for Another Reactor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsw.name=§2§l§nTime for Another Reactor
@@ -3878,7 +3874,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-Q.desc=These boules are the last ones,
 
 # Quest: Quantum Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1w.name=§2§n量子コンピューター
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1w.desc=The Quantum Computer (QC) is an incredibly complicated machine used to generate computation for the Research Station and a few other multiblocks. There are a few things you need to understand before using one.%n%n§lCONSTRUCTION§r. Much like an assembly line, the QC is built as a series of slices. The first and last slice are the only valid locations for hatches. The slices in between are primarily for computer racks. The Multiblock Structure Hologram Projector shows the minimum length QC, but holding multiple in a single stack will show/build longer versions up to the maximum length of 16. There is also a mandatory air block in front of the computer heat vents.%n%n§lOUTPUT§r. Computation is nothing more than an integer input for certain recipes--much like EU. There may exist a minimum throughput requirement, a threshold to reach, or both (NEI will tell you everything). Computation is generated every second by the QC, transmitted by an Optical Transmission Connector, received by an Optical Reception Connector, and "consumed" by the machine or process that needs it. There is no storing computation and there can only be ONE transmission or reception hatch connected to the same Optical Fiber Cables at a time. If absolutely necessary, the Network Switch with QoS can split/join connections but know that it takes both power and maintenance to run.%n%nAdditional QC can be chained together using another set of Optical Transmission and Optical Reception Connectors between machines, but they cannot wallshare the same Optical Transmission Connector.%n%n§lUNCERTAINTY§r. The QC has a unique maintenance requirement that can only be corrected by balancing the Schrödinger Matrix inside an Uncertainty Resolver--an additional hatch that must go on either the first or last slice of the machine. Start with the basic Uncertainty Resolver, but know that there are two more tiers unlocked later on that lower the difficulty of the puzzle, or not?%n%nThe interface of the Uncertainty Resolver has the Schrödinger Matrix in the middle and two sets of 8 buttons on the left and right. Clicking on one button and then another will switch the states of the two corresponding cells in the matrix. This means switching their blinking speed (in the basic Uncertainty Resolver) or their shade/color (in the Uncertainty Resolver X). The goal of the puzzle is to balance the states of the matrix around the glowing LED lights, turning all of them green.%n%n§lPARAMETERS§r. In the GUI of the controller, there are two configurable parameters, overclock and overvolt, that change how computation and heat are generated. Higher overclock values contribute the most to computation and higher overvolt values contribute the most to heat. Alone, this would encourage the player to make overclock as high as possible and overvolt as low as possible, but there is a penalty to computation for large differences between these two parameters. Furthermore, overvolt values <1 will cause the QC to randomly drop computation proportional to its distance from 1. It is highly encouraged to play around with these parameters, as all the best setups do.%n%nSee the adjacent quest for more information on computer racks and generating computation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1w.desc=The Quantum Computer (QC) is an incredibly complicated machine used to generate computation for the Research Station and a few other multiblocks. There are a few things you need to understand before using one.%n%n§lCONSTRUCTION§r. Much like an assembly line, the QC is built as a series of slices. The first and last slice are the only valid locations for hatches. The slices in between are primarily for computer racks. The Multiblock Structure Hologram Projector shows the minimum length QC, but holding multiple in a single stack will show/build longer versions up to the maximum length of 16. There is also a mandatory air block in front of the computer heat vents.%n%n§lOUTPUT§r. Computation is nothing more than an integer input for certain recipes--much like EU. There may exist a minimum throughput requirement, a threshold to reach, or both (NEI will tell you everything). Computation is generated every second by the QC, transmitted by an Optical Transmission Connector, received by an Optical Reception Connector, and "consumed" by the machine or process that needs it. There is no storing computation and there can only be ONE transmission or reception hatch connected to the same Optical Fiber Cables at a time. If absolutely necessary, the Network Switch with QoS can split/join connections but know that it takes both power and maintenance to run.%n%nAdditional QC can be chained together using another set of Optical Transmission and Optical Reception Connectors between machines, but they cannot wallshare the same Optical Transmission Connector.%n%n§lUNCERTAINTY§r. The QC has a unique maintenance requirement that can only be corrected by balancing the Schrödinger Matrix inside an Uncertainty Resolver- an additional hatch that must go on either the first or last slice of the machine. Start with the Uncertainty Resolver X, but know that there is another tier unlocked later on (Uncertainty Resolution) that will solve the puzzle on its own.%n%nThe interface of the Uncertainty Resolver X has the Schrödinger Matrix in the middle and two sets of 8 buttons on the left and right. Clicking on one button and then another will switch the states of the two corresponding cells in the matrix. This means switching their shade/color. The goal of the puzzle is to balance the states of the matrix around the glowing LED lights, turning all of them green.%n%n§lPARAMETERS§r. In the GUI of the controller, there are two configurable parameters, overclock and overvolt, that change how computation and heat are generated. Higher overclock values contribute the most to computation and higher overvolt values contribute the most to heat. Alone, this would encourage the player to make overclock as high as possible and overvolt as low as possible, but there is a penalty to computation for large differences between these two parameters. Furthermore, overvolt values <1 will cause the QC to randomly drop computation proportional to its distance from 1. It is highly encouraged to play around with these parameters, as all the best setups do.%n%nSee the adjacent quest for more information on computer racks and generating computation.
 
 # Quest: Research Station
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2A.name=§2§n総合型研究装置
@@ -4918,7 +4914,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAw.desc=IC2作物は、地球上では�
 
 # Quest: New Threads
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.name=あたらしいスレッド
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=クモを殺して糸を集めることにうんざりしていませんか？%n%n§7《§rアマ§7／Flax》§r を栽培すれば、もう糸を集めるたびに噛まれないかと怯える必要もなくなります！%n%n§3最適な親株は §7《§3スパイダーニップ§7／Spidernip》§3 ですが、 §7《§3ネバネバ葦§7／Stickreed》§3 も関連値が0.87%%と高く、親株として十分に機能します。§r%n%n%nまたは、 §7《§r綿花§7／Cotton》§r を育てて糸へ加工したり、 §7《§r綿布§7／Woven Cotton》§r の作成に役立てることもできます。%n%n§7《§r綿花§7／Cotton》§r を §7《§r支柱§7／Crop》§r へ直接植えて育てることもできるので、より簡単です。%n%n%n次のクエストに詳細が記されている §7《§rコリウム§7／Corium》§r も育てれば、 §7《§rなめし革§7／Tanned Leather》§r の材料を全て畑で賄えるようになります！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=クモを殺して糸を集めることにうんざりしていませんか？%n%n§7《§rアマ§7／Flax》§r を栽培すれば、もう糸を集めるたびに噛まれないかと怯える必要もなくなります！%n%n%n次のクエストに詳細が記されている §7《§rコリウム§7／Corium》§r も育てれば、 §7《§rなめし革§7／Tanned Leather》§r の材料を全て畑で賄えるようになります！
 
 # Quest: The Ground is Crying
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.name=大地が泣いている...
@@ -5915,10 +5911,6 @@ betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=An enhanced version of the Diam
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§6§lObsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.desc=The Obsidian barrel holds as many items as the Diamond one, and is also immune to explosions.
 
-# Quest: Double the Radius = Double the Fun!
-betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=Double the Radius = Double the Fun!
-betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]Advanced MagLev Pylon II (HV)[/quest]%n%nThe HV Pylon has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. 
-
 # Quest: Obsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§lObsidian Shulker Box
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=The portable equivalent of the Obsidian Barrel that retains it's explosion-proof qualities.%n%nHas §n108§r slots.%n%n[note]Can be dyed![/note]
@@ -5934,10 +5926,6 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=Combining diamond chest with ob
 # Quest: Iron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§lIron Shulker Box
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=The portable equivalent of the Iron Barrel.%n%nHas §n54§r slots.%n%n[note]Can be dyed![/note]
-
-# Quest: Constructing Additional Pylons!
-betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.name=Constructing Additional Pylons!
-betterquesting.quest.U0LzQUUkRIi-cY3ZpT4uiQ.desc=[quest]Advanced MagLev Pylon III (EV)[/quest]%n%nThe EV Pylon has a §c48§r block radius (97x97x97 cube centered around the pylon)%n%nRadius is §9halved§r if the pylon is unpowered. %n%n[note]The Protoss would be very happy with you[/note]
 
 # Quest: A Modern Technology
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=最新技術
@@ -6655,7 +6643,7 @@ betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=A Linear Accelerator (LINAC) ca
 
 # Quest: Playing with Colors!
 betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.name=§6§lPlaying with Colors!
-betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Buses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n§6Now §2go §3have §4fun§5!!!
+betterquesting.quest.Z_jn8qzFQr6FWHzmt2i3Aw.desc=Multiblock machines enforce input separation based on hatch color. Inputs from Input Buses and Input Hatches will only interact if they share the same color. Un-dyed inputs act as wildcards compatible with any color.%n%nColor can be applied using a Spray Can and removed with a Spray Can Solvent. An Infinite Spray Can becomes available later in progression.%n%n[note]For more advanced users, note that the priority of dyed hatches is ordered exactly how the vanilla dyes are in NEI, from highest (black) to lowest (white).[/note]%n%n§6Now §2go §3have §4fun§5!!!
 
 # Quest: Decay Warehouse
 betterquesting.quest.bLz_cD33RE24mtOb2aLxXg.name=Decay Warehouse
@@ -6957,6 +6945,10 @@ betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.desc=Bigger, better, faster. The Lar
 # Quest: STEAM-POWERED BREAKTHROUGH
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.name=§c§lSTEAM-POWERED BREAKTHROUGH
 betterquesting.quest.quLxATDCQFWsrZRuh_gspA.desc=You should have quite the collection of single block Steam machines by now. While these may have gotten you through processing small amounts of materials, there will be a time when you will have to process a multitude of items. This is where Multiblocks come in.%n%nWhile these Multiblocks have a material cost that is way higher than their single block counterparts, they have certain bonuses: they use less Steam, and they can process recipes in parallel, which means that a single recipe cycle can craft multiple items at once, if the Steam provided is enough to sustain it.%n%nThey do however have some quirks that need to be taken care of:%n%n-These Multiblocks require §4§lvery specific§r I/O blocks, use only those that are part of the quest%n-They process up to 8 items, where the Basic Tier is made of Bronze and High Pressure Tier is made of Steel (checkout the Multiblock Preview in NEI which will show you different levels of tiers)%n-The Tier and amount of parallel processing can be seen via WAILA if you are looking at the Controller Block%n%n[note]With this quest, you have started your journey with Mass Processing. However, don't get too excited quite yet. While there are some Multiblocks accessible in the Steam Age, most of them only unlock in EV or later, including better versions of these Multiblocks.[/note]
+
+# Quest: Thermic Heating Device
+betterquesting.quest.rVvLhN6YTUKhminacygRVg.name=§9§lThermic Heating Device
+betterquesting.quest.rVvLhN6YTUKhminacygRVg.desc=The §5§lThermic Heating Device§r is the multiblock edition of the Fluid Heater, offering §6§l8§r parallels per voltage tier at over §2§l2x§r the speed and for only §3§l90%%§r of the EU cost.%n%nThis can be useful now for Bauxite and Ruthenium processing but if you choose not to use it then definitely keep it in mind for later as you will eventually want it for Growth Catalyst!
 
 # Quest: Steam Stomping!
 betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.name=§c§lSteam Stomping!
@@ -7859,11 +7851,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALtg.desc=MV級で石油から燃料を�
 
 # Quest: Diesel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALtw.name=ディーゼル
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALtw.desc=ついに、神々の油とも言える存在です。少なくとも初期の神々にとっては。%n%n動力源としてのディーゼルは、核兵器製造が可能になるEV段階まで最適解として広く知られています。HV段階では、さらに別の化学反応経路を追加することでセタン価向上型ディーゼルにアップグレード可能ですが、その製造に必要な機器がわずかであるにもかかわらず、480k EUという燃料価値は非常に優れています。最も必要な時に電力不足に陥らないよう、可能な限り早期に自動化システムを構築してください。%n%nこの段階では、LV級またはMV級のディーゼル発電機を使用できます。LV級を使用する場合、より多くの発電機を製造する必要があり環境負荷も高まりますが、MV級の90%に対して95%という高い燃料効率を誇ります。効率が5%異なるとはいえ、自動化されたディーゼルシステムではこの程度の差はほとんど影響しないでしょう。%n%n開発が進むにつれ、燃料はより高密度なエネルギー源となりますが、同時に自動化すべき工程も増えていきます。次の段階は今回よりもはるかに難易度が高いため、十分な準備を整えてください！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALtw.desc=ついに、神々の油とも言える存在です。少なくとも初期の神々にとっては。%n%n動力源としてのディーゼルは、核兵器製造が可能になるEV段階まで最適解として広く知られています。HV段階では、さらに別の化学反応経路を追加することでセタン価向上型ディーゼルにアップグレード可能ですが、その製造に必要な機器がわずかであるにもかかわらず、480k EUという燃料価値は非常に優れています。最も必要な時に電力不足に陥らないよう、可能な限り早期に自動化システムを構築してください。%n%nこの段階では、LV級またはMV級のディーゼル発電機を使用できます。LV級を使用する場合、より多くの発電機を製造する必要があり環境負荷も高まりますが、MV級の90%%に対して95%%という高い燃料効率を誇ります。効率が5%%異なるとはいえ、自動化されたディーゼルシステムではこの程度の差はほとんど影響しないでしょう。%n%n開発が進むにつれ、燃料はより高密度なエネルギー源となりますが、同時に自動化すべき工程も増えていきます。次の段階は今回よりもはるかに難易度が高いため、十分な準備を整えてください！
 
 # Quest: More Oil Options
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.name=原油の多様な利用法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.desc=石油掘削施設以外にも、探索可能な原油の供給源が存在します。重油については、高地の希少な鉱脈から採取できるオイルサンド鉱石が有望な資源です。これを加工すれば、ディーゼル燃料の原料となる重油燃料を大量に得ることができます。%n%nまた、IC2作物やミツバチからも再生可能な原油を生産可能です。オイルベリー作物は無限に生産可能ですが、非常に遅い速度となります。一方、精製蜂はより迅速に生産できますが、入手が困難です。%n%nさらに、特定の方法で原油を分解することで、より多くの価値を引き出すことも可能です。例えば、軽水素化処理を施した重油燃料からは、原料の60%に相当する軽油燃料が得られます。重質燃料が過剰で軽油燃料が不足している場合、これはディーゼル燃料の製造において非常に有用です。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALuA.desc=石油掘削施設以外にも、探索可能な原油の供給源が存在します。重油については、高地の希少な鉱脈から採取できるオイルサンド鉱石が有望な資源です。これを加工すれば、ディーゼル燃料の原料となる重油燃料を大量に得ることができます。%n%nまた、IC2作物やミツバチからも再生可能な原油を生産可能です。オイルベリー作物は無限に生産可能ですが、非常に遅い速度となります。一方、精製蜂はより迅速に生産できますが、入手が困難です。%n%nさらに、特定の方法で原油を分解することで、より多くの価値を引き出すことも可能です。例えば、軽水素化処理を施した重油燃料からは、原料の60%%に相当する軽油燃料が得られます。重質燃料が過剰で軽油燃料が不足している場合、これはディーゼル燃料の製造において非常に有用です。
 
 # Quest: Using All the Fractions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALuQ.name=各分留物の有効活用
@@ -9510,7 +9502,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=To have access to your applied 
 
 # Quest: Basic Terminals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=Basic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=The ME Terminal is an interface which gives you access to an ME network's networked storage. It has the ability to sort and search, as well as filter by using a view cell.%n%nThe ME Crafting Terminal is the upgraded version of the ME terminal which has an integrated crafting grid with access to an ME network's networked storage.%n%nThe ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=The ME Terminal is an interface which gives you access to an ME network's networked storage. It has the ability to sort and search, as well as filter by using a view cell. If inserting and taking fluid from the terminal, be sure to hold the control key when you click with a fluid storage container.%n%nThe ME Crafting Terminal is the upgraded version of the ME terminal which has an integrated crafting grid with access to an ME network's networked storage.%n%nThe ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.
 
 # Quest: Bundled AE Channels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.name=Bundled AE Channels
@@ -9686,7 +9678,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.desc=Save patterns onto these to do 
 
 # Quest: Pattern Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.name=Pattern Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.desc=A specialized version of the ME crafting terminal designed to encode blank patterns into encoded patterns.%n%nLets you browse the contents of your network like other terminals, but also contains an area for designing patterns. There are two modes for pattern encoding. Crafting patterns, and processing patterns. Processing patterns are designed for use with machines that do not use standard crafting recipes - such as furnaces, or other machines. To select between modes, click the button to the right of the interface: when it shows a standard crafting table, it will create crafting patterns, and when it shows a furnace, it will create processing patterns.%n%nFor crafting patterns ("Crafts..."), you specify the input crafting materials on a standard 3x3 crafting grid, and the output materials are determined automatically.%n%nFor processing patterns ("Creates..."), you specify the input materials and output materials, including quantity, by placing stacks of items in the interface. If a processing operation is not guaranteed to succeed (such as secondary products from some machines), it will not work correctly as a processing pattern.%n%nWhen designing crafting patterns you can click the output to extract a crafted item as long as you have the materials required to craft the item.%n%n[warn]Be cautious about accidentally enabling oredict substitution, it's rarely used and you will keep it disabled 99%% of the time.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.desc=A specialized version of the ME crafting terminal designed to encode blank patterns into encoded patterns.%n%nLets you browse the contents of your network like other terminals, but also contains an area for designing patterns. There are two modes for pattern encoding. Crafting patterns, and processing patterns. Processing patterns are designed for use with machines that do not use standard crafting recipes - such as furnaces, or other machines. To select between modes, click the button to the right of the interface: when it shows a standard crafting table, it will create crafting patterns, and when it shows a furnace, it will create processing patterns.%n%nFor crafting patterns ("Crafts..."), you specify the input crafting materials on a standard 3x3 crafting grid, and the output materials are determined automatically.%n%nFor processing patterns ("Creates..."), you specify the input materials and output materials, including quantity, by placing stacks of items in the interface. If a processing operation is not guaranteed to succeed (such as secondary products from some machines), it will not work correctly as a processing pattern.%n%nWhen designing crafting patterns you can click the output to extract a crafted item as long as you have the materials required to craft the item.%n%n[warn]Be cautious about accidentally enabling oredict substitution, it's rarely used and you will keep it disabled 99%% of the time.[/warn]%n%n[note]Works exactly the same with items and fluids[/note]
 
 # Quest: ME in Your Cleanroom
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMQ.name=MEネットをクリーンルームで
@@ -9738,11 +9730,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.desc=So apparently you can attach th
 
 # Quest: Magic Terminals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=Magic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=The Arcane Crafting Terminal is the terminal version on the Arcane Workbench. It can hold a set of vis discount gear in its inventory in addition to a wand. You can also link a vis relay through the network to it to recharge the wand.%n%nThe Essentia Terminal Works like the Fluid Terminal, but for essentia.
-
-# Quest: The Fluid Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.name=The Fluid Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1g.desc=The ME Fluid Terminal allows you to directly input and output fluids from the network using buckets, cells, and other fluid-containing items. Put a filled cell (or other item) in the bottom left to have the contents deposited into the network, and the cell moved to the output slot. For the reverse, select a fluid and insert an empty cell, and it'll fill it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=The Arcane Crafting Terminal is the terminal version on the Arcane Workbench. It can hold a set of vis discount gear in its inventory in addition to a wand. You can also link a vis relay through the network to it to recharge the wand.
 
 # Quest: Illuminated Panels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.name=Illuminated Panels
@@ -9750,7 +9738,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=All terminals are made from the
 
 # Quest: Easier AL automation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=Easier AL automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Unlike regular pattern terminals, the processing pattern terminal doesn't have a crafting mode. Instead, you have a lot more slots for input and output, and the ability to swap them. Great for your Assembly Line patterns. Why not directly make the fluid option? It is a straight upgrade.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Unlike regular Pattern Terminals, the Processing Pattern Terminal doesn't have a crafting mode. Instead, you have a lot more slots for input and output, and the ability to swap them. Great for your Assembly Line patterns.
 
 # Quest: Making Patterns Quick
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2Q.name=Making Patterns Quick
@@ -9762,19 +9750,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.desc=The ME Storage Monitor allows y
 
 # Quest: Redstone Based on Storage Level
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.name=Redstone Based on Storage Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=This device will turn on (or off) a redstone signal based on how much of an item you specify (or energy in the network if you select the mode) you have in your network. Left-click an item into the space between the 1000 numbers to add, click again while holding nothing to remove.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=This device will turn on (or off) a redstone signal based on how much of an item, fluid, or energy you specify you have in your network. The 'Level Type' will toggle between Item / Fluid mode and Energy mode.%n%nTo add an item, left-click your desired item into the blank space between the 1000 numbers to add, click again while holding nothing to remove. %n%nTo add a fluid, left-control-click a cell containing your desired fluid into the blank space, removable in the same fashion.
 
 # Quest: Why Do I Need to Know How Much Manure Slurry I Have?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.name=Why Do I Need to Know How Much Manure Slurry I Have?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3A.desc=These are the fluid versions.
 
-# Quest: Out of Polytetrafluoroethylene? Turn on the LCR!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.name=Out of Polytetrafluoroethylene? Turn on the LCR!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3Q.desc=It's basically the same as a fluid detector cover, except it detects based on what's in your network. Click a cell into the center to specify, and an empty hand to clear.
-
 # Quest: Essentia Level Emitter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.name=Essentia Level Emitter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.desc=Same as the other two, but for essentia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3g.desc=Same as the other, but for essentia.
 
 # Quest: Was I Out of Nebrisum, or Was it Terminus?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ3w.name=Was I Out of Nebrisum, or Was it Terminus?
@@ -9814,7 +9798,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6Q.desc=The Network Tool is AE2's main 
 
 # Quest: Portable Digital Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.name=Portable Digital Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.desc=They're exactly what they sound like.%n%nThe first is for items and acts like a terminal. It can hold 4,032 of a single item.%n%nThe second is for liquids, and acts like the fluid terminal. It can hold 128 buckets of a single liquid.%n%nIt costs AE to put things in, take them out, or have the interface open. Use the Wireless Charger from EIO if you don't want it to take forever.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.desc=They're exactly what they sound like.%n%nThe first is for items and acts like a terminal. It can hold 4,032 of a single item.%n%nThe second is for liquids, and also acts like a terminal. It can hold 128 buckets of a single liquid.%n%nIt costs AE to put things in, take them out, or have the interface open. Use the Wireless Charger from EIO if you don't want it to take forever.
 
 # Quest: Deck of Cards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.name=Deck of Cards
@@ -9826,7 +9810,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.desc=The ME Fluid Auto Filler will a
 
 # Quest: Wireless 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.name=Wireless 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=This is the good wireless terminal. It allows you to combine 6 different types of terminals into one ultimate terminal for usage on the go; Crafting, Patterning, Fluid, Essentia, Interface, & Level Emitter.%n%nIf you make the full version, it even allows you to program large fluid processing patterns without needing LuV parts to make the terminal first.%n%n[note]Recommended to set a keybind for this so you don't need to keep it in your hotbar.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=This is the good wireless terminal. It allows you to combine 6 different types of terminals into one ultimate terminal for usage on the go; Crafting, Patterning, Essentia, Interface, & Level Emitter.%n%nIf you make the full version, it even allows you to program large processing patterns without needing LuV parts to make the terminal first.%n%n[note]Recommended to set a keybind for this so you don't need to keep it in your hotbar.[/note]
 
 # Quest: Cut the Power!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.name=Cut the Power!
@@ -9930,7 +9914,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsQ.desc=Same as 1k.
 
 # Quest: 1k Fluid Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.name=1k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.desc=Unlike the item version, these can only hold one type of fluid each. They can hold a little over 2 ML. There is also another variant that can hold five different fluids, but it requires tungstensteel. You'll want to make the Fluid Terminal to see what you have.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.desc=Unlike the item version, these can only hold one type of fluid each. They can hold a little over 2 ML. There is also another variant that can hold five different fluids, but it requires tungstensteel. You'll be able to view your stored fluid in the terminal.
 
 # Quest: 4k Fluid Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsw.name=4k Fluid Storage Cell
@@ -10056,10 +10040,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=This is the main purpose of AE2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=ME Buses are combination of technology and...other technology. Don't give me that look, it is, OK? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.%n%nYou just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.%n%nThe output bus and hatch have limited output space. If you need more, you can upgrade them either by crafting them with storage components or putting a cell inside. A digital singularity cell will make the cache near infinite.%n%nNote that the output bus must eject each item from its cache §oin order§r. If it cannot eject the topmost item, it will be stuck and cannot eject any other items.%n%nIf voiding is turned off, the multiblock will not void when the ME Outputs are full.%n%n[note]For usage in some machines, i.e. the advanced assembly line, the configured item must be in the first slot in order for the multi to work.[/note]
 
-# Quest: AE2 Fluid Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.name=AE2 Fluid Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=Fluid crafting directly integrated in your ME system. NO WAY!%n%nAE2FC is a powerful add-on that was backported for GTNH.%n%nNow, what do you need to get that juicy stuff working?%nEvery ME System needs a Fluid Discretizer. It allows for on demand crafting. While you can use AE2FC without Fluid Discretizer for moving fluids, you need a Discretizer for autocrafting.%n%nThen you also need a Fluid Terminal or a Fluid Processing Terminal for the Assembly Line.%n%nWhen creating patterns you will notice your fluids being placed as if they were items.%nYour finished patterns will look blue-ish. Placing those in a Dual Interface will allow AE2 to push the fluids and items both. Note. Fluids are being sent first, then items.%nYou can switch the dual interface on the top right if you want it to keep fluids in stock.%n%nIf you use a blue pattern (fluid pattern) in a normal interface, AE2 will send the fluid as a fluid packet. This is just a representation of the fluid as an item. A fluid decoder can turn it back into a fluid and saves it in the fluid grid.%n%nYou can use an ingredient buffer (large or normal) so your items and fluids sent by a pattern can get stored internally in one block. The normal buffer can hold 9 items and 4 fluids whereas the large one can hold 27 items and 7 fluids. It is not needed, but you can use it to automate things with item and fluid conduits.%n%nIf you want to automate single blocks it's as easy as eating chocolate cake while on a diet:%nMake the pattern, make an interface, boom- done! It will automatically insert the fluid in the fluid inventory of a single block machine.%n%nEven automating more difficult things like the Assembly Line becomes much easier with these tools.%n%nIf you need more detailed information, visit the wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2#Autocrafting_in_AE2[/url]%n%n[note]The Extra Cells mod has been removed. Any old components and cells were converted to AE2 and AE2FC parts where possible.[/note]
-
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§lStarting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§21. The Wiki: §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n§22. The Discord: §r[url]https://discord.gg/gtnh[/url]%n%n- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n§23. Video Tutorials: §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
@@ -10182,7 +10162,7 @@ betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=Works like stocking input bus b
 
 # Quest: Even More Basic Cards! 
 betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Even More Basic Cards! 
-betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card:§r %n%nThe Pattern Refiller card will refill empty patterns in your Processing and Fluid Processing Terminals.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void, Pattern Refiller, and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs%n%n§6Pattern Refiller Card:§r %n%nThe Pattern Refiller card will refill empty patterns in your Regular Pattern and Processing Pattern Terminals.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network. %n%n[warn]Be careful with where you use sticky cards as they can lead to your passive systems jamming. [/warn]
 
 # Quest: Wireless HUBs
 betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.name=Wireless HUBs
@@ -11720,6 +11700,10 @@ betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.desc=During your travels, you've hea
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.name=Need More Sugar?
 betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.desc=With Briar starting to consume you might also want to increase your sugar production.%n%nSweeds are planted on grass, not farmland, and will spread to propagate themselves. Once fully matured they can be harvested for sugar as well as sugar cane.
 
+# Quest: Thaumic Dendrology
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.name=Thaumic Dendrology
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.desc=Thaumcraft saplings can be quite useful early on, now that you have access to infusion you can create them. Each type has a special trait:%n%n§6§lGolden Oak§r - Drops Golden Apples as opposed to regular Apples.%n%n§c§lNether§r - Creates a miniature nether biome upon placement that can spawn mobs- be careful! Placing the leaves from this tree on top of a block will cause that block to turn into its nether counterpart.%n%n§d§lEnder§r - Creates a miniature end biome upon placement that can also spawn mobs. Placing the leaves from this tree on top of a block will cause that block to turn into its end counterpart. (§3A great source of Endstone§r)%n%n§b§lPeaceful§r - Gathers passive creatures underneath its leaves. The types of animals attracted depends on the biome its planted in.
+
 # Quest: Keeping Out the Riff-Raff
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.name=Keeping Out the Riff-Raff
 betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=You're starting to get tired of having to build everything like some kind of fortress just to make sure no unwanted guests come in. Sure, that's just the nature of living in a world where infinite hoards of restless undead haunt every other dark corner, but is having a secure entryway that isn't conveniently door-shaped too much to ask?%n%nNot anymore. Paving Stone of Warding, assuming nothing sits on top of it, will project a two block tall invisible force-field above itself that block non-player mobs from passing through, at least the common riff-raff. As a bonus spiders cannot climb the force-field, so no need for overhangs to keep them out too.%n%nThat said, since the force-field cannot tell an arrow fired by you from one fired §oat you§r, mundane objects will still pass through regardless. And the force-field does as much to block line of sight as the term §oinvisible§r would suggest.%n%nOf course, you're not concerned about that part. Being able to shoot things with your crossbow while they can't reach you is very much in §oyour§r favor, all told.
@@ -11755,6 +11739,10 @@ betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.desc=When you get poisoned or wither
 # Quest: Counting Items
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.name=Counting Items
 betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.desc=The Remote Comparator makes it significantly easier to get comparator signals out of whatever block you want, but looking at your storage chests you can't help but see no reason to bother. So what if they're nearly full? You want to know what they're nearly full §oof§r.%n%nTally Boxes can be pointed at a container - either directly or, using a Remote Comparator, remotely - and given a Runic Whitelist that specifies conditions where you want a Tally Box to send a redstone signal. Quantity, metadata and NBT matching are options, as is using a basic name filter.%n%nNote that the redstone side is always opposite the reading side, and Remote Comparators must be placed on top of Tally Boxes to work together, meaning redstone is always output on the down face in that case.%n%n[note]Runic Whitelists don't let you use NEI ghost items to set their filters, unfortunately.[/note]
+
+# Quest: Magical Plants
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.name=Magical Plants
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.desc=Now that you've made a crucible you can create a bunch of unique Thaumcraft plants. Some of these are incredibly useful so you'll want to take a close look.%n%nThe research for most of these can be found under Thaumic Bases, starting with "Thaumic Nature".%n%n[note]Aside from these, there are more plant types unlocked in the future as you continue to progress.[/note]
 
 # Quest: Tube Madness
 betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.name=Tube Madness
@@ -11831,11 +11819,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.desc=Eyes. Yes. Eyes! I need eyes, m
 
 # Quest: Really (Really!) Dark Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=Really (Really!) Dark Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=Fools. FOOLS I say! They know nothing! This book will guide me, yes. Yes it will, my precious. It will lead us to even more POWER!%n%nAvailable in your local bookstore, and also occasionally found on Crimson Knights and Crimson Clerics.
-
-# Quest: Secrets
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Secrets
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt... They will tell me!%n%n§3NOTE: You might want to set up a spawner because you'll likely need to kill a lot of these guys for the book you need for the next task. Additionally, they're spawned by the Clerics, which DO NOT RESPAWN.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=Fools. FOOLS I say! They know nothing! This book will guide me, yes. Yes it will, my precious. It will lead us to even more POWER!%n%nAvailable in your local bookstore, and also occasionally found on Crimson Knights and Crimson Clerics.%n%n[note]NOTE: If you plan on hunting Crimson Knights & Crimson Clerics, you might want to set up a spawner because you'll likely need to kill a lot of these guys to obtain this book.[/note]
 
 # Quest: Find the Key
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Find the Key
@@ -11916,10 +11900,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=Finally, a device where you can
 # Quest: Crying Obsidian...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=Crying Obsidian...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=...it mourns the dead. This might come in handy for some cases. By placing 2 on top of each other, you're able to set your respawn point to that location, without the need for a bed. It's up to you to imagine the possibilities...
-
-# Quest: Useful Trees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=Useful Trees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Just like plants, there are trees that will attract various friendly and "not so friendly" creatures. (No warranty when placed in desolated biome!)
 
 # Quest: Purge Your Warp
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=Purge Your Warp
@@ -13610,6 +13590,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=§7《§r排熱器§7／Heat Ve
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§a§nより良い剣を作る
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=最初の Tinkers' Construct の §7《§r剣§7／Sword》§r を作る時が来ました。%n%nまずは、 §7《§r刀身§7／Sword Blade》§r 、 §7《§r鍔§7／Guard》§r の一種、 §7《§r持ち手§7／Tool Rod》§r の §7《§r鋳型§7／Cast》§r を用意しましょう。%n%n§7《§r乾式製錬炉§7／Smeltery》§r で §7《§r青銅§7／Bronze》§r を溶かして、ツールパーツを鋳造してください。%n%nじゃーん...！%nはじめての"本物の"剣が完成しました！%n%n鍔には4つの種類があり、これが剣の種類を決定します。詳しくは §7《§r素材とあなた vol.2§7／Materials and You: Volume 2》§r を参照してください。
 
+# Quest: Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt... They will tell me!%n%n§3NOTE: The Knights are spawned by the Clerics, but the Clerics DO NOT RESPAWN after killed.
+
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=This can be used to go back to a Celestial Gateway if you have a bound Celestial Pearl in your hotbar. It will use the leftmost one in your hotbar, so you can carry multiple to travel around with!
@@ -14100,7 +14084,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slot
 
 # Quest: Large Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lLarge Molecular Assembler
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]Super Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The Large Molecular Assembler is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%n[note]High capacity Input Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
 
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§a§lCompact Storage
@@ -14136,11 +14120,11 @@ betterquesting.quest._zwtTNh-SG6B4wp221XPcQ.desc=The MKIII is the final upgrade 
 
 # Quest: Creative Flight With MagLev
 betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.name=§6§lCreative Flight With MagLev
-betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach pipes and conduits around your base? Look no further than the §5§lMagLev Harness§r!%n%nWith the MagLev, you can have creative flight whenever you are within range of a MagLev Pylon and have the Harness equip.%n%nThis will work even when unpowered, however the range of the Pylon gets doubled when it's given §21A§r of it's corresponding tier of power. The MagLev will only draw power while you are in-range, not passively. A Harness can only be tethered to one Pylon at a time, but a Pylon can attach to any number of Harnesses. Will only consume 1A §nregardless§r of how many Harnesses are tethered to the Pylon§r.%n%n[note]Check the tooltip to see the range of your chosen Pylon, the MV one has a maximum range of 16 (33 x 33 x 33) when powered![/note]
+betterquesting.quest.a-g__0y_SGyed_E6IkIrsg.desc=Getting annoyed trying to reach pipes and conduits around your base? Look no further than the §5§lMagLev Harness§r!%n%nWith the MagLev, you can have creative flight whenever you are within range of a MagLev Pylon and have the Harness equip.%n%nThis will work at half of the range when unpowered, you unlock the full range when it's given §21A§r of it's corresponding tier of power. The MagLev will only draw power while you are in-range, not passively. A Harness can only be tethered to one Pylon at a time, but a Pylon can attach to any number of Harnesses. Will only consume 1A §nregardless§r of how many Harnesses are tethered to the Pylon§r.%n%nThe §6MV Pylon§r has a §c16§r block radius (33x33x33 cube centered around the pylon)%n%nThe §5HV Pylon§r has a §c32§r block radius (65x65x65 cube centered around the pylon)%n%nThe §8EV Pylon§r has a §c48§r block radius (97x97x97 cube centered around the pylon)
 
 # Quest: Powerfail Notifications
 betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.name=§6§lPowerfail Notifications
-betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EBF!%n%nThroughout your GTNH gameplay you will end up creating hundreds of multiblocks, and will very likely run into a multitude of power failures at some point. %n%nFortunately, we have a dedicated system for helping you stay informed of exactly when and where these power failures occur §3(though the 'why' portion is up to you to figure out!)§r.%n%nWhen a multiblock powerfails, you will receive a notification in §5chat§r, in addition to a visible icon on §5screen§r, and an icon visible on your §5map§r. %n%n§lYou can clear these notifications by§r:%n- Clicking into the multiblock that has powerfailed%n- Deleting the notification in JourneyMap%n- Typing §4/powerfails clear§r%n%nFor those playing §2multiplayer§r, anyone who is on your §2team§r will receive the §2same notifications§r. §2§nOne person§r clearing a notification should clear it for§2 §nall players§r.%n%n[note]This feature uses the same team system as wireless EU. Use </gt §4global_energy_join§r §1[User Joining] [User to Join]§r> to team up.[/note]%n%nAll of these features can be turned off in the gregtech config. If you want the on screen icon to disappear use §4§l/powerfails hide§r. For all in-game options use §4§l/powerfails help§r.
+betterquesting.quest.a59175-ZS16kxwUW_BCuEQ.desc=Congratuations on your first EBF!%n%nThroughout your GTNH gameplay you will end up creating hundreds of multiblocks, and will very likely run into a multitude of power failures at some point. %n%nFortunately, we have a dedicated system for helping you stay informed of exactly when and where these power failures occur §3(though the 'why' portion is up to you to figure out!)§r.%n%nWhen a multiblock powerfails, you will receive a notification in §5chat§r, in addition to a visible icon on §5screen§r, and an icon visible on your §5map§r. %n%n§lYou can clear these notifications by§r:%n- Clicking into the multiblock that has powerfailed%n- Deleting the notification in JourneyMap%n- Typing §4/powerfails clear§r%n%nFor those playing §2multiplayer§r, anyone who is on your §2team§r will receive the §2same notifications§r. §2§nOne person§r clearing a notification should clear it for§2 §nall players§r.%n%n[note]This feature uses the same team system as wireless EU. Use <§c/sp invite§r §1[Player Name]§r> to team up.[/note]%n%nAll of these features can be turned off in the gregtech config. If you want the on screen icon to disappear use §4§l/powerfails hide§r. For all in-game options use §4§l/powerfails help§r.
 
 # Quest: Absolute Purity
 betterquesting.quest.bNVzOxCORxuo_lhAh13r0A.name=§5§l§nAbsolute Purity
