@@ -63,7 +63,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=Hmmm... Was kannst du mit all d
 
 # Quest: Food Variants
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=§9§lEssensvarianten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Vielleicht hast du schon bemerkt, dass es auf Dauer sehr langweilig und ungesund wird, immer dasselbe Essen zu essen. Einige Lebensmittel, wie z.B. Teeblätter, können im Ofen weiterverarbeitet werden. Also mach eine Pause und trink eine Tasse Tee. Vielleicht naschst du auch ein paar leckere Rosinen, die sind nämlich sehr gut.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Vielleicht ist dir schon aufgefallen, dass es sehr langweilig und nicht so gesund ist, immer dasselbe zu essen. Manche Lebensmittel, wie Weintrauben, können zu anderen besondere Lebensmitteln verarbeitet werden. Du kannst auch Frisches Wasser zu Kochendes Wasser schmelzen und das mit einem Teeblatt für eine leckere Tasse Tee kombinieren.
 
 # Quest: Can You Hear the Carrots Grow?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=§9§lKannst Du die Karotten Wachsen Hören?
@@ -470,7 +470,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=Mehr als 16 Eimer Flüssigkeit 
 
 # Quest: Welcome to Tier 0.5, Steam!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=§c§lStufe 0.5 - Willkommen im Dampfzeitalter!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=Willkommen und gut gemacht bisher! In dieser Stufe geht es um deine ersten Maschinen, darum, mehr aus deinen Erzen herauszuholen und Bronze-Barren effizienter herzustellen.%n%nFür Wasser schau dir den Wassertank Multiblock in der §9"Wasserdilemma"§r Quest an. (Multiblock-Ziele-Reiter)%n%nUm deine Kessel ans Wasser anzuschließen, stelle sicher, dass du dein Wasser von unten zuführst, der Kessel nimmt nur Wasser von dieser Seite an, sodass keine Gefahr besteht, dass dein Rohr, durch die Hitze, schmilzt. Zum zuführen von Wasser, kannst du Holzrohre verwenden. Achte besonders darauf, dass dir nie das Wasser ausgeht – [warn]das Nachfüllen von Wasser in einen trockenen, heißen Kessel führt zu einer Explosion![/warn]%n%nAn den Seiten tritt Dampf aus. Denk daran, dass Dampf heiß ist! Er zerstört Holzrohre. Und du kannst dich verbrennen, wenn du auf bronzene Rohre voller Dampf trittst. Decke sie mit Holzbrettern oder Papier ab. Oder geh einfach nicht auf sie drauf oder daneben.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=Willkommen und gut gemacht bisher! In dieser Stufe geht es um deine ersten Maschinen, darum, mehr aus deinen Erzen herauszuholen und Bronzebarren effizienter herzustellen.%n%nFür Wasser schau dir den Wassertank-Multiblock in der §9"Wasserdilemma"§r-Quest an. (Multiblock-Ziele-Reiter)%n%nUm deine Kessel ans Wasser anzuschließen, stelle sicher, dass du dein Wasser von unten zuführst, der Kessel nimmt nur Wasser von dieser Seite an, sodass keine Gefahr besteht, dass dein Rohr, durch die Hitze, schmilzt. Zum Zuführen von Wasser, kannst du Holzrohre verwenden. Achte besonders darauf, dass dir nie das Wasser ausgeht – [warn]das Nachfüllen von Wasser in einen trockenen, heißen Kessel führt zu einer Explosion![/warn]%n%nAn den Seiten tritt Dampf aus. Denk daran, dass Dampf heiß ist! Er zerstört Holzrohre. Und du kannst dich verbrennen, wenn du auf Bronzerohre voller Dampf trittst. Decke sie mit Holzbrettern oder Papier ab. Oder geh einfach nicht auf sie drauf oder daneben.%n%n[note]Tipp: Wasser wird mit einer Rate von 1L Wasser pro 160L Dampf für alle Kessel verbraucht, sofern nicht anders angegeben.[/note]
 
 # Quest: More Advanced Alloys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.name=§c§lNoch fortschrittlichere Legierungen
@@ -1287,7 +1287,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEkA.desc=Natrium kann aus Glaukoniterz u
 
 # Quest: Cheaper Annealed Production
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.name=§2§lGünstigere Geglühtes Produktion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.desc=Es ist sogar noch schneller und billiger, Geglühtes Kupfer im Lichtbogenofen herzustellen als im Elektrischen Schmelzofen. Geglühtes Kupfer ist ein sehr gutes Material für Kabel im MV-Bereich. Es verliert nur 1 EU pro Block.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.desc=Geglühtes Kupfer im Lichtbogenofen herzustellen ist sowohl billiger als auch schneller als im Elektrischen Hochofen.%n%Dies könnte sich als sehr nützlich erweisen, da es als MV-Kabelmaterial nur 1 EU pro Block verliert.
 
 # Quest: Personal Chunkloading
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-A.name=§2§lPersönliches Chunkladen
@@ -1546,8 +1546,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3A.desc=Zerkleinere die Pflanzenbälle 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.name=§6§lBio-Spreu
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.desc=Pflanzenmasse muss in einer Zentrifuge zu Bio-Spreu verarbeitet werden, dem Grundmaterial zur Herstellung von Biomasse.
 
-# Quest: Way Two: Brewery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.name=§6§lWeg Zwei: Brauerei
+# Quest: Way One: Brewery
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.name=§6§lWeg Eins: Brauerei
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.desc=Wenn du Glück hast und einen Braustand findest oder angefangen hast, Thaumcraft zu nutzen, um einen herzustellen, kannst du eine Brauerei bauen. Du erhältst 1000mb Biomasse aus 1000mb Wasser und 1 Bio-Spreu. Verwende Destilliertes Wasser, um ein besseres Verhältnis und ein viel schnelleres Rezept zu erhalten.
 
 # Quest: Fermented Biomass
@@ -1804,7 +1804,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLA.desc=Der MV-Flüssigkeits-Extraktor 
 
 # Quest: MV Superconductors (128 EU/t)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.name=§6§lMV-Supraleiter (128 EU/t)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.desc=Wie wäre es mit verlustfreien 128 EU-Kabeln? Pentacadmiummagnesiumhexaoxid ist ein Supraleiterkabel und wird deine Energie ohne jeglichen Verlust übertragen. Jede zukünftige Spannungsstufe hat ein Supraleiterkabel ohne Verluste.%n%nMische Cadmium, Magnesium und Sauerstoff in einem MV-Mischer. Als Nächstes muss der Grundstaub in einem EHO mit Kanthal-Spulen geschmolzen werden. Ein Vakuum-Froster ist ebenfalls erforderlich, um ihn abzukühlen. Stelle einige MV-Supraleiter-Basisdrähte her und verwende eine Montagemaschine, um diese Drähte mit Helium, Edelstahlrohren und MV-Pumpen zu kombinieren, um die 128 EU/t Supraleiterkabel zu erhalten.%n%n[note]Ob sich diese lohnen, um ein wenig Strom zu sparen, liegt natürlich bei dir. Beachte auch, dass du, obwohl es Drähte sind, nicht verletzt wirst, wenn du mit ihnen in Berührung kommst.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.desc=Wie wäre es mit verlustfreien 128 EU-Kabeln? Pentacadmiummagnesiumhexaoxid ist ein Supraleiterkabel und wird deine Energie ohne jeglichen Verlust übertragen. Jede zukünftige Spannungsstufe hat ein Supraleiterkabel ohne Verluste.%n%nMische Cadmium, Magnesium und Sauerstoff in einem MV-Mischer. Als Nächstes muss der Grundstaub in einem EHO mit Kanthal-Spulen geschmolzen werden. Stelle einige MV-Supraleiterbasisdrähte her und verwende eine Montagemaschine, um diese Drähte mit Helium, Edelstahlrohren und MV-Pumpen zu kombinieren, um die 128 EU/t Supraleiterkabel zu erhalten.%n%n[note]Ob sich das lohnen, um ein wenig Strom zu sparen, liegt natürlich bei dir. Beachte auch, dass du, obwohl es Drähte sind, nicht verletzt wirst, wenn du mit ihnen in Berührung kommst.[/note]
 
 # Quest: Cough Cough - Something Needs to Be Done About the Smell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.name=§6§lCough Cough - Something Needs to Be Done About the Smell
@@ -1812,7 +1812,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.desc=Birds falling out of the sky, f
 
 # Quest: You're Gonna Hate This in MV Too #6
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxQ.name=§6§lDas Wirst Du Auch in MV Hassen #6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxQ.desc=Das ist das sechste Item, von dem du eine ganze Menge brauchen wirst! Und zwar für den Scanner und den Seismischen Prospektor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxQ.desc=Der sechste Gegenstand, den du häufig benötigen wirst, nämlich für den Scanner und den Seismischen Prospektor.
 
 # Quest: You're Gonna Hate This in MV Too #5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxg.name=§6§lDas Wirst Du Auch in MV Hassen #5
@@ -1950,8 +1950,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbg.desc=Zu viele Items machen dir zu sc
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.name=§6§lBaue eine bessere Destillerie
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.desc=Um Methanol und Ethanol viel schneller zu produzieren, baue eine MV-Destillerie.
 
-# Quest: Way Three: Pyrolyse Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.name=§6§lWeg Drei: Pyrolyseofen
+# Quest: Way Two: Pyrolyse Oven
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.name=§6§lWeg Zwei: Pyrolyseofen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.desc=Durch die Verwendung des Pyrolyseofens kannst du die Vorteile der Spulen-Geschwindigkeitserhöhungen nutzen.%n%nDu kannst auch die Notwendigkeit eines Fermentierers umgehen. Schau in NEI nach, welcher Weg dir am besten passt. Der GT++ Industrielle Koksofen wird dir dies ebenfalls ermöglichen.%n%n(Du musst nur eine dieser Optionen einreichen)
 
 # Quest: Cooling Kanthal
@@ -2157,7 +2157,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.desc=Eine Reihe chemischer Rezepte w
 
 # Quest: You're Gonna Hate This 5 and 6 in HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.name=§5§lDas wirst du im HV hassen 5 und 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.desc=Einige Maschinen benötigen Emitter und Sensoren, wie der Analysator oder die Schaltkreisfertigungsmaschine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.desc=Einige Maschinen benötigen Emitter und Sensoren, wie zum Beispiel der Scanner oder die Schaltkreisfertigungsmaschine.
 
 # Quest: Ender Eyes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.name=§5§lEnderaugen
@@ -2458,7 +2458,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Wie der Kronleuchter verhindert
 
 # Quest: Graphene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.name=§8§lGraphen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=Graphen ist ein Material, das nur eine Atomschicht dick ist und sehr günstige elektrische Eigenschaften besitzt. Um es herzustellen, kannst du einen leistungsstarken Klebstoff verwenden, um eine einzelne Materialschicht von Graphit abzuziehen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=Graphen ist ein Material, das nur ein Atom dick ist und günstige elektrische Eigenschaften aufweist. Um es herzustellen, kann ein starker Klebstoff verwendet werden, um einzelne Atomschichten von Graphit abzulösen. Je stärker der verwendete Klebstoff, desto effizienter wird die Produktion.
 
 # Quest: Advanced Glue
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=§8§lFortschrittlicher Klebstoff
@@ -2514,7 +2514,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE3Q.desc=Pumpen, Kolben, Förderbandmodu
 
 # Quest: You're Gonna Hate This 5 and 6 in EV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE3g.name=§8§lDas wirst du im EV hassen 5 und 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE3g.desc=Einige Maschinen benötigen Emitter und Sensoren, wie der Analysator oder die Schaltkreisfertigungsmaschine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE3g.desc=Einige Maschinen benötigen Emitter und Sensoren, wie zum Beispiel der Scanner oder die Schaltkreisfertigungsmaschine.
 
 # Quest: Quantum Eye
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE3w.name=§8§lQuantenaugen
@@ -2602,7 +2602,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdA.desc=Kombiniere Natrium und Schwefel
 
 # Quest: One Dragon Egg is Not Enough Mr Bond
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdw.name=§8§lEin Drachenei ist nicht genug, Mr. Bond
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdw.desc=Dracheneier sind sehr selten und droppen nur nach dem Tod eines Drachens. Wie wäre es, wenn ich dir einen Weg zeige, diesen mächtigen Gegenstand aus einem Monster-Spawn-Ei nachzubilden?%n%nBeginnen wir mit Schritt eins. Verwende ein Mob-Spawn-Ei (jedes funktioniert, du kannst eines im CCC-Tab kaufen, falls du keines hast), Wachstumsmedium und Bakterien, um ein größeres Ei zu erzeugen. Dieser Prozess dauert eine Stunde.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdw.desc=Dracheneier sind sehr selten und droppen nur nach dem Tod eines Drachens. Wie wäre es, wenn ich dir einen Weg zeige, diesen mächtigen Gegenstand aus einem Monster-Spawn-Ei zu bekommen?%n%nBeginnen wir mit Schritt eins. Verwende ein Mob-Spawn-Ei (jedes funktioniert, du kannst eines im Verkaufsautomaten kaufen, falls du keins hast), Wachstumsmedium und Bakterien, um ein größeres Ei zu erzeugen. Dieser Prozess dauert eine Stunde.
 
 # Quest: Egg Mutation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeA.name=§8§lEi-Mutation
@@ -2795,7 +2795,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhQ.desc=Pumpen, Kolben, Förderbandmodu
 
 # Quest: You're Gonna Hate This 5 and 6 in IV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhg.name=§9§lDas wirst du im IV hassen 5 und 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhg.desc=Einige Maschinen benötigen Emitter und Sensoren, wie der Analysator oder die Schaltkreisfertigungsmaschine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhg.desc=Einige Maschinen benötigen Emitter und Sensoren, wie zum Beispiel der Scanner oder die Schaltkreisfertigungsmaschine.
 
 # Quest: Ceres Trip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAg.name=§9§lReise zu Ceres
@@ -3328,7 +3328,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0Q.desc=Pumpen, Kolben, Förderbandmodu
 
 # Quest: Now You're Really Gonna Hate This 5 and 6 in LuV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0g.name=§d§lDas wirst du wirklich im LuV hassen 5 und 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0g.desc=Einige Maschinen benötigen Emitter und Sensoren, wie der Analysator oder die Schaltkreisfertigungsmaschine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0g.desc=Einige Maschinen benötigen Emitter und Sensoren, wie zum Beispiel der Scanner oder die Schaltkreisfertigungsmaschine.
 
 # Quest: Tier 6 (LuV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.name=§d§lStufe 6 (LuV)
@@ -3416,15 +3416,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKg.desc=Jetzt, da du endlich alle Mater
 
 # Quest: Fetching Tellurium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKw.name=§d§lTellur besorgen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKw.desc=Für Tellur kannst du es auf diese Weisen herstellen:%n%n1) EHOe Zerkleinertes Bleierz für 2 Tellur-Klumpen%n2) Stelle Seltenerde-(III) aus Seltenerde her, indem du die stärkste Säure verwendest, und erhalte es aus Alburnit%n3) Toxische Everglades%n4) Sobald du einen Void-Bohrer hast, kannst du ihn in der Oberwelt platzieren, um Tellur zu erhalten.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKw.desc=Für Tellur gibt es folgende Möglichkeiten:%n%n1) Das EHOen von Zerkleinertem Bleierz für 2 Tellur-Klumpen%n2) Seltenerde-(III) aus Seltener Erde unter Verwendung der stärksten Säuren herstellen und aus Alburnit gewinnen%n3) Toxische Everglades%n4) Sobald du einen Void-Erzbohrer hast, kannst du ihn in der Oberwelt platzieren, um Tellur zu erhalten.%n5) Platinerz in einer IsaMill-Mühle und einer Flotationszelle zu Schaum verarbeiten und dann in einem Vakuumofen erhitzen.
 
 # Quest: Fetching Cubic Zirconia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLA.name=§d§lKubisches Zirkonia besorgen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLA.desc=Für Kubisches Zirkonia musst du Zirkonium und Yttriumoxid ebenfalls im EHO kombinieren. Glücklicherweise brauchst du nur die Stäube.%n%nDu kannst Zirkonium bekommen aus:%n1) Dem Roten Zirkonerz auf Ross128b (Mach dies!)%n2) Dem Sieben von Kassiterit, Zinn oder Ilmenit (Mach dies, wenn du Ross hasst)%n%nSauerstoff ist nicht schwer zu bekommen, aber das Yttrium macht das mehr als wett. Du hast ein paar Optionen:%n1) Stelle Seltenerde-(I) aus Seltenerde her (siehe die MV-Quest) und erhalte es aus Xenozeit%n2) Stelle Seltenerde-(II) aus Seltenerde her, indem du eine stärkere Säure verwendest, und erhalte es aus Yttriait%n3) Wenn du eine T6-Rakete hast, kannst du etwas Yttrium-Erz von Triton holen und wirst heulen, wie viel einfacher es ist%n4) In ZPM kannst du versuchen, zu den Toxischen Everglades zu gehen, um seltsame GT++-Erze zu bekommen, von denen einige Yttrium enthalten (Juhu, RNG-Erzen-Weltgenerierung!)%n%nUm Seltenerde zu bekommen, kannst du Redstone oder Skystone §rverwenden, aber du kannst es auch direkt aus Monazit oder einigen anderen Erzen als Nebenprodukt erhalten. Hoffentlich hast du es aufgespart?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLA.desc=Für Kubisches Zirkonia musst du Zirkonium und Yttriumoxid ebenfalls im EHO kombinieren. Glücklicherweise brauchst du nur die Stäube.%n%nDu kannst Zirkonium bekommen aus:%n1) Dem Roten Zirkonerz auf Ross128b (Mach das!)%n2) Dem Sieben von Kassiterit, Zinn oder Ilmenit (Mach dies, wenn du Ross nicht leiden kannst)%n%nSauerstoff ist nicht schwer zu bekommen, aber das Yttrium macht das mehr als wett. Du hast ein paar Optionen:%n1) Stelle Seltenerde-(I) aus Seltener Erde her (siehe die MV-Quest)%n2) Stelle Seltenerde-(II) aus Seltener Erde her, indem du eine stärkere Säure verwendest, und erhalte es aus Yttriait%n3) Wenn du eine S6-Rakete hast, kannst du etwas Yttrium-Erz von Triton holen und wirst weinen, wie viel einfacher es ist%n4) In ZPM kannst du versuchen, zu den Toxischen Everglades zu gehen, um seltsame GT++-Erze zu bekommen, von denen einige Yttrium enthalten (Juhu, RNG-Erzen-Weltgenerierung!)%n%nUm Seltene Erde zu bekommen, kannst du Redstone oder Himmelstein §rverwenden, aber du kannst es auch direkt aus Monazit oder einigen anderen Erzen als Nebenprodukt erhalten. Hoffentlich hast du es aufgespart?
 
 # Quest: Fetching Prasiolite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLQ.name=§d§lPrasiolit besorgen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLQ.desc=Für Prasiolit wirst du Quarzit und Amethyst in einen EHO geben wollen, um Fehlerhaften Prasiolit zu erhalten. Du wirst entweder den Implosionskompressor oder den Präzisions-Lasergravierer verwenden müssen, um die Qualität auf Exquisit zu erhöhen. Du wirst auch die Staub-Version benötigen, also konvertiere nicht alle.%n%nFür die Menge an Amethyst, die du benötigen wirst, wirst du einen Stopp auf der Venus einlegen wollen.%n%nWenn du eine T5-Rakete hast, kannst du das Erz direkt von Ross128ba bekommen und es durch den Sieber laufen lassen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLQ.desc=Für Prasiolit musst du Quarzit und Amethyst in einen EHO legen, um Fehlerhaften Prasiolit zu erhalten. Du musst entweder den Implosionskompressor oder den Präzisions-Lasergravierer verwenden, um die Qualität auf Exquisit zu erhöhen. Du wirst auch die Staub-Version benötigen, also nicht alle umwandeln.%n%nAmethyst findest du in Höhlen in der Oberwelt, aber für die Menge, die du brauchen wirst, solltest du vielleicht einen Abstecher zur Venus machen.%n%nWenn du eine S5-Rakete hast, kannst du das Erz direkt von Ross128ba bekommen und es durch die Siebmaschine laufen lassen.
 
 # Quest: RNG is Definitely Good Game Design
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLg.name=§d§lRNG ist definitiv gutes Spieldesign
@@ -4353,7 +4353,7 @@ betterquesting.quest.6OibD9bRQwq_hBPWz-y9xQ.desc=As the materials around you ach
 
 # Quest: Ultimate Voltages Require Ultimate Lubricant™!
 betterquesting.quest.8JcG3DR5QU6_FbhIWHm05g.name=§9§l§nUltimate Voltages Require Ultimate Lubricant™!
-betterquesting.quest.8JcG3DR5QU6_FbhIWHm05g.desc=For your UIV components to work their interdimensional magic, you're going to need some dimensional border easing lubricant to not cause a universal collapse.
+betterquesting.quest.8JcG3DR5QU6_FbhIWHm05g.desc=For your UIV components to work their interdimensional magic, you're going to need some dimensional border easing lubricant to not cause a universal collapse.%n%n[note]Tip: You can use this in place of Lubricant in your Cutting Machine for faster processing![/note]
 
 # Quest: Another Type of Steel
 betterquesting.quest.8OMu4RdgQhyZqXRid6n-Wg.name=§9§l§nAnother Type of Steel
@@ -4519,10 +4519,6 @@ betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge
 # Quest: Convergence
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=§c§l§nConvergence
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.desc=Running your Dimensionally Transcendent Plasma Forge for an extended period [note](8 hours)[/note] allows the Multidimensional Spaces to align perfectly.%n%nWith your newly acquired technology, you can now tap into these spaces in perfect sync, enabling your plasma forges to operate at incredible speeds.%n%nThe Transdimensional Alignment Matrix allows the DTPF to run with Perfect Overclocks. To achieve this, you need a full discount, and the extra power cost is offset by using more of the same catalyst.%n%nOverall, it is more efficient and totally worth it.%n%nThis process is extremely catalyst-hungry. Ensure you're producing enough to sustain it.%n%nFor recipes without a catalyst, you must specify the catalyst in the GUI by right-clicking the Convergence button, otherwise it will default to Crude.[/note]%n%n[note]Math for the curious:%n%nTo clear up what exactly happens in the background, here's an explanation on how the extra catalyst values are calculated using an example:%n%nThe example recipe of choice is the molten neutronium recipe using prosaic catalyst, running at 64A UMV (8,589,934,592 EU/t).%nThe recipe uses 14,753L of Prosaic catalyst and 36,484,545,600 EU per recipe without OCs or the catalyst discount. With the discount, the catalyst amount gets cut in half, meaning 7,376.5L of catalyst, which are rounded to 7,376L, and due to the 64A UMV the machine is supplied with the recipe overclocks 3 times, meaning each recipe actually uses 36,484,545,600 * 2^3 = 291,876,364,800 EU.%n%nKnowing the amount of OCs and the base voltage of the recipe, the difference of the needed EU per recipe with and without perfect OC can be calculated, that being 291,876,364,800 - 36,484,545,600 = 255,391,819,200 extra EU due to imperfect OCs.%nTo get the value of needed extra catalyst, this extra EU value has to be divided by the energy density of the relevant catalyst, prosaic in this case.%n%nThe division equates to 255,391,819,200 EU / 66,768,460 EU/L = 3,825.037 L, rounded to 3,825L extra prosaic catalyst per recipe. For the final step, this value has to be multiplied by 0.5 as it's affected by the discount, meaning the total extra catalyst that gets added to the recipe is 3,825L * 0.5 = 1,912.5 L, rounded to 1,912L.%n%nTo summarize it all in a formula:%nAmount extra catalyst per recipe = (B * ((2^x) - 1))/2L%nwhere:%nB is base total EU of the recipe%nx is the number of overclocks%nL is the EU/L of the relevant catalyst [/note]
-
-# Quest: What Do I Use This Stuff On?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.name=§c§l§nWhat Do I Use This Stuff On?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.desc=White Dwarf Matter, your first main EOH material! I must be able to craft all sorts of cool endgame things with this... right?%n%n[note]Currently, besides EOH casing upgrades, White Dwarf Matter is not used anywhere on its own, often paired with Black Dwarf Matter or other later materials. Save it up for now and keep upgrading that EOH![/note]
 
 # Quest: Black Dwarf Matter
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.name=§c§l§nBlack Dwarf Matter
@@ -6407,7 +6403,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADDQ.desc=Dieser Ofen ist der beste Weg, 
 
 # Quest: It's Time to Get More Steam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.name=§6§lEs ist Zeit für Mehr Dampf
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=Sobald du die Möglichkeit hast, Energie in großen Mengen zu speichern, wäre es notwendig, eine Möglichkeit zu haben, Energie in großen Mengen zu erzeugen. Du brauchst einen Großen Bronze-Kessel. Aber um diesen Kessel zu bauen, benötigst du einen Haufen Bronze. Dieser Kessel produziert 800L Dampf pro Tick. Das reicht aus, um 10 Grundlegende Dampfturbinen zu betreiben.%n%nDer Große Kessel kann entweder Wasser oder Destilliertes Wasser verwenden. Wasser wird mit einer Rate von 1L Wasser pro 150L Dampf verbraucht.%n%nUm einen Großen Kessel zu bauen, musst du eine 3x3x5 Struktur mit Bronze-Rohrummantelungen in der Mitte der mittleren 3 Ebenen erstellen. Die unterste Ebene muss mindestens 1 oder 2 Einfüllöffnungen, 1 oder 2 Eingabevorrichtung, 3 oder 4 Brennkammern, 1 Auspuff und eine Wartungsluke beinhalten. Die unterste Ebene darf keine Plattierten Ziegel enthalten. Alle Öffnungen, Vorrichtungen und Auspuffe müssen mit ihrer Rückseite eine Brennkammer berühren. Die Ausgabevorrichtung kann auf jeder der oberen 4 Ebenen platziert werden.%n%n§cWarnung: Anders als andere Kessel müssen Große Kessel während des Betriebs jederzeit Wasser enthalten. Wenn dem Kessel zu irgendeinem Zeitpunkt während des Betriebs das Wasser ausgeht, wird er explodieren.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=Sobald du die Fähigkeit besitzt, Energie in großen Mengen zu speichern, wäre es notwendig, eine Möglichkeit zu haben, Energie in großen Mengen zu erzeugen. Du benötigst einen großen Bronzedampfkessel. Doch um diesen Kessel herzustellen, benötigst du einen Berg aus Bronze. Dieser Kessel produziert 800 Liter Dampf pro Tick. Das reicht aus, um 10 Grundlegende Dampfturbinen zu betreiben.%n%nDer Große Dampfkessel kann entweder Wasser oder Destilliertes Wasser verwenden. Wasser wird im Verhältnis von 1 Liter Wasser pro 160 Liter Dampf verbraucht.%n%nUm einen Großen Dampfkessel herzustellen, musst du eine 3x3x5-Struktur mit Bronze-Rohrummantelungen in der Mitte der mittleren 3 Ebenen bauen. Die unterste Ebene muss mindestens 1 oder 2 Einfüllöffnungen, 1 oder 2 Eingabevorrichtungen, 3 oder 4 Feueräume, 1 Auspuff und eine Wartungsluke enthalten. Die unterste Ebene darf keine Plattierten Ziegel enthalten. Alle Öffnungen, Vorrichtungen und Auspuffe müssen mit ihrer Rückseite einen Feuerraum berühren. Die Auslassöffnung kann auf jeder der oberen 4 Ebenen platziert werden.%n%n§cWarnung: Anders als andere Kessel müssen Große Dampfkessel immer Wasser enthalten, solange sie aktiv sind. Sollte dem Kessel zu irgendeinem Zeitpunkt während des Betriebs das Wasser ausgehen, explodiert er.
 
 # Quest: Steam is Never Enough
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.name=§6§lDampf ist Nicht Genug
@@ -6732,7 +6728,7 @@ betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Starte deine eigene lokale Brau
 
 # Quest: Fits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=§9§lFits The Mold
-betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=Making machines for every mold sounds tiring... fortunately, the Fluid Shaper multiblock can handle any number of molds by using §lSolidifier Hatches§r. This multiblock is also extendable, gaining more parallels if you add additional segments. Be sure to expand it if it's too slow!%n%n[note]The Fluid Shaper also speeds up as it is running, making it more efficient to do large batches.[/note]
+betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=Making machines for every mold sounds tiring... fortunately, the Mass Solidifier multiblock can handle any number of molds by using §lSolidifier Hatches§r.%n%n[note]The Mass Solidifier also speeds up as it is running, making it more efficient to do large batches.[/note]
 
 # Quest: T2 Maceration Stack 
 betterquesting.quest.A4rEQOAXQsaa26Ib_nzkHg.name=§9§lT2 Maceration Stack 
@@ -6784,11 +6780,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7g.desc=Abuela, wirst du uns das Schoko
 
 # Quest: Play-Doh For Big Girls and Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.name=§9§lPlay-Doh für große Mädchen und Jungs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=Ich will niemals erwachsen werden, ich will mit meiner Mega-Extrusionsmaschine spielen.%nUnd falls du die Beschreibung in NEI nicht gelesen hast: Du kannst mehrere Eingabevorrichtungen verwenden, in denen jeweils eine andere Extruder-Form liegt, und die zu extrudierenden Gegenstände dann in die Vorrichtung mit der passenden Form werfen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=Ich will niemals erwachsen werden, ich will mit meiner Mega-Extrusionsmaschine spielen.%nUnd falls du die Beschreibung in NEI nicht gelesen hast: Du kannst mehrere Eingabevorrichtungen verwenden, in denen jeweils eine andere Extruder-Form liegt, und die zu extrudierenden Gegenstände dann in die Vorrichtung mit der passenden Form werfen.%n%nAlternativ kannst du auch eine Extrusions-Vorrichtung verwenden. Diese sind teurer, werden aber mit allen Extruder-Formen vorgeladen geliefert, sodass du sie manuell einstellen kannst, ohne selbst eine erstellen zu müssen.
 
 # Quest: Best Thing Since Sliced Bread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=§9§lDas Beste seit geschnittenem Brot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=Wenn du nur eine Maschine voller Messer hast, sieht plötzlich alles wie Brot aus. Mit einem Schraubendreher kannst du zwischen Schneidemaschinen- und Zerschneidemaschinen-Modus umschalten.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=Wenn du nur eine Maschine voller Messer hast, sieht plötzlich alles wie Brot aus.
 
 # Quest: ZzzZZZzzzZtt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8g.name=§9§lZzzZZZzzzZtt
@@ -7639,7 +7635,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHA.desc=Die L.E.S.E. ist eine der älte
 
 # Quest: Manual Transformer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHg.name=Manueller Transformator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHg.desc=Genervt von langen Trafo-Ketten? Keine Lust auf Explosionsgefahr in deiner Basis? Willst du diese schicken 64A-Anschlüsse und Generatoranschlüsse von TecTech nutzen, um deine Energie umzuwandeln? Baue einen Manuellen Dynamo und wandele alles um!%n%n[note]Benötigt auch einen Auspuff, Energieanschluss und Generatoranschluss. Funktioniert nicht garantiert, ich wünsche dir trotzdem alles Gute.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHg.desc=Genervt vom Bauen von Transformatorketten? Möchtest du kein Explosionsrisiko in deiner Basis? Möchtest du diese ausgefallenen 64A-Anschlüsse und Dynamos von TecTech verwenden, um deine Energie umzuwandeln? Baue einen Manuellen Dynamo und wandel alles um!%n%nPlatzierte Anschlüsse müssen einen Transformatorspulenblock berühren, wobei Dynamoanschüsse oben und Stromanschlüsse unten sein müssen. Die Höhe der Transformatorspulenblöcke kann optional auf bis zu 8 Blöcke erweitert werden.%n%n[note]Benötigt auch einen Auspuff, Stromanschluss und Dynamo. Funktioniert nicht garantiert, aber ich wünsche dir alles Gute.[/note]
 
 # Quest: L.E.S.U. Upgrade - LV Tier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHIQ.name=L.E.S.U.-Verbesserung - LV-Stufe
@@ -7981,7 +7977,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGQ.desc=Mit 19 automatisierten Koksöfe
 
 # Quest: The Benzene Tier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGg.name=Die Benzol-Stufe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGg.desc=Nachdem du MV betreten hast, wirst du bald in der Lage sein, Benzol zu produzieren und zu verbrauchen. Das ist effizienter, als Holzkohle in einem Kessel zu verbrennen, aber du musst immer noch viel Holz bereitstellen, um eine gleichmäßige, reichliche Stromversorgung zu gewährleisten. Es wird dringend empfohlen, diese Holz-Zufuhr zu automatisieren, falls du dies noch nicht getan hast, möglicherweise mit einem MV-Pflanzenverwalter anstelle des LV-Pflanzenverwalters, oder mit der Erntemaschine aus IC2.%n%nFür die Automatisierung bist du immer noch auf Bonsais angewiesen, nicht auf normale Bäume. HV wird einige Optionen bieten, die keine Pflanzen benötigen, aber vorerst solltest du deine Pflanzenwerte durch Kreuzung erhöhen. Das Pflanzen von Setzlingen auf Anbaustäben erzeugt 1/1/1 Bonsais, die viel langsamer sind als ihre Varianten mit hohen Werten. Wenn du in Pflanzen investieren möchtest, kannst du später die hohen Werte nutzen, um mehr von mehreren Dutzend verschiedenen Gegenständen zu erhalten, die Pflanzen liefern können, aber du solltest mit Stiel-Schilf beginnen, um deine Pflanzenwerte zu entwickeln, nicht mit Bonsais.%n%nWerfe deine Setzlinge auch nicht weg! Sie werden später nützlich sein, also sammele so viele wie möglich an.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGg.desc=Jetzt, wie du im MV-Zeitalter angekommen bist, wirst du bald in der Lage sein, Benzol zu produzieren und zu verbrauchen. Das ist effizienter, als Holzkohle in einem Kessel zu verbrennen, aber du musst immer noch viel Holz bereitstellen, um eine gleichmäßige, reichliche Stromversorgung zu gewährleisten. Es wird dringend empfohlen, diese Holz-Zufuhr zu automatisieren, falls du dies noch nicht getan hast, möglicherweise mit einem MV-Pflanzenverwalter anstelle des LV-Pflanzenverwalters, oder mit der Erntemaschine aus IC2.%n%nFür die Automatisierung bist du immer noch auf Bonsais angewiesen, nicht auf normale Bäume. HV wird einige Optionen bieten, die keine Pflanzen benötigen, aber vorerst solltest du deine Pflanzenwerte durch Kreuzung erhöhen. Das Pflanzen von Setzlingen auf Anbaustäben erzeugt 1/1/1 Bonsais, die viel langsamer sind als ihre Varianten mit hohen Werten. Wenn du in Pflanzen investieren möchtest, kannst du später die hohen Werte nutzen, um mehr von mehreren Dutzend verschiedenen Gegenständen zu erhalten, die Pflanzen liefern können, aber du solltest mit Stiel-Schilf beginnen, um deine Pflanzenwerte zu entwickeln, nicht mit Bonsais.%n%nWerfe deine Setzlinge auch nicht weg! Sie werden später nützlich sein, also sammele so viele wie möglich an.%n%n[warn]Du musst die Samen scannen, um die Quest-Aufgabe abzuschließen.[/warn]
 
 # Quest: Biodiesel Alternative
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGw.name=Biodiesel-Alternative
@@ -8150,7 +8146,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=Eine Reihe von Questreihen,
 
 # Quest: Basis for All Reactors
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSQ.name=Grundlage aller Reaktoren
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSQ.desc=Kernenergie ist erstmals in EV verfügbar. Sie kommt jedoch in allen Formen und Farben vor, und es kann schwierig sein, eine Art von Anlage aus all den verfügbaren auszuwählen. Um diese Questbuchseite zu beginnen, wird diese erste Quest eine Zusammenfassung darüber sein, wie Kernenergie erzeugt werden kann und wann sie verfügbar ist. Andere Quests in der Folge werden mehr Details zu jeder spezifischen Anlage enthalten, aber dies ist ein Überblick über alle.%n%nTL;DR: Kernreaktor < Flüssigreaktor < Vakuumreaktor < FFTR = THTR = Naq-Reaktor < Fusion < Kompakter Fusionsreaktor für die Leistung, pro Reaktor. Für die Züchtung: Kernreaktor < FFTR = Naq-Reaktor < GHTR in Bezug auf Züchtungsgeschwindigkeit und Ausbeute, wobei Fusion erforderlich ist, um einige Materialien herzustellen.%n%nDie erste Nuklearquelle, zu der du Zugang hast, ist der Industrialcraft 2 Kernreaktor. Es ist ein kleiner Einzelblock, an den zusätzliche Kammern angebracht werden können, um eine Multiblock-Struktur zu bilden, und die Anzahl der Kammern bestimmt den für die Nuklear-Komponenten verfügbaren Platz. Darin erzeugen Brennstäbe mit radioaktiven Materialien Energie, und jeder andere Gegenstand dient dazu, die Temperatur des Reaktors zu kontrollieren und eine Explosion zu verhindern. Er erzeugt direkt EU, kann aber zu einem Flüssigreaktor aufgerüstet werden, der stattdessen Heißes Kühlmittel für den Großer Wärmetauscher ausgibt, aber mit mehr Effizienz. Zuletzt gibt es auch die Vakuumreaktoren, die normalen Kernreaktoren sehr ähnlich sind, aber durch die Verwendung von Kühlmittel-Zellen gekühlt wird, die verschleißen und nur durch die Verwendung von Vakuumfrostern wiederverwendbar sind. Übliche Brennstoffe für all diese sind Thorium in EV und Uran in IV.%n%nZwischen IV und LuV gibt es eine weitere Art von Reaktor, den Flüssigfluorid-Thorium-Reaktor (FFTR). In diesem großen Multi werden Thorium und Uran mit sehr heißen, geschmolzenen Salzen gemischt (die in einem anderen Multi hergestellt werden müssen), wodurch die Stromerzeugung auf Kosten zusätzlicher Verarbeitung verbessert wird. Es ist ein teures Setup, aber der verbrauchte Brennstoff kann in viel mehr Nebenprodukte als üblich recycelt werden, besonders in LuV, wo du neben riesigen Mengen an Strom fast alle Edelgase unter anderem erhalten kannst.%n%nIn denselben Stufen (wenn auch hauptsächlich für LuV und höher) gibt es auch zwei größere Multis, den Thorium-Hochtemperaturreaktor (THTR) und den Gasgekühlten Hochtemperaturreaktor (GHTR). Der THTR ist hauptsächlich für die Stromerzeugung gedacht, benötigt eine Eingabe von etwa 0,5 IV-Ampere und gibt LuV-Strom in einer variierenden Anzahl von Ampere aus, während der GHTR ein Brutreaktor ist, der 1/20 der Menge an heißem Kühlmittel ausgibt, woher die Stromerzeugung kommt, aber mit viel besseren Verhältnissen für die Züchtung von Lutetium und anderen Elementen.%n%nEine andere Art von Kernreaktor ist der Good Generators Naquadah-Reaktor, der zufällig Rezepte zum Verbrauch von Thorium-Flüssigbrennstoff und Uran-Flüssigbrennstoff sowie der verschiedenen Naquadah-Brennstoffarten hat. Mit diesen beiden kann dieser Reaktor diese Elemente viel schneller verarbeiten als normale Kernreaktoren, was für Strom und für die Züchtung hilfreich ist, aber er erfordert mehr Verarbeitung, bis diese Brennstoffe zum Verbrauch bereit sind. Zusätzlich gibt es Brennstäbe für die IC2-Kernreaktoren, die verschiedene Thorium- und Uran-Brennstoffe verwenden, die mehr oder weniger damit zusammenhängen.%n%nAb LuV und danach gibt es die Option Fusionsenergie zu nutzen. Die berüchtigten GregTech-Fusionsreaktoren funktionieren, indem sie zwei Elemente zu einem neuen verschmelzen, was oft ein notwendiger Schritt für die Progression ist, aber sie verwandeln auch die von ihnen benötigte Energie exponentiell mehr in Plasma. Helium- und Zinn-Plasma sind einige der am häufigsten verwendeten für Energie, und sie in Plasma-Turbinen zu geben, ist eine ausgezeichnete Energiequelle für das Lategame, von ZPM bis UEV und so weiter. Es gibt 4 Stufen für die regulären Fusionsreaktoren, aber es gibt auch Kompaktreaktoren und einige andere Eigenheiten der Fusion, die du später erkunden könntest.%n%nDiese Seite wird hauptsächlich dazu dienen, dich bei der Wahl zwischen all diesen Möglichkeiten zu unterstützen. Es ist so gut wie garantiert, dass du mindestens 2-3 dieser Setups verwenden wirst, also versuche, dich mit diesen Questbeschreibungen vertraut zu machen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSQ.desc=Kernenergie ist erstmals in EV verfügbar. Sie kommt jedoch in allen Formen und Farben vor, und es kann schwierig sein, eine Art von Anlage aus all den verfügbaren auszuwählen. Um diese Questbuchseite zu beginnen, wird diese erste Quest eine Zusammenfassung darüber sein, wie Kernenergie erzeugt werden kann und wann sie verfügbar ist. Andere Quests in der Folge werden mehr Details zu jeder spezifischen Anlage enthalten, aber dies ist ein Überblick über alle.%n%nTL;DR: Kernreaktor < Flüssigreaktor < Vakuumreaktor < FFTR = THTR = Naq-Reaktor < Fusion < Kompakter Fusionsreaktor für die Leistung, pro Reaktor. Für die Züchtung: Kernreaktor < FFTR = Naq-Reaktor < GHTR in Bezug auf Züchtungsgeschwindigkeit und Ausbeute, wobei Fusion erforderlich ist, um einige Materialien herzustellen.%n%nDie erste Nuklearquelle, zu der du Zugang hast, ist der Industrialcraft 2 Kernreaktor. Es ist ein kleiner Einzelblock, an den zusätzliche Kammern angebracht werden können, um eine Multiblock-Struktur zu bilden, und die Anzahl der Kammern bestimmt den für die Nuklear-Komponenten verfügbaren Platz. Darin erzeugen Brennstäbe mit radioaktiven Materialien Energie, und jeder andere Gegenstand dient dazu, die Temperatur des Reaktors zu kontrollieren und eine Explosion zu verhindern. Er erzeugt direkt EU, kann aber zu einem Flüssigreaktor aufgerüstet werden, der stattdessen Heißes Kühlmittel für den Großer Wärmetauscher ausgibt, aber mit mehr Effizienz. Zuletzt gibt es auch die Vakuumreaktoren, die normalen Kernreaktoren sehr ähnlich sind, aber durch die Verwendung von Kühlmittel-Zellen gekühlt wird, die verschleißen und nur durch die Verwendung von Vakuumfrostern wiederverwendbar sind. Übliche Brennstoffe für all diese sind Thorium in EV und Uran in IV.%n%nZwischen IV und LuV gibt es eine weitere Art von Reaktor, den Flüssigfluorid-Thorium-Reaktor (FFTR). In diesem großen Multi werden Thorium und Uran mit sehr heißen, geschmolzenen Salzen gemischt (die in einem anderen Multi hergestellt werden müssen), wodurch die Stromerzeugung auf Kosten zusätzlicher Verarbeitung verbessert wird. Es ist ein teures Setup, aber der verbrauchte Brennstoff kann in viel mehr Nebenprodukte als üblich recycelt werden, besonders in LuV, wo du neben riesigen Mengen an Strom fast alle Edelgase unter anderem erhalten kannst.%n%nIn denselben Stufen (wenn auch hauptsächlich für LuV und höher) gibt es auch zwei größere Multis, den Thorium-Hochtemperaturreaktor (THTR) und den Gasgekühlten Hochtemperaturreaktor (GHTR). Der THTR ist hauptsächlich für die Stromerzeugung gedacht, benötigt eine Eingabe von etwa 0,5 IV-Ampere und gibt LuV-Strom in einer variierenden Anzahl von Ampere aus, während der GHTR ein Brutreaktor ist, der 1/20 der Menge an heißem Kühlmittel ausgibt, woher die Stromerzeugung kommt, aber mit viel besseren Verhältnissen für die Züchtung von Lutetium und anderen Elementen.%n%nEine andere Art von Kernreaktor ist der Good Generators Naquadah-Reaktor, der zufällig Rezepte zum Verbrauch von Thorium-Flüssigbrennstoff und Uran-Flüssigbrennstoff sowie der verschiedenen Naquadah-Brennstoffarten hat. Mit diesen beiden kann dieser Reaktor diese Elemente viel schneller verarbeiten als normale Kernreaktoren, was für Strom und für die Züchtung hilfreich ist, aber er erfordert mehr Verarbeitung, bis diese Brennstoffe zum Verbrauch bereit sind. Zusätzlich gibt es Brennstäbe für die IC2-Kernreaktoren, die verschiedene Thorium- und Uran-Brennstoffe verwenden, die mehr oder weniger damit zusammenhängen.%n%nAb LuV und danach gibt es die Option Fusionsenergie zu nutzen. Die berüchtigten GregTech-Fusionsreaktoren funktionieren, indem sie zwei Elemente zu einem neuen verschmelzen, was oft ein notwendiger Schritt für die Progression ist, aber sie verwandeln auch die von ihnen benötigte Energie exponentiell mehr in Plasma. Helium- und Zinn-Plasma sind einige der am häufigsten verwendeten für Energie, und sie in Plasma-Turbinen zu geben, ist eine ausgezeichnete Energiequelle für das Lategame, von ZPM bis UEV und so weiter. Es gibt 5 Stufen für die regulären Fusionsreaktoren, aber es gibt auch Kompaktreaktoren und einige andere Eigenheiten der Fusion, die du später erkunden könntest.%n%nDiese Seite wird hauptsächlich dazu dienen, dich bei der Wahl zwischen all diesen Möglichkeiten zu unterstützen. Es ist so gut wie garantiert, dass du mindestens 2-3 dieser Setups verwenden wirst, also versuche, dich mit diesen Questbeschreibungen vertraut zu machen.
 
 # Quest: Focus on Breeding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSg.name=Schwerpunkt Zucht
@@ -9137,7 +9133,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1w.desc=Sieh die digitale Welt.%n%nDein
 
 # Quest: Control Units
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.name=Steuereinheiten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.desc=So kontrollierend! Seltsamerweise erfordert dieses Teil einen HV-Schaltkreis zur Herstellung; deshalb bekommst du hier einige, damit du deine ersten Computerteile bauen kannst – anstelle der MV-Schaltkreise, die sonst dafür nötig wären. Gib sie nicht alle für eine Sache aus!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.desc=Steuerungseinheiten werden für eine Vielzahl von Dingen verwendet, insbesondere aber CPUs und GPUs. Du wirst ziemlich viele davon benötigen, lass uns fürs Erste 16 herstellen.
 
 # Quest: What Did the Data Say to the CPU?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2Q.name=Nur Daten reichen nicht
@@ -9583,7 +9579,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.desc=Die Kristallwachstumskammer die
 
 # Quest: Purifying the Impure
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.name=Das Unreine reinigen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=Die gereinigten Versionen von Nether-, Certus- und Fluix-Kristallen können aus Samen gezüchtet werden, die im Montierer aus Kristallstaub und Sand hergestellt werden.%n%nSie können kostenlos in der Welt angebaut werden, indem man sie ins Wasser fallen lässt, oder mit einer viel schnelleren Rate in einem GT-Autoklav.%n%n[note]Destilliertes Wasser reduziert die Rezeptzeit im Autoklav um die Hälfte.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=Die gereinigten Versionen von Nether-, Certus- und Fluix-Kristallen können aus Samen gezüchtet werden, die im Montierer aus Kristallstaub und Sand hergestellt werden.%n%Du wirst den Reinen Netherquarz möglicherweise später benötigen, aber lasse uns fürs Erste einige Reine Fluix-Kristalle und Reine Certusquarz-Kristalle herstellen.%n%nSie können außerhalb von Maschinen gezüchtet werden, indem man sie ins Wasser wirft, oder mit einer viel schnelleren Rate in einem GT-Autoklav.%n%n[note]Destilliertes Wasser reduziert die Rezeptzeit im Autoklav um die Hälfte.[/note]
 
 # Quest: Wireless Setup
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=Kabelloses Setup
@@ -9615,43 +9611,43 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.desc=Speicherbus nur für Flüssigke
 
 # Quest: For Fluid Recipes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.name=Für Flüssigkeitenrezepte
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.desc=Placing your fluid crafting patterns in a Dual Interface. That will allow AE2 to push the fluids and items both. Note. Fluids are being sent first, then items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.desc=Platziere deine Flüssigkeitsverarbeitungsvorlage in einer Doppelschnittstelle. Das ermöglicht AE2, sowohl Flüssigkeiten als auch Gegenstände zu schicken. Hinweis: Flüssigkeiten werden zuerst gesendet, dann Gegenstände.
 
 # Quest: Extracting Items From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.name=Extracting Items From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.desc=The ME export bus extracts items from the ME network's networked storage and places them into the inventory it faces. You must configure which items it will insert, leaving the configuration blank will result in nothing. The ME export bus will try to export any of the items on its list skipping over those it cannot fit into the destination. This is the functional opposite of the ME import bus.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.name=Gegenstände aus dem Netzwerk entnehmen
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.desc=Der ME-Exportbus entnimmt Gegenstände aus dem vernetzten Speicher des ME-Netzwerks und platziert sie in dem Inventar, dem sie gegenüberliegt. Du musst konfigurieren, welche Gegenstände er einfügen soll; wird die Konfiguration leer gelassen, führt dies zu keinem Ergebnis. Der ME-Exportbus versucht, alle Gegenstände auf ihrer Liste zu exportieren, wobei sie diejenigen überspringt, die nicht in das Ziel passen. Dies ist das funktionale Gegenteil des ME-Importbus.
 
 # Quest: Inserting Items Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.name=Inserting Items Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.desc=Pulls items from the inventory it is pointed at and places them into the ME network's networked storage. You can specify which items it will pull out via the UI, else it tries to pull out any item in the adjacent inventory. The ME import bus will attempt to import any possible options, even if 1 or more of the configured items cannot be stored. This is the functional opposite of the ME export bus.%n%nWhen your machines are very fast, it's better to have them output directly into an ME interface instead, since that works instantly.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.name=Einfügen von Gegenständen in das Netzwerk
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.desc=Zieht Gegenstände aus dem Inventar, auf das es zeigt, und platziert sie in den vernetzten Speicher des ME-Netzwerks. Du kannst über die Benutzeroberfläche festlegen, welche Gegenstände es entnehmen soll, andernfalls versucht es, jeden Gegenstand im angrenzenden Inventar zu entnehmen. Der ME-Importbus wird versuchen, alle möglichen Optionen zu importieren, selbst wenn 1 oder mehr der konfigurierten Gegenstände nicht gespeichert werden können. Dies ist das funktionale Gegenteil zum ME-Exportbus.%n%nWenn deine Maschinen sehr schnell sind, ist es besser, sie direkt in eine ME-Schnittstelle ausgeben zu lassen, da dies sofort funktioniert.
 
 # Quest: Emptying Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.name=Emptying Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.desc=Import Bus for Fluids only.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.name=Tanks leeren
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.desc=Importbus nur für Flüssigkeiten.
 
 # Quest: Something to Put Your Components in
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.name=Something to Put Your Components in
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.desc=An empty storage container, you can insert the vanilla AE2 storage cell parts into it to create a usable storage cell.%n%nYou can also craft it with the storage components when making them to skip combining them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.name=Etwas, wo deine Speichereinheiten rein können
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.desc=Ein leerer Speicherbehälter. Du kannst die Vanilla-AE2-Speicherzellen-Teile einsetzen, um eine nutzbare Speicherzelle zu erstellen.%n%nDu kannst es auch direkt mit den Speicherkomponenten herstellen, um das separate Zusammenfügen zu überspringen.
 
 # Quest: AE Tier 1 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.name=AE Tier 1 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.desc=The main processor for 1K and 4K cells.%n%nStoring items directly in AE cells is very performant and usually the best option.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.name=AE-Stufe 1-Gegenstandsspeicher
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.desc=Der Hauptprozessor für 1K- und 4K-Zellen.%n%nDas direkte Speichern von Gegenständen in AE-Zellen ist sehr effizient und in der Regel die beste Option.
 
 # Quest: Automating Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.name=Automating Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.desc=Is a component of the crafting CPU multiblock. This particular block provides the CPU with no additional features, but can be used as a "filler" block and as a crafting ingredient for the crafting storage, monitor and co-processing units.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.name=Verarbeitung automatisieren
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.desc=Ist eine Komponente des Verarbeitungs-CPU-Multiblocks. Dieser spezielle Block bietet der CPU keine zusätzlichen Funktionen, kann aber als "Platzhalter"-Block und zur Verarbeitung für den Verarbeitungsspeicher, Monitor und die Co-Verarbeitungseinheiten verwendet werden.
 
 # Quest: 1k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.name=1k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.desc=Lowest tier storage cell, which can contain 1,024 bytes of storage. 1,024 bytes of storage can hold 127 stacks of a single item, or 65 stacks, while holding 63 different items. The 1k storage cell uses 8 bytes of data to store a single type.%n%nWhen placed inside a drive or chest will consume 0.5 AE/t. It must be in an ME drive or ME chest to be usable.%n%nYou can remove the 1k ME storage component by fully emptying the storage cell, and sneak-clicking it in your hand.%n%nYou can format it in the cell workbench.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.name=1k-Gegenstands-Speicherzelle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.desc=Speicherzelle der niedrigsten Stufe, die 1.024 Bytes Speicherplatz aufnehmen kann. 1.024 Bytes Speicherplatz können 127 Stapel eines einzelnen Gegenstands oder 65 Stapel bei gleichzeitiger Aufbewahrung von 63 verschiedenen Gegenständen aufnehmen. Die 1k-Speicherzelle verbraucht 8 Bytes Daten, um einen einzelnen Typ zu speichern.%n%nWenn sie in ein Laufwerk oder eine Truhe gelegt wird, verbraucht sie 0,5 AE/t. Sie muss sich in einem ME-Laufwerk oder einer ME-Truhe befinden, um nutzbar zu sein.%n%nDu kannst die 1k-ME-Speichereinheit entfernen, indem du die Speicherzelle vollständig leerst und sie in deiner Hand gedrückt hältst und dabei schleichst.%n%nDu kannst sie in der Zellen-Werkbank formatieren.
 
 # Quest: 1k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.name=1k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.desc=Smallest storage component, used to make 1k ME storage cells, or can be upgraded to make 4k ME storage components. Can be recovered from a crafted 1k ME storage cell by fully emptying the storage cell, and shift-clicking it in your hand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.name=1k-Speichereinheit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.desc=Kleinste Speichereinheit, die zur Herstellung von 1k-ME-Speicherzellen verwendet wird oder zu 4k-ME-Speichereinheiten aufgerüstet werden kann. Kann aus einer hergestellten 1k-ME-Speicherzelle zurückgewonnen werden, indem die Speicherzelle vollständig geleert und mit gedrückter Shift-Taste in der Hand angeklickt wird.
 
 # Quest: 1k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.name=1k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.desc=Component of the crafting CPU which provides 1024 bytes of storage for crafting. The Crafting Storage blocks are the only necessary part. Each crafting CPU multiblock allows for a separate crafting job (this is different from sub-tasks of the same job). The more items in the recipe and sub-recipes, the more crafting storage you'll need. Having one big and a couple small might be a good idea, but remember it will try to use the best one available first when you order a craft. They are also used when a crafting card requests a craft, so you'll need several separate ones if you intend to use those a lot. A crafting CPU multiblock uses only one channel, regardless of its size. It must be square to form.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.name=1k-Verarbeitungsspeicher
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.desc=Komponente der Verarbeitungs-CPU, die 1.024 Bytes Speicherplatz für die Verarbeitung bereitstellt. Die Verarbeitungsspeicherblöcke sind der einzig notwendige Teil. Jeder Verarbeitungs-CPU-Multiblock ermöglicht einen separaten Verarbeitungsauftrag (dies unterscheidet sich von Unteraufgaben desselben Auftrags). Je mehr Gegenstände in der Rezeptur und den Unterrezepturen enthalten sind, desto mehr Verarbeitungsspeicher benötigst du. Eine große und ein paar kleine zu haben, könnte eine gute Idee sein, aber denke daran, dass bei der Bestellung einer Verarbeitung zuerst versucht wird, die beste verfügbare zu verwenden. Sie werden auch verwendet, wenn eine Verarbeitungskarte eine Verarbeitung anfordert, daher benötigst du mehrere separate, wenn du diese häufig verwenden möchtest. Ein Verarbeitungs-CPU-Multiblock verwendet nur einen Kanal, unabhängig von seiner Größe. Er muss quadratisch sein, um sich zu bilden.
 
 # Quest: 4k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJA.name=4k Item Storage Cell
@@ -9675,10 +9671,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLg.desc=Component of the crafting CPU w
 
 # Quest: Recipe Patterns
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.name=Recipe Patterns
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.desc=Save patterns onto these to do autocrafting. They go into molecular assemblers and ME interfaces.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.desc=Speichere hier Vorlagen für Autocrafting. Sie kommen in Molekularassembler und ME-Schnittstellen.
 
 # Quest: Pattern Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.name=Pattern Terminal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.name=Vorlagen-Konsole
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.desc=A specialized version of the ME crafting terminal designed to encode blank patterns into encoded patterns.%n%nLets you browse the contents of your network like other terminals, but also contains an area for designing patterns. There are two modes for pattern encoding. Crafting patterns, and processing patterns. Processing patterns are designed for use with machines that do not use standard crafting recipes - such as furnaces, or other machines. To select between modes, click the button to the right of the interface: when it shows a standard crafting table, it will create crafting patterns, and when it shows a furnace, it will create processing patterns.%n%nFor crafting patterns ("Crafts..."), you specify the input crafting materials on a standard 3x3 crafting grid, and the output materials are determined automatically.%n%nFor processing patterns ("Creates..."), you specify the input materials and output materials, including quantity, by placing stacks of items in the interface. If a processing operation is not guaranteed to succeed (such as secondary products from some machines), it will not work correctly as a processing pattern.%n%nWhen designing crafting patterns you can click the output to extract a crafted item as long as you have the materials required to craft the item.%n%n[warn]Be cautious about accidentally enabling oredict substitution, it's rarely used and you will keep it disabled 99%% of the time.[/warn]%n%n[note]Works exactly the same with items and fluids[/note]
 
 # Quest: ME in Your Cleanroom
@@ -9706,7 +9702,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.name=Energy Acceptor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.desc=The Energy Acceptor is an alternative place to inject energy into your AE2 network. You can form a "dumb" network with just an EA, but for real capability, you'll want a Controller.%n%n[note]If you're making a subnet, just transfer power over with a Quartz Fiber.[/note]
 
 # Quest: ME Controller
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.name=ME Controller
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.name=ME-Steuerung
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.desc=The heart of your ME network. You can inject energy into here as well to power your network, but you probably want to save all available spaces for networking. Without this, you're limited to 8 channels.%n%nThis is a multiblock, and can be expanded up to 7x7x7, and can have 2 adjacent blocks in at most 1 axis, or it will be disabled. Whatever that means, just try it out, OK? You can only have one per network.%n%nAbout channels:%nGenerally, every device uses a channel unless specified otherwise. If you don't have enough, that device will not function. If you can't determine what's causing your network problems, try looking at the lines on the smart and dense cables, or use a network visualizer.
 
 # Quest: Diffusion and Coalescence
@@ -9871,7 +9867,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpg.desc=Are you expecting something? Th
 
 # Quest: 16384k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.name=16384k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.desc=They may have a fancy texture, but the numbers are just higher. They hold about 133,169,152 of a single item, so about the same as a Quantum Chest I. If you want more storage, use Quantum Chests with storage buses.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.desc=Sie schauen zwar schick aus, aber nur die Kapazität ist höher. Sie können etwa 133.169.152 Gegenstände speichern, also ca. so viel wie eine Quanten-Kiste I. Wenn du mehr Platz brauchst, benutze Quanten-Kisten mit Speicherbussen.
 
 # Quest: 256k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqA.name=256k Crafting Storage
@@ -10053,10 +10049,6 @@ betterquesting.quest.CbUsVtoETCy-CB3AlgHRjg.desc=The Advanced Wireless Setup Kit
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc=These hold 8,388,608 units of essentia.%n%nAnd can hold 48 types.
 
-# Quest: Infinite Water Cell
-betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.name=Infinite Water Cell
-betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.desc=The ME Fluid Infinity Water Storage provides §24.5P§r water directly to your AE system, That's the equivalent of 2.25 million reservoir hatches, all conveniently packaged into one drive. %nMight come in handy...%n%n[note]Have fun making those fluid packets![/note]
-
 # Quest: Get Your Priorities Straight
 betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.name=Bekomme deine Prioritäten in den Griff
 betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=Du wirst wahrscheinlich komplizierte Systeme mit vielen Speicherbussen einrichten, die unterschiedliche Prioritäten haben. Damit es nicht so mühsam wird, schnapp dir eine Prioritätskarte!%n%nMit diesem Werkzeug kannst du vielen Bussen mit nur einem Klick dieselbe Priorität zuweisen – aber noch besser: Es bietet auch §nInkrement- und Dekrement-Modi!§r Bei jedem Klick auf einen Bus wird die Priorität um eins höher oder niedriger als beim vorherigen Bus gesetzt. So lässt sich ein großes System mit absteigenden Prioritäten ganz einfach einrichten.
@@ -10147,7 +10139,7 @@ betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.desc=You have probably already seen 
 
 # Quest: Oceans in a Bottle
 betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.name=Oceans in a Bottle
-betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.desc=After managing to create an artificial universe capable of storing near-infinite amounts of items, you applied this same technology to your Fluid Digital Singularity Cell to create this truly magnificent piece of tech. This allows you to store up to 5 different types of fluids without the universe collapsing in on itself.
+betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.desc=After managing to create an artificial universe capable of storing near-infinite amounts of items, you applied this same technology to your Fluid Digital Singularity Cell to create this truly magnificent piece of tech. This allows you to store up to 63 different types of fluids without the universe collapsing in on itself.
 
 # Quest: Adv. Stocking Bus
 betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.name=Adv. Stocking Bus
@@ -13188,6 +13180,10 @@ betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=The Mark of the Falling Tower i
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.name=Kill All the Things
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.desc=This world is full of nasty things. Time to kill some and improve your reputation.
 
+# Quest: Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt... They will tell me!%n%n§3NOTE: The Knights are spawned by the Clerics, but the Clerics DO NOT RESPAWN after killed.
+
 # Quest: Kill Baba Yaga
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=Kill Baba Yaga
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=Baba Yaga is a witch (or one of a trio of sisters of the same name), who appears as a deformed and/or ferocious-looking elderly woman. She flies around in a mortar and wields a pestle. She dwells deep in the forest, in a hut usually described as standing on chicken legs, with a fence decorated with human skulls. Baba Yaga may help or hinder those that encounter or seek her out.
@@ -13591,17 +13587,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Heat vents are a passive way to
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§a§lMaking a Better Sword
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Now it's time to make your first quality tinkers sword. First you have to make a blade, a type of guard, and tool rod cast forms. Melt some bronze in the smeltery and cast your tool parts. Tadaa... your first tinkers sword. There are 4 types of guard, changing them gets you a different sword type, see the tinker's book for details.
 
-# Quest: Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt... They will tell me!%n%n§3NOTE: The Knights are spawned by the Clerics, but the Clerics DO NOT RESPAWN after killed.
-
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=This can be used to go back to a Celestial Gateway if you have a bound Celestial Pearl in your hotbar. It will use the leftmost one in your hotbar, so you can carry multiple to travel around with!
 
 # Quest: Industrial 3D Copying Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.name=§8§lIndustrial 3D Copying Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=Need large amounts of chiseled blocks? This is the machine for you.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=Need large amounts of chiseled blocks? This is the machine for you.%n%nIt is recommended to use the Chisel Bus for automation, as it allows you to define recipes for multiple block types without needing to manually swap them in the controller, unlike the standard Input Bus.
 
 # Quest: Draconic Evolution
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=§4§l§nDraconic Evolution
@@ -13693,7 +13685,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADpQ.desc=Now it's time to invest in some
 
 # Quest: Power of the Sun ULV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADpg.name=§6§lPower of the Sun ULV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADpg.desc=The next solar panel you can make is the ULV one. It generates 8 EU/t.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADpg.desc=Das nächste Solarpanel, das du herstellen kannst, ist das ULV-Panel. Es erzeugt 8 EU/t.
 
 # Quest: Power of the Sun 1x1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADpw.name=§6§lPower of the Sun 1x1
@@ -14075,6 +14067,10 @@ betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.desc=Want even more speed on your wa
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to comfortably tote around its contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs you get from the Vending Machine.%n3. Manually crafting the shells.[/note]
 
+# Quest: Infinite Water Cell
+betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.name=§2§l§nInfinite Water Cell
+betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.desc=The ME Fluid Infinity Water Storage provides §24.5P§r water directly to your AE system, That's the equivalent of 2.25 million reservoir hatches, all conveniently packaged into one drive. %nMight come in handy...
+
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§c§lGold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.desc=The Gold barrel has 81 slots.
@@ -14280,15 +14276,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.desc=
 
 # Quest: Trigger: Titanium Moon Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.name=Trigger: Titanium Moon Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.desc=Keine Beschreibung
 
 # Quest: Trigger: Platline Platinum Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.name=Trigger: Platline Platinum Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.desc=Keine Beschreibung
 
 # Quest: Trigger: PBI Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.name=Trigger: PBI Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.desc=Keine Beschreibung
 
 # Quest: Trigger: Platline Palladium Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.name=Trigger: Platline Palladium Skip

@@ -244,7 +244,7 @@ BW.infoData.BioVat.production=生産
 BW.infoData.htr.helium_level=ヘリウム量: %sL / %sL
 BW.infoData.htr.problems=問題: %s
 
-BW.infoData.thtr.progress=進捗: %ssecs / %ssecs
+BW.infoData.thtr.progress=進捗状況: %s 秒 / %s 秒
 BW.infoData.thtr.triso_pebbles=TRISO型被覆燃料粒子: %spcs. / %spcs.
 BW.infoData.thtr.coolant=冷却材/t: %sL/t
 
@@ -276,3 +276,9 @@ BW.gui.text.lesu.max=最大: %s
 BW.gui.text.lesu.max_in=最大入力EU/t: %s
 BW.gui.text.lesu.eu_out=出力EU/t: %s
 BW.gui.text.lesu.amp_io=入/出力アンペア/t: %s
+
+# chat
+BW.chat.thtr.cannot_change_mode=THTR稼働中はモードを変更できません。
+BW.chat.thtr.running_in.emptying=THTR is now running in emptying mode.
+BW.chat.thtr.running_in.normal=THTR is now running in normal Operation.
+BW.chat.diode.max_amps=最大アンペア数: %s

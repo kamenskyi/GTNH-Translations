@@ -8,7 +8,7 @@
 item.universalSingularities.vanilla.coal.name=石炭の特異点
 item.universalSingularities.vanilla.diamond.name=ダイヤモンドの特異点
 item.universalSingularities.vanilla.emerald.name=エメラルドの特異点
-//Vanilla
+item.universalSingularities.vanilla.water.name=Water Singularity
 
 //General
 item.avaritia_singularity.name=特異点
@@ -56,11 +56,9 @@ item.universalSingularities.rubber.polyphenylene.name=Polyphenylene Sulfide Sing
 item.universalSingularities.rubber.pvc.name=Polyvinyl Chloride Singularity
 item.universalSingularities.rubber.elastic.name=Elastic Singularity
 
-
-
 //Big Reactors
 item.universalSingularities.bigReactors.blutonium.name=ブルトニウムの特異点
-item.universalSingularities.bigReactors.cyanite.name=藍晶石の特異点
+item.universalSingularities.bigReactors.cyanite.name=シアナイトの特異点
 item.universalSingularities.bigReactors.graphite.name=黒鉛の特異点
 item.universalSingularities.bigReactors.ludicrite.name=ルディクライトの特異点
 item.universalSingularities.bigReactors.yellorium.name=イエロリウムの特異点

@@ -1546,7 +1546,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3A.desc=식물 공을 식물 질량으�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.name=§6§l바이오 차프
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3Q.desc=식물 질량은 바이오 차프로 원심 분리되어야 하며, 이는 바이오매스를 만드는 기본 재료입니다.
 
-# Quest: Way Two: Brewery
+# Quest: Way One: Brewery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.name=§6§l방법 둘: 양조장
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC3w.desc=만약 여러분이 운이 좋아 양조대를 찾았거나, 양조장을 만들기 위해 Thaumcraft를 사용하기 시작했다면, 바이오챔버를 만들 수 있습니다. 1000mb 물과 바이오 차프 1개로 바이오매스 1000mb를 얻을 수 있습니다. 더 좋은 비율과 훨씬 빠른 레시피를 얻기 위해 정제수를 사용하세요.
 
@@ -1950,7 +1950,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbg.desc=아이템이 너무 많아 고�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.name=§6§l더 좋은 증류기를 만드세요
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_Q.desc=메탄올과 에탄올을 더 빠르게 생산하려면, MV 증류기를 제작하세요.
 
-# Quest: Way Three: Pyrolyse Oven
+# Quest: Way Two: Pyrolyse Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.name=§6§l세번째 방법: 열분해 오븐
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL_g.desc=Pyrolyse Oven을 사용함으로써 코일 속도 증가의 보상을 얻을 수 있습니다.%n%n또한 Fermenter의 필요성을 회피할 수 있습니다. NEI를 확인하여 어떤 방법이 가장 알맞은지 확인해 보세요. GT++ 산업용 코크 오븐을 사용하면 이것도 가능합니다.%n%n(이 중 하나만 제출하면 됩니다)%n%n
 
@@ -4519,10 +4519,6 @@ betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=신들의 재련소에 대한 �
 # Quest: Convergence
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=합일
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.desc=DTPF를 특정 시간 이상 가동하면[note](8시간)[/note] 평행차원공간들과 완벽히 정렬이 됩니다.%n%n기술의 발전덕에 이 절묘한 순간을 활용하여 DTPF를 엄청난 속도로 가속할 수 있는 방법을 찾아냈습니다.%n%n초차원 정렬 메트릭스(Transdimensional Alignment Matrix)는 DTPF를 완전 오버클럭을 활성화하게 해줍니다. 활성화 조건은 DTPF를 최소 8시간 연속으로 가동하여 촉매 소모량 절감률이 50%%까지 도달했을 때 입니다. 이때 에너지 소모량과 촉매 소모량이 다시 증가하지만 여전히 기존 보단 훨씬 효율적입니다.%n%n[note]활성화 조건에 도달하는 것 자체가 엄청난 양의 촉매를 필요합니다. 반드시 많은 양의 촉매가 확보된 상태에서 가동하세요.%n%nDTPF의 컨트롤러 GUI에서 합일 활성화 버튼을 켜야만 해당 기능을 사용할 수 있습니다.[/note]%n%n합일 활성화 상태에서 추가적으로 소모되는 촉매량 계산식:%n촉매 소모량(L)= (X * ((2^Y) - 1 ) / 2Z%nX = 레시피의 기본 EU 소모량%nY = 오버클럭 배율%nZ = EU/L 단위의 상대적 촉매량
-
-# Quest: What Do I Use This Stuff On?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.name=이걸 대체 어디에 써먹어야 하죠?
-betterquesting.quest._Cwgzi_VR5ChWJSIIrzUvg.desc=백색왜성 물질. EOH를 통해 얻은 첫번째 특별한 재료입니다! 이걸로 온갖 멋진 엔드게임 아이템을 만들 수 있겠...죠?%n%n[note]현재 백색왜성 물질은 EOH 케이스 업그레이드 외에는 단독으로 사용되지 않으며, 주로 흑색왜성 물질이나 다른 후기 재료와 같이 사용됩니다. 지금은 아껴두고 EOH를 계속 업그레이드하세요![/note]
 
 # Quest: Black Dwarf Matter
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.name=흑색왜성 물질
@@ -10052,10 +10048,6 @@ betterquesting.quest.CbUsVtoETCy-CB3AlgHRjg.desc=The Advanced Wireless Setup Kit
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k 에센시아 저장소 셀
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc=이들은 8,388,608 유닛의 에센시아를 보유할 수 있습니다.%n%n그리고 48가지 종류를 저장할 수 있습니다.
 
-# Quest: Infinite Water Cell
-betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.name=Infinite Water Cell
-betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.desc=The ME Fluid Infinity Water Storage provides §24.5P§r water directly to your AE system, That's the equivalent of 2.25 million reservoir hatches, all conveniently packaged into one drive. %nMight come in handy...%n%n[note]Have fun making those fluid packets![/note]
-
 # Quest: Get Your Priorities Straight
 betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.name=우선순위 정하기
 betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=우선순위가 서로 다른 많은 저장 버스가 포함된 복잡한 시스템을 설정해야 할 수도 있습니다. 이 도구를 사용하면 한 번의 클릭으로 여러 버스를 동일한 우선순위로 설정할 수 있으며, 더 좋은 점은 §증가 및 감소 모드가 있다는 것입니다!§버스를 클릭할 때마다 이전에 클릭한 버스보다 우선순위가 하나씩 높아지거나 낮아지므로 우선순위가 하강하는 큰 배열을 쉽게 설정할 수 있습니다.
@@ -13187,6 +13179,10 @@ betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=낙하하는 탑의 표시는 G
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.name=모든 것들을 처치하세요
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.desc=이 세상은 끔찍한 일들로 가득합니다. 몇몇을 죽이고 평판을 개선할 시간입니다.
 
+# Quest: Time To Kill (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=비밀
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=느낄 수 있어요. 그래. 그래아. 우리는 거의 다가오는 더 많은 힘을 얻게 될 겁니다. 거의! 그래. 내 소중한 것. 목소리들은 저에게 힌트를 주었습니다, 믿을 수 없는 마법 에너지 원천으로 가득 찬 차원이 있다는 것을. 저는 반드시 그 곳에 가야 합니다. 반드시 가야해요! 진홍색 사람들은 그 비밀을 알고 있어요. 저는 그들을 찢어버릴 겁니다.. 그들은 저에게 말해줄 거예요!%n%n§3노트: 다음 작업에 필요한 책을 위해 많은 수의 이들을 처치할 필요가 있을 것이므로 스포너를 세팅하는 것이 좋을지도 모릅니다. 또한 그들은 재생되지 않는 사제들에 의해 소환됩니다.
+
 # Quest: Kill Baba Yaga
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=바바 야가 처치
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=바바 야가는 기형이거나 험상궂게 보이는 늙은 여자의 모습으로 나타나는 마녀(또는 같은 이름의 자매 셋트 중 하나)입니다. 그녀는 절구를 타고 날아다니며, 절구 종이를 휘두릅니다. 그녀는 숲 깊은 곳에 사는데, 그 집은 보통 닭 다리 위에 서 있는 집으로 묘사되며, 담장은 사람 두개골로 장식되어 있습니다. 바바 야가는 그녀를 만나거나 찾아오는 이들에게 도움이 될 수도, 방해가 될 수도 있습니다.
@@ -13589,10 +13585,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=열 배출구는 반응기에�
 # Quest: Making a Better Sword
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=§2§l더 좋은 검 만들기
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=이제 첫 번째 Tinkers 검을 만들 차례입니다. 먼저 검날, 가드, 도구 막대 주형을 만들어야 합니다. 용광로에서 청동을 녹이고 도구 부품을 주조하십시오. 와!!! 첫 번째 Tinkers 검이 완성됐습니다. 가드는 4가지 종류가 있고, 이것을 바꾸면 다른 검 종류을 얻을 수 있습니다. 자세한 내용은 Tinker's 책을 참조하세요.
-
-# Quest: Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=비밀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=느낄 수 있어요. 그래. 그래아. 우리는 거의 다가오는 더 많은 힘을 얻게 될 겁니다. 거의! 그래. 내 소중한 것. 목소리들은 저에게 힌트를 주었습니다, 믿을 수 없는 마법 에너지 원천으로 가득 찬 차원이 있다는 것을. 저는 반드시 그 곳에 가야 합니다. 반드시 가야해요! 진홍색 사람들은 그 비밀을 알고 있어요. 저는 그들을 찢어버릴 겁니다.. 그들은 저에게 말해줄 거예요!%n%n§3노트: 다음 작업에 필요한 책을 위해 많은 수의 이들을 처치할 필요가 있을 것이므로 스포너를 세팅하는 것이 좋을지도 모릅니다. 또한 그들은 재생되지 않는 사제들에 의해 소환됩니다.
 
 # Quest: Magical Waystones
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=마법의 웨이스톤
@@ -14073,6 +14065,10 @@ betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.desc=웨이퍼 처리 속도를 훨�
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§lA Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=As an upgrade to the barrels, EFR also adds the ever-familiar shulker box! The shulker box allows you to comfortably tote around its contents. You can find the research for them in the New Horizons tab of the Thaumonomicon.%n%nThese have seven additional tiers much like the barrels and chests that give you additional storage space. %n%nYou can dye any tier by shapelessly crafting them with a dye, and undye them by shapelessly crafting them alone. They §nwill§r retain their inventory. %n%n[note]There are many ways to obtain shulker shells:%n1. Fighting Shulkers in the Twilight Forest Lich & Ghast Queen Towers.%n2. Fighting Shulkers from the eggs you get from the Vending Machine.%n3. Manually crafting the shells.[/note]
+
+# Quest: Infinite Water Cell
+betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.name=§2§l§nInfinite Water Cell
+betterquesting.quest.GR94tIXOQvC2w5SttlezrQ.desc=The ME Fluid Infinity Water Storage provides §24.5P§r water directly to your AE system, That's the equivalent of 2.25 million reservoir hatches, all conveniently packaged into one drive. %nMight come in handy...
 
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§c§lGold Barrel
