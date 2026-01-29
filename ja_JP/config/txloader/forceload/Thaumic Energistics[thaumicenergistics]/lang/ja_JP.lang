@@ -89,15 +89,23 @@ thaumicenergistics.tooltip.advanced.infusion.provider.normal=通常型プロバ�
 thaumicenergistics.tooltip.advanced.infusion.provider.advanced=発展型プロバイダー
 thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=合計 %d 個のマトリクスに紐付け中
 
-
 #GUI
 thaumicenergistics.gui.arcane.crafting.terminal.title=神秘のターミナル
 thaumicenergistics.gui.essentia.cell.title=エッセンシアセル
+thaumicenergistics.gui.essentia.cell.workbench.title=エッセンシアセルワークベンチ
+thaumicenergistics.gui.arcane.assembler.title=神秘の組立室
+thaumicenergistics.gui.knowledge.inscriber.title=知識の刻印機
+thaumicenergistics.gui.distillation.encoder.title=蒸留パターンエンコーダー
+thaumicenergistics.gui.essentia.ImportBus.title=エッセンシア入力バス
+thaumicenergistics.gui.essentia.ExportBus.title=エッセンシア出力バス
+thaumicenergistics.gui.essentia.levelemitter.title=エッセンシアレベルエミッター
+thaumicenergistics.gui.essentia.StorageBus.title=エッセンシアストレージバス
+thaumicenergistics.gui.essentia.terminal.title=エッセンシアターミナル
+thaumicenergistics.gui.priority.title=優先度
+
 thaumicenergistics.gui.selected.amount=量
 thaumicenergistics.gui.selected.aspect=相
 thaumicenergistics.gui.digivis.source.name=デジタルVis源
-thaumicenergistics.gui.essentia.cell.workbench.title=エッセンシアセルワークベンチ
-thaumicenergistics.gui.arcane.assembler.title=神秘の組立室
 thaumicenergistics.gui.vibration.chamber.stored=保持中: %d %s
 thaumicenergistics.gui.vibration.chamber.processing=処理中: %s
 
