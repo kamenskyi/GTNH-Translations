@@ -297,24 +297,24 @@ ttresearch.page.FOCUS_DISLOCATION.1=Vis消費はブロックを取得した際�
 
 # -- TALISMAN OF REMEDIUM
 ttresearch.name.CLEANSING_TALISMAN=レメディウムのタリスマン
-ttresearch.lore.CLEANSING_TALISMAN=Better than milk
-ttresearch.page.CLEANSING_TALISMAN.0=You have studied life and the body and found that through the application of magic you can protect yourself from harmful outside influences by redirecting these effects to a construct. This talisman will dispel most harmful effects on the holder and keep them on itself, taking damage. It will removed some effects stemming from warp, at an extreme durability cost.<BR><BR>To enable or disable this ability, one would shift-right click on it. As expected, it only works whilst enabled. It must be worn in your amulet slot to take effect.
+ttresearch.lore.CLEANSING_TALISMAN=ミルクより良いもの
+ttresearch.page.CLEANSING_TALISMAN.0=生命と肉体について研究した末、魔法を応用して有害な外部からの影響をある構造体へと向けることで身を守る方法を発見した。このタリスマンは所有者にかかったデバフのほとんどを打ち消し、耐久値を消費してそのデバフを保持する。歪みにより生じた効果の一部を取り除くこともできるが、耐久値を大幅に消費する、。<BR><BR>この能力を有効化または無効化するには、手に持ってShift右クリックすればいい。当然ながら、有効化している間のみ機能する。また、効果を発動するにはBaublesのお守りスロットに装備していなければならない。
 
 # -- HYPERENERGETIC NITOR
-ttresearch.name.BRIGHT_NITOR=Hyperenergetic Nitor
-ttresearch.lore.BRIGHT_NITOR=Lighting the path
-ttresearch.page.BRIGHT_NITOR.0=You managed to create a light that will shine even if it's being carried by a player by energizing the everburning flame that is Nitor with powerful energetic aspects such as Potentia and Lux.<BR><BR>The light casted by this will shine closely behind the carrier, it seems to leave a longer trail in the Nether, due to the heat.
+ttresearch.name.BRIGHT_NITOR=活性化したニトロ
+ttresearch.lore.BRIGHT_NITOR=道を照らして
+ttresearch.page.BRIGHT_NITOR.0=永久に燃え続ける炎であるニトロをPotentiaやLuxといった力に満ちた相で活性化することで、プレイヤーが持ち運んでいる時でも輝きを放つ光源を生み出すことに成功した。<BR><BR>これによって召喚された光源は所有者のすぐ後ろを照らす。ネザーにおいては、その熱のためこの痕跡が長く留まるようである。
 
 # -- WAND FOCUS: TELEKINESIS
-ttresearch.name.FOCUS_TELEKINESIS=Wand Focus: Telekinesis
-ttresearch.lore.FOCUS_TELEKINESIS=Beats gravity bubbles any day
-ttresearch.page.FOCUS_TELEKINESIS.0=You created a wand focus that kinetically moves objects laying on the floor. This focus will move any nearby items to where you're pointing at. Sneaking will bring the items towards you instead.
+ttresearch.name.FOCUS_TELEKINESIS=テレキネシスの杖星
+ttresearch.lore.FOCUS_TELEKINESIS=いつか重力圏を打ち破る
+ttresearch.page.FOCUS_TELEKINESIS.0=床に置かれた物体を動的に移動させる杖星を生み出した。この杖星は付近のアイテムを使用者が指し示した点へと動かす。スニークしながら使用すると、代わりにアイテムを自分の方へと持ってくる。
 
 # -- KINETIC ATTRACTION
-ttresearch.name.MAGNETS=Kinetic Attraction
-ttresearch.lore.MAGNETS=How do they work?
-ttresearch.page.MAGNETS.0=Working with the telekinesis focus, you managed to apply this knowledge to create a device to attract items or living beings, like a magnet.<BR><BR>These two blocks have two states, north (red) and south (blue), in north mode it'll push items, or entities away; in south mode it'll pull them in.<BR><BR>The range of the attraction depends on the redstone signal applied to it. A lever next to it will allow for 7.5 blocks, while a current from farther away will make it shorter. In general, the attraction is equal to half the redstone signal's strength in blocks, in every direction.
-ttresearch.page.MAGNETS.1=You designed two devices. The Kinetic and Corporeal Attractors, these, respectively affect items and living beings.<BR><BR>The Corporeal Attractor involves some more complex mechanisms, to which you can access by right clicking it with a casting wand. Using a Soul Mould, you can right click on a mob to save it as a pattern, which you can set in the attractor's interface, as a filter, along with settings for child or adult animals, if available.
+ttresearch.name.MAGNETS=運動学的引力
+ttresearch.lore.MAGNETS=どういう原理？
+ttresearch.page.MAGNETS.0=テレキネシスの杖星について研究を続け、この知識を応用してアイテムや生物を引き付ける磁石のような装置を生み出すことに成功した。<BR><BR>この2つのブロックはN(赤色)とS(青色)の2種類の状態をとり得る。Nモードではアイテムまたはエンティティを遠くへと押し出し、Sモードでは引き付けるのだ。<BR><BR>引き付けの範囲はこのブロックに入力されているレッドストーン信号の強度に依存する。例えばレバーを隣に置いてオンにすると引き付ける距離は7.5ブロックになるが、レバーをもっと遠くに置けばその距離は短くなる。基本的に、この引き付け距離はブロックに入力されるレッドストーン信号強度の半分に等しく、これが全方位に適用される。
+ttresearch.page.MAGNETS.1=2つの装置を設計した。キネティック・アトラクターとコーポラル・アトラクターはそれぞれ、アイテムと生物に対して効果を発揮する。<BR><BR>コーポラル・アトラクターにはより複雑な機構が備わっており、杖で右クリックすることでアクセス可能である。ソウルモールドでモブを右クリックしパターンとして保存することで、アトラクターのインターフェース内でフィルターとして使用することができる。加えて、設定可能であれば動物の幼体または成体を設定することもできる。
 
 # -- OSMOTIC ENCHANTER
 ttresearch.name.ENCHANTER=Osmotic Enchanter

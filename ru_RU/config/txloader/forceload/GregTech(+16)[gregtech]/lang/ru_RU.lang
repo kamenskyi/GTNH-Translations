@@ -94,10 +94,9 @@ gt.crop.withereed.name=Угольный тростник
 gt.crop.zomplant.name=Zomplant
 
 # Tooltip info of tile-entities
-gt.tileentity.eup_in=Входной вольтаж: §a%d (%s§a)§7
-gt.tileentity.eup_out=Выходной вольтаж: §a%d (%s§a)§7
-gt.tileentity.eup_amount=Ампераж: §e%d§7
-gt.tileentity.eup_store=Ёмкость: §9%d§7 EU
+gt.tileentity.eup_in=Входной вольтаж:
+gt.tileentity.eup_out=Выходной вольтаж:
+gt.tileentity.eup_amount=Ампераж:
 gt.tileentity.has_muffler=приглушен
 gt.tileentity.has_steam_upgrade=есть улучшение пар
 gt.tileentity.colored=Окрашенный (%s%s§7)
@@ -454,7 +453,6 @@ gtpp.material.Lutetium=Лютеций
 gtpp.material.Magic=Магический металл
 gtpp.material.Magnesium=Магний
 gtpp.material.Manganese=Марганец
-gtpp.material.ManureByproduct=Побочный продукт навоза
 gtpp.material.MaragingSteel250=Мартенситностареющая сталь 250
 gtpp.material.MaragingSteel300=Мартенситностареющая сталь 300
 gtpp.material.MaragingSteel350=Мартенситностареющая сталь 350
@@ -644,11 +642,6 @@ GTPP.tooltip.decayables_chest.0=Ящик, в котором хранятся р�
 GTPP.tooltip.decayables_chest.1=Предметы, которые разлагаются, будут тикать, пока они находятся внутри
 GTPP.tooltip.decayables_chest.2=Поставьте с помощью ПКМ
 
-# Butterfly Killer
-GTPP.tooltip.butterfly_killer.0=Убивает бабочек, летучих мышей и других вредителей в лесу
-GTPP.tooltip.butterfly_killer.1=Используйте Формальдегид или Синильную кислоту
-GTPP.tooltip.butterfly_killer.2=Будьте терпеливы к своим соседям
-
 # Volumetric Flask Setter
 GTPP.tooltip.volumetric_flask_setter.0=Простая конфигурация колбы
 GTPP.tooltip.volumetric_flask_setter.1=Настройте входной слот по умолчанию с помощью отвёртки
@@ -698,15 +691,6 @@ GTPP.algae.green_algae.name=Зелёные водоросли
 GTPP.algae.red_algae.name=Красные водоросли
 GTPP.algae.brown_algae.name=Бурые водоросли
 GTPP.algae.yellow-green_algae.name=Желто-зелёные водоросли
-
-GTPP.algae.tooltip.requires_light=Требуется свет: %s
-GTPP.algae.tooltip.salt_water=Солёная вода: %s
-GTPP.algae.tooltip.fresh_water=Свежая вода: %s
-GTPP.algae.tooltip.temp_tolerance=Допустимая температура: %d
-GTPP.algae.tooltip.growth=Рост: %d
-GTPP.algae.tooltip.production=Производство: %d
-GTPP.algae.tooltip.lifespan=Продолжительность жизни в днях: %d
-GTPP.algae.tooltip.generation=Generation: %d
 
 # Power Goggles
 GT5U.power_goggles.open_config_gui=Открыть конфигурацию энергетических очков
@@ -809,6 +793,7 @@ GT5U.MBTT.SpeedTiered=На %s быстрее, чем одноблочные ме
 GT5U.MBTT.EuDiscountBase=Используется %s от обычно требуемого EU
 GT5U.MBTT.EuDiscountTiered=Использует %s меньше EU за %s тир
 GT5U.MBTT.Parallel_Multiplicative=%s параллелей за %s тир
+GT5U.MBTT.StructureBy=Structure by
 
 GT5U.MBTT.Parallel.Base=%s параллелей
 GT5U.MBTT.Parallel.Additional=%s параллелей за %s тир
@@ -1017,7 +1002,7 @@ gt.recipe.microwave=Печь
 gt.recipe.microwave.description=Вы действительно читали инструкцию по эксплуатации?
 gt.recipe.mixer=Миксер
 gt.recipe.mixer.description=Будет ли она смешиваться?
-gt.recipe.orewasher=Рудопромывочная машина
+gt.recipe.orewasher=Рудопромывочный механизм
 gt.recipe.orewasher.description=Получение большего количества побочных продуктов из ваших руд
 gt.recipe.oven=Печь
 gt.recipe.oven.description=Просто печь с другим дизайном
@@ -1047,6 +1032,8 @@ gt.recipe.unpackager=Распаковщик
 gt.recipe.unpackager.description=Раскладывает вещи из ящика
 gt.recipe.wiremill=Проволочный стан
 gt.recipe.wiremill.description=Производит провода ещё эффективнее
+gt.recipe.drawerframer=Drawer Framer
+gt.recipe.drawerframer.description=Frames drawers exactly like the Framing Table
 
 # RecipeMaps that are not listed on MachineType enum
 gt.recipe.fakeAssemblylineProcess=Сборочная линия
@@ -1106,6 +1093,14 @@ gt.recipe.category.forge_hammer_recycling=Переработка в кузнеч
 gt.recipe.category.tic_part_extruding=Экструдирование TiC деталей
 gt.recipe.category.tic_bolt_molding=Формовка TiC болтов
 
+GT5U.recipes.recipe_by.original=Исходный рецепт: %s
+GT5U.recipes.recipe_by.modified=Изменено: %s
+GT5U.recipes.recipe_by=Исходный рецепт: %s
+GT5U.recipes.not_consume=Не расходуется в процессе работы
+GT5U.recipes.not_consume_parallel=Considered in parallel calculation, but not get consumed
+GT5U.recipes.chance.consume=Шанс потребления: %s
+GT5U.recipes.chance.output=Шанс выхода: %s
+
 GT5U.machines.tier=Тир
 GT5U.machines.workarea=Рабочая площадь
 GT5U.machines.workareaset=Рабочая область установлена на
@@ -1128,6 +1123,12 @@ GT5U.machines.minermulti=Мультиблочный шахтёр
 GT5U.machines.muffled=Глушитель звука
 GT5U.machines.muffled.on=Глушитель звука: §aВключён§r
 GT5U.machines.muffled.off=Глушитель звука: §cОтключён§r
+GT5U.machines.MTETransformerHiAmp.descLn1=Преобразует 4А в 16А
+GT5U.machines.MTETransformerHiAmp.descLn2=Переключение полу-режима 2A/8A с помощью отвёртки
+GT5U.machines.MTETransformerHiAmp.descLn3=Принимает до 6А (3А в полурежиме) ампер от энергосети
+GT5U.machines.MTETransformerWet.descLn1=Преобразует 16А в 64А
+GT5U.machines.MTETransformerWet.descLn2=Переключение полу-режима 8A/32A с помощью отвёртки
+GT5U.machines.MTETransformerWet.descLn3=Принимает до 20А (10А в полурежиме) ампер от энергосети
 GT5U.machines.digitalchest.voidoverflow.enabled=Пустотный режим при переполнении §aВкл.§r
 GT5U.machines.digitalchest.voidoverflow.disabled=Пустотный режим при переполнении §cОткл.§r
 GT5U.machines.digitalchest.inputfilter.enabled=Входной фильтр §aВкл.§r
@@ -1204,7 +1205,7 @@ GT5U.machines.solarindicator2=Не дождя
 GT5U.machines.solarindicator3=Имеет доступ к небу
 GT5U.GTPP_MULTI_ARC_FURNACE.mode.0=Электрический
 GT5U.GTPP_MULTI_ARC_FURNACE.mode.1=Плазма
-GT5U.GTPP_MULTI_WASH_PLANT.mode.0=Рудопромывочная машина
+GT5U.GTPP_MULTI_WASH_PLANT.mode.0=Рудопромывочный механизм
 GT5U.GTPP_MULTI_WASH_PLANT.mode.1=Простая промывочная машина
 GT5U.GTPP_MULTI_WASH_PLANT.mode.2=Химическая ванна
 GT5U.GTPP_MULTI_INDUSTRIAL_PLATE_PRESS.mode.0=Гибочный станок
@@ -1240,7 +1241,7 @@ GT5U.machines.oreprocessor.Macerate=Дробитель
 GT5U.machines.oreprocessor.Centrifuge=Центрифуга
 GT5U.machines.oreprocessor.Sifter=Просеиватель
 GT5U.machines.oreprocessor.Chemical_Bathing=Химической ванна
-GT5U.machines.oreprocessor.Ore_Washer=Рудопромывочная машина
+GT5U.machines.oreprocessor.Ore_Washer=Рудопромывочный механизм
 GT5U.machines.oreprocessor.Thermal_Centrifuge=Термальная центрифуга
 GT5U.machines.oreprocessor.Forge_Hammer=Кузнечный молот
 GT5U.machines.oreprocessor.Simple_Washer=Простая промывочная машина
@@ -1294,6 +1295,7 @@ GT5U.machines.invert_redstone.tooltip=Invert redstone
 GT5U.machines.buffer_stocking_mode.tooltip=Enable stocking mode
 GT5U.machines.buffer_stocking_mode.tooltip.extended=§7Keeps this many items in destination rather than transfer items in batches of this amount.
 GT5U.machines.buffer_stocking_mode.tooltip.extended.1=§7This mode can be server unfriendly.
+GT5U.machines.target_stack_size.tooltip=Целевой размер стака
 GT5U.machines.sorting_mode.tooltip=Sort stacks
 GT5U.machines.one_stack_limit.tooltip=Limit insertion
 GT5U.machines.one_stack_limit.tooltip.extended=§7Up to 1 stack of each item can be inserted
@@ -1302,6 +1304,7 @@ GT5U.machines.allow_nbt.tooltip=Разрешить предметы с NBT
 GT5U.machines.allow_nbt.tooltip.extended=§7По умолчанию все предметы с NBT блокируются.
 GT5U.machines.ignore_nbt.tooltip=Игнорировать NBT предмета
 GT5U.machines.ignore_nbt.tooltip.extended=§7По умолчанию NBT предмета должен совпадать.
+GT5U.machines.item_distributor.distribution.tooltip=Предметы на стороне
 GT5U.machines.stocking_bus.cannot_set_slot=§8Невозможно установить слот, пока включен режим авто-извлечения
 GT5U.machines.stocking_bus.auto_pull.tooltip.1=Нажмите для включения автоматического извлечения предметов из МЭ
 GT5U.machines.stocking_bus.auto_pull.tooltip.2=ПКМ изменить дополнительные параметры
@@ -1546,7 +1549,7 @@ GT5U.gui.text.enabled=§aВключён§f
 GT5U.gui.text.disabled=§cОтключён§f
 GT5U.gui.text.lma_craftingfx=Показать эффекты крафта
 GT5U.gui.text.repair_tip=Для ремонта щёлкните инструментом.
-GT5U.gui.text.repair_info=ПКМ по люку изолентой или заполненным\nящиком с инструментами, чтобы исправить все неполадки.
+GT5U.gui.text.repair_info=ПКМ по люку заполненным ящиком с инструментами или \nизолентой, чтобы исправить все неполадки.
 GT5U.gui.text.apiary_missing_flowers=Отсутствуют цветы: %s
 GT5U.gui.text.microwave_energy_transmitter.x=Координата-X
 GT5U.gui.text.microwave_energy_transmitter.y=Координата-Y
@@ -1582,7 +1585,8 @@ GT5U.gui.hoverable.error=ОШИБКА! СООБЩИТЕ ОБ ОШИБКЕ!
 GT5U.gui.config.client=Клиент
 GT5U.gui.config.client.color_modulation=Модуляция цвета
 GT5U.gui.config.client.color_modulation.cable_insulation=Изоляция кабеля
-GT5U.gui.config.client.color_modulation.machine_metal=Металл механизма (Цвет GUI по умолчанию)
+GT5U.gui.config.client.color_modulation.machine_metal=Металл механизма
+GT5U.gui.config.client.color_modulation.gui_metal=Gui металла (Цвет GUI по умолчанию)
 GT5U.gui.config.client.interface=Интерфейс
 GT5U.gui.config.client.preference=Preference
 GT5U.gui.config.client.blockoverlay=GT Tool Block Overlay
@@ -1735,7 +1739,7 @@ GT5U.gui.chat.powerfail.waypoint.tooltip=Механизм: %s\nМестопол�
 
 GT5U.gui.chat.powerfail.hint=§7Используйте /powerfails для получения информации
 
-GT5U.gui.chat.powerfail.login=У вас есть %s не устранёный сбои питания.
+GT5U.gui.chat.powerfail.login=У вас есть %s не устраннёный сбои питания.
 GT5U.gui.chat.powerfail.login.plural=У вас есть %s не устранённых сбоев питания.
 
 GT5U.gui.chat.powerfail.cleared=Устранены все сбои в питании.
@@ -1840,6 +1844,13 @@ GT5U.hatch.fluid.filter.enable=Жидкостной выходной фильт�
 GT5U.hatch.item.filter.enable=Фильтр вывода предметов установлен на: %s
 GT5U.hatch.fluid.filter.disable=Фильтрация вывода жидкостей отключена
 GT5U.hatch.item.filter.disable=Фильтрация вывода предметов отключена
+GT5U.hatch.outputme.checkMode.true=Режим проверки §cВкл§r
+GT5U.hatch.outputme.checkMode.false=Режим проверки §aОткл§r
+GT5U.hatch.outputme.checkMode.desc=ПРИМЕЧАНИЕ: В режиме проверки проверяется, достаточно ли места для вывода, что приводит к увеличению задержки.
+GT5U.hatch.outputme.cacheMode.true=Режим кеширования §cВкл§r
+GT5U.hatch.outputme.cacheMode.false=Режим кеширования §aОткл§r
+GT5U.hatch.outputme.cacheMode.desc=Сохраняет во внутреннюю ячейку, а не в МЭ сеть.
+GT5U.hatch.outputme.cache_capacity_label=Текущий размер кэша: §e%s§r
 
 GT5U.bus.filterTooltip.empty=§aПеретащите предмет из NEI, чтобы установить выходной фильтр
 GT5U.bus.filterTooltip.full=§aНажмите, чтобы очистить выходной фильтр
@@ -2216,8 +2227,14 @@ GT5U.waila.boiler_solar.output=Выход солнечного бойлера:§
 GT5U.waila.hatch.crafting_input_slave.linked=Привязан
 GT5U.waila.hatch.crafting_input_slave.unlinked=Не привязан
 GT5U.waila.hatch.crafting_input_slave.bound_to=Привязан к %d, %d, %d
-GT5U.waila.hatch.output_bus_me.item_cache_capacity=Размер кэша предметов: %s%s%s
-GT5U.waila.hatch.output_me.fluid_cache_capacity=Размер кэша жидкостей: %s%s Л %s
+GT5U.waila.hatch.outputme.item_cache_capacity=Размер кэша предметов: §e%s§r
+GT5U.waila.hatch.outputme.fluid_cache_capacity=Размер кэша жидкостей: §e%s Л§r
+GT5U.waila.hatch.outputme.item_cache_empty=This bus has no cached stacks
+GT5U.waila.hatch.outputme.item_cache_detail=Люк содержит §6%d§r стак(а/ов) в кэше%s:
+GT5U.waila.hatch.outputme.item_cache_detail.more=§oAnd %d more...
+GT5U.waila.hatch.outputme.fluid_cache_empty=This hatch has no cached fluids
+GT5U.waila.hatch.outputme.fluid_cache_detail=Шлюз содержит §6%d§r жидкости в кэше%s:
+GT5U.waila.hatch.outputme.fluid_cache_detail.more=§oAnd %d more...
 GT5U.waila.industrial_apiary.current_queen=Текущая королева: %s
 GT5U.waila.industrial_apiary.effective_production=Эффективность производства: %s
 GT5U.waila.industrial_apiary.error=Ошибка: %s
@@ -3207,10 +3224,16 @@ gt.time.tick.plural=тиков
 gt.time.second.singular=секунд
 gt.time.second.plural=секунды
 
+# Tooltips for GT Tools
+gt.softmallet.tooltip=Активирует и деактивирует механизмы
+gt.softmallet.tooltip.mode=Переключатель циклов режима между/включения/отключения
+
 #Tool modes
 key.gt.tool_mode_switch=Переключить режим инструмента
 gt.wrench.mode.1=Режим линии
 gt.wrench.mode.2=Прецизионный режим
+gt.softmallet.mode.1=Режим активации
+gt.softmallet.mode.2=Режим деактивации
 
 # Tooltip for vajra
 gt.vajra.tooltip.flavor=Ваш дружеский мгновенный разрушитель блоков
@@ -3473,6 +3496,9 @@ GT5U.infodata.hatch.crafting_input_me.bus.online=Люк §aонлайн§r
 GT5U.infodata.hatch.crafting_input_me.bus.offline=Люк §cоффлайн%s§r
 GT5U.infodata.hatch.crafting_input_me.show_pattern.enable=§aПоказать в терминале интерфейсов
 GT5U.infodata.hatch.crafting_input_me.show_pattern.disabled=§cСпрятать в терминале интерфейсов
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern=Оптимизация шаблонов
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern.enable=§7Разрешено
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern.disabled=§7Отключено
 GT5U.infodata.hatch.internal_inventory=Внутренний инвентарь:
 GT5U.infodata.hatch.internal_inventory.slot=Слот %d %s
 GT5U.infodata.hatch.crafting_input_slave.linked_to=Этот люк привязан к Входному буферу создания: %d, %d, %d.
@@ -3691,7 +3717,7 @@ achievement.dehydrate=Dehydration
 achievement.dehydrate.desc=Drink some water.
 achievement.semifluid=It's like a fluid, but it's not
 achievement.semifluid.desc=Semifluids are confusing.
-achievement.earlywasher=Простая рудопромывочная машина
+achievement.earlywasher=Простой рудопромывочный механизм
 achievement.earlywasher.desc=Работает только на ULV.
 achievement.advancedsteam=Alternative Steam options
 achievement.advancedsteam.desc=Умный расход топлива

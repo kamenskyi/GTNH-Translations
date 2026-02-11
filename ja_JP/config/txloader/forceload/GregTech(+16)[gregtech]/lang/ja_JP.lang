@@ -94,10 +94,9 @@ gt.crop.withereed.name=ウィザーキビ
 gt.crop.zomplant.name=ゾンプラント
 
 # Tooltip info of tile-entities
-gt.tileentity.eup_in=入力電圧: §a%d (%s§a)§7
-gt.tileentity.eup_out=出力電圧: : §a%d (%s§a)§7
-gt.tileentity.eup_amount=アンペア数: §e%d§7
-gt.tileentity.eup_store=容量: §9%d§7 EU
+gt.tileentity.eup_in=入力電圧:
+gt.tileentity.eup_out=出力電圧:
+gt.tileentity.eup_amount=アンペア数:
 gt.tileentity.has_muffler=消音中
 gt.tileentity.has_steam_upgrade=蒸気アップグレード
 gt.tileentity.colored=染色済 (%s%s§7)
@@ -164,7 +163,7 @@ gt.item.desc.fluid_info=%sL / %sL
 gt.item.desc.miss_coord=座標がありません！
 gt.item.desc.device_at=デバイスの座標:
 gt.item.desc.state=状態: %s
-gt.item.desc.breeder_tip=Bath with neutron in a hot reactor
+gt.item.desc.breeder_tip=Bathe with neutrons in a hot reactor
 gt.item.desc.progress=進捗状況: %s/%s
 gt.item.desc.haz_rad=放射能注意
 gt.item.desc.turbine_eff=タービン効率 (緩め): %s
@@ -267,7 +266,7 @@ gt.interact.desc.issues=%s Issues
 gt.interact.desc.issue_rotor_low=Rotor < 20%%
 gt.interact.desc.issue_rotor_dead=Rotor ≈ 0%%
 gt.interact.desc.filtering_fuild=Filtering Fluid: %s - %s
-gt.interact.desc.ban_screwdriver=Do not attempt to use screwdriver!
+gt.interact.desc.ban_screwdriver=Do not attempt to use a screwdriver!
 
 # GT++ items
 item.GTPP.air_intake_hatch.name=エアインテークハッチ
@@ -454,7 +453,6 @@ gtpp.material.Lutetium=ルテチウム
 gtpp.material.Magic=魔法
 gtpp.material.Magnesium=マグネシウム
 gtpp.material.Manganese=マンガン
-gtpp.material.ManureByproduct=肥料副産物
 gtpp.material.MaragingSteel250=マルエージングスチール250
 gtpp.material.MaragingSteel300=マルエージングスチール300
 gtpp.material.MaragingSteel350=マルエージングスチール350
@@ -644,11 +642,6 @@ GTPP.tooltip.decayables_chest.0=放射性物質を保持するチェスト
 GTPP.tooltip.decayables_chest.1=内部に入れたアイテムは崩壊が進みます
 GTPP.tooltip.decayables_chest.2=右クリックで設置
 
-# Butterfly Killer
-GTPP.tooltip.butterfly_killer.0=Forestryの蝶やコウモリ、その他害虫を駆除します
-GTPP.tooltip.butterfly_killer.1=ホルムアルデヒドまたはシアン化水素を使用します
-GTPP.tooltip.butterfly_killer.2=隣人に用心
-
 # Volumetric Flask Setter
 GTPP.tooltip.volumetric_flask_setter.0=かんたんフラスコ設定
 GTPP.tooltip.volumetric_flask_setter.1=§8《§7ドライバー§8／Screwdriver》§7でデフォルトの入力スロットを設定できます。
@@ -685,7 +678,7 @@ GT5U.infinite_spray_can.color.White=白色
 GT5U.infinite_spray_can.color.INVALID COLOR=無効な色
 GT5U.infinite_spray_can.color.Cable Insulation=ケーブル絶縁体
 GT5U.infinite_spray_can.color.Construction Foam=建材フォーム
-GT5U.infinite_spray_can.color.Machine Metal=機械金属
+GT5U.infinite_spray_can.color.Machine Metal=機械の金属色
 
 GT5U.generic.true=有効
 GT5U.generic.false=無効
@@ -698,15 +691,6 @@ GTPP.algae.green_algae.name=緑藻
 GTPP.algae.red_algae.name=紅藻
 GTPP.algae.brown_algae.name=褐藻
 GTPP.algae.yellow-green_algae.name=黄緑色藻
-
-GTPP.algae.tooltip.requires_light=要求明るさレベル: %s
-GTPP.algae.tooltip.salt_water=塩水: %s
-GTPP.algae.tooltip.fresh_water=淡水: %s
-GTPP.algae.tooltip.temp_tolerance=温度耐性: %d
-GTPP.algae.tooltip.growth=成長: %d
-GTPP.algae.tooltip.production=生産量: %d
-GTPP.algae.tooltip.lifespan=寿命(日数): %d
-GTPP.algae.tooltip.generation=世代: %d
 
 # Power Goggles
 GT5U.power_goggles.open_config_gui=Power Gogglesの設定を開く
@@ -809,6 +793,7 @@ GT5U.MBTT.SpeedTiered=同一電圧の単一式機械と比較して %s 倍の速
 GT5U.MBTT.EuDiscountBase=通常の電力消費量の %s を使用します
 GT5U.MBTT.EuDiscountTiered=%s Tier毎に消費EUの %s を削減します
 GT5U.MBTT.Parallel_Multiplicative=並列処理数は %s です (%s Tier毎)
+GT5U.MBTT.StructureBy=Structure by
 
 GT5U.MBTT.Parallel.Base=並列処理数は %s です
 GT5U.MBTT.Parallel.Additional=並列処理数は %s です (%s Tier毎)
@@ -1047,6 +1032,8 @@ gt.recipe.unpackager=開梱機
 gt.recipe.unpackager.description=箱からアイテムを取り出す
 gt.recipe.wiremill=ワイヤーミル
 gt.recipe.wiremill.description=ワイヤーの生産をより効率的に
+gt.recipe.drawerframer=Drawer Framer
+gt.recipe.drawerframer.description=Frames drawers exactly like the Framing Table
 
 # RecipeMaps that are not listed on MachineType enum
 gt.recipe.fakeAssemblylineProcess=組立ラインのプロセス
@@ -1106,6 +1093,14 @@ gt.recipe.category.forge_hammer_recycling=鍛造機 (リサイクル)
 gt.recipe.category.tic_part_extruding=押出機 (TiCパーツ)
 gt.recipe.category.tic_bolt_molding=TiCボルト成型
 
+GT5U.recipes.recipe_by.original=Original Recipe by: %s
+GT5U.recipes.recipe_by.modified=Modified by: %s
+GT5U.recipes.recipe_by=Original Recipe by: %s
+GT5U.recipes.not_consume=Does not get consumed in the process
+GT5U.recipes.not_consume_parallel=Considered in parallel calculation, but not get consumed
+GT5U.recipes.chance.consume=Consume Chance: %s
+GT5U.recipes.chance.output=Output Chance: %s
+
 GT5U.machines.tier=Tier
 GT5U.machines.workarea=作業範囲
 GT5U.machines.workareaset=作業範囲を設定:
@@ -1128,6 +1123,12 @@ GT5U.machines.minermulti=マルチブロック採掘機
 GT5U.machines.muffled=消音
 GT5U.machines.muffled.on=消音: §a有効§r
 GT5U.machines.muffled.off=消音: §c無効§r
+GT5U.machines.MTETransformerHiAmp.descLn1=Transforms 4A to 16A
+GT5U.machines.MTETransformerHiAmp.descLn2=Toggle 2A/8A half-mode with Screwdriver
+GT5U.machines.MTETransformerHiAmp.descLn3=Accepts up to 6A (3A in half-mode) from energy network
+GT5U.machines.MTETransformerWet.descLn1=Transforms 16A to 64A
+GT5U.machines.MTETransformerWet.descLn2=Toggle 8A/32A half-mode with Screwdriver
+GT5U.machines.MTETransformerWet.descLn3=Accepts up to 20A (10A in half-mode) from energy network
 GT5U.machines.digitalchest.voidoverflow.enabled=超過分消去モードを§aOn§rに設定しました
 GT5U.machines.digitalchest.voidoverflow.disabled=超過分消去モードを§aOff§rに設定しました
 GT5U.machines.digitalchest.inputfilter.enabled=入力フィルターを§aOn§rに設定しました
@@ -1294,6 +1295,7 @@ GT5U.machines.invert_redstone.tooltip=レッドストーン信号を反転
 GT5U.machines.buffer_stocking_mode.tooltip=ストッキングモードを有効化
 GT5U.machines.buffer_stocking_mode.tooltip.extended=§7指定した数のアイテムを搬出し続ける代わりに、搬出先に指定した数のアイテムが保持されるようにします。
 GT5U.machines.buffer_stocking_mode.tooltip.extended.1=§7このモードではサーバー負荷が高くなる可能性があります。
+GT5U.machines.target_stack_size.tooltip=Target stack size
 GT5U.machines.sorting_mode.tooltip=自動ソートモード
 GT5U.machines.one_stack_limit.tooltip=複数スタック搬入制限
 GT5U.machines.one_stack_limit.tooltip.extended=§7各アイテムの搬入可能数が最大1スタックになります
@@ -1302,6 +1304,7 @@ GT5U.machines.allow_nbt.tooltip=NBT付きアイテムを許可
 GT5U.machines.allow_nbt.tooltip.extended=§7デフォルトではNBT付きアイテムはすべてブロックされます。
 GT5U.machines.ignore_nbt.tooltip=NBTを無視
 GT5U.machines.ignore_nbt.tooltip.extended=§7デフォルトではNBTが一致している必要があります。
+GT5U.machines.item_distributor.distribution.tooltip=Items per side
 GT5U.machines.stocking_bus.cannot_set_slot=§8自動プルモード有効時はスロットの設定ができません
 GT5U.machines.stocking_bus.auto_pull.tooltip.1=クリックしてMEネットワークからの自動アイテムプルモードを設定します。
 GT5U.machines.stocking_bus.auto_pull.tooltip.2=右クリックして詳細設定を行います。
@@ -1582,7 +1585,8 @@ GT5U.gui.hoverable.error=ERROR! REPORT ME!
 GT5U.gui.config.client=クライアント
 GT5U.gui.config.client.color_modulation=色の変更
 GT5U.gui.config.client.color_modulation.cable_insulation=ケーブル絶縁体
-GT5U.gui.config.client.color_modulation.machine_metal=機械金属 (デフォルトのGUI背景色)
+GT5U.gui.config.client.color_modulation.machine_metal=機械の金属色
+GT5U.gui.config.client.color_modulation.gui_metal=Gui Metal (Default GUI Color)
 GT5U.gui.config.client.interface=インタフェース
 GT5U.gui.config.client.preference=好みの設定
 GT5U.gui.config.client.blockoverlay=GT Tool Block Overlay
@@ -1840,6 +1844,13 @@ GT5U.hatch.fluid.filter.enable=液体出力フィルターを次に設定: %s
 GT5U.hatch.item.filter.enable=アイテム出力フィルターを次に設定: %s
 GT5U.hatch.fluid.filter.disable=液体出力フィルターを無効化
 GT5U.hatch.item.filter.disable=アイテム出力フィルターを無効化
+GT5U.hatch.outputme.checkMode.true=Check Mode §cOn§r
+GT5U.hatch.outputme.checkMode.false=Check Mode §aOff§r
+GT5U.hatch.outputme.checkMode.desc=NOTE: Check Mode checks whether there is enough space for the output, resulting in more lag.
+GT5U.hatch.outputme.cacheMode.true=Cache Mode §cOn§r
+GT5U.hatch.outputme.cacheMode.false=Cache Mode §aOff§r
+GT5U.hatch.outputme.cacheMode.desc=Stores to the internal cell instead of to the ME Network.
+GT5U.hatch.outputme.cache_capacity_label=Current cache capacity: §e%s§r
 
 GT5U.bus.filterTooltip.empty=§aNEIからアイテムをドラッグして出力フィルターを設定
 GT5U.bus.filterTooltip.full=§aクリックして出力フィルターを消去
@@ -1907,7 +1918,7 @@ GT5U.config.colormodulation.cable_insulation=ケーブル絶縁体
 GT5U.config.colormodulation.cable_insulation.B=青色
 GT5U.config.colormodulation.cable_insulation.G=緑色
 GT5U.config.colormodulation.cable_insulation.R=赤色
-GT5U.config.colormodulation.machine_metal=機械金属 (デフォルトのGUI背景色)
+GT5U.config.colormodulation.machine_metal=機械の金属色 (デフォルトのGUI背景色)
 GT5U.config.colormodulation.machine_metal.B=青色
 GT5U.config.colormodulation.machine_metal.G=緑色
 GT5U.config.colormodulation.machine_metal.R=赤色
@@ -2216,8 +2227,14 @@ GT5U.waila.boiler_solar.output=Solar Boiler Output:§r %d/%d L/s
 GT5U.waila.hatch.crafting_input_slave.linked=Linked
 GT5U.waila.hatch.crafting_input_slave.unlinked=Not linked
 GT5U.waila.hatch.crafting_input_slave.bound_to=Bound to %d, %d, %d
-GT5U.waila.hatch.output_bus_me.item_cache_capacity=Item cache capacity: %s%s%s
-GT5U.waila.hatch.output_me.fluid_cache_capacity=Fluid cache capacity: %s%s L%s
+GT5U.waila.hatch.outputme.item_cache_capacity=Item cache capacity: §e%s§r
+GT5U.waila.hatch.outputme.fluid_cache_capacity=Fluid cache capacity: §e%s L§r
+GT5U.waila.hatch.outputme.item_cache_empty=This bus has no cached stacks
+GT5U.waila.hatch.outputme.item_cache_detail=The bus contains §6%d§r cached stack%s:
+GT5U.waila.hatch.outputme.item_cache_detail.more=§oAnd %d more...
+GT5U.waila.hatch.outputme.fluid_cache_empty=This hatch has no cached fluids
+GT5U.waila.hatch.outputme.fluid_cache_detail=The hatch contains §6%d§r cached fluid%s:
+GT5U.waila.hatch.outputme.fluid_cache_detail.more=§oAnd %d more...
 GT5U.waila.industrial_apiary.current_queen=Current Queen: %s
 GT5U.waila.industrial_apiary.effective_production=Effective Production: %s
 GT5U.waila.industrial_apiary.error=Error: %s
@@ -3207,10 +3224,16 @@ gt.time.tick.plural=tick
 gt.time.second.singular=秒
 gt.time.second.plural=秒
 
+# Tooltips for GT Tools
+gt.softmallet.tooltip=Activates and Deactivates Machines
+gt.softmallet.tooltip.mode=Mode Cycles Between Toggle/Activate/Deactivate
+
 #Tool modes
 key.gt.tool_mode_switch=ツールのモード切り替え
 gt.wrench.mode.1=連結モード
 gt.wrench.mode.2=Precise Mode
+gt.softmallet.mode.1=Activation Mode
+gt.softmallet.mode.2=Deactivation Mode
 
 # Tooltip for vajra
 gt.vajra.tooltip.flavor=Your friendly instant block breaker
@@ -3473,6 +3496,9 @@ GT5U.infodata.hatch.crafting_input_me.bus.online=バスは§aオンライン§r�
 GT5U.infodata.hatch.crafting_input_me.bus.offline=バスは§aオフライン%s§rです
 GT5U.infodata.hatch.crafting_input_me.show_pattern.enable=§aShow on Interface Terminal
 GT5U.infodata.hatch.crafting_input_me.show_pattern.disabled=§cHide on Interface Terminal
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern=Pattern Optimization
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern.enable=§7Allowed
+GT5U.infodata.hatch.crafting_input_me.optimize_pattern.disabled=§7Disabled
 GT5U.infodata.hatch.internal_inventory=内部インベントリ:
 GT5U.infodata.hatch.internal_inventory.slot=スロット %d %s
 GT5U.infodata.hatch.crafting_input_slave.linked_to=このバスは座標(%d, %d, %d)のクラフト入力バッファーとリンクしています

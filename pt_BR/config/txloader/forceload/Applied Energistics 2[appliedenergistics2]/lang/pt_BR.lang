@@ -32,6 +32,7 @@ tile.appliedenergistics2.BlockSpatialPylon.name=Pilão Espacial
 tile.appliedenergistics2.BlockTinyTNT.name=TNT Minúscula
 tile.appliedenergistics2.BlockVibrationChamber.name=Câmara de Vibração
 tile.appliedenergistics2.BlockWireless.name=Ponto de Acesso Sem Fio ME
+tile.appliedenergistics2.BlockWireless.desc=Right click with terminal in hand to bind it
 tile.appliedenergistics2.OreQuartz.name=Minério de Quartzo Certus
 tile.appliedenergistics2.OreQuartzCharged.name=Minério de Quartzo Certus Carregado
 tile.appliedenergistics2.BlockSecurity.name=Terminal de Segurança ME
@@ -104,6 +105,7 @@ chat.appliedenergistics2.InvalidMachine=Máquina inválida.
 chat.appliedenergistics2.LoadedSettings=Configurações carregadas com sucesso.
 chat.appliedenergistics2.DeviceNotPowered=Dispositivo está com baixa energia.
 chat.appliedenergistics2.DeviceNotWirelessTerminal=Dispositivo não é um terminal sem fios.
+chat.appliedenergistics2.DeviceSuccessLinked=§aDevice successfully linked.
 chat.appliedenergistics2.DeviceNotLinked=Dispositivo não conectado
 chat.appliedenergistics2.StationCanNotBeLocated=Estação não pode ser encontrada.
 chat.appliedenergistics2.MachineNotPowered=Máquina não está sendo alimentada.
@@ -130,6 +132,8 @@ chat.appliedenergistics2.PriorityConfigured=Updated priority to %d
 chat.appliedenergistics2.DriveLockingToggled=Cells in drive were partitioned/unpartitioned
 chat.appliedenergistics2.ChestLockingToggled=Cell in chest was partitioned/unpartitioned
 chat.appliedenergistics2.FinishCraftingRemind=Crafting of %s * %s finished in %s.
+chat.appliedenergistics2.CraftComplete=§5Auto-Crafting Complete
+chat.appliedenergistics2.CraftComplete.tip=%s %s, took %s
 chat.appliedenergistics2.CraftingCantExtract=Can't extract ingredient: %d / %d | %s
 chat.appliedenergistics2.MachineInOtherDim=%d located in dimension: %d and can't be highlighted
 chat.appliedenergistics2.MachineInOtherDimNamed=%d "%s" located in dimension: %d and can't be highlighted
@@ -507,11 +511,6 @@ gui.tooltips.appliedenergistics2.ReportInaccessibleItems=Reportar Itens Inacess�
 gui.tooltips.appliedenergistics2.ReportInaccessibleItemsYes=Sim: Itens que não podem ser extraídos vão estar visíveis.
 gui.tooltips.appliedenergistics2.ReportInaccessibleItemsNo=Não: Apenas itens extraíveis vão estar visíveis.
 
-gui.tooltips.appliedenergistics2.TypeFilter=Filtrar Tipos
-gui.tooltips.appliedenergistics2.TypeFilterShowAll=Mostrar Todos
-gui.tooltips.appliedenergistics2.TypeFilterShowItemsOnly=Mostar Itens apenas
-gui.tooltips.appliedenergistics2.TypeFilterShowFluidsOnly=Show Fluids only
-
 gui.tooltips.appliedenergistics2.BlockPlacement=Colocação de Blocos
 gui.tooltips.appliedenergistics2.BlockPlacementYes=Blocks serão colocados como blocos.
 gui.tooltips.appliedenergistics2.BlockPlacementNo=Blocos serão jogados como itens.
@@ -620,7 +619,7 @@ gui.tooltips.appliedenergistics2.Suspend=Click to stop this CPU from sending out
 gui.tooltips.appliedenergistics2.Resume=Click to make this CPU send out crafts again
 
 gui.tooltips.appliedenergistics2.PinsSection=Pins Section
-gui.tooltips.appliedenergistics2.PinsSectionActive=Pins Section Enabled
+gui.tooltips.appliedenergistics2.PinsSectionActive=Pins Section Enabled\n[Shift + Right Click] pinned item to remove it from pins section
 gui.tooltips.appliedenergistics2.PinsSectionDisabled=Pins Section Disabled
 
 gui.tooltips.appliedenergistics2.scheduledreason.SOMETHING_STUCK=Something stuck in interface
@@ -633,6 +632,12 @@ gui.tooltips.appliedenergistics2.scheduledreason.SAME_NETWORK=Target interface i
 gui.tooltips.appliedenergistics2.ToggleShowOnlySubstitute=Toggles showing interfaces with patterns with substitutions enabled
 gui.tooltips.appliedenergistics2.ToggleShowOnlySubstituteOnDesc=Showing all interfaces
 gui.tooltips.appliedenergistics2.ToggleShowOnlySubstituteOffDesc=Showing only interfaces with patterns with substitutions enabled
+
+gui.tooltips.appliedenergistics2.BlockDriveWarning=§4Do not move chests with AE drives; It may corrupt your profile. No refunds!
+gui.tooltips.appliedenergistics2.BlockCreativeEnergyCell=§dInfinite Energy
+gui.tooltips.appliedenergistics2.PartCreativeEnergy=§dInfinite Energy
+gui.tooltips.appliedenergistics2.BlockCreativeEnergyController=§dInfinite Energy
+gui.tooltips.appliedenergistics2.PreconfiguredPriority=Preconfigured storage priority: §f%s
 
 # Units
 gui.appliedenergistics2.units.appliedenergistics=AE
@@ -691,6 +696,7 @@ waila.appliedenergistics2.Singularity=Singularity
 waila.appliedenergistics2.Provider=§5Provider§r
 waila.appliedenergistics2.Accessor=§5Accessor§r
 waila.appliedenergistics2.Waiting=Waiting:
+waila.appliedenergistics2.IOBusSpeed=Speed: %s %s/t
 
 # Baubles Extended
 slot.Terminal=§aTerminal§7
