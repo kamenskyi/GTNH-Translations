@@ -63,7 +63,7 @@ GTPP.machines.chisel_slot.tooltip=彫刻先スロット
 GTPP.machines.chisel_slot.tooltip.1=§7彫刻されたアイテムを配置して出力を指定
 GTPP.core.GT_Tooltip=制作者: §2Alkalus §7- §c[GT++]
 GTPP.core.GT_Tooltip_Builder=§2Alkalus §7- §c[GT++]
-GTPP.core.GT_Tooltip_Radioactive=§7警告: §a放射能に注意！ §8《§6放射線耐性§8／Hazmat Protection》§6を持つ防具を身に着けてください。
+GTPP.core.GT_Tooltip_Radioactive=§7警告: §a放射能に注意！ §8《§6有害物質耐性§8／Hazmat Protection》§6を持つ防具を身に着けてください。
 
 # RecipeMaps
 gtpp.recipe.cokeoven=コークス炉
@@ -1633,14 +1633,14 @@ item.dustPureYellorium.name=ほぼ綺麗なイエロリウムの粉
 
 # Shards
 item.itemDrained.name=Drained Shard
-item.itemAer.name=エアの結晶片
-item.itemIgnis.name=イグニスの結晶片
-item.itemTerra.name=テラの結晶片
-item.itemAqua.name=アクアの結晶片
-item.itemDustInfusedAir.name=エアの結晶の粉末
-item.itemDustInfusedFire.name=イグニスの結晶の粉末
-item.itemDustInfusedEarth.name=テラの結晶の粉末
-item.itemDustInfusedWater.name=アクアの結晶の粉末
+item.itemAer.name=風の結晶片
+item.itemIgnis.name=火の結晶片
+item.itemTerra.name=地の結晶片
+item.itemAqua.name=水の結晶片
+item.itemDustInfusedAir.name=風の結晶の粉末
+item.itemDustInfusedFire.name=火の結晶の粉末
+item.itemDustInfusedEarth.name=地の結晶の粉末
+item.itemDustInfusedWater.name=水の結晶の粉末
 
 
 # Misc Material Items
@@ -1685,10 +1685,10 @@ item.itemDustSmallUN32Fertiliser.name=小さなUN-32肥料の粉
 item.itemDustTinyUN32Fertiliser.name=とても小さなUN-32肥料の粉
 item.itemCustomMetaCover.miscutils.GtMachineCasings=%s機械プレートカバー
 item.itemCustomMetaCover.miscutils.GtMachineCasings.name=機械プレートカバー
-item.itemGregtechPump.tooltip.0=その他通常の液体コンテナブロックからは液体を吸い取れません
+item.itemGregtechPump.tooltip.0=その他通常の流体コンテナブロックからは流体を吸い取れません
 item.itemGregtechPump.tooltip.1=右クリックでは空にできません。GUI付きタンクの内部で使用してください
-item.itemGregtechPump.tooltip.2=技術的にはただの豪華な液体セル
-item.itemGregtechPump.tooltip.3=液体はありません
+item.itemGregtechPump.tooltip.2=技術的にはただの豪華な流体セル
+item.itemGregtechPump.tooltip.3=流体はありません
 item.itemBaseEuItem.tooltip.0=§e電動
 item.itemBaseEuItem.tooltip.1=蓄電量: %s EU  Tier: %d
 item.itemBaseEuItem.tooltip.2=空です。適切にリサイクルしましょう。
@@ -2279,7 +2279,7 @@ tile.blockWorkbenchGTAdvanced.name=発展型作業台
 tile.blockHeliumGenerator.name=Helium Generator
 tile.blockFirePit.name=ファイヤーピット
 tile.blockFishTrap.name=補強型魚用かご網
-tile.blockInfiniteFluidTank.name=無限液体タンク
+tile.blockInfiniteFluidTank.name=無限流体タンク
 tile.blockMiningExplosives.name=掘削用爆弾
 tile.blockHellFire.name=地獄の火
 tile.blockTradeBench.name=交易テーブル
@@ -2359,7 +2359,7 @@ description.villager.profession.miscutils.trader=鉱石トレーダー
 description.villager.profession.miscutils.aboriginal=オーストラリア先住民
 
 # Added 23/8/18
-item.itemHatTinFoil.name=錫箔の帽子
+item.itemHatTinFoil.name=アルミホイルの帽子
 
 # Added 13/9/18
 entity.Aboriginal.name=先住民
@@ -3930,7 +3930,7 @@ item.BasicGenericChemItem.14.name=固体酸触媒
 item.BasicGenericChemItem.15.name=インフィニティ突然変異触媒
 
 # Added 23/10/22
-miscutils.machines.QFTFluidMode=量子フォース変換装置液体出力モード
+miscutils.machines.QFTFluidMode=量子フォース変換装置流体出力モード
 
 # Added 16/11/22
 item.BasicGenericChemItem.16.name=白金族触媒
@@ -4064,7 +4064,7 @@ gtpp.infodata.solar_heater.testificate=証明書
 gtpp.infodata.energy_buffer.eu_stored=%s EUを蓄電中
 gtpp.infodata.energy_buffer.eu_capacity=%s EUを蓄電可能
 gtpp.infodata.tiered_chest.name=スーパーストレージチェスト
-gtpp.infodata.tiered_tank.name=%s液体タンク
+gtpp.infodata.tiered_tank.name=%s流体タンク
 
 # GUI
 gtpp.gui.text.time_since_built=建設からの総時間
@@ -4087,7 +4087,7 @@ gtpp.gui.text.power_sub_station.power_loss=電力減衰: %s EU/t
 gtpp.gui.text.power_sub_station.running_perfectly=動作は完璧です
 gtpp.gui.text.power_sub_station.turn_on_with_mallet=マレットで起動
 gtpp.gui.atmospheric_reconditioner.tooltip.reduction=減少量: %s/秒
-gtpp.gui.crop_harvestor.tooltip.water=水: %sL / %sL
+gtpp.gui.crop_harvestor.tooltip.water=水: %smB / %smB
 
 gtpp.gui.multiblock.progress.text=進捗: %s 秒 / %s 秒
 gtpp.gui.multiblock.eu_t_p.text=%s EU/t/実行中処理

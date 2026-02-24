@@ -135,7 +135,7 @@ gtpp.nei.tgs.tooltip.knife=Поместите в входной люк для с
 gtpp.nei.tgs.tooltip.needsKnife=Для сбора урожая требуется нож
 gtpp.nei.tgs.tooltip.multiplier=Выходной множитель:
 gtpp.nei.tgs.info-1=Производительность дополнительно повышается
-gtpp.nei.tgs.info-2=за счет тира механизма
+gtpp.nei.tgs.info-2=за счёт тира механизма
 gtpp.nei.tgs.info-3=и типа инструмента
 
 gtpp.nei.ap.tier=Тир пруда с водорослями: %s
@@ -3256,7 +3256,7 @@ item.itemCellMutatedLivingSolder.name=Капсула мутировавшего 
 item.itemCellPhosphorousUraniumHexafluoridePUF6.name=Капсула гексафторфосфата урана (P-UF6)
 item.itemCellSolarSaltCold.name=Капсула солнечной соли (охлаждённая)
 item.itemCellSolarSaltHot.name=Капсула солнечной соли (раскалённая)
-item.itemCellSolidAcidCatalystMixture.name=Капсула смеси для твердого кислотного катализатора
+item.itemCellSolidAcidCatalystMixture.name=Капсула смеси для твёрдого кислотного катализатора
 item.itemCellStableMoltenSaltBase.name=Капсула расплавленной стабильной солевой основы
 item.itemCellThoriumBerylliumDepletedMoltenSaltTBSalt.name=Капсула обеднённой торий-бериллиевой расплавленной соли (TB Соль)
 item.itemCellThoriumDepletedMoltenSaltTSalt.name=Капсула обеднённой ториевой расплавленной соли (T Соль)
