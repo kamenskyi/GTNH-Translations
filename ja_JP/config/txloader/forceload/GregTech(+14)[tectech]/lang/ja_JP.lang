@@ -10,9 +10,9 @@ tile.quantumGlass.name=Quantum Glass
 tile.quantumGlass.desc.0=Dense yet transparent
 tile.quantumGlass.desc.1=Glassy & Classy
 
-tile.spatiallyTranscendentGravitationalLens.name=Spatially Transcendent Gravitational Lens Block
-tile.godforgeGlass.desc.0=Gravitational lensing taken literal
-tile.godforgeGlass.desc.1=GraviLens 9000!
+tile.spatiallyTranscendentGravitationalLens.name=空間超越重力レンズブロック
+tile.godforgeGlass.desc.0=文字通りの重力レンズ
+tile.godforgeGlass.desc.1=重力レンズ 9000!
 
 tile.reactorSim.name=Reactor Simulator
 tile.reactorSim.desc.0=Fission Reaction Uncertainty Resolver 9001
@@ -55,9 +55,9 @@ item.em.constructable.desc.2=just Use on a multiblock controller.
 item.em.constructable.desc.3=(Sneak Use in creative to build)
 item.em.constructable.desc.4=Quantity affects tier/mode/type
 
-item.em.EuMeterGT.name=GT EU meter
-item.em.EuMeterGT.desc.0=Measures basic EU related stuff
-item.em.EuMeterGT.desc.1=Just right click on blocks.
+item.em.EuMeterGT.name=GT-EU計測器
+item.em.EuMeterGT.desc.0=基本的なEU関連の情報を計測する
+item.em.EuMeterGT.desc.1=タイルに対し右クリックして使用します
 
 item.em.frontRotate.name=Front Rotation Scrench
 item.em.frontRotate.desc.0=Triggers Front Rotation Interface
@@ -113,7 +113,7 @@ item.tm.enderfluidlinkcover.desc.0=Ender-Fluid-Enables Machines!
 item.tm.enderfluidlinkcover.desc.1=Use on any side of a fluid tank to link it to the Ender
 item.tm.enderfluidlinkcover.desc.2=Ender Tanks so are laggy -Bot from the Chads of NH
 
-item.tm.powerpassupgradecover.name=出力通過アップグレードカバー
+item.tm.powerpassupgradecover.name=パワーパスアップグレードカバー
 item.tm.powerpassupgradecover.desc.0=Add power pass functionality to TecTech Multiblocks
 item.tm.powerpassupgradecover.desc.1=Active transformer in a can??
 item.tm.powerpassupgradecover.desc.2=Chain them up like Christmas lights!
@@ -244,7 +244,7 @@ gt.blockmachines.hatch.energymulti64.tier.13.name=UXV 64A Energy Hatch
 gt.blockmachines.hatch.energymulti.desc.0=Multiple Ampere Energy Injector for Multiblocks
 gt.blockmachines.hatch.energymulti.desc.1=Amperes In
 gt.blockmachines.hatch.energymulti.desc.2=Accepts up to %d Amps from energy network
-gt.blockmachines.hatch.energymulti.desc.3=Provides up to %d Amps to the multiblock
+gt.blockmachines.hatch.energymulti.desc.3=マルチブロックへ最大 %dアンペア を供給できます
 
 achievement.gt.blockmachines.hatch.energywirelessmulti04.tier.04=EV 4A Wireless Energy Hatch
 achievement.gt.blockmachines.hatch.energywirelessmulti16.tier.04=EV 16A Wireless Energy Hatch
@@ -593,7 +593,7 @@ gt.blockcasingsTT.0.desc.1=The power levels are rising!
 gt.blockcasingsTT.1.name=Computer Casing
 gt.blockcasingsTT.1.desc.0=Nice and clean casing.
 gt.blockcasingsTT.1.desc.1=Dust can break it!?
-gt.3blockcasingsTT.2.name=Computer Heat Vent
+gt.3blockcasingsTT.2.name=コンピューター用排熱器
 gt.blockcasingsTT.2.desc.0=Air vent with a filter.
 gt.blockcasingsTT.2.desc.1=Perfectly muffled sound!
 gt.blockcasingsTT.3.name=Advanced Computer Casing
@@ -679,7 +679,7 @@ gt.blockmachines.multimachine.tm.microwave.cfgi.1=Timer setting
 gt.blockmachines.multimachine.tm.microwave.cfgo.0=Timer value
 gt.blockmachines.multimachine.tm.microwave.cfgo.1=Timer remaining
 
-gt.blockmachines.multimachine.tm.teslaCoil.name=Tesla Tower
+gt.blockmachines.multimachine.tm.teslaCoil.name=テスラタワー
 gt.blockmachines.multimachine.tm.teslaCoil.hint.0=1 - Classic Hatches, Capacitor Hatches or Tesla Base Casing
 gt.blockmachines.multimachine.tm.teslaCoil.hint.1=2 - Titanium Frames
 gt.blockmachines.multimachine.tm.teslaCoil.desc.0=Controller block of the Tesla Tower
@@ -872,7 +872,7 @@ eoh.rightclick.wirecutter.1=Can't retrieve Astral Array Fabricators when the mac
 eoh.rightclick.wirecutter.2=Retrieved %s Astral Array Fabricators
 
 # Antimatter
-gt.blockmachines.antimatterForge.name=Semi-Stable Antimatter Stabilization Sequencer
+gt.blockmachines.antimatterForge.name=準安定反物質安定制御装置
 gt.blockmachines.antimatterGenerator.name=Shielded Lagrangian Annihilation Matrix
 
 achievement.gt.spacetime_compression_field_generator.0=Crude Spacetime Compression Field Generator
@@ -909,7 +909,7 @@ achievement.gt.stabilisation_field_generator.8=Gallifreyan Stabilisation Field G
 fog.upgrade.confirm=Construct
 fog.upgrade.respec=Respec
 
-fog.upgrade.tt.0=Forge of the Gods
+fog.upgrade.tt.0=神の鍛造場
 fog.upgrade.tt.1=Improved Gravitational Convection Coils
 fog.upgrade.tt.2=Spacetime Topology Expansion Modulator
 fog.upgrade.tt.3=Cosmic Fuel Chamber Expansion
@@ -1082,19 +1082,19 @@ fog.text.tooltip.applysimulationchanges=Simulate new values
 fog.text.tooltip.voltageadjustment=Because of overflow concerns, actual processing voltage follows this formula:
 fog.text.tooltip.voltageadjustment.1=Voltage = Min(Selected Voltage, 2^63 / Max Parallel)
 
-achievement.gt.blockmachines.multimachine.em.forge_of_gods=Forge of the Gods
-achievement.gt.blockmachines.multimachine.em.smelting_module=Helioflare Power Forge
-achievement.gt.blockmachines.multimachine.em.molten_module=Helioflux Melting Core
-achievement.gt.blockmachines.multimachine.em.plasma_module=Heliothermal Plasma Fabricator
-achievement.gt.blockmachines.multimachine.em.exotic_module=Heliofusion Exoticizer
-achievement.gt.godforgecasing.0=Singularity Reinforced Stellar Shielding Casing
-achievement.gt.godforgecasing.1=Celestial Matter Guidance Casing
-achievement.gt.godforgecasing.2=Boundless Gravitationally Severed Structure Casing
-achievement.gt.godforgecasing.3=Transcendentally Amplified Magnetic Confinement Casing
-achievement.gt.godforgecasing.4=Stellar Energy Siphon Casing
-achievement.gt.godforgecasing.5=Remote Graviton Flow Modulator
-achievement.gt.godforgecasing.6=Medial Graviton Flow Modulator
-achievement.gt.godforgecasing.7=Central Graviton Flow Modulator
+achievement.gt.blockmachines.multimachine.em.forge_of_gods=神の鍛造場
+achievement.gt.blockmachines.multimachine.em.smelting_module=ヘリオフレア・パワーフォージ
+achievement.gt.blockmachines.multimachine.em.molten_module=ヘリオフラックス・メルティングコア
+achievement.gt.blockmachines.multimachine.em.plasma_module=ヘリオサーマル・プラズマファブリケーター
+achievement.gt.blockmachines.multimachine.em.exotic_module=ヘリオフュージョン・エキゾチサイザー
+achievement.gt.godforgecasing.0=特異点強化構成防護外装
+achievement.gt.godforgecasing.1=天体物質誘導外装
+achievement.gt.godforgecasing.2=無限級重力阻害構造構築用外装
+achievement.gt.godforgecasing.3=超越級増幅磁場閉じ込め用外装
+achievement.gt.godforgecasing.4=恒星エネルギー吸引外装
+achievement.gt.godforgecasing.5=外周部用重力子流量調整器
+achievement.gt.godforgecasing.6=中間部用重力子流量調整器
+achievement.gt.godforgecasing.7=中心部用重力子流量調整器
 
 achievement.gt.blockmachines.multimachine.em.forge_of_gods.desc=BEEEEEEEEEAAAAAAM
 achievement.gt.blockmachines.multimachine.em.smelting_module.desc=The one furnace to rule them all.
@@ -1335,8 +1335,8 @@ gt.blockmachines.debug.tt.maintenance.name=Auto-Taping Maintenance Hatch
 gt.blockmachines.debug.tt.maintenance.desc.0=For automatically maintaining Multiblocks
 gt.blockmachines.debug.tt.maintenance.desc.1=Does fix everything but itself.
 gt.blockmachines.debug.tt.maintenance.desc.2=Fixing is for plebs!
-gt.blockmachines.debug.tt.genny.name=Debug Power Generator
-gt.blockmachines.debug.tt.genny.desc.0=Power from nothing
+gt.blockmachines.debug.tt.genny.name=デバッグ用電力生成器
+gt.blockmachines.debug.tt.genny.desc.0=無からEUを発電する
 gt.blockmachines.debug.tt.genny.desc.1=Infinite Producer/Consumer
 gt.blockmachines.debug.tt.genny.desc.2=Since i wanted one...
 gt.blockmachines.debug.tt.genny.desc.3=Change it to Laser mode with a screwdriver.
@@ -1382,9 +1382,9 @@ GT5U.gui.text.research_progress=§fComputation: %d/%d (%s%%)
 # RecipeMaps
 gt.recipe.eyeofharmony=Eye of Harmony
 gt.recipe.researchStation=Research Station
-gt.recipe.fog_plasma=Heliothermal Plasma Fabricator
-gt.recipe.fog_exotic=Heliofusion Exoticizer
-gt.recipe.fog_molten=Helioflux Melting Core
+gt.recipe.fog_plasma=ヘリオサーマル・プラズマファブリケーター
+gt.recipe.fog_exotic=ヘリオフュージョン・エキゾチサイザー
+gt.recipe.fog_molten=ヘリオフラックス・メルティングコア
 gt.recipe.upgrade_costs=Godforge Upgrades
 
 
@@ -1502,12 +1502,12 @@ tt.keyphrase.Hysteresis_low_set_to=Hysteresis low set to
 tt.keyphrase.Tesla_radius_set_to=Tesla radius set to
 tt.keyphrase.Sending_power=Sending power
 tt.keyphrase.Receiving_power=Receiving power
-tt.keyphrase.Stored_energy=Stored energy
-tt.keyphrase.Stored_EU=Stored EU
-tt.keyphrase.Average_IO=Average I/O
-tt.keyphrase.Average_IO_(max)=Voltage I/O (max)
-tt.keyphrase.Average_IO_max=Voltage I/O max
-tt.keyphrase.Amperage_IO_(max)=Amperage I/O (max)
+tt.keyphrase.Stored_energy=エネルギー容量
+tt.keyphrase.Stored_EU=蓄電量
+tt.keyphrase.Average_IO=平均入/出力量
+tt.keyphrase.Average_IO_(max)=電圧入/出力量 (最大)
+tt.keyphrase.Average_IO_max=電圧入/出力量 (最大)
+tt.keyphrase.Amperage_IO_(max)=アンペア入/出力量 (最大)
 tt.keyphrase.Side_capabilities=Side capabilities
 tt.keyphrase.Ass_line_recipe=Assembly Line Recipe
 
@@ -1900,7 +1900,7 @@ tt.tooltip.mark_general=: Interdimensional
 tt.tooltip.mark_em=: Elemental Matter
 tt.tooltip.theta_movement=: Theta Movement
 tt.tooltip.cosmic_mark=: Cosmic
-tt.tooltip.godforge_mark=: Project Godforge
+tt.tooltip.godforge_mark=: プロジェクト Godforge
 
 tt.chat.debug.generator=Laser mode: %s
 
@@ -1921,25 +1921,25 @@ tt.eoh.fancy_names.gallifreyan=Gallifreyan
 tt.eoh.fancy_names.unknown=Unknown
 
 tt.godforge.casings.Error.Tooltip=Error, report to GTNH team
-tt.godforge.casings.0.Tooltip.0=Shielded by the event horizon of a singularity
-tt.godforge.casings.0.Tooltip.1=Don't get too close...
-tt.godforge.casings.1.Tooltip.0=Designed to route stellar matter using spacetime distortion
-tt.godforge.casings.1.Tooltip.1=Reality Distortion
-tt.godforge.casings.2.Tooltip.0=Unaffected by gravitational forces
-tt.godforge.casings.2.Tooltip.1=Not even a black hole could tear it apart.
-tt.godforge.casings.3.Tooltip.0=Creates enormous magnetic fields capable of constraining entire stars
-tt.godforge.casings.3.Tooltip.1=It's super effective!
-tt.godforge.casings.4.Tooltip.0=Taps into streams of stellar matter to harness their heat energy
-tt.godforge.casings.4.Tooltip.1=Turn up the heat!
-tt.godforge.casings.5.Tooltip.0=Controls the flow of gravitons to manipulate gravity
-tt.godforge.casings.5.Tooltip.1=Exponential scaling past 800 Galaxies
-tt.godforge.casings.6.Tooltip.0=Controls the flow of gravitons to manipulate gravity
-tt.godforge.casings.6.Tooltip.1=Getting closer...
-tt.godforge.casings.7.Tooltip.0=Controls the flow of gravitons to manipulate gravity
-tt.godforge.casings.7.Tooltip.1=Gravity Central
-tt.godforge.casings.8.Tooltip.0=Transfers and stores extreme amounts of heat without any loss
-tt.godforge.casings.8.Tooltip.1=<<<Thermal<<<
-tt.godforge.casings.8.Tooltip.2=>>>Wave>>>
+tt.godforge.casings.0.Tooltip.0=特異点を取り巻く事象の地平面を利用した外装
+tt.godforge.casings.0.Tooltip.1=近付くのは危険だ...
+tt.godforge.casings.1.Tooltip.0=恒星物質の経路を設定するために、時空の歪曲を恣意的に生み出す
+tt.godforge.casings.1.Tooltip.1=現実そのものが歪曲する
+tt.godforge.casings.2.Tooltip.0=重力の影響を全くといっていいほど受けない
+tt.godforge.casings.2.Tooltip.1=ブラックホールでさえもこれを引き裂くことはできない
+tt.godforge.casings.3.Tooltip.0=星全体を閉じ込めることができるほどの、強大な磁場を生成する
+tt.godforge.casings.3.Tooltip.1=こうかは   ばつぐんだ！
+tt.godforge.casings.4.Tooltip.0=恒星物質の流束から熱エネルギーを取り出す
+tt.godforge.casings.4.Tooltip.1=熱を上げていけ！
+tt.godforge.casings.5.Tooltip.0=重力子の流れを制御し、重力を操作する
+tt.godforge.casings.5.Tooltip.1=800の銀河をも超える指数関数的な増加
+tt.godforge.casings.6.Tooltip.0=重力子の流れを制御し、重力を操作する
+tt.godforge.casings.6.Tooltip.1=近付いてくる...
+tt.godforge.casings.7.Tooltip.0=重力子の流れを制御し、重力を操作する
+tt.godforge.casings.7.Tooltip.1=重力の中心点
+tt.godforge.casings.8.Tooltip.0=一切の損失をなしに熱を蓄え、そして転送する
+tt.godforge.casings.8.Tooltip.1=<<<サーマル<<<
+tt.godforge.casings.8.Tooltip.2=>>>ウェーブ>>>
 tt.godforge.star_color.preset.default=Default
 tt.godforge.star_color.preset.rainbow=Rainbow
 tt.godforge.star_color.preset.clouds_pick=Cloud's Pick
@@ -1962,7 +1962,7 @@ tt.infodata.multi.multiplier.recipe_time=Recipe time multiplier: %s
 tt.infodata.multi.multiplier.energy=Energy multiplier: %s
 tt.infodata.multi.divisor.recipe_time.non_perfect_oc=Recipe time divisor per non-perfect OC: %s
 tt.infodata.multi.currently_using=Currently using: %s EU/t
-tt.infodata.multi.capacity.heat=Heat Capacity: %s
+tt.infodata.multi.capacity.heat=要求熱容量: %s
 tt.infodata.multi.capacity.heat.effective=Effective Heat Capacity: %s
 
 ## Eye of Harmony

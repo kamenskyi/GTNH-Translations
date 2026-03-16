@@ -226,7 +226,7 @@ enderio.fluid.millibucket.abr=L
 
 enderio.fuel.tooltip.heading=燃料情報
 enderio.fuel.tooltip.burnTime=燃焼時間 {0,number}
-enderio.fluid.millibucketsTick=L/t
+enderio.fluid.millibucketsTick=mB/tick
 enderio.coolant.tooltip.heading=冷却材
 enderio.coolant.tooltip.degreesPerBucket=度/バケツ
 enderio.gas.gasTick=ガス/t
@@ -310,10 +310,10 @@ enderio.energeticSilverGrindingBall.name=エナジェティックシルバーの
 enderio.vividAlloyGrindingBall.name=ビビッド合金の粉砕用ボール
 
 enderio.precientCrystal.name=予知のクリスタル
-enderio.pulsatingPowder.name=脈動の粒子
-enderio.vibrantPowder.name=活気の粒子
-enderio.enderCrystalPowder.name=終焉の粒子
-enderio.precientPowder.name=予知の粒子
+enderio.pulsatingPowder.name=脈動するクリスタルの粉末
+enderio.vibrantPowder.name=ヴァイブラントクリスタルの粉末
+enderio.enderCrystalPowder.name=エンダークリスタルの粉末
+enderio.precientPowder.name=予知のクリスタルの粉末
 
 #Balls
 enderio.electricalSteel_ball.name=電炉鋼の粉砕用ボール
@@ -410,32 +410,32 @@ enderio.maxSolorProduction=最大出力
 enderio.tooltip.efficiency=効率
 enderio.tooltip.sunlightBlocked=空に面していません！
 
-tile.blockElectricLight.name=Powered Light
-item.itemElectricLight.name=電気ライト
+tile.blockElectricLight.name=工業用電動照明
+item.itemElectricLight.name=工業用電動照明
 item.itemElectricLight.tooltip.detailed.line1=電気とレッドストーン信号を
 item.itemElectricLight.tooltip.detailed.line2=供給すると広範囲を照らす
 
-item.itemElectricLightInverted.name=電気ライト(反転)
+item.itemElectricLightInverted.name=工業用電動照明 (反転)
 item.itemElectricLightInverted.tooltip.detailed.line1=電気を供給すると広範囲を
 item.itemElectricLightInverted.tooltip.detailed.line2=照らす
 item.itemElectricLightInverted.tooltip.detailed.line3=レッドストーン信号でオフにする
 
-item.itemLight.name=ライト
+item.itemLight.name=工業用照明
 item.itemLight.tooltip.detailed.line1=レッドストーン信号を
 item.itemLight.tooltip.detailed.line2=供給すると光る
 
-item.itemLightInverted.name=ライト(反転)
+item.itemLightInverted.name=工業用照明 (反転)
 item.itemLightInverted.tooltip.detailed.line1=レッドストーン信号を
 item.itemLightInverted.tooltip.detailed.line2=供給するとオフになる
 
 tile.blockLightNode.name=Light Node
 
-item.itemWirelessLight.name=無線電気ライト
+item.itemWirelessLight.name=無線工業用電動照明
 item.itemWirelessLight.tooltip.detailed.line1=電気とレッドストーン信号を
 item.itemWirelessLight.tooltip.detailed.line2=供給すると広範囲を照らす
 item.itemWirelessLight.tooltip.detailed.line3=無線充電機から電気を供給できる
 
-item.itemWirelessLightInverted.name=無線電気ライト(反転)
+item.itemWirelessLightInverted.name=無線工業用電動照明 (反転)
 item.itemWirelessLightInverted.tooltip.detailed.line1=電気を供給すると広範囲を
 item.itemWirelessLightInverted.tooltip.detailed.line2=照らす
 item.itemWirelessLightInverted.tooltip.detailed.line3=レッドストーン信号でオフにする

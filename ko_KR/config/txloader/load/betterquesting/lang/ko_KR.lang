@@ -3827,6 +3827,10 @@ betterquesting.quest.JhZaTiUfTH2AfBcHulTMVA.desc=§5§lPrismarine§r is an ancie
 betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.name=§b§lPrismatic Gas
 betterquesting.quest.Oh_EQhvBQUqHeVcUyifCXQ.desc=The §2Prismatic Crystal§r will then be processed in a §5§lVacuum Furnace§r with §2Boron Plasma§r in order to successfully convert it to the highly sought after §3Prismatic Gas§r.
 
+# Quest: Wormhole Generator
+betterquesting.quest.RnhqUVMfRVm8Ug3yM1mYKQ.name=§b§lWormhole Generator
+betterquesting.quest.RnhqUVMfRVm8Ug3yM1mYKQ.desc=The §5§lMiniature Wormhole Generator§r uses Quantum Entangled Singularities to transmit power over any distance, including across dimensions.%n%nTo use it, you must link two generators together using AE2 Entangled Singularities by placing one in each controller. Once linked, both wormholes must be started by placing a full (non-entangled) AE2 Singularity into an input bus on each machine. The wormhole will continue running as long as power is being transferred between them. If power transfer stops, the link will shut down and must be restarted using another Singularity on both ends.%n%nPower is transferred through Laser Source Hatches and Laser Target Hatches. Each wormhole can support up to 4 laser hatches. These must be placed in the center block of one of the side faces, excluding the controller side. Hatch pairs link based on relative position between the two wormholes, not cardinal direction. For example, a Source Hatch placed on the top of the sending side must connect to a Target Hatch placed on the bottom of the receiving wormhole.%n%nAdditionally, unlike AE2 P2P tunnels, this does not come with a 5%% power loss but rather a much more manageable 0.5%% loss. %n%n[note]The glass and input hatch must be tiered accordingly with the tier of the laser hatches. But remember, there is no amperage limit on this machine, so use whatever makes it cheapest for you.[/note]
+
 # Quest: Naquarite Universal Insulator Foil
 betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.name=§b§lNaquarite Universal Insulator Foil
 betterquesting.quest.fVoSLYPcSmKd-gLhBJHK9A.desc=Finally, you can combine the §2Radiation-Proof Composite Sheet§r with §2Netherite Foil§r and §2Manyullyn§r in the §5§lForming Press§r to create §3Naquarite Universal Insulator Foil§r. This incredibly strong foil can be used to bind ingredients to all of your future coils due to it's unrivaled radiation and heat resistance. 
@@ -4518,6 +4522,10 @@ betterquesting.quest.vLnSpTweSki3BaorBNQhxQ.desc=쉬라본을 생산하는 속�
 betterquesting.questline.l37V2WvbSHGZQ5oMgAfBuw.name=티어 12 - UMV
 betterquesting.questline.l37V2WvbSHGZQ5oMgAfBuw.desc=방구석에 박혀있지 말고 제발 바람이라도 좀 쐬셔야...%n%nUMV 티어의 진행 방향을 제시해줍니다. 스타게이트에 가까워지고 있습니다.
 
+# Quest: T4: Advanced
+betterquesting.quest.-fvTafFJRo67bYWh46USSw.name=§c§l§nT4: Advanced
+betterquesting.quest.-fvTafFJRo67bYWh46USSw.desc=The §3Advanced§r Spacetime Compression Field Generator allows for up to §lT4§r recipes which produce §l1152L§r of Black Dwarf Matter per successful batch.%n%nThe §3Advanced§r Time Dilation Field Generator grants a §287.5%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c27.75%%§r.%n%nThe §3Advanced§r Stabilisation Field Generator will boost the success chance of the EoH by §215%%§r, but will decrease the yield by §c15%%§r and increase the power cost by §c25%%§r.
+
 # Quest: Finally, Universium!
 betterquesting.quest.21tDEYptRuOgSJym30Watg.name=마침내! 유니버시움!
 betterquesting.quest.21tDEYptRuOgSJym30Watg.desc=마침내 알아냈습니다. 죽은 항성계를 충분히 오래 방치하면 인공 항성계가 다시 수축하고 내파하여 새로운 빅뱅으로 이어질 줄 누가 알았겠어요.%n%n시공간이 다시 팽창하기 직전의 그 많은 질량을 활용할 수만 있다면 말 그대로 우주 전체를 손바닥에 담을 수 있습니다.%n%n[note]이것은 EoH의 세 번째이자 마지막 재료입니다.%n%n주로 UXV 부품 제작에 사용되지만, 처음 몇 개는 이터니티 루프 레시피에 투자해야 합니다. 이터니티와 UXV 퀘스트는 엔드게임 목표 탭에 있습니다.%n%n축하합니다! 이제 UXV 티어에 진입할 준비가 되었습니다![/note]
@@ -4525,6 +4533,10 @@ betterquesting.quest.21tDEYptRuOgSJym30Watg.desc=마침내 알아냈습니다. �
 # Quest: Wireless Multi-Amp Hatches
 betterquesting.quest.2TXAUm6oQ0OhtMK79tC5cw.name=무선 고암페어 해치
 betterquesting.quest.2TXAUm6oQ0OhtMK79tC5cw.desc=쉬라본을 얻었으면 이제 4A, 16A, 64A의 무선 에너지 해치 제작이 가능해집니다. 이 해치들은 고암페어를 지원하는 여러 멀티블럭들의 전력공급에 매우 유용합니다. 이제 더이상 수많은 초전도체 덩어리와 레이저 전력 네트워크에 골머리를 썩지 않아도 됩니다.
+
+# Quest: Magnetohydrodynamically Constrained Star Matter
+betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.name=자기유체역학적으로 제약된 항성 물질
+betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.desc=자기유체역학적으로 제약된 항성 물질(Magnetohydrodynamically Constrained Star Matter), 이름이 너무 기니 MHDCSM으로 줄여 말해야겠네요(솔직히 이 이름도 너무 긴거같습니다).%n%n이 물질은 UXV 부품의 주 물질입니다. 만들기가 매우 까다롭고 굉장히 비쌉니다. 어느게임이든 엔드게임 물질이 다 이렇죠 뭐.%n%n바로 고체화해서 파츠를 만드는게 아닌, 이터니티 부품에 코팅을 해서 부품을 만듭니다.%n%n즐겜 노가다 하세요!
 
 # Quest: Guzzling Massive Amounts of Gas
 betterquesting.quest.5vAyoCzxQkSRpjzlDNwtrw.name=걸신들리듯 가스 흡입하기
@@ -4550,6 +4562,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.desc=UXV 티어에 필요한 회로�
 betterquesting.quest.DVLahVNUQ-CvjYwmvkUn-Q.name=백색왜성 물질
 betterquesting.quest.DVLahVNUQ-CvjYwmvkUn-Q.desc=인공 항성계를 만들어내고 갓 죽은 별의 핵을 추출할 수 있을 줄 누가 알았겠습니까?%n%n현재의 조잡한 케이싱으로는 시간가속을 통해 인공 태양계의 수명을 단축하여 백색왜성을 겨우 관측할 수 있을 뿐입니다.%n%n힘들게 얻은 이 물질이 그 과정을 더욱 앞당기는 데 도움이 될 것입니다.%n%n[note]이 물질은 세 가지 EoH 재료 중 하나입니다. 핵심 케이싱들을 T4 까지 업그레이드하는 데 사용합니다.[/note]
 
+# Quest: T6: Exotic
+betterquesting.quest.HFpuUdRKS--dsQzGEvjW2w.name=§c§l§nT6: Exotic
+betterquesting.quest.HFpuUdRKS--dsQzGEvjW2w.desc=The §eExotic§r§r Spacetime Compression Field Generator allows for up to §lT6§r recipes which produce §l18432L§r of Black Dwarf Matter per successful batch.%n%nThe §eExotic§r Time Dilation Field Generator grants a §296.875%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c46.25%%§r.%n%nThe §eExotic§r Stabilisation Field Generator will boost the success chance of the EoH by §225%%§r, but will decrease the yield by §c25%%§r and increase the power cost by §c15%%§r.
+
+# Quest: T3: Stable
+betterquesting.quest.Hgj4aBbmQUCkp325rL-McQ.name=§c§l§nT3: Stable
+betterquesting.quest.Hgj4aBbmQUCkp325rL-McQ.desc=The §9Stable§r Spacetime Compression Field Generator allows for up to §lT3§r recipes which produce §l18432L§r of White Dwarf Matter per successful batch.%n%nThe §9Stable§r Time Dilation Field Generator grants a §275%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c18.5%%§r.%n%nThe §9Stable§r Stabilisation Field Generator will boost the success chance of the EoH by §210%%§r, but will decrease the yield by §c10%%§r and increase the power cost by §c30%%§r.
+
 # Quest: Yet Another Space Elevator Upgrade
 betterquesting.quest.MiGXZ65sRwiAdpsCrVB0Eg.name=또 다시 우주 엘레베이터 업그레이드 하기
 betterquesting.quest.MiGXZ65sRwiAdpsCrVB0Eg.desc=이 엄청난 녀석은 18개의 모듈을 지원합니다.
@@ -4570,13 +4590,25 @@ betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=신들의 재련소에 대한 �
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=합일
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.desc=DTPF를 특정 시간 이상 가동하면[note](8시간)[/note] 평행차원공간들과 완벽히 정렬이 됩니다.%n%n기술의 발전덕에 이 절묘한 순간을 활용하여 DTPF를 엄청난 속도로 가속할 수 있는 방법을 찾아냈습니다.%n%n초차원 정렬 메트릭스(Transdimensional Alignment Matrix)는 DTPF를 완전 오버클럭을 활성화하게 해줍니다. 활성화 조건은 DTPF를 최소 8시간 연속으로 가동하여 촉매 소모량 절감률이 50%%까지 도달했을 때 입니다. 이때 에너지 소모량과 촉매 소모량이 다시 증가하지만 여전히 기존 보단 훨씬 효율적입니다.%n%n[note]활성화 조건에 도달하는 것 자체가 엄청난 양의 촉매를 필요합니다. 반드시 많은 양의 촉매가 확보된 상태에서 가동하세요.%n%nDTPF의 컨트롤러 GUI에서 합일 활성화 버튼을 켜야만 해당 기능을 사용할 수 있습니다.[/note]%n%n합일 활성화 상태에서 추가적으로 소모되는 촉매량 계산식:%n촉매 소모량(L)= (X * ((2^Y) - 1 ) / 2Z%nX = 레시피의 기본 EU 소모량%nY = 오버클럭 배율%nZ = EU/L 단위의 상대적 촉매량
 
+# Quest: T7: Perfect
+betterquesting.quest.bKW2YJfES6yvbes8JQRb0g.name=§c§l§nT7: Perfect
+betterquesting.quest.bKW2YJfES6yvbes8JQRb0g.desc=The §6Perfect§r Spacetime Compression Field Generator allows for up to §lT7§r recipes which produce §l1152L§r of §5Universium§r per successful batch.%n%nThe §6Perfect§r Time Dilation Field Generator grants a §298.4375%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c55.5%%§r.%n%nThe §6Perfect§r Stabilisation Field Generator will boost the success chance of the EoH by §230%%§r, but will decrease the yield by §c30%%§r and increase the power cost by §c10%%§r.
+
 # Quest: Black Dwarf Matter
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.name=흑색왜성 물질
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.desc=백색왜성 물질로 핵심 케이싱들을 강화하는 것은 좋은 생각입니다.%n%n이제는 흑색왜성이 형성될 때까지 항성계의 시간을 가속할 수 있습니다. 이 물질은 다음에 일어날 일을 관찰하고 이해하는 데 핵심이 될 것입니다.%n%n이것은 세 가지 EoH 물질 중 두 번째 물질입니다. 핵심 케이싱들을 T7로 업그레이드하는 데 사용합니다.%n%n[note]모든 케이싱들이 티어 7이 되면 EoH의 전력 이득률이 흑자로 전환됩니다.[/note]
 
+# Quest: T2: Primitive
+betterquesting.quest.cO67NYK2QsyDlcvFGkk43A.name=§c§l§nT2: Primitive
+betterquesting.quest.cO67NYK2QsyDlcvFGkk43A.desc=The §dPrimitive§r Spacetime Compresion Field Generator allows for up to §lT2§r recipes which produce §l4608L§r of White Dwarf Matter per successful batch.%n%nThe §dPrimitive§r Time Dilation Field Generator grants a §250%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c9.25%%§r.%n%nThe §dPrimitive§r Stabilisation Field Generator will boost the success chance of the EoH by §25%%§r, but will decrease the yield by §c5%%§r and increase the power cost by §c35%%§r.
+
 # Quest: Stellar Catalyst
 betterquesting.quest.fj2VzJf2Rgev7uY-h3CkJQ.name=스텔라 촉매
 betterquesting.quest.fj2VzJf2Rgev7uY-h3CkJQ.desc=지금까지 차원 촉매를 개선하려는 시도는 헛수고였지만, 조화의 눈에서 얻은 원시 항성 플라즈마로 마침내 안정적이고 더 강력한 촉매를 만들 수 있습니다.%n%n안정성을 유지하려면 더 높은 단계의 플라즈마도 필요합니다.%n%n[warn]조심해서 다루세요. 기지가 초질량 블랙홀로 변하는 것에 대해선 책임을 지지 않습니다.[/warn]
+
+# Quest: T9: Gallifreyan
+betterquesting.quest.g5CfYPLATaiRyVInsqn9_w.name=§c§l§nT9: Gallifreyan
+betterquesting.quest.g5CfYPLATaiRyVInsqn9_w.desc=The §cG§6a§el§al§bi§9f§dr§ce§6y§ea§an§r Spacetime Compression Field Generator allows for up to §lT10§r§r recipes which produce §l18432L§r of Universium per successful batch.%n%nThe §cG§6a§el§al§bi§9f§dr§ce§6y§ea§an§r Time Dilation Field Generator grants a §299.609375%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c74%%§r.%n%nThe §cG§6a§el§al§bi§9f§dr§ce§6y§ea§an§r Stabilisation Field Generator will boost the success chance of the EoH by §240%%§r, but will decrease the yield by §c40%%§r.%n%n[note]If you want to run a T10 EoH that is power positive, the best setup to use is a T9/T8/T9 (Using Tipler Time Dilation Field Generators).[/note]
 
 # Quest: Saving on SpaceTime
 betterquesting.quest.hWXZi-whQfmgWO0EII7g2g.name=스페이스타임 절약하기
@@ -4602,9 +4634,17 @@ betterquesting.quest.kazCPEWoSmiZhR4bkHlEBQ.desc=DTPF 코일을 최종단계까�
 betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.name=구름 속 슈퍼컴퓨터
 betterquesting.quest.lBuQcNYjQ8-YsMFqW6U1tQ.desc=클라우드 연산 해치는 무선 데이터 해치와 유사하게, 클라우드 네트워크로 컴퓨터의 연산력을 전송하여 연산력이 필요한 멀티블럭에 무선으로 공급합니다.%n%n양자 컴퓨터에 클라우드 연산 서버 해치(Cloud Computation Server Hatch)를 장착하고 컨트롤러에 스크류드라이버를 이용하여 무선모드를 활성화 합니다. 그리고 연산력이 필요하는 멀티블럭에 클라우드 연산 클라이언트 해치(Cloud Computation Client Hatch)를 장착하면 됩니다. 연산력을 소모하는 멀티블럭에선 필요한 만큼의 연산력만 자동으로 빼와서 사용합니다.
 
+# Quest: T8: Tipler
+betterquesting.quest.lU1caedNR6G6fdJqbivacw.name=§c§l§nT8: Tipler
+betterquesting.quest.lU1caedNR6G6fdJqbivacw.desc=The §4Tipler§r Spacetime Compression Field Generator allows for up to §lT8§r recipes which produce §l4608L§r of Universium per successful batch.%n%nThe §4Tipler§r Time Dilation Field Generator grants a §299.21875%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c64.75%%§r.%n%nThe §4Tipler§r Stabilisation Field Generator will boost the success chance of the EoH by §235%%§r, but will decrease the yield by §c35%%§r and increase the power cost by §c5%%§r.
+
 # Quest: Shirabon
 betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.name=쉬라본
 betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.desc=UMV와 UXV 부품들을 만들때 사용되는 물질입니다. 억소리가 날 만큼 많이 쓰입니다.%n%n[note]가공하는데 엄청난 시간이 들어갑니다. 라인 분리와 병렬화를 강력히 권장합니다.[/note]
+
+# Quest: Spacetime Splitting
+betterquesting.quest.pW_B3nmQTxy87apiA9DyMA.name=§c§l§nSpacetime Splitting
+betterquesting.quest.pW_B3nmQTxy87apiA9DyMA.desc=Spacetime... separates?? Crazy world we're living in.%n%nYou will need a lot of both of these for upcoming crafts throughout the rest of the game, so make sure to set up infrastructure that can handle the demand. Fortunately, you will eventually be able to use DTPF and QFT recipes to speed the process up significantly, but for now the Spinmatron should be able to handle production just fine.
 
 # Quest: UMV Field Generator
 betterquesting.quest.rdzpjzaCS2epgavzZr6L9A.name=UMV 장 생성기
@@ -4626,14 +4666,18 @@ betterquesting.quest.uXczmEsfT2uRCSnx8Vm4RQ.desc=모든 티어의 조화의 눈�
 betterquesting.quest.v5GltE2BTW-Me_rEqy5uFg.name=정말 재대로 준비 하셨습니까?
 betterquesting.quest.v5GltE2BTW-Me_rEqy5uFg.desc=지금부터 당신은 매우 느린 생산속도를 가진 레시피들을 매우 많이 다루게 될겁니다.%n%nQFT 라인들을 최대한으로 업그레이드하고, 낡은 인프라들을 재설계하거나 업그레이드하여 TPS와 생산력을 최우선적으로 확보하세요.%n%n기초 자원과 회로 생산라인을 최대한 많이 병렬화 하세요.%n%n틱당 수 조 EU 단위로 소모되는 에너지 사용량을 감당하기 위해 전력 발전시스템을 보강하세요.%n%n곧 만들게 될 조화의 눈(Eye of Harmony)은 지금까지 접한 멀티블럭들 중 제일 비쌀것이며 압도적으로 많은 전력과 자원을 소모하게 될겁니다.%n%n부디 이 가련한 영혼에게 자비를 배풀기를.%n%n[note]무한의 대기줄에 서신걸 환영합니다.[/note]
 
+# Quest: T5: Superb
+betterquesting.quest.va9yzhTSSUWxgareXVIaXQ.name=§c§l§nT5: Superb
+betterquesting.quest.va9yzhTSSUWxgareXVIaXQ.desc=The §aSuperb§r Spacetime Compression Field Generator allows for up to §lT5§r recipes which produce §l4608L§r of Black Dwarf Matter per successful batch.%n%nThe §aSuperb§r Time Dilation Field Generator grants a §293.75%%§r time reduction for any recipe ran in the EoH, but reduces the likelihood of success by §c37%%§r.%n%nThe §aSuperb§r Stabilisation Field Generator will boost the success chance of the EoH by §220%%§r, but will decrease the yield by §c20%%§r and increase the power cost by §c20%%§r.
+
+# Quest: Eternity
+betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.name=이터니티
+betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=당신은 UXV에 진입하고 자기유체역학적으로 제약된 항성 물질(Magnetohydrodynamically Constrained Star Matter) 생산속도가 시원치 않다는걸 깨닳게 되었을겁니다. 이걸 더 효율적으로 생산할려면 이터니티(Eternity) 라는 물질이 필요합니다.%n%nQFT 이터니티 루프 생산 공정을 만들기 위해선 최소 20736L의 유니버시움이 필요합니다.(운이 잘 터진다면 더 적은 양으로도 가능합니다!)%n%nQFT의 이터니티 생산 레시피는 25%%의 낮은 기본확률을 가지고 있기 때문에 플라즈마 포커싱을 적극적으로 사용해야합니다. 그리고 루프 레시피인 만큼 이터니티의 재고를 철저하게 관리해야 할 겁니다.%n%n[note]쉬라본이 가루로 나오는게 짜증나시나요? QFT 컨트롤러에 스크류 드라이버로 한번 찔러주면 액체로 나옵니다.%n%n당신의 부와 사치를 증명하는 방법 중 하나는 이터니티 블럭들 위에 신호기를 올리는겁니다.[/note]
+
 
 ## Quest Line: Endgame Goals
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHQ.name=엔드게임 목표
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHQ.desc=스타게이트 건설을 위한 마지막 단계입니다. 그동안 이 모드팩을 즐겨주셔서 감사합니다.%n%n엔딩을 향해 달려가세요. 행운을 빕니다.
-
-# Quest: Magnetohydrodynamically Constrained Star Matter
-betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.name=자기유체역학적으로 제약된 항성 물질
-betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.desc=자기유체역학적으로 제약된 항성 물질(Magnetohydrodynamically Constrained Star Matter), 이름이 너무 기니 MHDCSM으로 줄여 말해야겠네요(솔직히 이 이름도 너무 긴거같습니다).%n%n이 물질은 UXV 부품의 주 물질입니다. 만들기가 매우 까다롭고 굉장히 비쌉니다. 어느게임이든 엔드게임 물질이 다 이렇죠 뭐.%n%n바로 고체화해서 파츠를 만드는게 아닌, 이터니티 부품에 코팅을 해서 부품을 만듭니다.%n%n즐겜 노가다 하세요!
 
 # Quest: Tier 13 (UXV)
 betterquesting.quest.7wI7VuLKRe6lqAJpuYKKJg.name=티어 13 (UXV)
@@ -4693,6 +4737,10 @@ betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.desc=스타게이트 한 쌍으로 �
 betterquesting.quest.UVG21mYSQJex90gQWdkpIw.name=심우주에서 조립하기
 betterquesting.quest.UVG21mYSQJex90gQWdkpIw.desc=모듈당 64배 병렬화를 지원하며 최대 300억 EU/t 의 전력을 소모합니다. 굉장히 비싸지만 돈값은 확실히 합니다.
 
+# Quest: Humongous Hatch
+betterquesting.quest.Uj0PvsNCQw-aWaEOvlFpow.name=§4§l§nHumongous Hatch
+betterquesting.quest.Uj0PvsNCQw-aWaEOvlFpow.desc=At last... salvation from the egregious EoH hatch input limitations!%n%nThis will reduce the waiting time between cycles to a fraction of what it was before. 
+
 # Quest: Rule of Threes
 betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.name=§b§l3체 문제
 betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=신들의 대장간의 마지막 외부 구조 업그레이드는 극한 환경에서의 중력자 조각 응용법에 대한 가장 진보된 이해가 필요합니다. 이를 통해 신들의 대장간 마지막 4개의 모듈 슬롯을 사용할 수 있으며, 이를 통해 전례 없는 기술의 경지에 도달할 수 있습니다.%n%n[note]세 번째이자 마지막 고리를 신들의 대장간에 추가하면 4개의 모듈을 더 추가할 수 있으며, 업그레이드 트리의 분할 경로 부분에서 세 가지 경로를 모두 선택할 수 있으므로 완전히 업그레이드된 신들의 대장간을 만들 수 있습니다.[/note]%n%n[note]세 번째 고리를 사용하려면 EE 업그레이드가 필요합니다.[/note]
@@ -4709,38 +4757,10 @@ betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.desc=Now that you have your hands on
 betterquesting.quest.smCKxKkMSeyIAUeFInS4hQ.name=당신의 주인이자 구세주, UXV 부품 조립라인(CoAL)
 betterquesting.quest.smCKxKkMSeyIAUeFInS4hQ.desc=UXV티어에 도달했으면 당장 CoAL 업그레이드부터 달려야합니다. 1L 의 유니버시움이라도 허투루 낭비하면 안되기 때문입니다.
 
-# Quest: Eternity
-betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.name=이터니티
-betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=당신은 UXV에 진입하고 자기유체역학적으로 제약된 항성 물질(Magnetohydrodynamically Constrained Star Matter) 생산속도가 시원치 않다는걸 깨닳게 되었을겁니다. 이걸 더 효율적으로 생산할려면 이터니티(Eternity) 라는 물질이 필요합니다.%n%nQFT 이터니티 루프 생산 공정을 만들기 위해선 최소 20736L의 유니버시움이 필요합니다.(운이 잘 터진다면 더 적은 양으로도 가능합니다!)%n%nQFT의 이터니티 생산 레시피는 25%%의 낮은 기본확률을 가지고 있기 때문에 플라즈마 포커싱을 적극적으로 사용해야합니다. 그리고 루프 레시피인 만큼 이터니티의 재고를 철저하게 관리해야 할 겁니다.%n%n[note]쉬라본이 가루로 나오는게 짜증나시나요? QFT 컨트롤러에 스크류 드라이버로 한번 찔러주면 액체로 나옵니다.%n%n당신의 부와 사치를 증명하는 방법 중 하나는 이터니티 블럭들 위에 신호기를 올리는겁니다.[/note]
 
-
-## Quest Line: Fishing, Farming, Cooking
+## Quest Line: Feeding Yourself
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=낚시, 농사, 요리
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=잡아라, 키워라, 먹어라!
-
-# Quest: Weeds II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0A.name=잡초 II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0A.desc=잡초, 잡초, 그리고 또 잡초. 교배를 하다 보면 잡초가 너무 많이 나옵니다.%n%n발전용 바이오가스 셀이 필요하면 교환해 보시겠어요? 아니면 밭을 밝히기 위한 발광석이 필요하신가요?
-
-# Quest: Unknown Seeds No More
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0Q.name=더 이상 알 수 없는 씨앗 없음
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0Q.desc=이미 많은 알 수 없는 씨앗을 가지고 있습니다. 스캐너를 사용하여 씨앗을 전부 스캔하세요.%n%n씨앗을 다시 심어서 더 좋고 강한 작물을 육성할 수 있습니다.%n%n나중에는 휴대용 스캐너를 사용하여 땅에 심긴 상태에서도 작물의 능력치를 볼 수 있습니다.%n%n자라는 능력은 작물 아래에 있는 흙(최대 4칸), 생물군계(swamp/jungle 유형은 모두 대략 동일), 공기질(최대 Y124까지 증가하며 식물 위/근처에 많이 배치하지 마세요), 수분, 비료에 의존합니다. 작물 티어와 식물 능력치가 충분히 높아지면 자라는 능력이 부족한 곳에서는 작물이 죽게 됩니다. 다만 좋은 생물군계를 사용하면 이런 문제는 전혀 신경 쓸 필요가 없습니다.%n%n물과 비료를 주기만 한다면 거의 어디서나 작물을 재배할 수 있습니다.%n%n성장 능력치가 너무 높아져 24 이상이 되면, 식물은 주변에 잡초를 퍼뜨리게 됩니다.%n%nRedwheat나 oreberry와 같은 일부 작물은 교배나 성장에 특정한 광량 조건이 필요합니다.
-
-# Quest: Speed Up Your Plant Growth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.name=식물 성장을 가속하세요
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.desc=성장 과정을 약간 가속하기 위해 비료를 사용할 수 있습니다. 하지만 뼛가루는 더 이상 효과가 없음을 알게 될 것입니다. 조금의 재, 인회석 또는 방해석을 화학 반응기에서 물과 섞으면 필요한 비료를 얻을 수 있습니다. 손으로 뿌려주세요.
-
-# Quest: Potatoes, Carrots, Pumpkins and Melons
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0w.name=감자, 당근, 호박, 그리고 멜론
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0w.desc=씨앗에는 성장, 수확, 저항의 세 가지 값(GGR)이 있습니다.%n%nGGR을 서드 파티 도구(NBTedit 같은 것!) 없이 변경하는 유일한 방법은 바로 교배입니다. 두 식물이 교배되어 나온 식물의 GGR 값은 두 "부모" 식물의 GGR 사이의 값을 가집니다. 가끔 약간 더 높거나 낮게 나올 수 있습니다. 따라서 높은 GGR 값을 얻으려면 수많은 세대에 걸친 교배가 필요합니다.%n%nGGR의 최곳값은 31, 최젓값은 0입니다.%n%n[note]참고로, 이런 과정을 전부 건너뛰고 싶다면 NBTedit 명령어 /nbtedit me 를 사용해 보세요. 왼쪽 상단의 root를 클릭한 다음, 아래로 스크롤 해 inventory를 찾고 seedbag을 찾으면 됩니다(인벤토리를 미리 비워 두면 찾기 쉽습니다). 아이콘을 클릭해 스탯 페이지를 찾고, GGR 스탯을 찾아 선택한 뒤 왼쪽 상단의 edit을 클릭해 수정하고 저장하세요.[/note]%n%n[warn]캐릭터를 영원히 벽돌로 만들 수 있으니 잊지 마세요! 뭘 하고 있는지 모르거나 자신의 캐릭터를 편집하고 싶다면 반드시 백업을 먼저 만드세요.[/warn]%n%n물론, 서버에서는 이런 걸 할 수 없습니다.
-
-# Quest: Weeds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1A.name=잡초
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1A.desc=빈 작물 지지대나 이중 작물 지지대에서 가끔 잡초가 자라납니다. 잡초는 퍼져 나가서 소중한 작물들을 전부 덮어버리니, 마지막 백업을 다시 불러오고 싶어지기 전에 제초용 삽으로 잡초를 제거하세요. 나중에는 Weed-EX를 만들어 잡초가 자라는 것을 방지할 수 있습니다(단, 소진되기 전까지요).
-
-# Quest: Flower Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.name=플라워 파워
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.desc=작물 지지대에 염료를 재배하고 싶다면 꽃을 심어보세요. 장미와 민들레를 교배하면 새로운 꽃과 다른 색의 새로운 염료를 얻을 수 있을지도 모릅니다.%n%n바닐라 꽃을 작물 지지대에 심으려면 꽃 4개가 필요합니다. 또한 밝은 빛이 있어야만 꽃을 심을 수 있습니다.%n%n"장미 씨앗"을 얻으려면 양귀비를 심으세요. 사실 이 외에도 사용할 수 있는 꽃은 여러 종류가 있습니다.%n%n[note]만약 염료가 목적이라면, 차라리 무지개 선인장을 만드세요.[/note]
 
 # Quest: Hunger No More
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWA.name=더 이상의 굶주림 없음
@@ -4798,10 +4818,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=빵을 다시 녹이면 토스�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.name=주방용품
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.desc=건강한 음식을 요리하려면 먼저 몇 가지 도구를 만들어야 합니다.%n냄비,%n주걱,%n굴대,%n절구,%n믹싱볼,%n오리봉,%n프라이팬,%n칼...
 
-# Quest: First Breeding
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.name=첫 번째 번식
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=당신의 작물 지지대에 새로운 식물이 자랐습니다. 우클릭으로 작물을 수확할 수 있습니다.%n%n좌클릭을 하면 식물이 파괴되고 씨앗주머니를 떨어뜨립니다. 하지만 반드시 떨어뜨리는 건 아니며, 씨앗주머니를 떨어뜨리는 확률은 식물이 성장할수록 증가합니다. 이 퀘스트를 완료하려면 아무 종류의 씨앗 8개를 수집하세요.%n%n다음 퀘스트를 진행하려면 LV 스캐너가 필요합니다.%n%n아직 만들지 않았다면, 서류 캐비닛을 만드는 것을 고려해 보세요. 대량의 씨앗을 보관하고 옮길 때 매우 편리하며, 이름 기준으로 자동 정렬도 해줍니다. 특정 씨앗을 찾으려면 NEI 검색창에 이름을 입력하고 검색창을 더블 클릭해 노란색으로 강조하세요. 이제 서류 캐비닛을 훑어보며 원하는 씨앗주머니를 쉽게 찾을 수 있습니다.%n%n아니면 큰 상자를 사용해 원하는 씨앗만 보관하고, 원하지 않는 씨앗은 버리세요.
-
 # Quest: Fish Trapping 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8Q.name=통발 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8Q.desc=낚시는 매우 지루할 수 있습니다. 통발로 자동화해서는 어떨까요?%n%n이것은 통발 2.0입니다.
@@ -4821,10 +4837,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-A.desc=맥주나 다른 알코올성 �
 # Quest: Fake Jagermeister
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-w.name=가짜 예거마이스터
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-w.desc=예거마이스터는 독일에서 흔히 마시는 술이에요, 한 병 어떠세요? 이건 좀 싸구려 가짜인 것 같긴 해요...
-
-# Quest: Time for a Spade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.name=모종삽을 사용할 시간입니다.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.desc=이 아이템은 제초용 삽, 괭이, 삽을 결합한 것입니다. 만약 무언가를 실수로 저지르는 타입이라면, 필요할 때만 사용하는 것이 좋습니다. 잡초만 제거하려다가 작물을 수확하거나 파괴해 망쳐 버리기 쉽기 때문이죠.%n%n작물이 §9미성숙§r한 상태일 때 §6오른쪽 클릭§r으로 씨앗을 얻을 수 있지만 확률이 매우 낮습니다. §9미성숙§r한 상태에서 §4왼쪽 클릭§r을 사용하면 아무것도 얻을 수 없습니다.%n%n작물이 §a성숙§r한 상태일 때는 §6왼쪽 클릭§r을 사용하면 씨앗을 얻을 확률이 더 높아집니다. §a성숙§r한 상태에서 §4오른쪽 클릭§r을 사용하면, 맨손으로 때렸을 때보다 씨앗이 더 낮은 확률로 떨어집니다.%n%n작물의 티어/스탯이 높을수록 확률이 낮아진다는 것을 기억하세요. 많이요.%n%n[note]공식은 다음과 같습니다.%n1+tanh((-1)(X+5((-Re/2)+Gr+Ga)/21)/12)%n%nX는 0에서 16사이의 티어, Re, Gr, Ga는 각각 작물의 저항, 성장, 수확 스탯을 가리킵니다. 이게 왼쪽/오른쪽 클릭 중 어디에 해당하는지는 저에게 묻지 말고, bart에게 묻거나 코드를 보세요.[/note]
 
 # Quest: Juice
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPg.name=주스
@@ -4882,10 +4894,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAw.desc=꿀은 설탕이 많이 들어�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBA.name=말벌 꿀
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBA.desc=거대한 말벌들은 네더에서 찾을 수 있습니다. 빨리! 그들의 벌집에 몰래 들어가 꿀을 훔쳐보세요!%n%n§3§3인벤토리에 병이나 양동이에 넣어둔 액체만 있어도 퀘스트가 그것을 감지합니다.
 
-# Quest: Hops, the Source of Beer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCA.name=홉, 맥주의 원천
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCA.desc=순수 알코올 대신 맥주를 원하신다면, IC2 농작물을 교배시켜 홉을 얻으세요.
-
 # Quest: Really OP Food
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyw.name=정말 OP 식품
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyw.desc=당신은 때때로 상자에서 찾을 수 있는 과소 평가된 Dezil의 마시멜로에 대해 들어봤을 것입니다. 스스로 이 요리를 만드는 방법을 보여드릴까요?%n%n드림 차원의 유동하는 영혼(Witchery)을 마스터한 후, IV 믹서에 밀가루, 설탕, 살리스 문둠스, 드라코늄 먼지를 조금 넣습니다. %n레시피는 유동하는 영혼을 주면 시작되며, 이는 매우 악취 나고 싫증나는 무언가...인 변형 슬러시를 얻게 됩니다. %n%n주의하세요, 이것을 손에 들고 있으면 실명 II를 얻게 됩니다.
@@ -4901,118 +4909,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFzg.desc=다음 단계는 마쉬멜로�
 # Quest: Cooling Your Marshmallow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFzw.name=당신의 마쉬멜로우를 식히기
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFzw.desc=다음 단계에서는 HV 진공 냉각기에서 빛나는 마쉬멜로우를 냉각시켜 더욱 안정적으로 만듭니다.%n%n그럼에도 불구하고 약화 II와 메스꺼움 II 효과를 받게 됩니다.
-
-# Quest: Analyze Your Crops
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBQ.name=작물을 분석하세요
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBQ.desc=크롭널라이저는 IC2 작물 씨앗 주머니를 분석하는 데 사용되는 동력 도구입니다. MV 기계에 넣어 충전하며, 이를 가득 차게 유지하려면 MV 배터리를 넣는 것이 좋습니다. 씨앗 주머니를 완전히 분석하려면 씨앗 주머니를 크롭널라이저에 네 번 넣어야 합니다. 만일 작물이 이미 심어져 있다면, 그것을 파괴하기보다는 포터블 스캐너로 분석하는 것이 좋습니다 - 파괴할 때마다 씨앗을 잃을 위험이 있습니다.%n%n크롭널라이저에는 IC2 Crop Calculator라는 기능도 있으며, 여기서는 어떤 작물을 짝지어 기르면 어떤 출력이 나오는지를 찾을 수 있습니다. 계산기에 접속하려면 크롭널라이저를 들고 IC2 측 인벤토리 키를 누르세요. 사용 가능한 모든 작물을 선택하고 어떤 식물들이 결과의 좋은 비율을 가지고 있는지 알아볼 수 있습니다. 그리고 아니요, 반대로 해서는 안 되고, 그것에 대해서는 디스코드에서 crops.zip을 검색하세요(그것은 micadia를 가지고 있지 않습니다).%n%n네 종류의 작물을 선택하여 함께 배양할 수 있습니다. 그런 다음 "진행"을 클릭하고 하단 행에는 가능한 교배 출력물과 그들의 가중치가 표시될 것입니다. 행의 작물들을 스크롤하려면 GUI의 +와 - 버튼을 사용할 수 있습니다. GUI의 버튼을 사용해 행을 티어나 가중치에 따라 정렬할 수도 있습니다. Shift 키를 누른 상태에서 정렬 버튼을 누르면 정렬을 반대로 할 수 있습니다.%n%n특정 작물을 얻으려 할 때는 일반적으로 그 백분율을 최대화하려고 합니다. 이것은 같은 식물 2-4개를 같이 배양함으로써 할 수 있습니다(더 많으면 더 빠릅니다). 식물 유형을 교차하는 것은 장점이 없으며, 당신이 생각하는 것과는 반대로 원하는 것을 얻을 확률을 줄입니다.%n%n§9§n[url]https://wiki.gtnewhorizons.com/wiki/IC2_Crops_List[/url]§r에서 자세한 정보를 보려면 작물 가이드를 사용하세요.%n%n스틱리드의 넓은 밭은 많은 가치 있는 교차품을 만들 확률이 좋습니다. 이는 그것이 상당히 높은 티어(그들은 주로 주변 티어로 임의로 변이합니다)이며 매우 빠르기 때문입니다. 그래서 빨리 높은 성별 수치를 얻을 수 있으며, 당신은 그것을 먼저 해야 합니다. 변이는 무작위로 발생하며 스틱리드로부터 변성체를 얻을 수도 있다는 것을 기억하세요. 비슷한 작물이 나올 경향이 있으므로, 예를 들어 금속을
-
-# Quest: Crop Automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.name=작물 자동화
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.desc=Crop-Matron은 11x11x3 크기의 영역에 있는 작물들을 모니터링하고 필요에 따라 비료, Weed-EX, 물을 자동으로 적용하는 LV 기계입니다. 물은 직접 펌핑으로 공급하거나 IC2 범용 물 셀을 사용할 수 있습니다. 일반 셀은 사용되면 반환되지 않습니다.%n%nCrop-Matron은 방수 기능이 있지만, 전력 공급 장치를 커버처리할 필요가 있습니다(이를 위한 멋진 방법을 찾을 수도 있습니다), 또는 LV 배터리를 사용해도 됩니다. 리튬 이온은 약 2시간 동안 지속됩니다. %n%n갈이한 흙은 물이 가까이 있어야만 충분히 수분을 공급받을 수 있습니다. 왜냐하면 Matron은 작물에만 물을 주고 흙에는 물을 주지 않기 때문입니다. 불편하지 않게 걷기 위해 연꽃잎을 위에 놓아보거나, 대신 Garden Soil을 사용해보십시오.
-
-# Quest: Weed Ex
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.name=잡초 제거제
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.desc=잡초 제거제는 빈 작물 블록에 잡초가 자라지 않게 해줍니다. 다만 잡초 제거제가 조금 소모됩니다. 작물 품질이 손상되는 것처럼 보이지만 사실이 아닙니다! 저희가 코드를 직접 확인했으니 믿으셔도 됩니다. §o하지만§r 잡초로 간주하는 경우에는(venomilia Gr 8 이상, 그 외 작물은 Gr 24 이상) 작물이 스탯을 1만큼 잃을 수도 있습니다. 어쩌면요. 물론 다시 올릴 수도 있습니다. 그래도 잡초 제거제를 너무 많이만 주지 않으면 스탯을 잃지 않습니다. 작물 관리기는 그렇게 안 주지만요.%n%n사용법:%n잡초 제거제를 들고 작물을 우클릭하면 적용됩니다. 또한 작물 관리자에 넣어 자동으로 작물에 적용할 수도 있습니다.
-
-# Quest: Reed and Resin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQA.name=갈대와 레진
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQA.desc=처음 얻게 되는 유용한 작물 중 하나가 Stickreed입니다. 성장이 빠르고, 고무나무 수액과 사탕수수(완전히 자라기 전에 수확하세요)를 생산할 수 있습니다. 또한, 다른 작물과 교배하여 스탯을 올릴 때도 좋습니다. 가장 좋은 전략 중 하나는 스탯을 20/31/10 정도까지 키운 뒤 이를 기반으로 교배해 나가는 것입니다. 대부분은 23/31/10까지 키우라고 말하겠지만, 성장 스탯이 24 이상이 되면 잡초처럼 행동하므로 약간의 여유를 두는 것이 좋습니다.%n%n고무나무 수액과 사탕수수를 각각 두 세트씩 가져오면 비료를 교환해 드리겠습니다.%n%n[note]PS, 이걸 얻을 수 있다면 사실 고무 나무는 필요 없습니다.%n%nStickreed 씨앗을 얻게 되면, 씨앗을 스캔하기 위해 기본 스캐너가 필요할 것입니다. 스탯에 상관없이 모두 스캔 가능합니다. 관련 퀘스트는 LV 단계에 있으며, MV 회로가 필요하니 참고하세요.[/note]
-
-# Quest: Metals From the Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQQ.name=지구에서 나온 금속들
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQQ.desc=상위 티어의 작물로 광물 생산을 더욱 늘릴 수 있습니다. 이들 섬유와 잎을 분쇄된 광석과 섞으면 출력이 4배로 늘어나며, 일부는 직접 먼지로 전환될 수 있습니다. 나중에는 UU 물질과 이러한 재료를 섞어 순수한 광석을 만들 수 있습니다.%n%n이처럼 금속 작물을 얻는 능력을 보여주시면, 보다 희귀한 작물의 통계값이 좋은 씨앗 주머니와 더 많은 비료를 드리겠습니다. 원천 작물로는 에센스 베리나 광석 딸기류가 좋습니다.%n%n작물이 100퍼센트 성숙도에 이르기 위해선, 작물 아래에 해당 광물 블록이 필요합니다. 광물 블록과 작물 사이에 흙을 사용하면 가장 좋은 성장 조건을 만들 수 있습니다.%n%nFerru와 Aurelia의 경우, GT 광석 블록 대신 금속 블록을 사용해야 합니다 - 하지만 황혼의 숲에서 자동 채굴한 바닐라 광석 블록은 사용할 수 있습니다. 코인 탭에서도 몇 개를 구매할 수 있습니다. WAILA는 당신이 사용하는 블록을 작물이 받아들일 수 있는지 알려줄 것입니다.
-
-# Quest: Water, Water, Everywhere
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQg.name=물, 물, 어디서나
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQg.desc=작물을 물 근처에 심어야 하긴 하지만, 사실 물이 있다고 수분을 얻지는 않습니다. 직접 물을 주기 전까지는요. 수화 셀을 만들어 작물에 사용하면 성장이 빨라집니다.%n%n빈 셀은 추출기에서 재활용할 수 있습니다.
-
-# Quest: Feeling a Little Like a Noob...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQw.name=조금 초보 같은 기분이 드네요...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQw.desc=그러니 제가 레벨업할 수 있도록 에센스 베리를 키워 주시겠어요? 덤불에서 얻은 열매를 심거나 교배로 얻어도 됩니다.%n%n보상으로 제 친구가 만든 우스꽝스러운 씨앗을 드릴게요. 분명히 긴장을 늦출 수 없을 거예요.
-
-# Quest: Put the Petal to the Metal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRA.name=꽃잎을 메탈로 바꾸십시오
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRA.desc=... 유채에서 생산한 바이오 디젤과 함께 말이죠!%n%n유채는 민들레, 코코아, 감자 또는 레몬에서 얻어볼 수 있습니다.
-
-# Quest: Better Than Milk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRQ.name=우유보다 낫다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRQ.desc=요즘 기분이 좋지 않습니다. 테라왓을 좀 키워주셨으면 좋겠어요. 테라왓은 부정적인 효과만 제거하기 때문에 우유보다 낫고, 64개까지 쌓을 수 있습니다. 특히 알케미스트 지옥사냥꾼과 싸울 때 정말 좋습니다.%n%n또한 그들은 Auramx8, Praecantatiox4 그리고 Victusx4 에센시아가 있어서, 신흥 마술사에게 아주 유용합니다. 그리고 당신은 이들을 웅성거림을 통해 얻는 대신 네더왓 아래에 눈 블록을 놓고 기다리면 얻을 수 있습니다.
-
-# Quest: Sweet Tooth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRg.name=달콤한 이빨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRg.desc=사탕수수나 갈대만으로는 당분 수요를 못 따라가나요? 사탕무는 한 개에 설탕을 8개씩 줍니다. 감자나 당근으로 사탕무를 쉽게 구할 수 있습니다.%n%n흠, 이제 사탕을 먹고 싶어졌어요. 비트에서 얻은 설탕 좀 주세요. 나눠 드릴게요.%n%n[note]설탕을 전기분해 하면 쉽게 산소를 얻을 수 있습니다.[/note]
-
-# Quest: More Useful IC2 Crops
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRw.name=더 유용한 IC2의 작물
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRw.desc=큰 농장을 가지게 되면, 작물을 수확하는 것이 꽤 번거로울 수 있습니다. GT 낫, Sense를 만들어서 5x5 = 25배나 더 쉽게 하세요.%n%n§3PS: Sense는 과거에 멀티고, 예상보다 더 많이 수확할 수 있습니다. 신중하게 테스트하세요.
-
-# Quest: More Red, Less Wheat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyQ.name=더 많은 빨간색, 더 적은 밀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyQ.desc=작물을 교배해 뽑아낼 때는 목표 작물과 티어가 비슷하고 속성이 유사한 작물을 선택하는 것이 좋습니다.%n%n예를 들어, Redwheat의 속성은 "Red", "Wheat", "Redstone" 이고 티어가 6입니다. Netherwart는 "Red" 속성을 가지며 5티어에 속합니다. 작물 분석기의 예측 모드를 사용하면 Netherwart 두 개가 Redwheat를 생성해낼 점수를 볼 수 있습니다.%n%n이 교배는 빛 레벨이 5~10 사이여야만 일어난다는 점을 확실히 해두세요. 솔직히 조건 면에서는 가장 까다롭습니다.%n%n사실 MV에 도달하면 발광석 작물을 만들어 원심분리하거나 레드스톤 블록 작물을 만드는 편이 더 좋습니다. 사실 그냥 캐도 됩니다. Red wheat == Dead wheat.
-
-# Quest: Turning Dirt into proper Soil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAQ.name=흙을 좋은 토양으로
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAQ.desc=조립기와 씨앗기름을 이용하면 흙과 모래를 정원 흙으로 변환할 수 있습니다. 이 최적의 토양은 주변에 물이 필요 없으며, 달리거나 위에서 떨어져도 작물이 부서지지 않습니다.%n%n물에 젖은 경작지와는 다르게, 이 흙은 습도 스탯에 기여하지 않으며 IC2 작물의 성장을 가속하지 않기 때문에 극한의 효율을 추구하는 데는 적합하지 않습니다.%n%nEnchanted Eearth, 성장의 램프, 스프링쿨러 등도 마찬가지입니다.
-
-# Quest: Crop Stats
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAg.name=작물 상태
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAg.desc=포터블 스캐너를 사용하면 마우스 오른쪽 버튼을 클릭하여 그것이 아직 땅에 있는 상태에서 작물의 상태와 환경 정보를 얻을 수 있습니다. 또한 씨앗을 얻은 후에도 스캔된 상태를 유지합니다. Multiblock Goals의 EBF 이후에 나오는 포터블 스캐너 퀘스트를 찾아보세요. 그러나 이러한 상태에 대하여:%n%n§a성장§r:%n어떻게 빨리 자라는지, 높을수록 = 더 빠릅니다. 구체적으로 말하면, 성장 틱당 작물이 얻는 성장 점수를 증가시킵니다. 만약 24 이상이 되면, 작물은 잡초처럼 작용하므로, 대부분의 사람들은 23 이하로 유지하라고 말합니다. 하지만 특정 조건에서만 다른 작물에 잡초가 퍼질 것입니다.%n%n1) 같은 Y 레벨에서 기본 방향입니다. 2) 오직 흙/잔디, 작물지지대나 작물에만 영향을 줍니다. 3) 만약 그곳에 §o또한§r 잡초인 작물이 있고 그것이 성숙도 1 > 이면, 그것에는 §o영향을 주지 않습니다§r 4) 그것이 작물에 영향을 주면, 그것은 일반 잡초로 대체될 것입니다.%n%n§9이득§r:%n당신이 얼마나 많은 드랍을 받을 것인지, 아니면 전혀 받지 않을 것인지에 대한 확률을 영향을 주며, 31이 확실히 가장 좋습니다.%n%n§e저항력§r:%n이 상태는 몇가지 작물 속성에 대한 책임이 있습니다: 작물을 때려서 씨앗을 얻을 확률, 작물이 밟힘에 대한 저항력(그 위로 점프), 환경 상태 부족으로 인해 작물이 죽는 확률 감소, 작물이 잡초의 퍼짐에 대한 저항력. 또한 저항력이 올라감에 따라 변이 확률도 줄어듭니다(보아하니). 균형을 위해서는 약 10을 목표로 하세요.
-
-# Quest: Metals From the Sky
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAw.name=하늘에서 내려온 금속들
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAw.desc=작물을 활용해 지구에서 발견되지 않는 금속도 만들어낼 수 있습니다! 작물이 완전히 성숙하기 위해서는, 해당 금속 블록이 작물 아래에 위치해야 합니다.%n%n그리고, 상위 티어의 작물은 씨앗을 떨어뜨릴 확률이 낮습니다. 따라서 그것들을 부시기 전에 두 번째 작물을 교배하는 것을 고려해보세요, 알겠죠?
-
-# Quest: New Threads
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.name=새로운 실들
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=거미를 잡아 실을 얻는 데 지쳤나요? 물지 않는 실 공급원으로 아마를 키워보세요.%n%n또한 IC2의 목화 씨앗이나 다른 모드의 목화를 작물 지지대에 심어 목화를 재배할 수도 있습니다. 다음 퀘스트의 코리움을 이용하면 쉽게 무두질한 가죽을 얻을 수 있습니다.
-
-# Quest: The Ground is Crying
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.name=땅이 울고 있습니다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.desc=염소의 다른 공급원이 필요하신가요? 눈물 줄기를 교배해 가스트의 눈물을 얻으면 소금물을 만들 수 있습니다.%n%n;-;%n%n네더 와트에서 눈물 줄기가 나올 겁니다.
-
-# Quest: Blazes Too Hard to Kill?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.name=블레이즈를 처치하기 너무 어려우신가요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.desc=그러면 번거로움을 피하기 위해 블레이즈리드를 키우세요.%n%n티어스토크는 쉽게 블레이즈리드를 얻을 수 있어야 합니다.
-
-# Quest: A Girl's Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCA.name=소녀의 최고의 친구
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCA.desc=여성을 감동시키고 싶나요? 갈대에 다이아몬드를 자라게 하는 건 어떨까요?!?
-
-# Quest: Why Does My Plant Bawk Like a Chicken?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCQ.name=왜 내 식물이 닭처럼 꼬꼬댁하는걸까요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCQ.desc=왜냐하면 달걀을 낳을 수 있기 때문입니다!
-
-# Quest: Vegan, But Still Want to Eat Meat?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCg.name=비건이지만, 여전히 고기를 먹고 싶으신가요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCg.desc=동물을 죽이는 대신, 돌연변이를 일으켜 돌아버린 GMO를 만들고 축산물을 생산해 보세요. 과학이죠!
-
-# Quest: Magic Metal Berry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCw.name=마법의 금속 열매
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCw.desc=..는 당연히 제 커버 밴드의 이름입니다. 그러나 사우뮴이나 보이드 메탈에 대한 훌륭한 작물이기도 합니다. 사우뮴을 얻으려면 철 블록이나 사우뮴 블록이, 보이드 메탈을 얻으려면 보이드 메탈 블록이 필요합니다. 다른 광석 딸기들처럼, 이 작물은 어두운 빛에서만 자라납니다. 모든 광석 딸기에서는 이를 얻을 수 있는 꽤 높은 확률을 가지고 있어야 합니다.
-
-# Quest: Other Magic Flowers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDA.name=다른 마법의 꽃들
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDA.desc=다른 마법의 꽃들도 가능하며, 이에는 쉼머리프, 만드라고라, 울프스 베인 등이 포함됩니다.
-
-# Quest: Stonelillies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDQ.name=돌 백합
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDQ.desc=돌 백합은 화강암, 현무암, 대리석을 찾지 않고도 먼지를 얻을 수 있게 해줍니다. 칼라이트, 플루오린 또는 대량의 알루미늄 (그리고 약간의 우라늄)을 재생 가능한 방법으로 얻을 수 있는 좋은 방법입니다.%n%n이들은 제대로 자라기 위해서는 그들 바로 아래에 원래의 블록이 필요합니다.%n%n또한 돌 분말을 위한 회색 돌 백합 (누가 그것을 더 필요로 하겠나요??)과 모래 또는 엔드스톤 분말을 위한 노란색 돌 백합도 있습니다. 영리한 화학자에게 유용합니다!
-
-# Quest: Growing some Glowstone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDg.name=발광석 좀 키우기
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDg.desc=발광석 작물에는 몇 가지 종류가 있습니다 - 발광화, 발광 산호, 발광버섯. 네더 와트는 이것들의 훌륭한 원천입니다.
-
-# Quest: Leaves of Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDw.name=강철의 잎사귀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDw.desc=어쨌든, 강철 잎입니다. 트와일라잇 포레스트에서 강철 잎을 갈아내는 대신, 평화롭게 작물을 재배하세요.
-
-# Quest: Plants That Make Their Own Fertilizer?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEA.name=자신의 비료를 만드는 식물들?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEA.desc=저도 같이 할래요! 이 식물은 여러분을 위해 비료 재료를 생산합니다.%n%nFertilia를 얻기 위해 교배할 가장 좋은 식물은 zomplant, venomilia, trollplant, spidernip입니다. 다만 venomilia는 독성이 있을 뿐만 아니라 성장 스탯 8 이상에서는 잡초처럼 퍼지니 조심하세요!%n%n멀티팜을 사용한다면 인회석과 이 식물이 만드는 IC2 비료를 사용해 Forestry 비료를 만드세요.%n%n[note]참고로 이건 가장 희귀한 작물로, zomplant를 사용해도 0.76%%의 확률밖에 되지 않기 때문에, 얻기까지 3 영겁쯤 걸리리라 예상합니다.[/note]
-
-# Quest: Renewable Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEQ.name=재생 가능한 기름
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEQ.desc=작물에서 나온 기름? 마치 벌에서 나온 기름만큼이나 말이 되네요!
 
 # Quest: Kitchenware 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLA.name=주방용품 2.0
@@ -5030,89 +4926,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.desc=이제 반죽을 가지고 있�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.name=닭이 탈출하지 못하게 해라!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=파이를 좋아하시나요? 저는 분명 좋아합니다! 여러분에게 다양한 종류의 파이가 준비되어 있습니다. 치킨 포트 파이는 만들기 가장 쉬운 것 중 하나입니다. 그냥 치킨, 감자, 당근, 그리고 도우 몇 개면 됩니다. 과일 파이는 조금 더 단순해서 포화감을 많이 회복하지는 못하지만, 가장 좋은 음식이 소화되는 동안 배를 채우는 데는 좋습니다.
 
-# Quest: You Can't Tell Them Apart Either?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.name=당신도 그들을 구분할 수 없나요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.desc=많은 식물들이 비슷하게 생겼습니다. 언젠가는 기계를 사용하여 그들을 구분하고 더 많은 것을 알 수 있지만, 지금은 간단한 식물 렌즈를 만들어 적어도 종을 식별할 수 있습니다.%n%n그것을 사용한 후에는 다음과 같은 것들을 알 수 있습니다:%n종류%n작물 티어%n성장 가능 여부(일부 작물에는 요구사항이 있습니다)%n수확 가능 여부%n성장 단계 및 다음 단계로의 진행률
-
-# Quest: Coal...From Withereed?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.name=위더리드에서 나온 석탄...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.desc=위더리드는 석탄의 원천이자, 상위 티어에 필요한 좋은 종자입니다.%n%n완전히 성장시키려면 아래에 석탄 블록이 필요합니다.
-
-# Quest: Son of Odin One-Eye
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiA.name=오딘 원아이의 아들
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiA.desc=번개의 신 작물로 네더의 토륨 광석을 4배로 늘릴 수 있습니다. 또한, Reactoria 작물을 위해 사용할 수 있는 우라늄을 제공합니다.
-
-# Quest: Just Cover Your Privates When You Walk By
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiQ.name=그저 지나갈 때마다 비밀을 커버하십시오
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiQ.desc=리액토리아 작물은 리액토리아 잎을 드롭하며, 이는 피치블렌드 광석의 수량을 4배로 늘려줍니다.
-
-# Quest: Ironwood is Better Than Normal Wood
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHig.name=아이언우드는 일반 나무보다 더 좋습니다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHig.desc=강철잎류에 꼭 필요한 단계일까요? 아마 아닌 것 같아요. 하지만 아이언우드는 좋은 요리용 롤러와 괜찮은 Sense blade를 만듭니다.%n%n크리퍼 잡초가 라이브루트 씨앗을 줄 확률이 꽤 높습니다.
-
-# Quest: Vegan Leather?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiw.name=비건 가죽?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiw.desc=만약 소와 말을 우유나 ...접착제... 용으로 남겨두고 싶다면, 대신 코리움을 사용하여 가죽을 만들 수 있습니다.
-
-# Quest: Gunpowder? More Like Dirtpowder!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjA.name=화약? 아니, 더 정확히는 흙 가루라고 해야겠네요!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjA.desc=크리퍼 잡초는 폭발로 성가실 일 없이도 여러분의 화약 수요를 충족시켜 줍니다. 또한 상당한 수의 속성을 가지고 있어, 무작위 작물의 좋은 원천이죠.%n%nCorium을 교배해 크리퍼 잡초를 얻을 수 있습니다.
-
-# Quest: Milk of the Earth-Mother
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjQ.name=지구 어머니의 우유
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjQ.desc=우유 사마귀를 키우면 이제 소를 전부 치워도 됩니다. 좋지 않나요?
-
-# Quest: Better Put On That Rubber Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnQ.name=그 고무 슈트를 입는 것이 좋을 것입니다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnQ.desc=트롤 식물! 이게 뭘 할까요? 당신을 트롤링하죠!
-
-# Quest: Who the Hell is Bob?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHng.name=대체 Bob이 누구인가요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHng.desc=거래나 다른 용도로 에메랄드가 필요하신가요? 이곳이 그 원천입니다.
-
-# Quest: And I Dub Thee Sir Knight
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnw.name=그리고 나는 너를 기사로 서방한다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnw.desc=무한한 나이트메탈 원천이 필요하신가요? 이건 자라기 힘든 식물입니다. 충분한 영양, 깨끗한 공기, 비료, 물을 제공해야 합니다. 식물이 죽으면 저한테 울면서 말하지 마세요. 모든 광석 딸기가 좋은 원천 작물이며, 코발트와 아다이트는 가장 좋고, 그 다음으로는 철과 나머지가 있습니다.
-
-# Quest: Do You Taste Metal?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2A.name=금속 맛이 나나요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2A.desc=금속 광석 딸기는 새로운 씨앗의 훌륭한 원천입니다. 교배하거나 코인 상점에서 구매할 수 있습니다. 저는 동이 필요하니, 딸기 몇 개만 가져다 주세요.%n%n금속 광석 딸기는 완전히 성숙하려면 그 금속의 블록이 필요하지만, 그 전에 줄기가 덜 자란 상태에서 어느 정도 수확할 수 있습니다. 그 외 거의 모든 것이 블록을 필요로 하며, 성숙하기 전에는 수확할 수 없습니다. 그것이 원하는 것이 무엇인지 확인하려면 씨앗 주머니를 봐주세요. 구체적인 블록은 위키에서도 확인할 수 있습니다. 대체로, 해당하는 것들에 대해선 광석 또는 금속 블록을 사용하면 됩니다.
-
-# Quest: Deep Blue Sea of Sapphires
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2Q.name=사파이어의 깊고 푸른 바다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2Q.desc=구리 광석 딸기에서 쉽게 사파이어를 얻을 수 있습니다. 성숙하려면 그들 아래에 사파이어 블록이 필요합니다. 이들은 LV에서 알루미늄과 산소의 좋은 원천입니다.
-
-# Quest: Red Touch Yellow
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2g.name=빨간색이 노란색에 닿다
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2g.desc=가넷은 사파이어보다 실제로 더 가치가 있습니다. 가넷은 HV 기계에 필요한 크롬과 망간의 초기 출처입니다. 성숙에 이르기 위해서는 이 작물 아래에 가넷 블록(어느 종류이든)이 필요합니다. HV 분쇄기와 스페스타인 광석에서 가넷을 얻거나, 가넷 모래를 결정으로 변환하여 블록으로 만들기 위해 충격 압축기를 사용할 수 있습니다.
-
-# Quest: Moss
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAA.name=이끼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAA.desc=황혼의 숲에서 이끼 찾는 걸 포기하셨나요? 다양한 종류의 이끼를 주는 작물을 쉽게 재배할 수 있습니다. Tinker's 도구에 안성맞춤이죠. 연꽃잎부터 시작하세요.
-
-# Quest: Wax On, Wax Off
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.name=왁스를 바르고, 왁스를 닦아내기
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.desc=바닐라 나무 묘목을 직접 작물 지지대에 놓을 수 있습니다. 이렇게 하면 "분재" 나무가 생깁니다. 분재 나무는 일반 나무처럼 드랍 아이템을 주지만, 나무 블록을 모두 생성한 뒤 다시 베어내는 것처럼 CPU를 낭비하지 않습니다.%n%n나무를 생성하고 베어내는 과정은 서버에 상당한 오버헤드를 발생시킬 수 있으므로, 서버를 위해서라도 열분해 오븐용 분재 나무를 키워보세요. 스탯이 오른 분재 나무는 드롭량도 많고 빠르니, 자동화할 수 있다면 안 할 이유가 없습니다.
-
 # Quest: Pumpkin Pie
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhw.name=호박 파이
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhw.desc=호박 파이는 할로윈, 추수감사절, 그리고 크리스마스 때 특히 인기 있는 전통적인 미국 디저트입니다.%n%n단지 두 개의 호박과 세 개의 설탕으로 1.5 음식 바를 채울 수 있습니다. 맛있게 드세요.%n
 
-# Quest: Even More Stats
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0Q.name=더 많은 통계
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0Q.desc=더 걱정할 일인 세븐 개의 통계가 있습니다.%n%n§7비료§r, §9물§r, 그리고 §4잡초-EX§r는 모두 해당 작물이 아닌 작물의 지지대에 어느 정도 적용되었고, 얼마나 남아 있는지에 대한 것입니다.%n%n§2영양분§r, §1습도§r, 그리고 §6공기 품질§r은 모두 환경에 관한 것입니다. 이들은 또한 비료와 물의 통계에 의해 영향을 받습니다.%n%n영양분과 습도는 대체로 적절한 생태계에 대한 것이며, 습지와 열대우림 타입(더운+습한)이 최고이지만, 올바르게 설정함으로써 약간의 추가 통계를 얻을 수도 있습니다.%n%n§2영양분§r:%n농지 블록 아래의 흙에서 3개의 가능한 무료 포인트, 특정 블록을 필요로하는 식물에 대해 2개입니다. 따라서, 최적화를 위해선 항상 필요한 블록이 최하단에 위치하도록 확인해야 합니다. 왜냐하면, 체인에 대해서만 검사하고, 특정 높이에 대해서는 검사하지 않기 때문입니다. 예를 들어: 작물 지지대 -> 농지 -> 흙 -> 광물 블록 -> 흙, 이 경우에는 광물 블록 아래의 흙은 무시하고 1개의 흙만을 인식합니다.%n%n비료를 주어서 얻는 5~10개의 가능한 포인트입니다. 자신의 작물을 비료로 주어 그 영양분 상태를 높일 수 있습니다. 비료는 199에서 최대로 적용되어 10개의 영양분을 제공하지만, 만약 작물이 100 포인트 이하로 떨어지면 다시 적용할 수 있습니다. 따라서 고통계 작물의 경우 199-> 100 수치가 일치하지 않는 고정된 상수로 100의 비료 포인트에 대해 가정하고 테스트를 진행 하는 것이 안전합니다. IC2 비료와 Forestry 비료를 손으로 작물에 주는 방식으로 직접 적용할 수 있습니다. Forestry의 수동적인 과수원 multifarm과 Crop matron은 공급된 비료가 있을 때 자동으로 이를 적용해줍니다(또한, multifarm은 작물을 수확하기 위해서도 비료가 필요합니다).%n%n§1습도§r:%n흙을 농지로 사용함으로써 얻는 2개의 무료 포인트입니다. 농지는 물에 의해 수분을 흡수하여(더 어둡게 변함) 2개의 습도 포인트를 얻습니다. 이것이 왜 이를 위한 다른 블록들이 효과적이지 않은 이유입니다. 그들은 이 보너스를 제공하지 않기 때문입니다.%n%n작물을 수분 공급 함으로써 얻을 수 있는 10개의 가능한 포인트입니다. 비료처럼 물을 최대 200 포인트까지 작물에 적용할 수 있으며, 이는 10개의 습도 포인트입니다. 하지만 비료와 달리 100 이하로 떨어질 필
-
-# Quest: Min-Maxing Crops
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.name=작물 효율 극대화
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.desc=Stickreed를 20/31/10 근처로 교배한 후, 이를 사용해 다른 작물을 만들면 그 작물은 스탯을 물려받습니다. 교배 과정에서 얻은 다른 작물과 교배해 스탯을 계속 올리는 것도 좋습니다.%n%nY130 근처의 늪/정글 계열 바이옴에 자리를 잡거나, 바이옴 변환 방법을 사용해 해당 바이옴으로 만드세요. 이러면 단순히 수확용으로 작물을 재배할 때 뿐만 아니라 교배 속도도 훨씬 빨라집니다.%n%n멀티팜을 항상 사용하세요. 작물 속도가 매우 빠르면 수확기와 함께 사용할 수도 있고, 아니면 농장을 더 많이 사용하거나 기어박스를 더 추가해도 됩니다.%n%n어두운 유리는 oreberry 작물용으로 유용합니다.%n%n잡초 제거를 피하려면 멀티팜에서 체커판처럼 위아래 줄을 교차해 배치하세요. 보기에는 멍청해 보일지 몰라도, 성장 스탯을 23에서 31로 올려도 잡초가 없고, +2의 대기질 스탯을 얻습니다!%n%nFertilia를 사용해 비료를 더 많이 생산하세요.%n%n여러분에게 다른 드롭템이 중요하지 않다면 몹팜을 작물로 대체할 수도 있습니다. 인페르널 몹은 특별한 아이템을 드롭하긴 하지만요.%n%n필요한 경우 세계 가속기를 TE(타일 엔티티) 모드로 바꿔 작물을 가속하세요. 주로 교배, 스탯작, 그리고 Primordial berry 용으로 유용합니다.%n%n티어가 올라가면, 기계와 UUM을 이용해 31/31/0 작물을 만들 수 있습니다. 다만 그게 가치가 있는지는 여러분에게 달렸습니다.%n%nEV 티어 이상의 재료를 원한다면 벌을 돌보러 가세요.
-
 # Quest: Barley Time
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpQ.name=보리 심는 시간
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpQ.desc=빵을 만들기 위해 보리를 심을 시간이 되었습니다. 만약 밀을 찾을 수 없다면, 보리는 밀가루를 만드는 좋은 대체품입니다.
-
-# Quest: Genetically Modifying Your Plants
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqQ.name=식물의 유전자를 변형시키는 방법
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqQ.desc=이 작업을 수행하기 위해 필요한 기계는 총 3대입니다. 또한 대량의 전력과 마찬가지로 UUM이 필요하게 됩니다.%n%n기계의 티어와 작물에 따라 모든 3대의 기계는 특정 티어까지만 작물에 작업을 할 수 있습니다. 기본적으로, (작물 티어+2)/2이고, 이 값은 올림합니다. 따라서 LV 기계는 T1 작물에서, MV 기계는 T3 작물에서 작업할 수 있습니다.%n%n§3LV=T1, MV=T3, HV=T5, EV=T7, IV=T9, LuV=T11, ZPM=T13, UV=T15, UHV=T17.§r%n%n첫 번째는 Crop Gene Extractor입니다:%n존재하는 작물 씨앗 주머니, 빈 §2Data Orb§r(EV 퀘스트 참조)와 §61A§r 러닝 동안 필요합니다. 회로를 사용하여 Data Orb에 복사할 통계를 선택하십시오. 이 중에서 진화하는 것이 아니라, 최대 속도와 출력을 위해서는 보통 23-31-0 또는 31-31-0을 원할 것입니다. 23보다 산출량이 높을 경우 적절한 예방 조치를 취하는 것을 기억하세요, 그들은 주변의 모든 잡초를 제거하려 할 것입니다. 작물의 종류가 상당히 많으므로, 재사용하지 않으려면 Orb도 많이 필요할 것입니다. §4Data Orb나 씨앗 주머니의 백업을 보관하는 것을 잊지 마세요!§r%n%n두 번째는 Crop Synthesizer입니다:%n§24개의 Data Orb§r(각각 CGE의 타입에 대한 것), §5작물 티어/2 당 1000L의 UUM§r(이것은 반올림이 아님)와 러닝 동안 §616A§r가 필요합니다. 원하는 통계를 가진 새로운 씨앗 주머니를 만들어냅니다.%n%n마지막은 Crop Replicator입니다:%n존재하는 작물 씨앗 주머니, §5작물 티어당 1000L의 UUM§r, 그리고 러닝 동안 §66A§r이 필요합니다. 완료되면 동일한 씨앗 주머니 두 개를 되돌려주어, 이와 동일한 것을 복제합니다. 이 방법은 UUM을 두 배로 소비하지만, 전력은 덜 들기 때문에 그 가치를 판단하는 것은 당신에게 달려있습니다.
 
 # Quest: Cooking for Blockheads
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALTw.name=바보를 위한 요리법
@@ -5125,6 +4945,706 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALUg.desc=썩은 살점은 정말로 건�
 # Quest: A Magical Lunchbox?
 betterquesting.quest.ogXyVJTpQ8ONbZthhrupqg.name=A Magical Lunchbox?
 betterquesting.quest.ogXyVJTpQ8ONbZthhrupqg.desc=Given sufficient magical prowess, the Thaumaturgist need not waste their time physically consuming food. The Talisman of Nourishment can hold up to 1000 hunger and 1000 saturation points, and will feed you automatically. %n%nYou can fill it up by placing food items on your hotbar, the more valuable the food, the more points added.%n%n[note]Careful not to place food items you want to keep in your hotbar while you have it on you![/note]
+
+
+## Quest Line: The Green Revolution
+betterquesting.questline.GbGDSZsbQUekpRKT9ZPdjw.name=The Green Revolution
+betterquesting.questline.GbGDSZsbQUekpRKT9ZPdjw.desc=And remember crawlers: Kill, Kill, Kill! But only plants.
+
+# Quest: Mutation Titration
+betterquesting.quest.0P-0LIDsRa-0r0SDSfZTUg.name=Mutation Titration
+betterquesting.quest.0P-0LIDsRa-0r0SDSfZTUg.desc=Before going any further you really should craft a lot,[note] and I mean a lot[/note], of crop sticks. Hope you like chopping trees and crafting saws! §o§oYou should've seen the old recipe...%n%n§o§rEach of the adjacent quest groupings represent a different category of crops found within the mod. I would recommend you look first at the quests focusing on [warn]Improving Your Crops[/warn] and [warn]Controlled Breeding[/warn].
+%n%nWhile not every crop will produce a useful harvest, they very well may deterministically breed into a useful crop.%n%n%n[note]Be free farmhand~![/note]
+
+# Quest: Vanilla Agriculture
+betterquesting.quest.0pG3BaWpTQWJLWKudvCdcw.name=Vanilla Agriculture
+betterquesting.quest.0pG3BaWpTQWJLWKudvCdcw.desc=Most plants from vanilla Minecraft can simply be placed onto crop sticks to create their associated CropsNH crop. This is especially helpful when it comes to Bonsais, which will allow you to more easily (and less laggily) produce the hectares of wood you will need for your progression.%n%nNote the soil requirements for your bonsai in NEI, these §lwill not grow §ron normal tilled farmland.
+
+# Quest: Salty!
+betterquesting.quest.1b0GPUIOTL2vkERs7LqFtg.name=Salty!
+betterquesting.quest.1b0GPUIOTL2vkERs7LqFtg.desc=These Salty Roots will break down into bountiful materials once you're able to seperate them in a Chemical Bath.
+
+# Quest: Aluminium Berries
+betterquesting.quest.1rhK6oRBQ-qc6YJxPn4CuQ.name=Aluminium Berries
+betterquesting.quest.1rhK6oRBQ-qc6YJxPn4CuQ.desc=Maybe this will stop you from tearing down entire mesas worth of terracotta.
+
+# Quest: Passive Production
+betterquesting.quest.20MjFyzJQhWPEPkK0EZDeA.name=Passive Production
+betterquesting.quest.20MjFyzJQhWPEPkK0EZDeA.desc=One of the main reasons for getting into CropsNH is the passive production of resources. 
+%n
+%nThe many crops attached to this quest will generally provide you the direct resource you are looking for. This can be perfect for getting that extra bit of aluminium you need to push through MV, or for generating a passive amount of basic minerals long before any other techniques become available.%n%nKeep in mind the under-soil requirements for these crops especially. To passively produce aluminium, you will first need blocks of aluminium or bauxite ore.
+
+# Quest: Controlled Breeding
+betterquesting.quest.39AFOCfITcSl7WMmATD3Aw.name=Controlled Breeding
+betterquesting.quest.39AFOCfITcSl7WMmATD3Aw.desc=To breed more advanced crops, you will have to start taking advantage of Breeding Pools. Pools represent groups of species which share a genetic background, and can therefore randomly mutate into each other when breeding on crop sticks. %n%nWhen breeding, deterministic crosses will always take priority over pools.%n%nWhether by pools or determinism, new crops will only be produced if the environment of the relevant double crop sticks matches the required environment of the new crop.%n%nFor you, this will be a key concept to take advantage of when attempting to breed many of the different species of Liliums found in CropsNH.
+
+# Quest: Oh-Oh-Oh-Olivia
+betterquesting.quest.3GtBaKquRvWXh6S4VqcD3Q.name=Oh-Oh-Oh-Olivia
+betterquesting.quest.3GtBaKquRvWXh6S4VqcD3Q.desc=You know-oh-oh Olivine?
+
+# Quest: The Environmental Enhancement Unit
+betterquesting.quest.3uJ9TqwJQ5K3UPUFmx06sQ.name=The Environmental Enhancement Unit
+betterquesting.quest.3uJ9TqwJQ5K3UPUFmx06sQ.desc=If you don't want to magically change the biome which the Industrial Farm controller is located in, you will have to apply advanced biome simulation technology to your Industrial Farm.%n%nThe Environmental Enhancement Unit allows a single Environmental Module to be used. Up to two are allowed per Industrial Farm. Each unlocks one of the two slots in the IF Controller where you can insert the Modules while the machine is powered off. Each one increases the power usage by 50%%.%n%n
+%nAs with all upgrades, the tier of the upgrade must match the tier of the seedbed.
+
+# Quest: Slimy Seeds
+betterquesting.quest.4hn4bXWvSay8UYjckHDH4A.name=Slimy Seeds
+betterquesting.quest.4hn4bXWvSay8UYjckHDH4A.desc=The slime plant represents yet another way to produce those sticky materials needed for rubber and therefore electronic components.
+
+# Quest: Tine
+betterquesting.quest.5K0m6kADSVqZuouYNTEYWw.name=Tine
+betterquesting.quest.5K0m6kADSVqZuouYNTEYWw.desc=Tine leaves will 4x your tin ore.
+
+# Quest: Nightshade
+betterquesting.quest.5KieQ6A4R1CGnGQd4CuQXw.name=Nightshade
+betterquesting.quest.5KieQ6A4R1CGnGQd4CuQXw.desc=With the intense amount of magical energy the Nightshade eminates, you will need an Industrial Farm to produce and harvest it.
+
+# Quest: Environmental Upgrades
+betterquesting.quest.5vhRsuqOTjeLbozeMGcweA.name=Environmental Upgrades
+betterquesting.quest.5vhRsuqOTjeLbozeMGcweA.desc=These modules each simulate a single favored biome tag for the crops in your IF.
+
+# Quest: Tools of the Trade 3 - Feeding(?) Your Crops
+betterquesting.quest.6HEnaqUVQuWHhHc3MAgQnA.name=Tools of the Trade 3 - Feeding(?) Your Crops
+betterquesting.quest.6HEnaqUVQuWHhHc3MAgQnA.desc=That water source block doesn't really do it for your little guys. They will need a bit more attention, so use a watering can to increase their hydration stat.%n%nCurrently you must directly right click the crop sticks with the watering can to apply the hydration.
+
+# Quest: Other Fruits
+betterquesting.quest.7UxcGl38S4yX3bIg7EdN-Q.name=Other Fruits
+betterquesting.quest.7UxcGl38S4yX3bIg7EdN-Q.desc=Yes, tomatoes and chillies are technically fruits.
+
+# Quest: Don't Forget Your Veggies
+betterquesting.quest.82cQe4FcTTS5D8SuprUeaw.name=Don't Forget Your Veggies
+betterquesting.quest.82cQe4FcTTS5D8SuprUeaw.desc=Have you eaten your veggies today? That's what I thought.
+
+# Quest: Seed Generator
+betterquesting.quest.8VW6FtZZRf6SAviHhNftWg.name=Seed Generator
+betterquesting.quest.8VW6FtZZRf6SAviHhNftWg.desc=The Seed Generator is a new single-block machine that allows players to clone existing seeds (with some very rare exceptions). You will need a seed to clone, a catalyst item (based on the material produced by the seed), and 100L of enriched fertilizer per stat: so a 31/31/31 seed will require 9.3KL fertilizer per seed.%n
+%n
+%nYou only need one of the machines for this quest.
+
+# Quest: Not The Pipes
+betterquesting.quest.8XwasO5LQDW-ynx3pu2Zeg.name=Not The Pipes
+betterquesting.quest.8XwasO5LQDW-ynx3pu2Zeg.desc=Stop using this for your pipes please. I swear. It's like you don't want a working brain. The throughput of potin just isn't worth it!
+
+# Quest: Primordial "Berries"
+betterquesting.quest.8vumBDgBToW6ngAzW1qF2Q.name=Primordial "Berries"
+betterquesting.quest.8vumBDgBToW6ngAzW1qF2Q.desc=You'll need a block of Ichorium to grow these bad boys so, don't expect them to ease your pathway to thaumic mastery. %nThey will also require an Industrial Farm to grow.
+
+# Quest: Jack, is that you?
+betterquesting.quest.9IaKfZelRA2GaWVUgFvJQg.name=Jack, is that you?
+betterquesting.quest.9IaKfZelRA2GaWVUgFvJQg.desc=Magic beans! Unfortunately no stalks into the sky here though.
+
+# Quest: Silver And... Silver
+betterquesting.quest.9mlSMwwETgGeMJTOggJfvg.name=Silver And... Silver
+betterquesting.quest.9mlSMwwETgGeMJTOggJfvg.desc=Silver dust!
+
+# Quest: Rubber Bonsai
+betterquesting.quest.A21peFIQTEKAgY7eH4tjLw.name=Rubber Bonsai
+betterquesting.quest.A21peFIQTEKAgY7eH4tjLw.desc=Easy rubber wood and sticky resin! %n%nThese bonsai present a more complicated alternative to other rubber production methods, while providing some more highly useful materials.
+
+# Quest: Speed Up Your Plant Growth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.name=식물 성장을 가속하세요
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0g.desc=성장 과정을 약간 가속하기 위해 비료를 사용할 수 있습니다. 하지만 뼛가루는 더 이상 효과가 없음을 알게 될 것입니다. 조금의 재, 인회석 또는 방해석을 화학 반응기에서 물과 섞으면 필요한 비료를 얻을 수 있습니다. 손으로 뿌려주세요.
+%n2. Using fertilizer prevents stat loss during crop breeding. Meaning the only options for stat changes become (0,+1+,+2, etc).%n%nBefore you get access to a Chemical Reactor, use bonemeal instead for a small bump of fertilizer!
+
+# Quest: Becoming a Florist
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.name=플라워 파워
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1Q.desc=작물 지지대에 염료를 재배하고 싶다면 꽃을 심어보세요. 장미와 민들레를 교배하면 새로운 꽃과 다른 색의 새로운 염료를 얻을 수 있을지도 모릅니다.%n%n바닐라 꽃을 작물 지지대에 심으려면 꽃 4개가 필요합니다. 또한 밝은 빛이 있어야만 꽃을 심을 수 있습니다.%n%n"장미 씨앗"을 얻으려면 양귀비를 심으세요. 사실 이 외에도 사용할 수 있는 꽃은 여러 종류가 있습니다.%n%n[note]만약 염료가 목적이라면, 차라리 무지개 선인장을 만드세요.[/note]
+%n
+%n[note]If you actually want these for dyes, go make the rainbow cactus instead.[/note]
+
+# Quest: Tools of the Trade 1 - Less Dirty Hands
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.name=모종삽을 사용할 시간입니다.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9g.desc=이 아이템은 제초용 삽, 괭이, 삽을 결합한 것입니다. 만약 무언가를 실수로 저지르는 타입이라면, 필요할 때만 사용하는 것이 좋습니다. 잡초만 제거하려다가 작물을 수확하거나 파괴해 망쳐 버리기 쉽기 때문이죠.%n%n작물이 §9미성숙§r한 상태일 때 §6오른쪽 클릭§r으로 씨앗을 얻을 수 있지만 확률이 매우 낮습니다. §9미성숙§r한 상태에서 §4왼쪽 클릭§r을 사용하면 아무것도 얻을 수 없습니다.%n%n작물이 §a성숙§r한 상태일 때는 §6왼쪽 클릭§r을 사용하면 씨앗을 얻을 확률이 더 높아집니다. §a성숙§r한 상태에서 §4오른쪽 클릭§r을 사용하면, 맨손으로 때렸을 때보다 씨앗이 더 낮은 확률로 떨어집니다.%n%n작물의 티어/스탯이 높을수록 확률이 낮아진다는 것을 기억하세요. 많이요.%n%n[note]공식은 다음과 같습니다.%n1+tanh((-1)(X+5((-Re/2)+Gr+Ga)/21)/12)%n%nX는 0에서 16사이의 티어, Re, Gr, Ga는 각각 작물의 저항, 성장, 수확 스탯을 가리킵니다. 이게 왼쪽/오른쪽 클릭 중 어디에 해당하는지는 저에게 묻지 말고, bart에게 묻거나 코드를 보세요.[/note]
+%n
+%n1 resist = 3%%
+%n10 resist = 32%%
+%n21 resist = 100%%
+
+# Quest: Hops, The Source of Beer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCA.name=홉, 맥주의 원천
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCA.desc=순수 알코올 대신 맥주를 원하신다면, IC2 농작물을 교배시켜 홉을 얻으세요.
+
+# Quest: Babies First Harvest Automaton
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.name=작물 자동화
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBg.desc=Crop-Matron은 11x11x3 크기의 영역에 있는 작물들을 모니터링하고 필요에 따라 비료, Weed-EX, 물을 자동으로 적용하는 LV 기계입니다. 물은 직접 펌핑으로 공급하거나 IC2 범용 물 셀을 사용할 수 있습니다. 일반 셀은 사용되면 반환되지 않습니다.%n%nCrop-Matron은 방수 기능이 있지만, 전력 공급 장치를 커버처리할 필요가 있습니다(이를 위한 멋진 방법을 찾을 수도 있습니다), 또는 LV 배터리를 사용해도 됩니다. 리튬 이온은 약 2시간 동안 지속됩니다. %n%n갈이한 흙은 물이 가까이 있어야만 충분히 수분을 공급받을 수 있습니다. 왜냐하면 Matron은 작물에만 물을 주고 흙에는 물을 주지 않기 때문입니다. 불편하지 않게 걷기 위해 연꽃잎을 위에 놓아보거나, 대신 Garden Soil을 사용해보십시오.
+
+# Quest: Weed-EX
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.name=잡초 제거제
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBw.desc=잡초 제거제는 빈 작물 블록에 잡초가 자라지 않게 해줍니다. 다만 잡초 제거제가 조금 소모됩니다. 작물 품질이 손상되는 것처럼 보이지만 사실이 아닙니다! 저희가 코드를 직접 확인했으니 믿으셔도 됩니다. §o하지만§r 잡초로 간주하는 경우에는(venomilia Gr 8 이상, 그 외 작물은 Gr 24 이상) 작물이 스탯을 1만큼 잃을 수도 있습니다. 어쩌면요. 물론 다시 올릴 수도 있습니다. 그래도 잡초 제거제를 너무 많이만 주지 않으면 스탯을 잃지 않습니다. 작물 관리기는 그렇게 안 주지만요.%n%n사용법:%n잡초 제거제를 들고 작물을 우클릭하면 적용됩니다. 또한 작물 관리자에 넣어 자동으로 작물에 적용할 수도 있습니다.
+
+# Quest: Sticky Canes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQA.name=갈대와 레진
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQA.desc=처음 얻게 되는 유용한 작물 중 하나가 Stickreed입니다. 성장이 빠르고, 고무나무 수액과 사탕수수(완전히 자라기 전에 수확하세요)를 생산할 수 있습니다. 또한, 다른 작물과 교배하여 스탯을 올릴 때도 좋습니다. 가장 좋은 전략 중 하나는 스탯을 20/31/10 정도까지 키운 뒤 이를 기반으로 교배해 나가는 것입니다. 대부분은 23/31/10까지 키우라고 말하겠지만, 성장 스탯이 24 이상이 되면 잡초처럼 행동하므로 약간의 여유를 두는 것이 좋습니다.%n%n고무나무 수액과 사탕수수를 각각 두 세트씩 가져오면 비료를 교환해 드리겠습니다.%n%n[note]PS, 이걸 얻을 수 있다면 사실 고무 나무는 필요 없습니다.%n%nStickreed 씨앗을 얻게 되면, 씨앗을 스캔하기 위해 기본 스캐너가 필요할 것입니다. 스탯에 상관없이 모두 스캔 가능합니다. 관련 퀘스트는 LV 단계에 있으며, MV 회로가 필요하니 참고하세요.[/note]
+
+# Quest: Feeling a Little Like a Noob?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQw.name=조금 초보 같은 기분이 드네요...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGQw.desc=그러니 제가 레벨업할 수 있도록 에센스 베리를 키워 주시겠어요? 덤불에서 얻은 열매를 심거나 교배로 얻어도 됩니다.%n%n보상으로 제 친구가 만든 우스꽝스러운 씨앗을 드릴게요. 분명히 긴장을 늦출 수 없을 거예요.
+
+# Quest: Put the Petal to the Metal...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRA.name=꽃잎을 메탈로 바꾸십시오
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRA.desc=... 유채에서 생산한 바이오 디젤과 함께 말이죠!%n%n유채는 민들레, 코코아, 감자 또는 레몬에서 얻어볼 수 있습니다.
+
+# Quest: Warts!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRQ.name=우유보다 낫다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRQ.desc=요즘 기분이 좋지 않습니다. 테라왓을 좀 키워주셨으면 좋겠어요. 테라왓은 부정적인 효과만 제거하기 때문에 우유보다 낫고, 64개까지 쌓을 수 있습니다. 특히 알케미스트 지옥사냥꾼과 싸울 때 정말 좋습니다.%n%n또한 그들은 Auramx8, Praecantatiox4 그리고 Victusx4 에센시아가 있어서, 신흥 마술사에게 아주 유용합니다. 그리고 당신은 이들을 웅성거림을 통해 얻는 대신 네더왓 아래에 눈 블록을 놓고 기다리면 얻을 수 있습니다.
+%nThey also have some quite rare essentia on them, very useful for the budding thaumaturge.
+
+# Quest: Sweet Tooth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRg.name=달콤한 이빨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGRg.desc=사탕수수나 갈대만으로는 당분 수요를 못 따라가나요? 사탕무는 한 개에 설탕을 8개씩 줍니다. 감자나 당근으로 사탕무를 쉽게 구할 수 있습니다.%n%n흠, 이제 사탕을 먹고 싶어졌어요. 비트에서 얻은 설탕 좀 주세요. 나눠 드릴게요.%n%n[note]설탕을 전기분해 하면 쉽게 산소를 얻을 수 있습니다.[/note]
+
+# Quest: More Red, Less Wheat
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyQ.name=더 많은 빨간색, 더 적은 밀
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyQ.desc=작물을 교배해 뽑아낼 때는 목표 작물과 티어가 비슷하고 속성이 유사한 작물을 선택하는 것이 좋습니다.%n%n예를 들어, Redwheat의 속성은 "Red", "Wheat", "Redstone" 이고 티어가 6입니다. Netherwart는 "Red" 속성을 가지며 5티어에 속합니다. 작물 분석기의 예측 모드를 사용하면 Netherwart 두 개가 Redwheat를 생성해낼 점수를 볼 수 있습니다.%n%n이 교배는 빛 레벨이 5~10 사이여야만 일어난다는 점을 확실히 해두세요. 솔직히 조건 면에서는 가장 까다롭습니다.%n%n사실 MV에 도달하면 발광석 작물을 만들어 원심분리하거나 레드스톤 블록 작물을 만드는 편이 더 좋습니다. 사실 그냥 캐도 됩니다. Red wheat == Dead wheat.
+
+# Quest: Tools Of The Trade 5 - Electronic Scanning
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAg.name=작물 상태
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAg.desc=포터블 스캐너를 사용하면 마우스 오른쪽 버튼을 클릭하여 그것이 아직 땅에 있는 상태에서 작물의 상태와 환경 정보를 얻을 수 있습니다. 또한 씨앗을 얻은 후에도 스캔된 상태를 유지합니다. Multiblock Goals의 EBF 이후에 나오는 포터블 스캐너 퀘스트를 찾아보세요. 그러나 이러한 상태에 대하여:%n%n§a성장§r:%n어떻게 빨리 자라는지, 높을수록 = 더 빠릅니다. 구체적으로 말하면, 성장 틱당 작물이 얻는 성장 점수를 증가시킵니다. 만약 24 이상이 되면, 작물은 잡초처럼 작용하므로, 대부분의 사람들은 23 이하로 유지하라고 말합니다. 하지만 특정 조건에서만 다른 작물에 잡초가 퍼질 것입니다.%n%n1) 같은 Y 레벨에서 기본 방향입니다. 2) 오직 흙/잔디, 작물지지대나 작물에만 영향을 줍니다. 3) 만약 그곳에 §o또한§r 잡초인 작물이 있고 그것이 성숙도 1 > 이면, 그것에는 §o영향을 주지 않습니다§r 4) 그것이 작물에 영향을 주면, 그것은 일반 잡초로 대체될 것입니다.%n%n§9이득§r:%n당신이 얼마나 많은 드랍을 받을 것인지, 아니면 전혀 받지 않을 것인지에 대한 확률을 영향을 주며, 31이 확실히 가장 좋습니다.%n%n§e저항력§r:%n이 상태는 몇가지 작물 속성에 대한 책임이 있습니다: 작물을 때려서 씨앗을 얻을 확률, 작물이 밟힘에 대한 저항력(그 위로 점프), 환경 상태 부족으로 인해 작물이 죽는 확률 감소, 작물이 잡초의 퍼짐에 대한 저항력. 또한 저항력이 올라감에 따라 변이 확률도 줄어듭니다(보아하니). 균형을 위해서는 약 10을 목표로 하세요.
+
+# Quest: New Threads
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.name=새로운 실들
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBQ.desc=거미를 잡아 실을 얻는 데 지쳤나요? 물지 않는 실 공급원으로 아마를 키워보세요.%n%n또한 IC2의 목화 씨앗이나 다른 모드의 목화를 작물 지지대에 심어 목화를 재배할 수도 있습니다. 다음 퀘스트의 코리움을 이용하면 쉽게 무두질한 가죽을 얻을 수 있습니다.
+
+# Quest: The Ground is Crying
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.name=땅이 울고 있습니다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.desc=염소의 다른 공급원이 필요하신가요? 눈물 줄기를 교배해 가스트의 눈물을 얻으면 소금물을 만들 수 있습니다.%n%n;-;%n%n네더 와트에서 눈물 줄기가 나올 겁니다.
+
+# Quest: Blazes Too Hard to Kill?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.name=블레이즈를 처치하기 너무 어려우신가요?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.desc=그러면 번거로움을 피하기 위해 블레이즈리드를 키우세요.%n%n티어스토크는 쉽게 블레이즈리드를 얻을 수 있어야 합니다.
+
+# Quest: A Proposal?!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCA.name=소녀의 최고의 친구
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCA.desc=여성을 감동시키고 싶나요? 갈대에 다이아몬드를 자라게 하는 건 어떨까요?!?
+
+# Quest: Why Does My Plant Bawk Like a Chicken?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCQ.name=왜 내 식물이 닭처럼 꼬꼬댁하는걸까요?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCQ.desc=왜냐하면 달걀을 낳을 수 있기 때문입니다!
+
+# Quest: Void Berries
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCw.name=마법의 금속 열매
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHCw.desc=..는 당연히 제 커버 밴드의 이름입니다. 그러나 사우뮴이나 보이드 메탈에 대한 훌륭한 작물이기도 합니다. 사우뮴을 얻으려면 철 블록이나 사우뮴 블록이, 보이드 메탈을 얻으려면 보이드 메탈 블록이 필요합니다. 다른 광석 딸기들처럼, 이 작물은 어두운 빛에서만 자라납니다. 모든 광석 딸기에서는 이를 얻을 수 있는 꽤 높은 확률을 가지고 있어야 합니다.
+
+# Quest: Positively Glowing
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDg.name=발광석 좀 키우기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDg.desc=발광석 작물에는 몇 가지 종류가 있습니다 - 발광화, 발광 산호, 발광버섯. 네더 와트는 이것들의 훌륭한 원천입니다.
+
+# Quest: Cover Crops? Who Needs Those?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEA.name=자신의 비료를 만드는 식물들?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEA.desc=저도 같이 할래요! 이 식물은 여러분을 위해 비료 재료를 생산합니다.%n%nFertilia를 얻기 위해 교배할 가장 좋은 식물은 zomplant, venomilia, trollplant, spidernip입니다. 다만 venomilia는 독성이 있을 뿐만 아니라 성장 스탯 8 이상에서는 잡초처럼 퍼지니 조심하세요!%n%n멀티팜을 사용한다면 인회석과 이 식물이 만드는 IC2 비료를 사용해 Forestry 비료를 만드세요.%n%n[note]참고로 이건 가장 희귀한 작물로, zomplant를 사용해도 0.76%%의 확률밖에 되지 않기 때문에, 얻기까지 3 영겁쯤 걸리리라 예상합니다.[/note]
+
+# Quest: Renewable Oil - No Diagenesis Required
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEQ.name=재생 가능한 기름
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEQ.desc=작물에서 나온 기름? 마치 벌에서 나온 기름만큼이나 말이 되네요!
+
+# Quest: Tools of the Trade 2 - Mendelian Identification
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.name=당신도 그들을 구분할 수 없나요?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.desc=많은 식물들이 비슷하게 생겼습니다. 언젠가는 기계를 사용하여 그들을 구분하고 더 많은 것을 알 수 있지만, 지금은 간단한 식물 렌즈를 만들어 적어도 종을 식별할 수 있습니다.%n%n그것을 사용한 후에는 다음과 같은 것들을 알 수 있습니다:%n종류%n작물 티어%n성장 가능 여부(일부 작물에는 요구사항이 있습니다)%n수확 가능 여부%n성장 단계 및 다음 단계로의 진행률
+
+# Quest: Wither Skulls Easy Style
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.name=위더리드에서 나온 석탄...?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.desc=위더리드는 석탄의 원천이자, 상위 티어에 필요한 좋은 종자입니다.%n%n완전히 성장시키려면 아래에 석탄 블록이 필요합니다.
+
+# Quest: Son of Odin One-Eye
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiA.name=오딘 원아이의 아들
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiA.desc=번개의 신 작물로 네더의 토륨 광석을 4배로 늘릴 수 있습니다. 또한, Reactoria 작물을 위해 사용할 수 있는 우라늄을 제공합니다.
+
+# Quest: Reactoria
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiQ.name=그저 지나갈 때마다 비밀을 커버하십시오
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiQ.desc=리액토리아 작물은 리액토리아 잎을 드롭하며, 이는 피치블렌드 광석의 수량을 4배로 늘려줍니다.
+
+# Quest: Vegan Leather?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiw.name=비건 가죽?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiw.desc=만약 소와 말을 우유나 ...접착제... 용으로 남겨두고 싶다면, 대신 코리움을 사용하여 가죽을 만들 수 있습니다.
+
+# Quest: Explosive Growth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjA.name=화약? 아니, 더 정확히는 흙 가루라고 해야겠네요!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjA.desc=크리퍼 잡초는 폭발로 성가실 일 없이도 여러분의 화약 수요를 충족시켜 줍니다. 또한 상당한 수의 속성을 가지고 있어, 무작위 작물의 좋은 원천이죠.%n%nCorium을 교배해 크리퍼 잡초를 얻을 수 있습니다.
+
+# Quest: Plant Based Milk
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjQ.name=지구 어머니의 우유
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjQ.desc=우유 사마귀를 키우면 이제 소를 전부 치워도 됩니다. 좋지 않나요?
+%nSoy Milk? Nay.
+%n
+%nWart Milk. Say goodbye to your cattle.
+
+# Quest: Better Put On That Rubber Suit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnQ.name=그 고무 슈트를 입는 것이 좋을 것입니다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHnQ.desc=트롤 식물! 이게 뭘 할까요? 당신을 트롤링하죠!
+
+# Quest: Who the Hell is Bob?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHng.name=대체 Bob이 누구인가요?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHng.desc=거래나 다른 용도로 에메랄드가 필요하신가요? 이곳이 그 원천입니다.
+
+# Quest: Deep Blue Sea of Sapphires
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2Q.name=사파이어의 깊고 푸른 바다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2Q.desc=구리 광석 딸기에서 쉽게 사파이어를 얻을 수 있습니다. 성숙하려면 그들 아래에 사파이어 블록이 필요합니다. 이들은 LV에서 알루미늄과 산소의 좋은 원천입니다.
+
+# Quest: Red Touch Yellow
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2g.name=빨간색이 노란색에 닿다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI2g.desc=가넷은 사파이어보다 실제로 더 가치가 있습니다. 가넷은 HV 기계에 필요한 크롬과 망간의 초기 출처입니다. 성숙에 이르기 위해서는 이 작물 아래에 가넷 블록(어느 종류이든)이 필요합니다. HV 분쇄기와 스페스타인 광석에서 가넷을 얻거나, 가넷 모래를 결정으로 변환하여 블록으로 만들기 위해 충격 압축기를 사용할 수 있습니다.
+
+# Quest: Creeping Climbers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAA.name=이끼
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAA.desc=황혼의 숲에서 이끼 찾는 걸 포기하셨나요? 다양한 종류의 이끼를 주는 작물을 쉽게 재배할 수 있습니다. Tinker's 도구에 안성맞춤이죠. 연꽃잎부터 시작하세요.
+%n%nNo thousand block treck to the nearest Temperate Rainforest required here!
+
+# Quest: The Art of Bonsai
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.name=왁스를 바르고, 왁스를 닦아내기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZQ.desc=바닐라 나무 묘목을 직접 작물 지지대에 놓을 수 있습니다. 이렇게 하면 "분재" 나무가 생깁니다. 분재 나무는 일반 나무처럼 드랍 아이템을 주지만, 나무 블록을 모두 생성한 뒤 다시 베어내는 것처럼 CPU를 낭비하지 않습니다.%n%n나무를 생성하고 베어내는 과정은 서버에 상당한 오버헤드를 발생시킬 수 있으므로, 서버를 위해서라도 열분해 오븐용 분재 나무를 키워보세요. 스탯이 오른 분재 나무는 드롭량도 많고 빠르니, 자동화할 수 있다면 안 할 이유가 없습니다.
+
+# Quest: Improving Your Crops
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.name=작물 효율 극대화
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAK0g.desc=Stickreed를 20/31/10 근처로 교배한 후, 이를 사용해 다른 작물을 만들면 그 작물은 스탯을 물려받습니다. 교배 과정에서 얻은 다른 작물과 교배해 스탯을 계속 올리는 것도 좋습니다.%n%nY130 근처의 늪/정글 계열 바이옴에 자리를 잡거나, 바이옴 변환 방법을 사용해 해당 바이옴으로 만드세요. 이러면 단순히 수확용으로 작물을 재배할 때 뿐만 아니라 교배 속도도 훨씬 빨라집니다.%n%n멀티팜을 항상 사용하세요. 작물 속도가 매우 빠르면 수확기와 함께 사용할 수도 있고, 아니면 농장을 더 많이 사용하거나 기어박스를 더 추가해도 됩니다.%n%n어두운 유리는 oreberry 작물용으로 유용합니다.%n%n잡초 제거를 피하려면 멀티팜에서 체커판처럼 위아래 줄을 교차해 배치하세요. 보기에는 멍청해 보일지 몰라도, 성장 스탯을 23에서 31로 올려도 잡초가 없고, +2의 대기질 스탯을 얻습니다!%n%nFertilia를 사용해 비료를 더 많이 생산하세요.%n%n여러분에게 다른 드롭템이 중요하지 않다면 몹팜을 작물로 대체할 수도 있습니다. 인페르널 몹은 특별한 아이템을 드롭하긴 하지만요.%n%n필요한 경우 세계 가속기를 TE(타일 엔티티) 모드로 바꿔 작물을 가속하세요. 주로 교배, 스탯작, 그리고 Primordial berry 용으로 유용합니다.%n%n티어가 올라가면, 기계와 UUM을 이용해 31/31/0 작물을 만들 수 있습니다. 다만 그게 가치가 있는지는 여러분에게 달렸습니다.%n%nEV 티어 이상의 재료를 원한다면 벌을 돌보러 가세요.
+%n
+%n
+%n§aGrowth§r:%n- How fast it grows, with higher = faster. Specifically it increases the growth points your crop gets per tick. If it gets to 24+, your crop acts like a weed, so make sure you increase that resistance stat in parallel.
+%n
+%n§9Gain§r:
+
+%n- With higher levels of gain, you get more when you harvest your crops! Pretty self explanatory.
+%n
+%n§eResistance§r:
+
+%n- A resistance of 10 will guarantee a seed drop with a spade
+. 20 and 30 will drop 2 or 3 seeds, respectively. A resistance of 31 will guarantee a seed drop without a spade.
+%n
+%n- If the Growth stat is greater than 23, resistance will help prevent weeds from spreading. 
+A resistance of 31 will stop the crop from spreading weeds entirely.
+
+# Quest: Argentia
+betterquesting.quest.APU0Ykh9RMae9R7XqkXTKQ.name=Argentia
+betterquesting.quest.APU0Ykh9RMae9R7XqkXTKQ.desc=Argentia leaves will 4x your silver ore.
+
+# Quest: Pyrolusium
+betterquesting.quest.BuV2ZuQvRIOJeRNH4xtvoA.name=Pyrolusium
+betterquesting.quest.BuV2ZuQvRIOJeRNH4xtvoA.desc=Pyrolusium leaves will 4x your manganese ore.
+
+# Quest: Soul Sand Lilies
+betterquesting.quest.Bx86-2AfQKadFFMHdh3now.name=Soul Sand Lilies
+betterquesting.quest.Bx86-2AfQKadFFMHdh3now.desc=Oh hey, don't void that stuff, centrifuge it into something useful? (◕‿↼)
+
+# Quest: Lucky!
+betterquesting.quest.E3P20_dFSUiPdVSkma2iTA.name=Lucky!
+betterquesting.quest.E3P20_dFSUiPdVSkma2iTA.desc=Lazulia will produce lapis dust but not crystals.
+
+# Quest: Not A Mandrake
+betterquesting.quest.ECvjvBNURz-spVF95wOiJw.name=Not A Mandrake
+betterquesting.quest.ECvjvBNURz-spVF95wOiJw.desc=This live root won't scream when you harvest it. At least, I don't think it will.
+
+# Quest: Platina
+betterquesting.quest.ExzkZigMSNafnvdI-5apjg.name=Platina
+betterquesting.quest.ExzkZigMSNafnvdI-5apjg.desc=Platina leaves will 4x your plat line ores.
+
+# Quest: Basic Lilies
+betterquesting.quest.FB6XbhKLRk-QQEo2PsjGjA.name=Basic Lilies
+betterquesting.quest.FB6XbhKLRk-QQEo2PsjGjA.desc=These Liliums aren't the most useful, but if you're wanting to build with say Tuff or Andesite this should ease your search for resources somewhat.%n%nRemember that these crops can only be bred when their environmental requirements are met. In this case, use those stones from before as your under-soil.
+
+# Quest: Golden Berries
+betterquesting.quest.FXUYD5RRT4K7AHMMpnvOIw.name=Golden Berries
+betterquesting.quest.FXUYD5RRT4K7AHMMpnvOIw.desc=Gold oreberries!
+
+# Quest: Gem Crops
+betterquesting.quest.F_Ef5AtKQbSGmM24_LottQ.name=Gem Crops
+betterquesting.quest.F_Ef5AtKQbSGmM24_LottQ.desc=These crops crystalize and produce their related crystals and dusts straight from the soil.%n%nAll* of these crops will need a sub-soil of their related material whether block or ore.
+
+# Quest: Leafy... Grains?
+betterquesting.quest.FugIhOU6Q12Iq764ZRoMEA.name=Leafy... Grains?
+betterquesting.quest.FugIhOU6Q12Iq764ZRoMEA.desc=All of the above could be useful for the production of certain drinks. But really all you'll be using them for is getting to the next crop,
+
+# Quest: End Stone Lilies
+betterquesting.quest.GV1Cx5SnSyKETKjMO6FUcQ.name=End Stone Lilies
+betterquesting.quest.GV1Cx5SnSyKETKjMO6FUcQ.desc=Once you can actually get your hand on some endstone, these babies will allow for a §olot §o§rof high level passive material production.
+
+# Quest: Environmental Preferences
+betterquesting.quest.Hgj_XYnbRj2JGb8I-8QnLQ.name=Environmental Preferences
+betterquesting.quest.Hgj_XYnbRj2JGb8I-8QnLQ.desc=Each crop has a set of preferred biome tags. These can be viewed in NEI along with the other growth requirements. 
+%n%nHaving the proper biome tags will provide a significant Nutrient Point boost to your crops (§l+14 Points§r per tag).%n%nYou can only benefit from up to 2 biome tags (§l+28 Points§r).
+%n%nIt is possible to emulate a single preferred biome tag by planting your crops in a high-humidity location. The bonus scales linearly with humidity between 50%% and 80%%. Values below 50%% provide no bonus, while values above 80%% will hit the cap at an equivalent of 1 preferred biome tag (§l+14 Points).%n
+%n§l§rIf any favored biome tag is present in the current biome, the high humidity bonus will be ignored.
+%n%n%nThe Nature's Compass will allow you to view the tags of each biome as subtext within its menu.
+
+# Quest: Evil...
+betterquesting.quest.If475S_dQ5y_f8KcSRHeXQ.name=Evil...
+betterquesting.quest.If475S_dQ5y_f8KcSRHeXQ.desc=While it can't produce certus quartz crystals, it will give you plenty of the relevant nether crystal dusts as well as straight nether quartz.%n%n*Only needs netherack soil, no sub-soil neccesary here.
+
+# Quest: A Summary of Crossbreeding
+betterquesting.quest.Ik4r-iNLSEK_uq5FXqspQA.name=A Summary of Crossbreeding
+betterquesting.quest.Ik4r-iNLSEK_uq5FXqspQA.desc=When crops breed, the resulting stats are the average of the parents' stats plus a random value between -2 and 4.%n%nEssentially, the variation pool will be a fixed (-2 -> +4). If all parents have fertilizer in them, stat loss is prevented. (0 -> +4)
+%n%nDeterministic breeding is similar to how bees work, where you must bring the right species together.
+%nSome situations require more than two parents.
+%nAdvanced crops (above MV materials) will require the breeding machine.%n%nLow-ish-tier crops will also have access to breeding pools, where similar crops may be bred with others of the same “type” to produce other similar crops.
+
+# Quest: Thauminite Berries
+betterquesting.quest.J04fEo0DTReAF9BJlQZ9RA.name=Thauminite Berries
+betterquesting.quest.J04fEo0DTReAF9BJlQZ9RA.desc=Less blue blueberries. Thauminite oreberries!
+
+# Quest: Ardite Berries
+betterquesting.quest.JTmxoCTLTG2QXt6LoJhsBA.name=Ardite Berries
+betterquesting.quest.JTmxoCTLTG2QXt6LoJhsBA.desc=Ardite oreberries!
+
+# Quest: Weeds
+betterquesting.quest.JcFOAl5pTtKNnMY61dFV_w.name=Weeds
+betterquesting.quest.JcFOAl5pTtKNnMY61dFV_w.desc=Weeds will show up from time to time on empty single or double crop sticks. They will spread from there and take over all your precious crops, so clear the weed with your spade (or fist) before you start desiring to reload the last backup. %n%nUsing smaller fields will make things a lot easier, at least until you can make Weed-Ex, so if you forget about them you only lose one or two seeds.
+
+# Quest: Plant Diseases
+betterquesting.quest.JgfP8eDqS-mDGcjgk-m3Dg.name=Plant Diseases
+betterquesting.quest.JgfP8eDqS-mDGcjgk-m3Dg.desc=Plant Cure is used to cure sickly crops. Crops will get sick in two scenarios:%n%n1. A weed has grown and overtaken the crop.%n2. A crop does not reach minimum environmental requirements.%n
+%nYou must spray the cure manually, however as a side effect it will apply a minimal amount of fertilizer so that crops will not immediately become sickly again.
+
+# Quest: Iridine
+betterquesting.quest.KPORP3a2Q6K6jrjXhgoksA.name=Iridine
+betterquesting.quest.KPORP3a2Q6K6jrjXhgoksA.desc=Iridine leaves will 4x your iridium ore.
+
+# Quest: Spruce Bonsai
+betterquesting.quest.L-unyIeFSCmjU1szB1sXwg.name=Spruce Bonsai
+betterquesting.quest.L-unyIeFSCmjU1szB1sXwg.desc=Easy spruce wood!
+
+# Quest: Farming the Graveyard
+betterquesting.quest.Lop-uKsMQMiGgodxs9pUjg.name=Farming the Graveyard
+betterquesting.quest.Lop-uKsMQMiGgodxs9pUjg.desc=While surveying species in the wild, you found some unique sproutlings reaching from a corpse. I wonder what these will provide.
+
+# Quest: Carrot Stock
+betterquesting.quest.MDRmD3RyR8CIdqdpll_74w.name=Carrot Stock
+betterquesting.quest.MDRmD3RyR8CIdqdpll_74w.desc=Now that you've stolen the food from your harmless neighbors, or found it in nature like a considerate person, you must now plant these carrots onto crop sticks. Wait until the crop is §3fully grown§r and left-click it for the best chance to obtain the seeds.%n%nNo, the undomesticated Wild Carrot won't work. What are you, a rabbit?
+
+# Quest: Enriched Fertilizer
+betterquesting.quest.Nu5EfJtNQ0qIUW0Lt0E4yA.name=Enriched Fertilizer
+betterquesting.quest.Nu5EfJtNQ0qIUW0Lt0E4yA.desc=Enriched fertilizer will allow you to advance to the next stage of crop technology! %nIt is used in countless ways moving forward, but just to list a few it will be:%n%n - Pumped into Industrial Farms for increased growth rates.%n - Used to breed novel crops in the Crop Breeder.%n - Used to synthesize new seeds in the Seed Generator.%n%nIt will always be superior to the item based Fertilizer of the past, so moving forward you should be using it whenever possible.
+
+# Quest: Crop Sticks
+betterquesting.quest.O65QUnR0QuGSoQrsUMTB1g.name=Crop Sticks
+betterquesting.quest.O65QUnR0QuGSoQrsUMTB1g.desc=To do anything in CropsNH, you first need crop sticks. These will act as the supports for your plants to grow upon. Once your plants mature, a double crop stick will allow your plants to crossbreed with any crops directly adjacent to the same double crop stick.%n%nAs new species grow on your crop sticks you can harvest them by right-clicking, which won't remove the seed. Left-clicking will break the seed and potentially drop a seedbag. Spades will help you improve your chances at obtaining seeds when you do this, as will the Resistance trait.%n%n§lNote in NEI the varying types of soil, undersoil, and environmental%nrequirements for different crops!
+
+# Quest: Processing Multipliers
+betterquesting.quest.PR2T5CUTQ6-IaOQd132Mzg.name=Processing Multipliers
+betterquesting.quest.PR2T5CUTQ6-IaOQd132Mzg.desc=Multiplier crops are probably the most useful crops for late game. Thanks to the leaves harvested from these species, you can multiply your ore dusts ranging from basic iron to radioactive thorium many times over. Some can even be pressed for their respective resources.
+
+# Quest: Amethystia
+betterquesting.quest.PdVbnToTRuKXlvTqSg9qxQ.name=Amethystia
+betterquesting.quest.PdVbnToTRuKXlvTqSg9qxQ.desc=Not yet implemented, but looks pretty in the questbook so here you go!
+
+# Quest: Ore Berries
+betterquesting.quest.Q-4QPu7wRDC1ph_0uzziXA.name=Ore Berries
+betterquesting.quest.Q-4QPu7wRDC1ph_0uzziXA.desc=Ore Berries are a shockingly diverse and useful set of crops, a number of which you'll have already received from previous questbook rewards. However, they can give more than just the basic minerals.%n%nAll of these crops will only grow in dark enviroments, with a sub-soil of their related material whether block or ore.
+
+# Quest: Paper
+betterquesting.quest.Q5XreXK-TpG40Wa_pCiW7w.name=Paper
+betterquesting.quest.Q5XreXK-TpG40Wa_pCiW7w.desc=Papyrus represents one of the easiest ways to automate paper production in the game, if you needed that for some reason.
+
+# Quest: Potato Stock
+betterquesting.quest.QEd1ziVERKOXjzUj80M7Ig.name=Potato Stock
+betterquesting.quest.QEd1ziVERKOXjzUj80M7Ig.desc=Now that you've stolen the food from your harmless neighbors, or found it in nature like a considerate person, you must now plant these potatoes onto crop sticks. Wait until the crop is §3fully grown§r and left-click it for the best chance to obtain the seeds.
+
+# Quest: Nickelback
+betterquesting.quest.QkDDUfRUTNyspowtsQHJ7w.name=Nickelback
+betterquesting.quest.QkDDUfRUTNyspowtsQHJ7w.desc=Nickelback leaves will 4x your nickel ore.
+
+# Quest: Oak Bonsai
+betterquesting.quest.QvknAsqFQoKau7FK0ZPPSw.name=Oak Bonsai
+betterquesting.quest.QvknAsqFQoKau7FK0ZPPSw.desc=Easy oak wood, and apples!
+
+# Quest: Crop Nutrients
+betterquesting.quest.R7QRLmaJRHuxmNcGpjX0hQ.name=Crop Nutrients
+betterquesting.quest.R7QRLmaJRHuxmNcGpjX0hQ.desc=The speed at which a crop grows is based on its Nutrient Score. There are a number of different ways to obtain Nutrient Points for your crops, but to keep your crops from getting sick try to make sure they are always receiving at least a couple of the below bonuses:%n%n§l- +10 Points§r can be gained from having water in your crop sticks
+%n§l- +10 Points§r can be gained from having fertilizer in your crop sticks.
+%n§l- +2 Points§r can be gained from allowing the crop to see the sky.
+%n       - Crops in the Industrial Farm will always have this bonus.%n§l- +28 Points§r can be gained from preferred biome tags%n       - [warn]If no preferred tags are found[/warn], high humidity will §rgive up to §l+14 Points.§r %n       - See more on this in the Environmental Preferences quest.%n%nAll crops have a base Nutrient Score of 5.
+
+# Quest: Dark Oak Bonsai
+betterquesting.quest.RNs9o33VRcSIxlGcQnApfA.name=Dark Oak Bonsai
+betterquesting.quest.RNs9o33VRcSIxlGcQnApfA.desc=Easy dark oak wood!
+
+# Quest: Keeping The Sprouts Healthy
+betterquesting.quest.SeFoun3ZTYuJ16YNy-Bq3g.name=Keeping The Sprouts Healthy
+betterquesting.quest.SeFoun3ZTYuJ16YNy-Bq3g.desc=Weeds are a constant threat, whether in large automated fields or small crossbreeding plots. %n%nLets deal with them.
+
+# Quest: Breeding With Technology
+betterquesting.quest.Sel7hC1hT9ij2KcPa2g5ow.name=Breeding With Technology
+betterquesting.quest.Sel7hC1hT9ij2KcPa2g5ow.desc=The Crop Breeder is a new single-block machine that allows players to breed new crops deterministically. It will consume two seeds (the parents), some enriched fertilizer and a catalyst item for material-based plants.%n
+%nThe fertilizer cost is 1000L per tier of the offspring crop + 500L for each start point the new seed will have (it uses the average of the parents).%nSo a 31/31/31 tier 5 offspring would cost 51KL to breed. Ididine, osmianth and stargtatium are all IV recipes, 
+Titania is EV, and Bauxia is MV.%n%nBred crops will always have stats that are the average of their parents; breeding two maxed-out crops will always give a maxed-out offspring.%n
+%n§lSuccess chance starts at 50%% and increases by 10%% for every tier past%nMV, meaning that at ZPM, it’s guaranteed. A failed breed will void the %nparent seeds used.%n%n%n§rYou only need one of the machines for this quest.
+
+# Quest: Jungle Bonsai
+betterquesting.quest.SkvqyNIlQDmTBfLCsmDepQ.name=Jungle Bonsai
+betterquesting.quest.SkvqyNIlQDmTBfLCsmDepQ.desc=Easy jungle wood!
+
+# Quest: Caffeine
+betterquesting.quest.T4bs_MnkTX6Ugox2AkwQtg.name=Caffeine
+betterquesting.quest.T4bs_MnkTX6Ugox2AkwQtg.desc=I promise you won't be dissapointed, so try some coffee. Yes, more than one at a time.%n%n[warn]Just, don't drink too much[/warn]
+
+# Quest: Pams Who?
+betterquesting.quest.UJX_NTRpQb-V2IW4_CbUlA.name=Pams Who?
+betterquesting.quest.UJX_NTRpQb-V2IW4_CbUlA.desc=Lots and lots of food crops. While they may be less useful then other species you can grow, when compared to basic food crops the ability to stat these guys should make them pretty nice no matter the reason you need them.
+
+# Quest: Bamboo "Bonsai"
+betterquesting.quest.UXgyj5YwReqPhaolpqlSdQ.name=Bamboo "Bonsai"
+betterquesting.quest.UXgyj5YwReqPhaolpqlSdQ.desc=I mean, it's technically a grass, but close enough.
+
+# Quest: Enderbloom
+betterquesting.quest.UwvcwiLER7qQrbOY1M6iww.name=Enderbloom
+betterquesting.quest.UwvcwiLER7qQrbOY1M6iww.desc=As soon as you've got some endstone to grow it above, Enderblooms can be a great source for passive Nitrogen.
+
+# Quest: Auronia
+betterquesting.quest.WaN7I-xVSb2SAsDULnEBKg.name=Auronia
+betterquesting.quest.WaN7I-xVSb2SAsDULnEBKg.desc=Auronia leaves will 4x your gold ore.
+
+# Quest: Star Wart
+betterquesting.quest.WhDCyghURhuNaGl_rwNzYA.name=Star Wart
+betterquesting.quest.WhDCyghURhuNaGl_rwNzYA.desc=Passive Nether Stars?! Impossible. To grow crops which hold such immense power, you will require the Industrial Farm with high tier seed-beds.
+
+# Quest: A Knightly Snack
+betterquesting.quest.XAVtJOEOSyOPjeEKgo-eZg.name=A Knightly Snack
+betterquesting.quest.XAVtJOEOSyOPjeEKgo-eZg.desc=Tired of raiding all those dungeons for your armor shards? Use these!
+
+# Quest: Steelyamom
+betterquesting.quest.XYUqo9nLQ3eN0NngoqS1uw.name=Steelyamom
+betterquesting.quest.XYUqo9nLQ3eN0NngoqS1uw.desc=Get it?%n%n§2(つ▀^▀ )つ
+
+# Quest: Marble Lilies
+betterquesting.quest.Y4CDtA9eQT6tazZoiMvejg.name=Marble Lilies
+betterquesting.quest.Y4CDtA9eQT6tazZoiMvejg.desc=For the Greko-Romans among us, lots of magnesium can be found in this dust.
+
+# Quest: Hemp
+betterquesting.quest.YEb68DnHSTC0hC9YBst8TQ.name=Hemp
+betterquesting.quest.YEb68DnHSTC0hC9YBst8TQ.desc=Genuinely one of the most impressive crops in the world, this one plant can do nearly everything. From tea to clothing, rope to concrete. %nFor you, it will play a key role in the creation of Industrial Greenhouses in MV.
+
+# Quest: Magical Agriculture
+betterquesting.quest.YOH935zwShmW42dkm0szlA.name=Magical Agriculture
+betterquesting.quest.YOH935zwShmW42dkm0szlA.desc=These crops all stem from the magical side of our realm...%n%n... get it? Stem?
+
+# Quest: Scheelinium
+betterquesting.quest.Z4d2MWOOTyuBxdWVoaOMkQ.name=Scheelinium
+betterquesting.quest.Z4d2MWOOTyuBxdWVoaOMkQ.desc=Scheelinium leaves will 4x your scheelite, tungsten, lithium, and more.
+
+# Quest: Simple Propagation
+betterquesting.quest.Z_aW8Q3aSq2pU9hVhFX2qw.name=Simple Propagation
+betterquesting.quest.Z_aW8Q3aSq2pU9hVhFX2qw.desc=Propagating your plants is as easy as placing a double crop-stick adjacent to a mature plant and waiting. %n%nAs long as there are no other plants adjacent to the double cropstick, your plant should simply grow into it.%n%nIf you were [warn]boring[/warn] and simply placed sugarcane onto crop sticks then this quest should be easy. But come on, you're playing GTNH. We both know what kind of person you are. Also, the sooner you start statting up your crops the sooner you can see the massive benefits of crops.
+
+# Quest: Flower Power!
+betterquesting.quest._D2Fw1VcSoqeHHMb8aK5DA.name=Flower Power!
+betterquesting.quest._D2Fw1VcSoqeHHMb8aK5DA.desc=It's time to collect them all~!%n%nWell, all 12 different basic flowers.
+
+# Quest: More Tin
+betterquesting.quest._JjNBHSbTwOBjf_8bpLCbA.name=More Tin
+betterquesting.quest._JjNBHSbTwOBjf_8bpLCbA.desc=Some easy tin for your steam age machines.
+
+# Quest: Free Torches!
+betterquesting.quest._uN-zMguRyCEB1JCjdhbvA.name=Free Torches!
+betterquesting.quest._uN-zMguRyCEB1JCjdhbvA.desc=The Torchberry! %nDoes it make sense? %nNot at all! %n%nIs it helpful? %nCertainly!
+
+# Quest: Birch Bonsai
+betterquesting.quest.aOf6WTOfRGS9nJ_zvc88iA.name=Birch Bonsai
+betterquesting.quest.aOf6WTOfRGS9nJ_zvc88iA.desc=Easy birch wood!
+
+# Quest: Acacia Bonsai
+betterquesting.quest.aZzdGU5PTX6aTXsX1u9oIw.name=Acacia Bonsai
+betterquesting.quest.aZzdGU5PTX6aTXsX1u9oIw.desc=Easy acacia wood!
+
+# Quest: Titania
+betterquesting.quest.aso1-CdJS2atlhwWpHJEoQ.name=Titania
+betterquesting.quest.aso1-CdJS2atlhwWpHJEoQ.desc=Titania leaves will 4x your titanium ores.
+
+# Quest: Growing Spiders
+betterquesting.quest.bYpK8VXJRhaTX8uFj4m6fQ.name=Growing Spiders
+betterquesting.quest.bYpK8VXJRhaTX8uFj4m6fQ.desc=There are two different species of crop able to produce the products of those pesky spiders. Definitely easier than building a two-block wide mob farm chute if you ask me.
+
+# Quest: Bauxia
+betterquesting.quest.bk4ciGlRT36a8QXeXtCzzQ.name=Bauxia
+betterquesting.quest.bk4ciGlRT36a8QXeXtCzzQ.desc=Bauxia leaves will 4x your aluminum ore.
+
+# Quest: Slimy Bonsai
+betterquesting.quest.csLVpyIuRPGMCnsllcwyJQ.name=Slimy Bonsai
+betterquesting.quest.csLVpyIuRPGMCnsllcwyJQ.desc=Easy slime blocks and therefore easy glue and rubber, your horses will thank you.
+
+# Quest: Cindering Pearls
+betterquesting.quest.d5i0cS7PSyeM5iWzktBlTw.name=Cindering Pearls
+betterquesting.quest.d5i0cS7PSyeM5iWzktBlTw.desc=Cinderpearls make for a good source of blaze powder.
+
+# Quest: Intergalactic Lilies
+betterquesting.quest.duWWLb9aTYKuyovJDf_O1g.name=Intergalactic Lilies
+betterquesting.quest.duWWLb9aTYKuyovJDf_O1g.desc=Not yet implemented, but they are on their way!
+
+# Quest: Plant Based Meats
+betterquesting.quest.dy3RvEtwSHKwc3yIQQWn2g.name=Plant Based Meats
+betterquesting.quest.dy3RvEtwSHKwc3yIQQWn2g.desc=Somehow this plant has developed the ability to produce a number of different types of meat. Don't ask me how it does it, or how it smells.
+
+# Quest: UU Berries
+betterquesting.quest.easeEzZORC-0Ry6F6of0Kg.name=UU Berries
+betterquesting.quest.easeEzZORC-0Ry6F6of0Kg.desc=These special berries somehow have gained the atomic properties of UU-Matter. Due to their inherent genetic instability, they will require the Industrial Farm to harvest with high tier seed-beds.
+
+# Quest: Sand Lilies
+betterquesting.quest.g4ES1uecSi2Bu_an38Hbgg.name=Sand Lilies
+betterquesting.quest.g4ES1uecSi2Bu_an38Hbgg.desc=No longer will sand be such a difficult resource to obtain in bulk. Thank Greg.
+
+# Quest: Getting Dusty
+betterquesting.quest.gEC9Qy4fTouqNoHVUPg1dg.name=Getting Dusty
+betterquesting.quest.gEC9Qy4fTouqNoHVUPg1dg.desc=These crops will all collect and produce certain mineral dusts from the soil like pollen for B**s.
+
+# Quest: Tools of the Trade 4 - Reinforced Spade
+betterquesting.quest.gUpUgwhUThKRPgMQOyZ7Zw.name=Tools of the Trade 4 - Reinforced Spade
+betterquesting.quest.gUpUgwhUThKRPgMQOyZ7Zw.desc=The reinforced spade will do everything the basic spade does, but better. It further increases your chances of bonus seeds based on the resistance stat. Every ten points of resistance increases the MINIMUM seed drop by one. That means:%n%n1 resist = 10%% seed drop%n10 resist = 1 guaranteed seed drop%n15 resist = 1 guaranteed seed drop + 50%% chance for a second seed drop!%n31 resist = 3 guaranteed seed drops + 10%% chance for a fourth seed drop!!%n%nTime to scale up farmhand.
+
+# Quest: Space Flowers!
+betterquesting.quest.gukFWnMtTme0mcEh1VjuOw.name=Space Flowers!
+betterquesting.quest.gukFWnMtTme0mcEh1VjuOw.desc=Space flower leaves will 4x a number of different intergalactic minerals.
+
+# Quest: Gene Extractor
+betterquesting.quest.ho__TwPPRhyUmCbuUGHlkg.name=Gene Extractor
+betterquesting.quest.ho__TwPPRhyUmCbuUGHlkg.desc=Turn crops to data orbs, this is currently the only way to get Primordial Pearl Crops.
+
+# Quest: Netherrack Lilies
+betterquesting.quest.i0bdslLETVmLNrV1ZeCpRg.name=Netherrack Lilies
+betterquesting.quest.i0bdslLETVmLNrV1ZeCpRg.desc=If you somehow don't already have enough netherrack from mining all that sulfur, this should help pad your coffers.
+
+# Quest: The Advanced Harvesting Unit
+betterquesting.quest.iYoJw2SDRJODYwujhBz1zQ.name=The Advanced Harvesting Unit
+betterquesting.quest.iYoJw2SDRJODYwujhBz1zQ.desc=The Advanced Harvesting Unit increases the production rate of your Industrial Farm. Only two are allowed per Industrial Farm. Each one increases the number of drops by 20%%, and power usage by 50%%. 
+%n
+%nAs with all upgrades, the tier of the upgrade must match the tier of the seedbed.
+
+# Quest: Ferrofern
+betterquesting.quest.jT1g8KZvQYyx0_K3PYdMGw.name=Ferrofern
+betterquesting.quest.jT1g8KZvQYyx0_K3PYdMGw.desc=Ferrofern leaves will 4x your iron ore.
+
+# Quest: Is That Really a Flower?
+betterquesting.quest.jXeGLpceTSGX7e12_-j5NA.name=Is That Really a Flower?
+betterquesting.quest.jXeGLpceTSGX7e12_-j5NA.desc=Everything can be beautiful, even the mycolo...logical.
+
+# Quest: Speedy Berries
+betterquesting.quest.jwBDPo12SWSVbCGfvPicMg.name=Speedy Berries
+betterquesting.quest.jwBDPo12SWSVbCGfvPicMg.desc=The BOP Berry crop plays a nice role as the fastest growing crop you will get access to.%n%nThis makes it the perfect crop for breeding up stats with before crossing to other species which share pools.
+
+# Quest: Micadia
+betterquesting.quest.k89ZVtvxRKeTgwgWFuMUdA.name=Micadia
+betterquesting.quest.k89ZVtvxRKeTgwgWFuMUdA.desc=Micadia leaves will 4x your mica ore. %n%nNote the specific under-soil requirements for Micadia.
+
+# Quest: Crops to Mobs
+betterquesting.quest.kJvlJxTXRaKGJ2vK8X_IYg.name=Crops to Mobs
+betterquesting.quest.kJvlJxTXRaKGJ2vK8X_IYg.desc=Save your serverhost a headache, crop a mob!... Mob a crop?%n%nOr don't, I'm not your parent.
+
+# Quest: Galvania
+betterquesting.quest.kLmdG_I9R66vS_ndq8wG0A.name=Galvania
+betterquesting.quest.kLmdG_I9R66vS_ndq8wG0A.desc=Galvania leaves will 4x your zinc ore.
+
+# Quest: Copper Berries
+betterquesting.quest.lSGABROTT4WbuEpU8IPQBA.name=Copper Berries
+betterquesting.quest.lSGABROTT4WbuEpU8IPQBA.desc=Copper oreberries!
+
+# Quest: Evil Berries
+betterquesting.quest.lfjH7l4SRGq-uQ1kuMVZQQ.name=Evil Berries
+betterquesting.quest.lfjH7l4SRGq-uQ1kuMVZQQ.desc=Why you would want to grow these alludes me, but sure: go for it!
+
+# Quest: Cacti
+betterquesting.quest.mBShEiHBR5mEEOSDD8O8aQ.name=Cacti
+betterquesting.quest.mBShEiHBR5mEEOSDD8O8aQ.desc=Surely you will be the one to reach Stargate on cactus power, surely.
+
+# Quest: Genus Lilium
+betterquesting.quest.mRxtl7s-QOq6DiNt5mmMMA.name=Genus Lilium
+betterquesting.quest.mRxtl7s-QOq6DiNt5mmMMA.desc=Lilies are a key set of species in CropsNH. They produce the dusts and materials otherwise created by the stones beneath your feet. Even far beneath your feet, or far far far above your feet.
+
+# Quest: Basalt Lilies
+betterquesting.quest.mWk4moL8SwKogZ2_7dQO3w.name=Basalt Lilies
+betterquesting.quest.mWk4moL8SwKogZ2_7dQO3w.desc=Basalt dust, as with Granite dusts, has lots of minerals within it. In this case, note the large amount of flint dust which for your glass needs.
+
+# Quest: Not So Evil Berries
+betterquesting.quest.mmNIDjClTYyKnhgdVsLiJg.name=Not So Evil Berries
+betterquesting.quest.mmNIDjClTYyKnhgdVsLiJg.desc=Fruits are a key part of a balanced diet too y'know.
+
+# Quest: Multiblock Farming
+betterquesting.quest.nkcwXV0yRH-6xPEEeBWcDA.name=Multiblock Farming
+betterquesting.quest.nkcwXV0yRH-6xPEEeBWcDA.desc=Now this... this is how you show those §e§nB**keepers§r what's what. %n%nThe Industrial Farm (IF) is a long term, scalable, solution to Crop production. At its most basic, it will grow, harvest, and hydrate your crops, but with several upgrades and tier based size scaling, it is not a simple machine to make use of. The IF has three modes:%n%n1. Input - Pulls seeds and undersoil blocks into the machine from an Input Bus.%n2. Farm - Simulates the growth of the seeds and pushes products into an Output Bus.%n3. Output - Exports the seeds and undersoil blocks from the machine into an Output Bus.%n%nYou can cycle through them in the machine menu by clicking on the mode button.%n%nTo start, you should construct the most basic IF possible. Once you've done that, place your seeds (and any relevant underblocks) into the InputBus. §lThe seeds%nand blocks must be placed simultaneously for the Input mode to work%ncorrectly.§r§r%n%nOnce you've input your seeds (and underblocks) you can begin the simulation of harvests in Farm mode.%n%nWhen you wish to switch out seeds, enter Output mode before re-inserting the new seeds via the Input mode.%n%n%n%nThe last point worth getting into is that the size of the machine is locked to the tier. An MV IF will require MV seedbeds and therefore can only be one seedbed deep. This also means you can only insert one upgrade block (replacing the wooden frame). Each subsequent tier increases the length of the machine and the number of seeds each bed can take to incredible proportions, as well as how many upgrades you can apply.%n%n%nThe following quests will detail the many different upgrades available for the IF.
+
+# Quest: Fish Oil Supplement
+betterquesting.quest.oIWPaHKuRByUsrrO-ug2Mw.name=Fish Oil Supplement
+betterquesting.quest.oIWPaHKuRByUsrrO-ug2Mw.desc=Just make sure you put in ear-plugs first. These guys can be surprisingly useful if you know what to do with them.
+
+# Quest: Osmianth
+betterquesting.quest.p8eOuc12RZaZUsz21zuOXw.name=Osmianth
+betterquesting.quest.p8eOuc12RZaZUsz21zuOXw.desc=Osmianth leaves will 4x your osmium ore.
+
+# Quest: Thaumium Berries
+betterquesting.quest.pShpNuYrTXGwFmlSMKOrqw.name=Thaumium Berries
+betterquesting.quest.pShpNuYrTXGwFmlSMKOrqw.desc=Thaumium oreberries! No trapdoor-ed crucible required.
+
+# Quest: Your First Crossbreed
+betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.name=Your First Crossbreed
+betterquesting.quest.pTDi3ejJT0O0oXr7Mq5F_Q.desc=With both carrot and potato seeds in hand, you are now ready to breed your first new species of crop. Sugarcane.%n%nPlant your potato and carrot seeds next to a double crop stick placed on one of the fitting soil types shown in NEI. §lAlways check the soil types.%n%n§rBeyond soil and sub-soil, there are many other environmental requirements for different crop species. [warn]I really cannot understate the importance of using NEI to research what your target crops need and prefer.[/warn]
+
+# Quest: The Fertilization Unit
+betterquesting.quest.poVTqaEOSh-OPgPjEjIfww.name=The Fertilization Unit
+betterquesting.quest.poVTqaEOSh-OPgPjEjIfww.desc=The Fertilization Unit allows for the use of Enriched Fertilizer to boost production massively. Only one is allowed per Industrial Farm, but it increases growth speed by 50%%, number of drops by 50%%, and power usage by 50%%. 
+%n
+%nAs with all upgrades, the tier of the upgrade must match the tier of the seedbed.
+
+# Quest: Tin Berries
+betterquesting.quest.puDhJX2FQSOCGMWwSF0wEg.name=Tin Berries
+betterquesting.quest.puDhJX2FQSOCGMWwSF0wEg.desc=Tin oreberries!
+
+# Quest: Clay Lilies
+betterquesting.quest.qoABdlzUSEqiNR2MiDIxIg.name=Clay Lilies
+betterquesting.quest.qoABdlzUSEqiNR2MiDIxIg.desc=These should help with building more BBFs, your local riverbeds and riperian zones will thank you.
+
+# Quest: Iron Berries
+betterquesting.quest.r3RHo-BcT7KBIgaZgG93Ig.name=Iron Berries
+betterquesting.quest.r3RHo-BcT7KBIgaZgG93Ig.desc=Really they're closer to jawbreakers or gobsmackers than berries.
+
+# Quest: Stargatium
+betterquesting.quest.s2pEIvhuRwW0FrzqhWJabw.name=Stargatium
+betterquesting.quest.s2pEIvhuRwW0FrzqhWJabw.desc=Stargatium leaves will 4x your naquadah ore.
+
+# Quest: Stone from the Soil
+betterquesting.quest.sIXQIDgpQL6NweTPXL8SUw.name=Stone from the Soil
+betterquesting.quest.sIXQIDgpQL6NweTPXL8SUw.desc=Now for something a bit more complicated, Stone Lilies.%n%nThis species from the clade §oLilium§o §rproduces stone dust from its petals.
+%n
+%nTo determine how you can breed it, just check the NEI page for Stone Lily Seeds. The required prerequisite species can be obtained either by breeding, or directly from the overworld (if you are [warn]boring[/warn]).%n%nIf you're getting overwhelmed, don't worry. We will get into mutation pools shortly, but for now the important thing to note is that[note] deterministic breeding will always take priority over pool based breeding[/note]. So don't sweat the pools just yet.
+
+# Quest: More Flowers
+betterquesting.quest.s_UZrRZySwi79jOnwZw3Xg.name=More Flowers
+betterquesting.quest.s_UZrRZySwi79jOnwZw3Xg.desc=These flowers reach beyond the basics of the initial 12, and may have some slightly more niche uses.
+
+# Quest: Plumbilia
+betterquesting.quest.tle9KskbQMOJ2ZS1nVWNEA.name=Plumbilia
+betterquesting.quest.tle9KskbQMOJ2ZS1nVWNEA.desc=Plumbilia leaves will 4x your lead ore.
+
+# Quest: Coppon
+betterquesting.quest.twBLeVfZRsuVO-hHDFVIKQ.name=Coppon
+betterquesting.quest.twBLeVfZRsuVO-hHDFVIKQ.desc=Coppon fiber will 4x your copper ore.
+
+# Quest: More Copper
+betterquesting.quest.uU7RWnAOTOigmH6eYivwog.name=More Copper
+betterquesting.quest.uU7RWnAOTOigmH6eYivwog.desc=Some easy copper for your steam age machines.
+
+# Quest: The Overclocked Growth Acceleration Unit
+betterquesting.quest.vOZpJncURaq1H0pUzFNblw.name=The Overclocked Growth Acceleration Unit
+betterquesting.quest.vOZpJncURaq1H0pUzFNblw.desc=The Overclocked Growth Acceleration Unit allows for the overclocking of the Industrial Farm as with other Multiblocks. Only one is allowed per Industrial Farm.%n
+%n
+%nAs with all upgrades, the tier of the upgrade must match the tier of the seedbed.
+
+# Quest: Cobalt Berries
+betterquesting.quest.vS-gZqlCSJiI6rVi0KTzxw.name=Cobalt Berries
+betterquesting.quest.vS-gZqlCSJiI6rVi0KTzxw.desc=Too blue blueberries. Cobalt oreberries!
+
+# Quest: Witchery Seeds
+betterquesting.quest.vX0tDVpeSG67fojo-jPmjg.name=Witchery Seeds
+betterquesting.quest.vX0tDVpeSG67fojo-jPmjg.desc=In case you needed to mass produce witchery crops... for some reason
+
+# Quest: The Growth Acceleration Unit
+betterquesting.quest.xlp2LlfIRdWzOoE9G_Vf0w.name=The Growth Acceleration Unit
+betterquesting.quest.xlp2LlfIRdWzOoE9G_Vf0w.desc=The Growth Acceleration Unit increases the growth speed of the crops found within the Industrial Farm. Each one increases growth speed by 100%% and power usage by 125%%.%n%nAs with all upgrades, the tier of the upgrade must match the tier of the seedbed.
+
+# Quest: Granitic Lilies
+betterquesting.quest.xpow4mxBRT-zLKuXEYRndw.name=Granitic Lilies
+betterquesting.quest.xpow4mxBRT-zLKuXEYRndw.desc=Granite dust has a hefty amount of minerals trapped within it, you just need enough processing power to actually seperate them out.
+
+# Quest: Shimmering Leaves
+betterquesting.quest.yB0s8UpOR7yKRNb-b-InVA.name=Shimmering Leaves
+betterquesting.quest.yB0s8UpOR7yKRNb-b-InVA.desc=Shimmerleaf can get you easy quicksilver, no Cinnabar required!
+
+# Quest: Organic Materials
+betterquesting.quest.z3RLaOumReeg-aZ906lPCg.name=Organic Materials
+betterquesting.quest.z3RLaOumReeg-aZ906lPCg.desc=This is a wide ranging category, but each crop here has some amount of utility. Almost all will likely be helpful as you develop.
 
 
 ## Quest Line: Getting Around...
@@ -6676,7 +7196,7 @@ betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.name=조류 연못
 betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=지속 가능성. 그것이 게임의 이름은 아니지만, 그럴 수 있습니다!%n%n만약 당신이 단일 자원으로부터 다수의 화학물질을 생성하고 싶어했다면, 아마도 Oil이나 Benzene을 살펴본 적이 있을 것입니다. 그러나 조류 농장(Algae Farm)이라는 선택지도 존재합니다. 그것은 그저 연못같은 거라서, 동작을 위해 전력이 필요하지 않습니다. 또한 평범한 레시피를 따르지 않아, NEI 레시피 페이지에서 조류의 레시피를 찾을 수는 없습니다. 그냥 멀티블록이 정해진 스케쥴에 따라 조류를 생산할 뿐입니다.%n%n멀티블록의 티어는 멀티블록 하층의 케이싱에 의해 결정되며, 티어를 결정하기 위해서는 모든 케이싱이 일치해야 합니다. 각 티어가 생산 주기의 시간을 sqrt(2)만큼 감소시키므로, 농장은 각 티어가 올라갈 때마다 빨라집니다.%n%n동시에, 각 티어가 올라갈 때마다 한 번의 사이클에 얻을 수 있는 조류의 양도 증가합니다. 첫 번째 것을 제외한 대부분의 조류 형태는 고등 티어에서만 추가됩니다. 조류 농장은 자체에서 만들 수 있는 컴포스트도 허용해, 멀티블록의 티어를 하나 상승시킬 수 있습니다. 시작할 때는 비용이 많이 들 수 있지만, 대다수의 경우에는 강력히 권장됩니다.%n%n조류는 메탄, 암모니아, 황산, 심지어 몇몇 전력 생성 유체 등 다양한 화학물질 제작에 사용될 수 있습니다. 이때 보통은 Chemical Plant가 필요합니다. IV 티어에서는 Green Algae와 Glowstone을 결합해 Glowing Coral을 얻고, 그것으로부터 Sunnarium을 만들 수도 있습니다. 만약 모든 가공 체인에 대해 궁금하다면, NEI에서 확인해 보세요: 그것들을 다루는 퀘스트가 곧 나올 수 있습니다, 그리고 아마 chemplant가 필요하지 않은 더 많은 레시피가 추가될 것입니다.
 
 # Quest: Tier 2 Manipulating
-betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.name=Tier 2 Manipulating
+betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.name=§6§lTier 2 Manipulating
 betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.desc=After significant progression, you'll be able to upgrade the QFT to tier 2 by replacing the §3Neutron Pulse Manipulator§r casings with §3Cosmic Fabric Manipulator§r casings. Once installed, the QFT can perform the §6monaline skip§r, the §6first two naqline skips§r, and the §6netherite line skip§r.%n%nThese casings require more advanced materials, including §3Hyper-Stable Self-Healing Adhesive§r, which can only be crafted in a tier 1 QFT. This adhesive isn’t just excellent at sticking things together - it’s also built to withstand the intense energy flow of a tier 2, 3, or even tier 4 QFT! §o%n%nWho knows what kinds of materials you’ll need after this?!
 
 # Quest: A Beginner's Guide to Particle Physics
@@ -6710,10 +7230,6 @@ betterquesting.quest.b_Ll4zvSRfCMgmqiBa4Xkw.desc=게임을 정신없이 진행�
 # Quest: Using that Algae
 betterquesting.quest.eur7SqfIT8GEE_NxscJj8Q.name=조류 활용하기
 betterquesting.quest.eur7SqfIT8GEE_NxscJj8Q.desc=화학 반응로와 조류 농장을 만들었군요, 훌륭합니다! 이제 기다리면서 재료들을 쌓아두는 것 보다는 조금 써보도록 합시다. 조류를 쓰는 레시피는 몇몇개가 존재하지만, 가장 간단한 것부터 시작해봅시다.%n%n이 레시피에는 갈조류와 녹조류가 필요합니다. 즉 조류 농장 밑바닥이 HV 케이싱 또는 그 이상이어야 한다는 거죠. HV에서는 최소 105초에 2개부터 최대 35초에 8개의 갈조류를 생성합니다, EV에서는 최소 90초에 12개부터 최대 30초에 20개고요.%n%n녹조류와 갈조류가 준비되셨다면, 정제수와 함께 최소 2티어(강철 케이싱 베이스)반응로에 주입하면 황산을 얻을 수 있습니다. 준비 시설이 비싸긴 하지만 한번 만들면 만드는데 꽤나 저렴하답니다! 이 다음에 쓸 수 있는 황산 레시피 또한 있지만, 더 높은 티어의 조류들과 반응로가 필요합니다.
-
-# Quest: Nano Forge Tier 4
-betterquesting.quest.hUEbNbngSA6JxT_Pjq8DNw.name=Nano Forge Tier 4
-betterquesting.quest.hUEbNbngSA6JxT_Pjq8DNw.desc=The Transcendent nanite has the required complexity and speed to create most nanites, but lacks the strength required to handle the exotic, hyper-dense, magnetic forms of matter you need to manipulate in order to advance. Fortunately with Eternity, you have found an ample replacement that should be up to the task... But you suspect that you'll need a far more complicated structure to be able to contain such a process.%n%n[note]Grants the ability to create §lMagmatter Nanites§r in addition to a greater speed at the cost of assembling a more expensive structure.[/note]
 
 # Quest: No More (IC) Engraving
 betterquesting.quest.isBmh7T0Sr63O2m5N4pCIQ.name=시시한 레이저 각인은 이제 그만
@@ -6760,11 +7276,11 @@ betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.name=§6§l단 한가지의 유체�
 betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.desc=만약 여러분이 기본 슈퍼 탱크나 양자 탱크가 여전히 너무 작다고 생각한다면, YOTTank가 다음 선택이 될 것입니다.%n%nYOTTank는 TFFT와 비교하여 25가지 유체 대신 단 한 종류의 유체만을 저장할 수 있습니다. 만약 여러 종류의 유체를 한번에 대량으로 저장하고 싶으면, TFFT를 사용하세요.%n%nAE2 연결을 위한 특별한 ME 입력 해치를 가지고 있으며, 저장 블록을 확장할 수 있습니다. 탱크는 유체 저장 블록을 통해 업그레이드하고 더 많은 유체를 저장할 수 있도록 높이를 늘릴 수 있습니다.%n§3%n만약 YOTTank를 위한 유체 저장 블록을 NEI에서 찾는데 문제가 있다면, 'fluid cell block'으로 검색해보세요.
 
 # Quest: Tier 4 Manipulating
-betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.name=Tier 4 Manipulating
+betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.name=§6§lTier 4 Manipulating
 betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§lFinally, you have done it§r! You can now upgrade your QFT to the ultimate tier by replacing your §3Infinity Infused Manipulator§r casings with §3SpaceTime Continuum Ripper§r casings. This final upgrade unlocks all skips, including the §6bio cell skip, the kevlar skip and the radox + xenoxene skip§r.%n%nEven with all previous upgrades, the final leap remained out of reach. Chemical skips for foundational components used in the earlier stages of the QFT, such as bioware circuits, were still impossible - §ountil now§r. Reaching the theoretical limit of the QFT demands a material far beyond anything seen before, hidden deep within the second half of the Naquadah line.%n%nThe material you require will be your magnum opus - the §3Black Body Naquadria Supersolid§r. This extraordinary substance acts as a perfect black body - absorbing all radiation without reflection - and behaves as a supersolid, flowing like a fluid with zero viscosity. Combining these properties in a single material ensures stable, effortless quantum energy flow at any voltage level, even at the MAX tier!%n%nWith this breakthrough, your QFT is fully unlocked, capable of creating components up to the UHV tier.
 
 # Quest: Tier 3 Manipulating
-betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.name=Tier 3 Manipulating
+betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.name=§6§lTier 3 Manipulating
 betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.desc=With access to even more advanced materials, you can upgrade your QFT to tier 3 by replacing the §3Cosmic Fabric Manipulator§r casings with §3Infinity Infused Manipulator§r casings. This tier unlocks two powerful new skips: the §6final naqline skip§r and the §6stem cell skip§r.%n%nThis new casing requires even more advanced materials still, including the §3Superconductor Rare-Earth Composite§r, which can only be crafted in a tier 2 QFT. Unlike §3Hyper-Stable Self-Healing Adhesive§r, which focused on structural integrity, this composite is designed purely for energy transmission. With automatic self-repair now fully handled, we can shift our focus to increasing the energy flow between components and into the multi itself.%n%nStandard superconductors break down under quantum stress - but this composite eliminates all resistance across the outer shell. Its precisely layered rare-earth elements create such gradual transitions that quantum flow moves effortlessly, with no losses or destabilizing effects.%n%n§oWhat will you discover next?!
 
 # Quest: More Algae Uses
@@ -8962,7 +9478,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwA.desc=티어 6 로켓의 도면을 �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3Q.name=우주 펌핑
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3Q.desc=당신은 이미 궁금해했을 지도 모릅니다: 태양계에는 이마저도 거대한 가스 행성이 있는데 "수확"할 방법이 없을까요? 실제로 그런 방법이 있습니다. "행성 가스 시펀" 다중 블록을 구축함으로써, 당신은 목성, 토성, 천왕성, 그리고 해왕성에서 찾을 수 있는 무한한 가스 공급을 퍼낼 수 있습니다. 가스 행성 주변에 우주 정거장을 구축하면 충분히 가까워져 가스에 빠지지 않고 도달할 수 있습니다.%n%n다른 깊이에서 펌핑하면 다른 가스를 추출할 수 있습니다. 깊이는 프로그래밍된 회로에 의해 제어됩니다. 선택한 깊이에 도달할 수 있으려면 64 * 깊이의 채광 파이프를 공급해야 합니다.%n%n작동 중인 다중 블록은 d*4^(t+2) EU/t를 필요로 합니다 (t는 우주 정거장의 티어이고 d는 깊이입니다).%n%n어디서 무엇을 펌핑할 수 있는지에 대한 개요는 팁과 트릭 장에서 찾을 수 있습니다.
 
-# Quest: How the Eff Do I Charge This Sh*t?
+# Quest: How Do I Charge This Stuff?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALIA.name=이런 건 어떻게 충전하는 거죠?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALIA.desc=이 문제에 대해 묻는 사람들이 많고, §oso§r 많은 방법론과 호환성이 없기 때문에, 어떤 것이 §owill§r 작동하는지에 대해 알려주는 퀘스트를 제공합니다.%n%n§3하나만 만들면 됩니다.%n%n§r또한 에너지 저장용 디바이스는 EU가 저장될 수 있음을 명심하세요. 단지 충전을 원하는 경우, 태양광(태양풍은 어떤 이유로 인해서 작동하지 않습니다)과는 달리 가능합니다. 상위 티어 디바이스들은 더 빠르게 충전합니다 (고급 태양광은 해가 떠 있는 동안 100% 힘으로 충전할 수 있도록 태양을 향합니다, 반면해 오직 정오에만 가능한 것이 아닙니다, 하지만 하이브리드는 실제로 더 빠릅니다. 또한 하이브리드를 설치하면 게임이 더 이상 충돌하지 않습니다!)
 
@@ -10395,7 +10911,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6g.desc=이 프레임들은 당신의 �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6w.name=벌들이 윙윙대고 있는건지, 아니면 비명을 지르고 있는건지요?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF6w.desc=이 프레임들은 변이율을 증가시킵니다. 매우 유용합니다.%n%n시프트를 누르고 있는 동안 볼 수 있는 프레임에 대한 통계에 대해서, 일부에는 괄호 안에 다른 숫자가 있음을 알게 될 것입니다. 이는 스택 최대치를 의미합니다. 이것은 Extra Bees의 프레임에만 적용됩니다.%n%n프레임의 통계는 더하는 것이 아닌 곱셈적이며, 따라서 alveary에서 4개의 프레임이 이후로는 soul 프레임이 최고치에 도달합니다. 반면, 가속 프레임은 최고치에 도달하기 위해 9개가 필요하지만, 이후로는 계속 진행할 수 있습니다.%n%n만약 배수를 더한다면, 5x의 stimulator, 3x의 mutator, 그리고 4x1.8x의 프레임으로 157x까지 도달하게 되어, 단 한 세대만에 1%%의 벌을 얻을 수 있습니다!
 
-# Quest: Bees Buzzing Beyond the Dark
+# Quest: Breeding Bees Into Oblivion
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7A.name=어둠을 넘어 윙윙대는 벌들
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7A.desc=당신이 영혼 프레임도 사용하는 데에 너무 오래 걸린다고 생각한다면, 망각의 프레임은 단 하나의 벌 틱(27초) 만에 벌을 파괴합니다. 둘 이상 사용하는 것에 주의해야 합니다. 왕비에게 해를 끼칠 수도 있다는 소문이 있거든요...%n%n§3당신은 성채의 도서관에서 찾을 수도 있고, 드래곤 알로 만들어 낼 수도 있습니다. 또한 Thaumic Restorer를 사용하여 망각의 프레임을 복원할 수 있습니다. 대부분의 다른 프레임들도 마찬가지로 복원 가능합니다.
 
@@ -12524,7 +13040,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...벌이 마나를 생성할 �
 
 # Quest: Mana Fountain
 betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.name=Mana Fountain
-betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you uinlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]
+betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you unlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]
 
 # Quest: Asgardandelion
 betterquesting.quest.M7CE2a0uSOSZZsyNloB0zg.name=Asgardandelion
@@ -13696,9 +14212,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACjg.desc=고급 전기 제트팩과 나�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.name=중력의 수트
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.desc=그라비체스트플레이트는 고출력 제트팩과 결합된 최상의 양자 장갑입니다. 주요 기능은 다음과 같습니다:%n%n- 30M EU 용량%n- 우주복 기능%n- 위험물질 보호%n- 중력 엔진 (창의적 비행)%n- 부유 모드%n- 양자 방패 (불멸, 완전한 양자 장갑 필요)%n%n[note]KEYBINDS%nHUD: 그라비 HUD 키%n중력 엔진: 그라비 플라이 키%n부유 모드: 스페이스바 + IC2 모드 스위치 키%n양자 방패: 스니크 + IC2 모드 스위치 키[/note]
 
-# Quest: Moron's Manual to Fecund Farms
+# Quest: A Green Revolution
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.name=멍청이를 위한 비옥한 농장 가이드
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.desc=작물 교배 방법을 알고 싶었다면, 이곳이 바로 그곳입니다! 작물 지지대를 조금 준비하고, 호미나 야전삽으로 농사를 지어 씨앗을 얻으세요. 작물 지지대에 직접 식물이나 베리를 놓을 수 있습니다. 시작하기 좋은 식물로는 꽃, 밀, 선인장, 사탕수수가 있습니다.%n%n도구로 경작지를 만들고 가운데에 물을 배치하세요. 지금은 3x1 크기의 밭을 여럿 만들고, 흙이나 조약돌 줄로 밭을 분리하세요. 3x1 땅의 중앙이 한눈에 보이도록 배치하는 것이 좋습니다. 이런 식으로요:%nFFFdddFFF%ndddFFFddd%nFFFdddFFF%ndddFFFddd%nFFFdWdFFF%ndddFFFddd%nFFFdddFFF%ndddFFFddd%nFFFdddFFF%n이제 3x1 땅의 양 끝에 작물 지지대를 설치하세요. 그리고 지지대에 씨앗을 놓고 조금 기다리세요.%n%n작물이 거의 다 자랐을 때, 두 작물 중앙에 이중 작물 지지대를 설치할 수 있습니다. 이중 작물 지지대는 이미 설치한 작물 지지대에 한 번 더 지지대를 사용하여 만들 수 있습니다. 이 중앙 영역에서는 이제 새로운 작물, 심지어 새로운 종이 자라는 것이 가능합니다.%n%n운이 좋다면 새로운 알 수 없는 씨앗을 얻을 수도 있으며, 나중에 스캔해볼 수 있습니다.%n%n잡초는 제초용 삽이나 모종삽으로 제거하세요. 그렇지 않으면 밭이 잡초로 가득 차게 됩니다.%n%n3x1 땅을 사용하면 편리하고 쉽게 할 수 있습니다. 5~10분마다 한번씩 확인해 잡초를 제거하고 새로운 씨앗을 모으세요. 만약 잊더라도 한두 개의 씨앗을 잃을 뿐입니다.%n%n정말 좋은 씨앗을 찾으면, 3x3 혹은 5x5 밭을 만들어 좋은 씨앗을 가운데에 두고, 주변에 다른 씨앗을 놓아 교배할 수 있습니다. 다만 잡초가 밭 전체를 파괴할 수도 있으므로 더 많은 관리가 필요합니다.%n%n이중 작물 지지대 옆에 작물이 많을수록 새로운 식물이 빨리 나타납니다. 최대 4개까지 가능합니다. 이 방법은 같은 식물의 새로운 버전을 얻는 데에도 사용되지만, Agricraft에서와 마찬가지로 부모 작물 하나만으로는 새로운 버전을 만들 수 없습니다.%n%n이런 집약적인 경작지에 새로운 작물을 남겨두지 마세요. 운이 좋다면 뽑아서 씨앗 주머니를 얻을 수 있습니다. 스탯이 낮은 씨앗은 관리가 필요 없는 생산용 밭에 심고, 스탯이 높은 씨앗은 추가적인 교배를 위해 보관하세요. 교배는 두 개 이상의 거의 다 자란 작물이 이중 작물 지지대 바로 옆에 있어야 일어납니다. 부모 작물과 동일한 종이 나올 확률이 높으며, 나머지 확률로 변종이 나옵니다. 더 자세한 내용은 IC2 작물분석기 퀘스트를 확인하세요.
+%n
+%nAnyways, if you want to learn how to till your way to the Stargate, with the passive resources needed throughout much of your progression, this is the place to be.
+%n
+%nThe first step will be obtaining a stock of basic crops which you can breed from. If you don't already have them go steal some from those villagers, or that witch down the hill.
 
 # Quest: Dark Steel Tool and Weapon Basic Upgrades
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5g.name=§9§l짙은 강철 도구 및 무기 기본 업그레이드
@@ -14142,7 +14662,7 @@ betterquesting.quest.PjAewUoJTnilPpIT-Ce0tA.desc=The Diamond barrel has 108 slot
 
 # Quest: Large Molecular Assembler
 betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.name=§9§lLarge Molecular Assembler
-betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The §5Large Molecular Assembler§r is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside input buses attached to the machine in order to be recognized. Will not require an output bus.%n%nAdditionally, you must place a §2Data Orb§r inside of the controller or else it won't function.%n%n[note]High capacity Input Buses are highly recommended![/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
+betterquesting.quest.Q10xj-OrTE67wsWuTNCAAQ.desc=The §5Large Molecular Assembler§r is exactly how it sounds; a very quick molecular assembler with a much bigger inventory for crafting patterns. %n%nThis can handle up to 1024 crafts per second at the maximum energy usage making it up to 100x faster than a molecular assembler. Check out the Wiki for specifics: [url]https://wiki.gtnewhorizons.com/wiki/Large_Molecular_Assembler[/url]%n%nThe LMA controller hooks up directly to your main network in order to function, and all recipes must be placed inside either an input bus or a Crafting Pattern Provider bus in order to be recognized. Will not require an output bus.%n%nAdditionally, you must place a §2Data Orb§r inside of the controller or else it won't function.%n%n[note]It's recommended you use a Crafting Pattern Provider bus since it has more pattern slots and gets recognized by an interface terminal unlike a regular input bus.[/note]%n%n[warn]This machine can absolutely wall-share, but be careful about the placement of your input bus or all machines may not be used.[/warn]
 
 # Quest: Compact Storage
 betterquesting.quest.QNsm_wc0QO2g9C6_-vj2fA.name=§2§l간편한 저장소
@@ -14215,6 +14735,10 @@ betterquesting.quest.h4k6r6ohQp2DJl07w8Boog.desc=The §5§lHypercooler§r (HC) m
 # Quest: Multiblock Revolution
 betterquesting.quest.hEsmeH74S4aOOrROI1AHxQ.name=§3§l멀티블럭 혁명
 betterquesting.quest.hEsmeH74S4aOOrROI1AHxQ.desc=지금까지 만든 여러 증기 기계들을 잘 활용하고 있으신가요? 앞으로 더 많은 레시피를 처리해야 할 때가 자주 있을겁니다. 이때가 바로 멀티블럭이 필요한 때입니다. 이제부터 다양한 증기 멀티블럭을 사용할 수 있습니다.%n대량 가공 퀘스트 탭을 살펴보세요!%n%n이 탭에서는 낡고 오래된 싱글블럭 기계들을 대체할 수 있는 매우 강력한 멀티블럭 기계들을 다양하게 소개합니다(그리고 추후 오래된 구세대 멀티블럭을 대체할 새로운 기계들도 소개하죠!). 이러한 새로운 기계 중 다수는 추가적인 메커니즘과 요구 사항을 처리해야 하지만 그만한 가치가 있습니다!%n%n멀티블럭의 세계에 입문할 때 숙지해야 할 몇 가지 용어가 있습니다:%n%n오버클럭(OC):%n기계가 레시피 처리에 필요한 전압보다 더 높은 단계의 전압을 주면 오버클럭이 되어 4배의 EU/t가 필요하지만 2배 빠르게 실행됩니다. 더욱 높은 단계의 전압을 제공할수록 효과는 중첩됩니다! n%n퍼펙트 오버클럭(종종 "오버클럭 시 효율성이 떨어지지 않음"으로 표현됨):%n조건부(또는 무조건) 퍼펙트 오버클럭을 수행하는 기계도 있습니다: 이 경우 기계는 4배의 EU/t를 필요로 하지만 대신 4배 더 빠르게 실행되므로 속도가 증가하면서도 총 EU 사용량은 정비례하게 늘어납니다!%n%n병렬화(종종 "프로세스 x 아이템"으로 표현됨):%n병렬로 작동하는 기계는 마치 여러 대를 실행하는 것처럼, 즉 레시피의 EU/t에 병렬화 수를 곱하여 동일한 레시피를 동시에 여러 개 실행할 수 있습니다. 병렬 처리하는 기계는 오버클럭보다 병렬화 처리를 [warn]우선적으로[/warn] 처리합니다. 참고로 오버클럭보다 병렬 처리가 더 효율적입니다.%n%n[note]멀티블럭으로 작업할 때, 작동 중에 전원 공급이 중단되면 투입한 재료들은 영원히 손실됩니다. 주의하세요![/note]
+
+# Quest: Nano Forge Tier 4
+betterquesting.quest.hUEbNbngSA6JxT_Pjq8DNw.name=§4§l§nNano Forge Tier 4
+betterquesting.quest.hUEbNbngSA6JxT_Pjq8DNw.desc=The Transcendent nanite has the required complexity and speed to create most nanites, but lacks the strength required to handle the exotic, hyper-dense, magnetic forms of matter you need to manipulate in order to advance. Fortunately with Eternity, you have found an ample replacement that should be up to the task... But you suspect that you'll need a far more complicated structure to be able to contain such a process.%n%n[note]Grants the ability to create §lMagmatter Nanites§r in addition to a greater speed at the cost of assembling a more expensive structure.[/note]
 
 # Quest: NEI Next Level Recipe Search
 betterquesting.quest.hmQlN9vLSEOyCnCSOOXz7Q.name=§a§lNEI Next Level Recipe Search
@@ -14506,6 +15030,10 @@ betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.desc=No Description
 # Quest: Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
 betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
 betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.desc=No Description
+
+# Quest: Trigger: Oblivion Frame
+betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.name=Trigger: Oblivion Frame
+betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.desc=No Description
 
 # Quest: Trigger: Rocket Tier 6 Skip
 betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.name=Trigger: Rocket Tier 6 Skip

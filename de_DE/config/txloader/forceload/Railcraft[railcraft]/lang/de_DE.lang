@@ -414,6 +414,7 @@ railcraft.gui.electric.meter.charge=Ladung: @.2fc | Entzug: @.2fc/t | Verlust: @
 railcraft.gui.energy.loader.empty=Halte Leer
 railcraft.gui.energy.loader.fill=Lade voll
 railcraft.gui.energy.unloader.wait=Warte bis leer
+railcraft.gui.energy.cart.power.label=Power Level:
 
 railcraft.gui.engrave.entercode=Gib Entriegelungscode ein:
 railcraft.gui.engrave.getmore1=Besuche die Links unten,
@@ -461,7 +462,7 @@ railcraft.gui.item.loader.stock.tip=Bewege Gegenstände, bis das\n Ziel dem Filt
 railcraft.gui.item.loader.stock=Lager
 railcraft.gui.item.loader.transfer.tip=Bewege exakt so viele\n Gegenstände wie im Filter sind
 railcraft.gui.item.loader.transfer=Übertragen
-railcraft.gui.item.loader.match_metadata.tip=Stimme Metadaten ab
+railcraft.gui.item.loader.match_metadata.tip=Metadaten abgleichen
 railcraft.gui.item.loader.ignore_metadata.tip=Metadaten ignorieren
 railcraft.gui.item.loader.match_nbt.tip=Stimme NBT-Daten ab
 railcraft.gui.item.loader.ignore_nbt.tip=Ignoriere NBT-Daten

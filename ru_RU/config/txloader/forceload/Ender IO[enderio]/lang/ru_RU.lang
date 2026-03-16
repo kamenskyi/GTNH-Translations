@@ -84,7 +84,7 @@ enderio.filterUpgradeBasic.name=Основной предметный фильт
 enderio.filterUpgradeAdvanced.name=Продвинутый предметный фильтр
 item.itemBigFilterUpgrade.name=Большой предметный фильтр
 enderio.filterUpgradeBig.name=Большой предметный фильтр
-enderio.filterUpgradeBigAdvanced.name=Большой и расширенный предметный фильтр
+enderio.filterUpgradeBigAdvanced.name=Большой продвинутый предметный фильтр
 enderio.itemConduitFilterUpgrade=Улучшение для предметного кондуита
 enderio.itemConduitFilterUpgrade.configured=Настроенный
 enderio.itemConduitFilterUpgrade.clearConfigMethod=Положите в сетку создания, чтобы очистить
@@ -145,7 +145,7 @@ enderio.itemGasConduit.tooltip.detailed.line1=Передаёт газы совм
 
 item.itemMEConduit.name=МЭ кондуит
 enderio.itemMEConduit.name=МЭ кондуит
-enderio.itemMEConduitDense.name=Плотная МЭ кондуит
+enderio.itemMEConduitDense.name=Плотный МЭ кондуит
 enderio.itemMEConduit.channelsUsed=Каналы: {0,number} из {1,number}
 
 item.itemOCConduit.name=Системный кондуит (OC)
@@ -295,7 +295,7 @@ item.itemAlloyEndergy.name=Сплав
 enderio.crudeSteel.name=Состав глины
 enderio.crystallineAlloy.name=Кристаллический сплав
 enderio.melodicAlloy.name=Мелодичный сплав
-enderio.stellarAlloy.name=Звездный сплав
+enderio.stellarAlloy.name=Звёздный сплав
 enderio.crystallinePinkSlime.name=Кристаллическая розовая слизь
 enderio.energeticSilver.name=Энергетическое серебро
 enderio.vividAlloy.name=Яркий сплав
@@ -373,9 +373,14 @@ enderio.endergeticCapacitor.name=Эндергетический конденса
 enderio.endergisedCapacitor.name=Сияющий конденсатор
 enderio.totemicCapacitor.name=Тотемный конденсатор
 
+enderio.machine.tooltip.upgrade.name=Machine Upgrade
 enderio.machine.tooltip.upgrade=Улучшение механизма
-enderio.machine.tooltip.upgrade.tooltip.detailed.line1=Увеличивает хранилище энергии и
-enderio.machine.tooltip.upgrade.tooltip.detailed.line2=скорость / радиус механизмов
+enderio.machine.tooltip.upgrade.tier=Tier: 
+enderio.machine.tooltip.upgrade.energyreceived=Max Energy Received: 
+enderio.machine.tooltip.upgrade.energyextracted=Max Energy Extracted: 
+enderio.machine.tooltip.upgrade.farmstation=Farming station radius: 
+enderio.machine.tooltip.upgrade.energystorage=Max energy storage: 
+enderio.machine.tooltip.upgrade.range=Range upgrade:
 enderio.machine.tooltip.clearConfig=Это очистит всю хранящуюся информацию!
 
 #Machines
@@ -777,6 +782,7 @@ enderio.itemCoordSelector.chat.setDimension=Выбранное измерени�
 #Painter
 tile.blockPainter.name=Покрасочный механизм
 enderio.blockPainter.paintedWith=Покрашено в:
+enderio.blockPainter.paintedWith.none=§onothing§r
 tile.blockPaintedFence.name=Покрашенный забор
 tile.blockPaintedFenceGate.name=Покрашенная калитка
 tile.blockPaintedWall.name=Покрашенная стена

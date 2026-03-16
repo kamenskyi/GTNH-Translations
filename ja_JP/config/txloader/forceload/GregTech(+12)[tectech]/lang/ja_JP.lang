@@ -10,9 +10,9 @@ tile.quantumGlass.name=Quantum Glass
 tile.quantumGlass.desc.0=Dense yet transparent
 tile.quantumGlass.desc.1=Glassy & Classy
 
-tile.spatiallyTranscendentGravitationalLens.name=Spatially Transcendent Gravitational Lens Block
-tile.godforgeGlass.desc.0=Gravitational lensing taken literal
-tile.godforgeGlass.desc.1=GraviLens 9000!
+tile.spatiallyTranscendentGravitationalLens.name=空間超越重力レンズブロック
+tile.godforgeGlass.desc.0=文字通りの重力レンズ
+tile.godforgeGlass.desc.1=重力レンズ 9000!
 
 tile.reactorSim.name=原子炉シミュレーター
 tile.reactorSim.desc.0=Fission Reaction Uncertainty Resolver 9001
@@ -50,9 +50,9 @@ item.em.constructable.desc.2=just Use on a multiblock controller.
 item.em.constructable.desc.3=(Sneak Use in creative to build)
 item.em.constructable.desc.4=Quantity affects tier/mode/type
 
-item.em.EuMeterGT.name=GT EU meter
-item.em.EuMeterGT.desc.0=Measures basic EU related stuff
-item.em.EuMeterGT.desc.1=Just right click on blocks.
+item.em.EuMeterGT.name=GT-EU計測器
+item.em.EuMeterGT.desc.0=基本的なEU関連の情報を計測する
+item.em.EuMeterGT.desc.1=タイルに対し右クリックして使用します
 
 item.em.frontRotate.name=Front Rotation Scrench
 item.em.frontRotate.desc.0=Triggers Front Rotation Interface
@@ -100,7 +100,7 @@ item.tm.enderfluidlinkcover.desc.0=Ender-Fluid-Enables Machines!
 item.tm.enderfluidlinkcover.desc.1=Use on any side of a fluid tank to link it to the Ender
 item.tm.enderfluidlinkcover.desc.2=Ender Tanks so are laggy -Bot from the Chads of NH
 
-item.tm.powerpassupgradecover.name=出力通過アップグレードカバー
+item.tm.powerpassupgradecover.name=パワーパスアップグレードカバー
 item.tm.powerpassupgradecover.desc.0=Add power pass functionality to TecTech Multiblocks
 item.tm.powerpassupgradecover.desc.1=Active transformer in a can??
 item.tm.powerpassupgradecover.desc.2=Chain them up like Christmas lights!
@@ -576,19 +576,19 @@ gt.blockhintTT.desc.5=ERROR, なにを期待していた？
 gt.blockcasingsTT.0.name=High Power Casing
 gt.blockcasingsTT.0.desc.0=Well suited for high power applications.
 gt.blockcasingsTT.0.desc.1=The power levels are rising!
-gt.blockcasingsTT.1.name=コンピューター外装
+gt.blockcasingsTT.1.name=コンピューター用外装
 gt.blockcasingsTT.1.desc.0=Nice and clean casing.
 gt.blockcasingsTT.1.desc.1=Dust can break it!?
-gt.3blockcasingsTT.2.name=Computer Heat Vent
+gt.3blockcasingsTT.2.name=コンピューター用排熱器
 gt.blockcasingsTT.2.desc.0=Air vent with a filter.
 gt.blockcasingsTT.2.desc.1=Perfectly muffled sound!
-gt.blockcasingsTT.3.name=発展型コンピューター外装
+gt.blockcasingsTT.3.name=発展型コンピューター用外装
 gt.blockcasingsTT.3.desc.0=Contains high bandwidth bus
 gt.blockcasingsTT.3.desc.1=couple thousand qubits wide.
-gt.blockcasingsTT.4.name=Molecular Casing
+gt.blockcasingsTT.4.name=分子外装
 gt.blockcasingsTT.4.desc.0=Stops elemental things.
 gt.blockcasingsTT.4.desc.1=Radiation and emotions too...
-gt.blockcasingsTT.5.name=Advanced Molecular Casing
+gt.blockcasingsTT.5.name=発展型分子外装
 gt.blockcasingsTT.5.desc.0=Cooling and stabilization.
 gt.blockcasingsTT.5.desc.1=A comfortable machine bed.
 gt.blockcasingsTT.6.name=Containment Field Generator
@@ -609,10 +609,10 @@ gt.blockcasingsTT.10.desc.1=Better touch with a stick.
 gt.blockcasingsTT.11.name=次元間ブリッジ生成器
 gt.blockcasingsTT.11.desc.0=Interdimensional Operations.
 gt.blockcasingsTT.11.desc.1=Around the universe and other places too.
-gt.blockcasingsTT.12.name=Ultimate Molecular Casing
+gt.blockcasingsTT.12.name=究極型分子外装
 gt.blockcasingsTT.12.desc.0=Ultimate in every way.
 gt.blockcasingsTT.12.desc.1=I don't know what it can't do.
-gt.blockcasingsTT.13.name=Ultimate Advanced Molecular Casing
+gt.blockcasingsTT.13.name=発展究極型分子外装
 gt.blockcasingsTT.13.desc.0=More Ultimate in every way.
 gt.blockcasingsTT.13.desc.1=I don't know what I am doing!
 gt.blockcasingsTT.14.name=Ultimate Containment Field Generator
@@ -663,7 +663,7 @@ gt.blockmachines.multimachine.tm.microwave.cfgi.1=Timer setting
 gt.blockmachines.multimachine.tm.microwave.cfgo.0=Timer value
 gt.blockmachines.multimachine.tm.microwave.cfgo.1=Timer remaining
 
-gt.blockmachines.multimachine.tm.teslaCoil.name=Tesla Tower
+gt.blockmachines.multimachine.tm.teslaCoil.name=テスラタワー
 gt.blockmachines.multimachine.tm.teslaCoil.hint.0=1 - Classic Hatches, Capacitor Hatches or Tesla Base Casing
 gt.blockmachines.multimachine.tm.teslaCoil.hint.1=2 - チタン製の骨組み
 gt.blockmachines.multimachine.tm.teslaCoil.desc.0=Controller block of the Tesla Tower
@@ -713,7 +713,7 @@ gt.blockmachines.multimachine.em.computer.desc.2=Use screwdriver to toggle wirel
 
 gt.blockmachines.multimachine.em.databank.name=Data Bank
 gt.blockmachines.multimachine.em.databank.hint.0=1 - Classic Hatches or high power casing
-gt.blockmachines.multimachine.em.databank.hint.1=2 - データアクセスハッチ/データバンクマスターコネクター/コンピューター外装
+gt.blockmachines.multimachine.em.databank.hint.1=2 - データアクセスハッチ/データバンクマスターコネクター/コンピューター用外装
 gt.blockmachines.multimachine.em.databank.desc.0=Controller block of the Data Bank
 gt.blockmachines.multimachine.em.databank.desc.1=Used to supply Assembling Lines with more Data Sticks
 gt.blockmachines.multimachine.em.databank.desc.2=and give multiple Assembling Lines access to the same Data Stick
@@ -721,7 +721,7 @@ gt.blockmachines.multimachine.em.databank.desc.3=Use screwdriver to toggle wirel
 
 gt.blockmachines.multimachine.em.junction.name=Matter Junction
 gt.blockmachines.multimachine.em.junction.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.junction.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.junction.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.junction.desc.0=Controller block of the Matter Junction
 gt.blockmachines.multimachine.em.junction.desc.1=Used to route and distribute elemental matter
 gt.blockmachines.multimachine.em.junction.desc.2=Needs a Parametrizer to be configured
@@ -803,27 +803,27 @@ gt.blockmachines.multimachine.em.infuser.Structure.MolecularCasing=Layer 3
 
 gt.blockmachines.multimachine.em.processing.name=Quantum Processing Machine
 gt.blockmachines.multimachine.em.processing.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.processing.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.processing.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.processing.desc.0=Controller block of the Quantum Processing machine
 
 gt.blockmachines.multimachine.em.crafter.name=マターアセンブラー
 gt.blockmachines.multimachine.em.crafter.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.crafter.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.crafter.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.crafter.desc.0=マターアセンブラーの本体ブロック
 
 gt.blockmachines.multimachine.em.stabilizer.name=Elemental Stabilizer
 gt.blockmachines.multimachine.em.stabilizer.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.stabilizer.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.stabilizer.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.stabilizer.desc.0=Controller block of the Elemental Stabilizer
 
 gt.blockmachines.multimachine.em.wormhole.name=Wormhole
 gt.blockmachines.multimachine.em.wormhole.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.wormhole.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.wormhole.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.wormhole.desc.0=Controller block of the Wormhole
 
 gt.blockmachines.multimachine.em.decay.name=Decay Generator
 gt.blockmachines.multimachine.em.decay.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.decay.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.decay.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.decay.desc.0=Controller block of the Decay Generator
 gt.blockmachines.multimachine.em.decay.desc.1=Decays elemental matter to generate power
 
@@ -831,12 +831,12 @@ gt.blockmachines.multimachine.em.decay.conf=Ampere divider
 
 gt.blockmachines.multimachine.em.annihilation.name=Annihilation Generator
 gt.blockmachines.multimachine.em.annihilation.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.annihilation.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.annihilation.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.annihilation.desc.0=Controller block of the Annihilation Generator
 
 gt.blockmachines.multimachine.em.blackholegenerator.name=Black Hole Generator
 gt.blockmachines.multimachine.em.blackholegenerator.hint.0=1 - Classic Hatches or High Power Casing
-gt.blockmachines.multimachine.em.blackholegenerator.hint.1=2 - Elemental Hatches or Molecular Casing
+gt.blockmachines.multimachine.em.blackholegenerator.hint.1=2 - エレメンタルハッチ/分子外装
 gt.blockmachines.multimachine.em.blackholegenerator.desc.0=Controller block of the Black Hole Generator
 gt.blockmachines.multimachine.em.blackholegenerator.desc.1=Uses a black hole to generate power
 
@@ -998,15 +998,15 @@ fog.button.structurecheck.tooltip=Refresh module connection status
 fog.button.milestones.tooltip=Milestone Overview
 
 
-achievement.gt.blockmachines.multimachine.em.forge_of_gods=Forge of the Gods
-achievement.gt.godforgecasing.0=Singularity Reinforced Stellar Shielding Casing
-achievement.gt.godforgecasing.1=Celestial Matter Guidance Casing
-achievement.gt.godforgecasing.2=Boundless Gravitationally Severed Structure Casing
-achievement.gt.godforgecasing.3=Transcendentally Amplified Magnetic Confinement Casing
-achievement.gt.godforgecasing.4=Stellar Energy Siphon Casing
-achievement.gt.godforgecasing.5=Remote Graviton Flow Modulator
-achievement.gt.godforgecasing.6=Medial Graviton Flow Modulator
-achievement.gt.godforgecasing.7=Central Graviton Flow Modulator
+achievement.gt.blockmachines.multimachine.em.forge_of_gods=神の鍛造場
+achievement.gt.godforgecasing.0=特異点強化構成防護外装
+achievement.gt.godforgecasing.1=天体物質誘導外装
+achievement.gt.godforgecasing.2=無限級重力阻害構造構築用外装
+achievement.gt.godforgecasing.3=超越級増幅磁場閉じ込め用外装
+achievement.gt.godforgecasing.4=恒星エネルギー吸引外装
+achievement.gt.godforgecasing.5=外周部用重力子流量調整器
+achievement.gt.godforgecasing.6=中間部用重力子流量調整器
+achievement.gt.godforgecasing.7=中心部用重力子流量調整器
 
 gt.blockmachines.multimachine.FOG.parallel=Parallel
 gt.blockmachines.multimachine.FOG.batch=Batch Size
@@ -1137,10 +1137,10 @@ gt.blockmachines.debug.tt.data.desc.1=High speed fibre optics connector.
 gt.blockmachines.debug.tt.data.desc.2=Must be painted to work
 gt.blockmachines.debug.tt.maintenance.name=全自動テープ設置メンテナンスハッチ
 gt.blockmachines.debug.tt.maintenance.desc.0=マルチブロックのメンテナンスを自動的に行える
-gt.blockmachines.debug.tt.maintenance.desc.1=自身以外の全てを修復できます。
+gt.blockmachines.debug.tt.maintenance.desc.1=自身以外の全てを修復する。
 gt.blockmachines.debug.tt.maintenance.desc.2=修理は庶民がやること！
-gt.blockmachines.debug.tt.genny.name=Debug Power Generator
-gt.blockmachines.debug.tt.genny.desc.0=Power from nothing
+gt.blockmachines.debug.tt.genny.name=デバッグ用電力生成器
+gt.blockmachines.debug.tt.genny.desc.0=無からEUを発電する
 gt.blockmachines.debug.tt.genny.desc.1=Infinite Producer/Consumer
 gt.blockmachines.debug.tt.genny.desc.2=Since i wanted one...
 gt.blockmachines.debug.tt.genny.desc.3=Change it to Laser mode with a screwdriver.
@@ -1185,8 +1185,8 @@ GT5U.gui.text.research_progress=§fComputation: %d/%d (%s%%)
 # RecipeMaps
 gt.recipe.eyeofharmony=アイ・オブ・ハーモニー
 gt.recipe.researchStation=総合型研究装置
-gt.recipe.fog_plasma=Heliothermal Plasma Fabricator
-gt.recipe.fog_exotic=Heliofusion Exoticizer
+gt.recipe.fog_plasma=ヘリオサーマル・プラズマファブリケーター
+gt.recipe.fog_exotic=ヘリオフュージョン・エキゾチサイザー
 
 
 # NEI
@@ -1203,9 +1203,9 @@ tt.keyword.ID=ID
 #Example: 32EU at 1A
 tt.keyword.at=at
 # Structure is too complex
-tt.keyword.Structure.StructureTooComplex=The structure is too complex!
+tt.keyword.Structure.StructureTooComplex=構造が複雑すぎます！
 # Any X
-tt.keyword.Structure.AnyComputerCasing=任意のコンピューター外装
+tt.keyword.Structure.AnyComputerCasing=任意のコンピューター用外装
 tt.keyword.Structure.AnyHighPowerCasing=Any High Power Casing
 tt.keyword.Structure.AnyHighPowerCasing1D=Any High Power Casing with 1 dot
 tt.keyword.Structure.AnyHighPowerCasing2D=Any High Power Casing with 2 dots
@@ -1214,7 +1214,7 @@ tt.keyword.Structure.AnyTeslaBaseCasingOuter=Any outer Tesla Base Casing
 tt.keyword.Structure.AnyComputerCasingFirstOrLastSlice=Any Computer Casing on the first or last slice
 tt.keyword.Structure.AnyComputerCasingBackMain=Any Computer Casing on the backside of the main body
 tt.keyword.Structure.AnyAdvComputerCasingExceptOuter=Any Advanced Computer Casing, except the outer ones
-tt.keyword.Structure.AnyMolecularCasing=Any Molecular Casing
+tt.keyword.Structure.AnyMolecularCasing=任意の分子外装
 tt.keyword.Structure.AnyMolecularCasing2D=Any Molecular Casing with 2 dots
 tt.keyword.Structure.AnyMolecularCasing3D=Any Molecular Casing with 3 dots
 tt.keyword.Structure.AnyMolecularCasing4D=Any Molecular Casing with 4 dots
@@ -1295,12 +1295,12 @@ tt.keyphrase.Hysteresis_low_set_to=Hysteresis low set to
 tt.keyphrase.Tesla_radius_set_to=Tesla radius set to
 tt.keyphrase.Sending_power=Sending power
 tt.keyphrase.Receiving_power=Receiving power
-tt.keyphrase.Stored_energy=Stored energy
-tt.keyphrase.Stored_EU=Stored EU
-tt.keyphrase.Average_IO=Average I/O
-tt.keyphrase.Average_IO_(max)=Voltage I/O (max)
-tt.keyphrase.Average_IO_max=Voltage I/O max
-tt.keyphrase.Amperage_IO_(max)=Amperage I/O (max)
+tt.keyphrase.Stored_energy=エネルギー容量
+tt.keyphrase.Stored_EU=蓄電量
+tt.keyphrase.Average_IO=平均入/出力量
+tt.keyphrase.Average_IO_(max)=電圧入/出力量 (最大)
+tt.keyphrase.Average_IO_max=電圧入/出力量 (最大)
+tt.keyphrase.Amperage_IO_(max)=アンペア入/出力量 (最大)
 tt.keyphrase.Side_capabilities=Side capabilities
 tt.keyphrase.Ass_line_recipe=組立ラインのレシピ
 

@@ -357,6 +357,7 @@ LogisticsPipes Pipe Block.name=LogisticsPipes блок трубы
 lp.chat.slotnotfound=Не смог найти этот внутренний слот. Что-то пошло не так. Пожалуйста, попробуйте ещё раз или сообщите разработчику
 lp.chat.permissiondenied=Доступ запрещён
 lp.chat.connectedtopipe=Присоединено к трубе
+lp.chat.satelliteid.set=Вспомогательная ID установлен на %d
 lp.misc.noenergy=Нет питания
 lp.hud.config.chassie.enabled=Показывать: Шасси
 lp.hud.config.chassie.disabled=ВЫКЛЮЧЕНО: Шасси
@@ -373,16 +374,15 @@ lp.hud.config.satellite.disabled=ВЫКЛЮЧЕНО: Вспомогатель
 
 # GUI
 
+gui.logisticspipes.inventory.title=Инвентарь
 gui.itemsink.Yes=Да
 gui.itemsink.No=Нет
-gui.itemsink.Inventory=Инвентарь
 gui.itemsink.Defaultroute=Склад по-ум
 gui.itemsink.IgnoreData=Игнорировать: Data
 gui.itemsink.IgnoreNBT=Игнорировать: NBT
 gui.itemsink.import=Импорт
 
 gui.crafting.Inputs=Вход
-gui.crafting.Inventory=Инвентарь
 gui.crafting.Import=Импорт
 gui.crafting.Open=Откр.
 gui.crafting.Output=Выход
@@ -422,10 +422,9 @@ gui.fluidsuppliermk2.refill_if_depleted.tip.zero=§7Установка §e0§7 �
 gui.fluidsuppliermk2.TargetInv=Поставляемые жидкости
 
 gui.fluidsupplier.TargetInv=Поставляемые жидкости
-gui.fluidsupplier.Inventory=Инвентарь
 gui.fluidsupplier.Partialrequests=Запрашивать порциями
 gui.fluidsupplier.Yes=Да
-gui.fluidsupplier.No=НЕТ
+gui.fluidsupplier.No=Нет
 
 gui.invsyscon.Refresh=Обновить
 gui.invsyscon.Save=Сохранить
@@ -436,6 +435,38 @@ gui.invsyscon.Resistance=Предел ожид.
 
 gui.powerjunction.LogisticsPowerJunction=Узел питания
 gui.powerjunction.StoredEnergy=Энергии накоплено:
+gui.powerjunction.ConversionEnergyRF=10 RF = 5 LP
+gui.powerjunction.ConversionEnergyEU=1 EU = 2 LP
+gui.powerjunction.PowerLevel=%s LP
+gui.powerjunction.MaxStorage=/ %s LP
+
+gui.requesttable.RequestItems=Запросить предметы
+gui.requesttable.Sort=Сортировать:
+gui.requesttable.Popup=Popup
+
+gui.sortmode.id=ID
+gui.sortmode.size=РАЗМЕР
+gui.sortmode.name=НАЗВАНИЕ
+
+gui.module.requestedItems=Requested items
+gui.module.ModuleExtractor=Extract orientation
+gui.module.ModuleTerminus=Terminated items
+gui.module.ModuleAdvancedExtractor=Item list
+gui.module.ModuleProvider=Items to provide (or empty for all)
+gui.module.ModuleProvider.ExcessInventory=Excess Inventory:
+gui.module.ModuleElectricManager.ExcessInventory=Electric Items
+gui.module.ModuleThaumicAspectSink=Aspect Reader
+gui.module.ModuleThaumicAspectSink.sunk=Sunk Aspects
+gui.module.ModuleEnchantmentSink=Requested Enchanted items
+gui.module.ModuleCCBasedQuickSort=Timeout Timer
+gui.module.ModuleCCBasedQuickSort.ticks=%s ticks
+
+gui.hudglasses.ChassiePipe=HUD Chassie Pipe
+gui.hudglasses.CraftingPipe=HUD Crafting Pipe
+gui.hudglasses.InvSysConPipe=HUD InvSysCon Pipe
+gui.hudglasses.PowerJunction=HUD Power Junction
+gui.hudglasses.ProviderPipe=HUD Provider Pipe
+gui.hudglasses.SatellitePipe=HUD Satellite Pipe
 
 gui.powerprovider.LogisticsMJPowerProvider=Поставщик MJ-энергии
 gui.powerprovider.LogisticsEUPowerProvider=Поставщик EU-энергии
@@ -443,7 +474,6 @@ gui.powerprovider.LogisticsRFPowerProvider=Поставщик RF-энергии
 gui.powerprovider.StoredEnergy=Энергии накоплено:
 
 gui.providerpipe.TargetInv=Предметы для поставки (пусто - все)
-gui.providerpipe.Inventory=Инвентарь
 gui.providerpipe.Mode=Режим
 gui.providerpipe.Exclude=Исключ.
 gui.providerpipe.Include=Включать
@@ -457,7 +487,7 @@ gui.routingstats.Relayed=Перед.
 gui.routingstats.RoutingTableSize=Разм. табл. маршрут.
 gui.routingstats.exit=Нажмите <ESC> для выхода
 
-gui.satellite.SatelliteID=Вспомогательная ID
+gui.satellite.SatelliteID=Вспомогательный ID
 
 gui.securitystation.Open=Откр.
 gui.securitystation.EditTable=Внести в станцию изменения
@@ -469,7 +499,6 @@ gui.securitystation.excludeIDs=Искл. ID CCraft'а
 gui.securitystation.pipeRemove=Разр. автоудал. труб
 gui.securitystation.Player=Игрок
 gui.securitystation.SecurityCards=Карты безопасности
-gui.securitystation.Inventory=Инвентарь
 gui.securitystation.popup.ccAccess.Remove=Удалить
 gui.securitystation.popup.ccAccess.Add=Добав.
 gui.securitystation.popup.player.Close=Закр.
@@ -482,15 +511,12 @@ gui.securitystation.popup.player.RemovePipes=Удал. труб
 
 gui.supplierpipe.TargetInv=Поставл. предметы
 gui.supplierpipe.TargetInvPattern=Поставл. предметы для ук. слотов
-gui.supplierpipe.Inventory=Инвентарь
 gui.supplierpipe.RequestMode=Режим запроса
 
 gui.upgrademanager.Upgrades=Улучшения
-gui.upgrademanager.Inventory=Инвентарь
 gui.upgrademanager.SneakyUpgrades=Окольные улучшения
 
 gui.pipecontroller.upgrade=Улучшения
-gui.pipecontroller.inventory=Инвентарь
 gui.pipecontroller.sneakyUpgrades=Окольные улучшения
 gui.pipecontroller.security=Защита
 gui.pipecontroller.Session=Сессия
@@ -504,6 +530,7 @@ gui.networkstatistics.amount=Количество путей
 gui.networkstatistics.crafting=Выполняющ. задачи крафта
 gui.networkstatistics.gettasks=Поручить задачу
 gui.networkstatistics.add.alreadytracked=Тип предмета уже отслеж.
+gui.networkstatistics.ItemDisplay=Page %s / %s
 
 gui.settings.pipenewrenderer=Использование нового визуализатора
 gui.settings.pipevborenderer=Используйте VBO Renderer (экспериментальный)

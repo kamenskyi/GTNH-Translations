@@ -42,7 +42,7 @@ item.FMResource.2.name=マナスチールナゲット
 item.FMResource.3.name=汚染された血の欠片
 item.FMResource.4.name=エレメンチウムナゲット
 item.MobCrystalEmpty.name=空白の刻印水晶
-item.MobCrystal.name=刻印水晶
+item.MobCrystal.name=%s 刻印水晶
 item.DiabolistFork.name=悪魔のフォーク
 item.DiabolistSpork.name=運命の先割れスプーン
 item.GluttonyShard.name=貪食の結晶片
@@ -165,12 +165,13 @@ death.attack.dragonslayer=%1$sは%2$sに殺害された
 death.attack.dragonwrack=%1$sは致命傷を負って死んだ
 #
 # Research
-forbidden.research_name.NETHERSHARDS=ネザーの結晶片
+forbidden.research_name.NETHERSHARDS=地獄の結晶片
 forbidden.research_text.NETHERSHARDS=お行儀悪く行こう。
 forbidden.research_page.NETHERSHARDS.1=ネザーには奇妙なエネルギーが渦巻いている。時に、特定の共鳴的な事象が起こると、そのエネルギーは結晶片へと固化することが知られている。
 forbidden.research_page.NETHERSHARDS.2=これらの結晶片にはさまざまな悪徳が染み込んでおり、不徳な魔導師にとっては多くの使い道がある。<BR>ネザーの結晶片にはには7つの種類があり、それぞれが異なる "大罪 "に同調する。<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
 forbidden.research_page.NETHERSHARDS.2b=これらの結晶片にはさまざまな悪徳が染み込んでおり、不徳な魔導師にとっては多くの使い道がある。<BR>ネザーの結晶片にはには6つの種類があり、それぞれが異なる "大罪 "に同調する。<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.3=憤怒の結晶片は、暴力行為の周囲で結晶化する。憤怒の結晶片は、物理的な力が過剰であるほど出現しやすくなる。<BR><BR>怠惰の結晶片は、努力しないで資源を集めるために、代行や事故を利用すると凝結する。<BR><BR>嫉妬の結晶片は、それを欲する者がそれを持つものから奪い取って入手する。<BR><BR>傲慢の結晶片は、真に偉大な力を持つ生物が切り刻まれると出現する。<BR><BR>貪食の結晶片は、何者かがごちそうを食べると結晶化する。<BR><BR>貪欲の結晶片は、エンチャントが利益を生み出すと現れる。
+forbidden.research_page.NETHERSHARDS.3=憤怒の結晶片は、暴力行為の周囲で結晶化する。憤怒の結晶片は、物理的な力が過剰であるほど出現しやすくなる。<BR><BR>怠惰の結晶片は、努力しないで資源を集めるために、代行や事故を利用すると凝結する。<BR><BR>嫉妬の結晶片は、それを欲する者がそれを持つものから奪い取って入手する。<BR><BR>傲慢の結晶片は、真に偉大な力を持つ生物が切り刻まれると出現する。<BR><BR>貪食の結晶片は、何者かがごちそうを食べると結晶化する。<BR><BR>貪欲の結晶片は、エンチャントが利益を生み出すと現れる。<BR><BR>色欲の結晶片は、動物相の再現により出現する。
+forbidden.research_page.NETHERSHARDS.3b=Wrath Shards crystallize around acts of violence. The more excessive the physical force used, the more likely it is for a Wrath Shard to appear.<BR><BR>Sloth Shards congeal when proxies and accidents are used to collect resources without effort.<BR><BR>Envy Shards are taken from those who have them by those that covet them.<BR><BR>Pride Shards materialize when a creature of truly great power is cut down to size.<BR><BR>Gluttony Shards crystallize when someone feasts.<BR><BR>Greed Shards appear when enchantment is used to turn a profit.
 #
 forbidden.research_name.SKULLAXE=頭蓋落としの斧
 forbidden.research_text.SKULLAXE=首をはねよ!
@@ -190,7 +191,7 @@ forbidden.research_page.FOCUSBLINK.1=うおっ。<BR><BR>朝起きること以�
 #
 forbidden.research_name.TAINTSHOVEL=浄化のシャベル
 forbidden.research_text.TAINTSHOVEL=熱いナイフで、マジでグロいバターを切るように
-forbidden.research_page.TAINTSHOVEL.1=汚染を取り除く最も簡単な方法は、物理的に取り除くことである場合もある。<BR><BR>魔導金属のシャベルをシルバーウッドと秩序の結晶片で強化することで、汚染に対抗しうる道具を生み出した。 浄化のシャベルは、通常の土を掘るのと同じように、ぐちゃぐちゃに汚染された地を効率的に掘ることができる。<BR><BR>このシャベルを手に持って右クリックすると、耐久力を消費して、狭い範囲の液体フラックスやフラックスガスを浄化することができる。もう丸石で注入の失敗を片付ける必要はない！
+forbidden.research_page.TAINTSHOVEL.1=汚染を取り除く最も簡単な方法は、物理的に取り除くことである場合もある。<BR><BR>魔導金属のシャベルをシルバーウッドと秩序の結晶片で強化することで、汚染に対抗しうる道具を生み出した。 浄化のシャベルは、通常の土を掘るのと同じように、ぐちゃぐちゃに汚染された地を効率的に掘ることができる。<BR><BR>このシャベルを手に持って右クリックすると、耐久力を消費して、狭い範囲の液体フラックスやフラックスガスを浄化することができる。もう丸石で注入の失敗跡を片付ける必要はない！
 forbidden.research_page.TAINTSHOVEL.2=シャベルで汚染を掘ると、放出された歪んだエネルギーが結晶化して汚染の結晶片になることがある。 この結晶片は他の汚染されたアイテムとは異なり、その結晶パターンゆえに持ち運べるほど安定している。
 #
 forbidden.research_name.TAINTPICK=歪曲のツルハシ
@@ -199,7 +200,7 @@ forbidden.research_page.TAINTPICK.1=魔導金属のツルハシに汚染を注�
 #
 forbidden.research_name.ROD_tainted=汚染された杖身
 forbidden.research_text.ROD_tainted=ぐにゃぐにゃのVis貯蔵庫
-forbidden.research_page.ROD_tainted.1=それを活用する方法を知っている魔導師にとって、汚染された地は偉大で恐るべき力を持った場所だ。<BR><BR>汚染された杖身は150Visを貯めることができ、汚染された地の中で所持していると、それぞれの相について最大10%までVisがゆっくりと自然回復する。杖を手に持っている間、杖は血管を流れる汚染を吸い上げることができ、フラックス汚染によるダメージを受けるたびにランダムにVisを回復する。
+forbidden.research_page.ROD_tainted.1=それを活用する方法を知っている魔導師にとって、汚染された地は偉大で恐るべき力を持った場所だ。<BR><BR>汚染された杖身は %d Visを貯めることができ、汚染された地の中で所持していると、それぞれの相について最大10%%までVisがゆっくりと自然回復する。杖を手に持っている間、杖は血管を流れる汚染を吸い上げることができ、フラックス汚染によるダメージを受けるたびにランダムにVisを回復する。
 #
 forbidden.research_name.TAINTTREE=汚染された木
 forbidden.research_text.TAINTTREE=フラックスの根は醜い実を結ぶ
@@ -211,7 +212,7 @@ forbidden.research_page.TAINTSTONE.1=汚染された地はあまり安全な場�
 #
 forbidden.research_name.ROD_infernal=地獄の杖身
 forbidden.research_text.ROD_infernal=悪魔のVis貯蔵庫
-forbidden.research_page.ROD_infernal.1=自分のように偉大で強力な魔導師には、その地位にふさわしい強力で堂々とした杖がふさわしい。その辺のヒッピーみたいなシルバーウッドの杖では駄目だ。権威の王笏となる杖が必要なのだ。<BR><BR>ネザーの力を注入した杖を作る方法を発見した。 地獄の杖身は150Visを保持でき、IgnisのVisが20％までゆっくりと自然回復する。 ネザーにいる間は、他の相のVisも10％まで自然回復する。
+forbidden.research_page.ROD_infernal.1=自分のように偉大で強力な魔導師には、その地位にふさわしい強力で堂々とした杖がふさわしい。その辺のヒッピーみたいなシルバーウッドの杖では駄目だ。権威の王笏となる杖が必要なのだ。<BR><BR>ネザーの力を注入した杖を作る方法を発見した。 地獄の杖身は %d Visを保持でき、IgnisのVisが20％%までゆっくりと自然回復する。 ネザーにいる間は、他の相のVisも10％%まで自然回復する。
 forbidden.research_page.ROD_infernal.2=この杖にはネザーの危険から身を守る効果もあり、インベントリにある限り、火に包まれたときに消火したり、衰弱の効果から身を守ったりする。 杖を手に持っている間は、すべての火によるダメージから完全に身を守ることができる。
 #
 forbidden.research_name.ROD_profane=冒涜的な杖
@@ -224,36 +225,36 @@ forbidden.research_page.ROD_soul.1=プレイヤービーコンを流れるエネ
 #
 forbidden.research_name.ROD_blood=血の染み込んだ杖身
 forbidden.research_text.ROD_blood=錬金術のVis貯蔵庫
-forbidden.research_page.ROD_blood.1=魔導学と錬金術的魔術の橋渡しをした。血の杖身は100Visを貯蔵することができ、ライフポイント(LP)を使ってゆっくりとVisを充填する。<BR><BR>杖は最初に手に取ったプレイヤーに紐付けされる。杖が空である限り、杖は所持者のネットワークのLPを使ってVisを満たそうとする。もし燃料となるライフポイントが足りなければ、それを持っているプレイヤーから体力を引き出そうとするが、この変換はあまり効率的ではない。もし引き出せるLPがなく、持ち主のハートが3つ以下になると、杖はVisの充填を止める。
-forbidden.research_page.ROD_blood.2=血の杖を完成させるには、注入作業だけでは不十分だ。完成させるには、不活性な血の杖が注入されたら、血の祭壇でそれにライフエッセンスを染み込ませなければならない。
+forbidden.research_page.ROD_blood.1=魔導学と錬金術的魔術の橋渡しをした。血の杖身は %d Visを貯蔵することができ、1Visあたり1,000 LPを消費してゆっくりとVisを充填する。<BR><BR>杖は最初に手に取ったプレイヤーに紐付けされる。杖が満充填されていない状態で持ち歩いている限り、杖は所持者のネットワークのLPを使ってVisを満たそうとする。もし燃料となるLPが足りなければ、それを持っているプレイヤーから体力を引き出そうとするが、この変換はあまり効率的ではない。もし引き出せるLPがなく、持ち主のハートが3つ以下になると、杖はVisの充填を止める。
+forbidden.research_page.ROD_blood.2=血の杖を完成させるには、注入作業だけでは不十分だ。完成させるには、不活性な血の杖の注入が完了した後、そこに血の祭壇でライフエッセンスを染み込ませ、血への渇望を呼び覚まさなければならない。
 #
 forbidden.research_name.ROD_blood_staff=血の染み込んだ上級杖身
 forbidden.research_text.ROD_blood_staff=血魔術師の上級杖
-forbidden.research_page.ROD_blood_staff.1=血の杖は便利だが、いかんせん充填が遅い。継続的な戦闘に耐えうる魔道具を作る時が来た。<BR><BR>100Visを保持できる大半の上級杖とは異なり、血の上級杖は50Visしか保持できない。この杖が真に優れているのは、急速にVisを充填できる点である。血の上級杖がホットバーにある限り、持ち主のLPネットワークから血の杖の4倍の速さでVisを充填する。しかし、この貪欲さには代償が伴う。血の杖と違い、血の上級杖はLPが足りなければ所持者を殺すことができるのだ。
+forbidden.research_page.ROD_blood_staff.1=血の杖は便利だが、いかんせん充填が遅い。継続的な戦闘に耐えうる魔道具を作る時が来た。<BR><BR>血の上級杖は%d Visしか保持できない。大半の上級杖は %d Visを保持できるというのにだ。しかし、この杖が真に優れているのは、急速にVisを充填できる点である。血の上級杖がホットバーにある限り、持ち主のLPネットワークから血の杖の4倍の速さでVisを充填する。しかし、この貪欲さには代償が伴う。血の杖と違い、血の上級杖はLPが足りなければ所持者を殺すことができるのだ。
 #
 forbidden.research_name.ROD_witchwood=ウィッチウッドの杖身
 forbidden.research_text.ROD_witchwood=マナ変換器
-forbidden.research_page.ROD_witchwood.1=ウィッチウッドから杖身を作ることで、マナをVisに変換する方法を発見した。 ウィッチウッドの杖身は最大100Visを保持し、1Visにつき140マナのコストで徐々に充填される。<BR><BR>さらなる研究により、この対価を下げる方法が見つかるかもしれない。
+forbidden.research_page.ROD_witchwood.1=ウィッチウッドから杖身を作ることで、マナをVisに変換する方法を発見した。 ウィッチウッドの杖身は最大 %d Visを保持し、1Visにつき140マナのコストで徐々に充填される。<BR><BR>さらなる研究により、この対価を下げる方法が見つかるかもしれない。
 #
 forbidden.research_name.ROD_witchwood_staff=ウィッチウッドの上級杖身
 forbidden.research_text.ROD_witchwood_staff=古魔術師の杖
-forbidden.research_page.ROD_witchwood_staff.1=ウィッチウッドの杖は、継続的な戦闘に耐えるにはあまりにも多すぎる魔力を消費し、充填も遅すぎる。魔力を流すのに、もう少し効率的なものを作る時が来た。<BR><BR>100Visを保持できる大半の上級杖とは異なり、ウィッチウッドの上級杖は50Visしか保持できない。この杖の真の強みは、Vis充填の速さにある。ウィッチウッドの上級杖はウィッチウッドの杖と比べて2倍以上の速度でVisを回復する。さらに、この上級杖はウィッチウッドの杖よりもかなり少ない魔力しか使わず、適切な石突なしで使用した場合でも、1Visにつき100マナしか必要としない。
+forbidden.research_page.ROD_witchwood_staff.1=ウィッチウッドの杖は、継続的な戦闘に耐えるにはあまりにも多すぎる魔力を消費し、充填も遅すぎる。魔力を流すのに、もう少し効率的なものを作る時が来た。<BR><BR>100Visを保持できる大半の上級杖とは異なり、ウィッチウッドの上級杖は %d Visしか保持できない。しかしこの杖の真の強みは、Vis充填の速さにある。ウィッチウッドの上級杖はウィッチウッドの杖と比べて2倍以上の速度でVisを回復する。さらに、この上級杖はウィッチウッドの杖よりもかなり少ない魔力しか使わず、1Visにつき100マナしか必要としない。
 #
 forbidden.research_name.ROD_livingwood=リビングウッドの杖身
 forbidden.research_text.ROD_livingwood=植物のVis貯蔵庫
-forbidden.research_page.ROD_livingwood.1=リビングウッドはマナを操る素晴らしい能力を持っている。適切な試薬と組み合わせれば、マナをVisに変換することも可能だ。<BR><BR>リビングウッドの杖は、インベントリにあるマナ貯蔵アイテムから素早くマナを引き出して、自身にVisを充填する。<BR><BR>注入の儀式の過程で、残念ながらリビングウッドは燃え尽きてしまう。一度注入したら、杖身を再び目覚めさせるために、マナプールでマナを補給しなければならない。
+forbidden.research_page.ROD_livingwood.1=リビングウッドはマナを操る素晴らしい能力を持っている。適切な試薬と組み合わせれば、%d Visの容量を持ち、マナをVisに変換することも可能な杖身へと加工することができる。<BR><BR>リビングウッドの杖は、インベントリ内に存在する、または装飾品スロットに装着しているマナ貯蔵アイテムから素早くマナを引き出して、自身にVisを充填する。<BR><BR>注入の儀式の過程で、残念ながらリビングウッドは燃え尽きてしまう。一度注入したら、杖身を再び目覚めさせるために、マナプールでマナを補給しなければならない。
 #
 forbidden.research_name.ROD_dreamwood_staff=ドリームウッドの上級杖
 forbidden.research_text.ROD_dreamwood_staff=甘美な夢のもと
-forbidden.research_page.ROD_dreamwood_staff.1=リビングウッドは便利な素材だが、上級杖を作るのに必要な量の神秘の力には耐えられないようだ。しかし、エルフのドリームウッドなら十分耐えられるだろう。<BR><BR>ドリームウッドで作られた上級杖は、同素材の杖よりもはるかに多くのVisを保持し、杖星を使用する際にはより強大な力を発揮することができる。<BR><BR>リビングウッドと同様、ドリームウッドの杖身を完全に覚醒させるにはマナプールでマナの注入を行わなければならない。
+forbidden.research_page.ROD_dreamwood_staff.1=リビングウッドは便利な素材だが、上級杖を作るのに必要な量の神秘の力には耐えられないようだ。しかし、エルフのドリームウッドなら十分耐えられるだろう。<BR><BR>ドリームウッドの杖は %d Vis、ドリームウッドの上級杖は %d Visを保持することが可能であり、さらに上級杖は杖星を使用する際により強大な力を発揮することができる。<BR><BR>リビングウッドと同様、ドリームウッドの杖身を完全に覚醒させるにはマナプールでマナの注入を行わなければならない。
 #
 forbidden.research_name.CAP_alchemical=錬金加工された石突
 forbidden.research_text.CAP_alchemical=魔導金属では血の気が不十分なら
-forbidden.research_page.CAP_alchemical.1=魔導学と錬金術的魔術を融合させた石突を開発した。 錬金加工された石突はAquaのVisを流すのに非常に適しており、通常のVisコストの80％しか使わない。それ以外のVisでは90％しか使わない。<BR><BR>血の染み込んだ杖身と組み合わせると、錬金加工された石突は杖が消費するLPを減らし、1Visあたり900LPしか消費しなくなる。 また、石突は血の染み込んだ杖からの攻撃全てに弱体化の効果を与える。
+forbidden.research_page.CAP_alchemical.1=魔導学と錬金術的魔術を融合させた石突を開発した。 錬金加工された石突はAquaのVisを流すのに非常に適しており、通常のVisコストの%d%%しか使わない。それ以外のVisでは%d%%のVis効率となる。<BR><BR>血の染み込んだ杖身または上級杖身と組み合わせると、錬金加工された石突は杖が消費するLPを減らし、1Visあたり900LPしか消費しなくなる。 また、この石突と血の染み込んだ杖身を組み合わせた杖による攻撃が命中すると、対象に高レベルの弱体化効果を与える。
 #
 forbidden.research_name.CAP_vinteum=ヴィンテウムの石突
 forbidden.research_text.CAP_vinteum=魔術的な石突
-forbidden.research_page.CAP_vinteum.1=魔導金属の石突にヴィンテウムを注入することで、ウィッチウッドの杖身と組み合わせたときに1Visあたりのマナ消費量を80にまで下げる石突を作ることができる。<BR><BR>魔導金属の石突はヴィンテウムとうまく融合するようで、Vis効率は変わらず90％である。
+forbidden.research_page.CAP_vinteum.1=魔導金属の石突にヴィンテウムを注入することで、ウィッチウッドの杖身または上級杖身と組み合わせたときに、1Visあたりのマナ消費量をおよそ半分にまで下げる石突を作ることができる。<BR><BR>魔導金属の石突はヴィンテウムとうまく融合するようで、Vis効率は変わらず%d%%である。
 #
 forbidden.research_name.CAP_soul=エンダーの石突
 forbidden.research_text.CAP_soul=魂の保護
@@ -261,15 +262,15 @@ forbidden.research_page.CAP_soul.1=エンドの破壊的エネルギーを安全
 #
 forbidden.research_name.CAP_manasteel=マナスチールの石突
 forbidden.research_text.CAP_manasteel=マナの秘密
-forbidden.research_page.CAP_manasteel.1=マナスチールはマナの操作に関して非常に有用な特性を持っている。石突に加工すると、90％のVis効率を発揮する。マナを消費できる杖身と組み合わせれば、マナの変換プロセスもより効率的になる。<BR><BR>杖不活性の作成に使用するには、不活性なマナスチールの石突をマナプールで注入する必要がある。
+forbidden.research_page.CAP_manasteel.1=マナスチールはマナの操作に関して非常に有用な特性を持っている。石突に加工すると、%d%%のVis効率を発揮する。マナを消費できる杖身と組み合わせれば、マナの変換プロセスもより効率的になる。<BR><BR>杖不活性の作成に使用するには、不活性なマナスチールの石突をマナプールで注入する必要がある。
 #
 forbidden.research_name.CAP_elementium=エレメンチウムの石突
 forbidden.research_text.CAP_elementium=環境にやさしい石突
-forbidden.research_page.CAP_elementium.1=アルフヘイムは魔法の力に満ちた世界であり、エレメンチウムも例外ではない。石突に加工され、適切な材料で処理されたエレメンチウムの石突は、Visを流すのに卓越した能力を持つ。マナを使用する杖や上級杖と組み合わせれば、マナの変換効率を上げることもできる。<BR><BR>エレメンチウムのかわいいピンク色は、まさにケーキの上のアイシングだ。
+forbidden.research_page.CAP_elementium.1=アルフヘイムは魔法の力に満ちた世界であり、エレメンチウムも例外ではない。石突に加工され、適切な材料で処理されたエレメンチウムの石突は、Visを流すのに卓越した能力を持つ。%d%%のVis効率を誇るのだ。マナを使用する杖や上級杖と組み合わせれば、マナの変換効率を上げることもできる。<BR><BR>エレメンチウムのかわいいピンク色は、まさにケーキの上のアイシングだ。
 #
 forbidden.research_name.CAP_terrasteel=テラスチールの石突
 forbidden.research_text.CAP_terrasteel=完成!
-forbidden.research_page.CAP_terrasteel.1=なあハルヒ、こいつは酷いアイディアだぞ。何を考えてるんだ?<BR><BR>テラスチールにはマナが過剰に蓄積されているため、その名の由来である大地の性質が多く備わっている。強度、耐久性、密度、そして...エネルギーに対する極度の抵抗力。テラスチールは全くVisを流すことができないため、ほとんどのVisは杖から放出されることなく、テラスチールに対して無駄に散ってしまう。<BR><BR>どうやら、あらゆる素材で片っ端から石突を作るのは良いアイデアとは言えないようだ。
+forbidden.research_page.CAP_terrasteel.1=なあハルヒ、こいつは酷いアイディアだぞ。何を考えてるんだ?<BR><BR>テラスチールにはマナが過剰に蓄積されているため、その名の由来である大地の性質が多く備わっている。強度、耐久性、密度、そして...エネルギーに対する極度の抵抗力。テラスチールは全くVisを流すことができないため、ほとんどのVisは杖から放出されることなく、テラスチールに対して無駄に散ってしまう。その結果、Vis効率は通常時でも%d%%だ。<BR><BR>どうやら、あらゆる素材で片っ端から石突を作るのは良いアイデアとは言えないようだ。
 #
 forbidden.research_name.TRANSEMERALD=エメラルドへの変成
 forbidden.research_text.TRANSEMERALD=錬「エメラルド」術

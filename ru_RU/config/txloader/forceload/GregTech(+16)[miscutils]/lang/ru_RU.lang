@@ -5,7 +5,7 @@ itemGroup.MiscUtilCombatTab=[GT++] Сражения
 itemGroup.MiscUtilToolsTab=[GT++] Инструменты
 itemGroup.MiscUtilMachineTab=[GT++] Механизмы
 itemGroup.MiscUtilOtherTab=[GT++] Предметы II
-itemGroup.MiscUtilBOP=[GT++] Biomes O'Plenty Additions
+itemGroup.MiscUtilBOP=[GT++] Biomes O'Plenty
 
 # Debug
 item.AAA_Broken.name=[Несуществующий предмет] Сообщите об этом рецепте на Github, пожалуйста.
@@ -274,9 +274,6 @@ MU-metaitem.01.0.name=MU-metaitem.01.0.name
 # Cells
 item.SulfurDioxide.name=Капсула высококачественного диоксида серы
 item.mobessence.name=Капсула моб эссенции
-item.Fertiliser.name=Капсула удобрения
-item.UN32Fertiliser.name=Капсула удобрения UN-32
-item.UN18Fertiliser.name=Капсула удобрения UN-18
 item.RaisinJuice.name=Капсула изюмного сока
 item.BerylliumHydroxide.name=Капсула гидроксида бериллия
 item.AmmoniumBifluoride.name=Капсула гидрофторида аммония
@@ -1677,12 +1674,6 @@ item.itemDustTinyZrCl4.name=Крошечная кучка пыли тетрах�
 item.itemDustCookedZrCl4.name=Пыль прокалённого тетрахлорида циркония
 item.itemDustSmallCookedZrCl4.name=Маленькая кучка пыли прокалённого тетрахлорида циркония
 item.itemDustTinyCookedZrCl4.name=Крошечная кучка пыли прокалённого тетрахлорида циркония
-item.itemDustUN18Fertiliser.name=Пыль удобрения UN-18
-item.itemDustSmallUN18Fertiliser.name=Маленькая кучка пыли удобрения UN-18
-item.itemDustTinyUN18Fertiliser.name=Крошечная кучка пыли удобрения UN-18
-item.itemDustUN32Fertiliser.name=Пыль удобрения UN-32
-item.itemDustSmallUN32Fertiliser.name=Маленькая кучка пыли удобрения UN-32
-item.itemDustTinyUN32Fertiliser.name=Крошечная кучка пыли удобрения UN-32
 item.itemCustomMetaCover.miscutils.GtMachineCasings=%s Machine Plate Cover
 item.itemCustomMetaCover.miscutils.GtMachineCasings.name=Machine Plate Cover
 item.itemGregtechPump.tooltip.0=Cannot drain any other standard fluid container block
@@ -4026,15 +4017,11 @@ gtpp.tooltip.tool.mining_speed=Скорость добычи:
 
 gtpp.tooltip.wireless_charger.0=Можно заблокировать владельца ЛКМ+Shift отвёрткой
 gtpp.tooltip.wireless_charger.1=Используйте отвёртку для смены режима.
-gtpp.tooltip.wireless_charger.2=§aДальний режим§7: Может обеспечивать питание 1A для одного игрока на расстоянии до %,dм.
-gtpp.tooltip.wireless_charger.3=§aЛокальный режим§7: Может подавать 2A каждому игроку в пределах %,dм.
-gtpp.tooltip.wireless_charger.4=§aСмешанный режим§7: Может подавать 1A на расстоянии до %,dм и более 1A в пределах %,dм.
+gtpp.tooltip.wireless_charger.2=§aДальний режим§7: Может обеспечивать питание 1A для одного игрока на расстоянии до %s м.
+gtpp.tooltip.wireless_charger.3=§aЛокальный режим§7: Может подавать 2A каждому игроку в пределах %s м.
+gtpp.tooltip.wireless_charger.4=§aСмешанный режим§7: Может подавать 1A на расстоянии до %s м и более 1A в пределах %s м.
 
 #gtpp info data
-gtpp.infodata.multi_block.total_time=Общее время с момента постройки: %s Недель, %s Дней,
-gtpp.infodata.multi_block.total_time.0=%s Час(ы), %s Минут(ы), %s Секунд(ы).
-gtpp.infodata.multi_block.total_time.in_ticks=Общее время в тиках: %s
-gtpp.infodata.multi_block.recipes_done=Рецепты завершены: %s
 gtpp.infodata.tesseract_generator.name=Тессеракт генератор
 gtpp.infodata.tesseract_generator.frequency=Частота: %d
 gtpp.infodata.tesseract_generator.status.active=Активен
@@ -4064,7 +4051,17 @@ gtpp.infodata.solar_heater.testificate=Testificate
 gtpp.infodata.energy_buffer.eu_stored=%s EU хранится
 gtpp.infodata.energy_buffer.eu_capacity=%s EU capacity
 gtpp.infodata.tiered_chest.name=Super Storage Chest
-gtpp.infodata.tiered_tank.name=%s Жидкостный резервуар
+gtpp.infodata.tiered_tank.name=%s Fluid Tank
+gtpp.tiered_tank.desc.capacity=Stores %s of fluid
+gtpp.tiered_tank.desc.portable=A portable tank.
+gtpp.tiered_tank.desc.fluid=Жидкость: %s %s Л
+gtpp.tiered_tank.tooltip.contains=Содержит жидкость: 
+gtpp.tiered_tank.tooltip.amount=Количество жидкости: %s Л
+gtpp.infodata.tiered_tank.name=%s Резервуар
+gtpp.tiered_tank.infodata.amount=%s Л
+gtpp.tiered_tank.infodata.capacity=%s Л
+GT5U.infodata.digital_tank.stored_fluid=Хранящаяся жидкость
+GT5U.infodata.digital_tank.stored_fluid.empty=Пусто
 
 # GUI
 gtpp.gui.text.time_since_built=Общее время с момента постройки
@@ -4087,7 +4084,6 @@ gtpp.gui.text.power_sub_station.power_loss=Потеря энергии: %s EU з
 gtpp.gui.text.power_sub_station.running_perfectly=Неполадок не обнаружено
 gtpp.gui.text.power_sub_station.turn_on_with_mallet=Включай с помощью Киянки
 gtpp.gui.atmospheric_reconditioner.tooltip.reduction=Снижение: %s/s
-gtpp.gui.crop_harvestor.tooltip.water=Вода: %sЛ / %sЛ
 
 gtpp.gui.multiblock.progress.text=Прогресс: %s с / %s с
 gtpp.gui.multiblock.eu_t_p.text=%s EU/t/параллель
@@ -4105,5 +4101,5 @@ gtpp.chat.wireless_charger.mode.mixed=Смешанный
 gtpp.chat.wireless_charger.range=Дальность
 gtpp.chat.wireless_charger.lock=Locked to owner
 gtpp.chat.wireless_charger.unlock=Разблокировано
-gtpp.chat.wireless_charger.enter=Вы вошли в радиус зарядки. [%,dм - %s]
-gtpp.chat.wireless_charger.leave=Вы покинули радиус зарядки. [%,dm - %s]
+gtpp.chat.wireless_charger.enter=Вы вошли в радиус зарядки. [%s м - %s]
+gtpp.chat.wireless_charger.leave=Вы покинули радиус зарядки. [%s м - %s]

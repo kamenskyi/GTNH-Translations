@@ -29,6 +29,7 @@ mobsinfo.mobhandler.extended_info_5=что в среднем составляе�
 mobsinfo.mobhandler.spawns_everywhere=Появляется везде
 mobsinfo.mobhandler.spawns_in=Появляется в %d местах(е)...
 mobsinfo.mobhandler.spawns_not_in=Появляется везде, кроме %d мест(а)...
+mobsinfo.mobhandler.wither_skeleton_name=Скелет-иссушитель
 
 mobsinfo.villagertradeshandler.name=Имя: 
 mobsinfo.villagertradeshandler.mod=Мод: 

@@ -158,6 +158,12 @@ item.bloodFrame.name=Сангиус Артус
 item.frenziedFrame.name=Сводящая с ума рамка Безумия
 item.bloodSoakedFrame.name=Кровавая рамка
 
+#Tooltips
+tooltip.bloodBaseFrame.desc=You feel gross touching this
+tooltip.bloodFrame.desc=Stirs Bees into a frenzy
+tooltip.FrenziedFlame.desc=MAY CHAOS TAKE THE WORLD
+tooltip.bloodFrame.cost=Uses %d LP per bee tick
+
 #Capsules
 item.capsule.magic.name=Магическая капсула
 capsule.magic=Магическая капсула %s
@@ -193,8 +199,8 @@ liquid.coal=Сжиженный уголь
 
 #Moondial & Mutation moon phase conditions
 moon.full=Полнолуние
-moon.gibbousWaning=Убывающая Луна
-moon.gibbousWaxing=Растущая Луна
+moon.gibbousWaning=Убывающая луна
+moon.gibbousWaxing=Растущая луна
 moon.halfWaning=Последняя четверть луны
 moon.halfWaxing=Первая четверть луны
 moon.crescentWaning=Убывающий серп
@@ -664,7 +670,7 @@ tc.research_page.MB_Scoop.1=Обычные сачки хрупкие и скло
 
 tc.research_name.MB_Grafter=Таумический садовый нож
 tc.research_text.MB_Grafter=[MB] Саженцы для каждого случая.
-tc.research_page.MB_Grafter.1=Простой садовый нож почти бесполезно хрупок, и, хотя проверенные садовые ножи полезны, редкость садовый ножей затрудняет их приобретение. Решение? Сделай это сам!<BR>Таумический садовый нож, как и таумический сачок, представляет собой более жесткую, зачаровываемую версию самого простого из инструментов лесовода. Однако будьте осторожны, поскольку, хотя восстанавливающее заклинание может быть применено к прививщику, его необычные свойства делают его использование утомительным.
+tc.research_page.MB_Grafter.1=Простой садовый нож почти бесполезно хрупок, и, хотя проверенные садовые ножи полезны, редкость изумрудов затрудняет их приобретение. Решение? Сделай это сам!<BR>Таумический садовый нож, как и таумический сачок, представляет собой более жесткую, зачаровываемую версию самого простого из инструментов лесовода. Однако будьте осторожны, поскольку, хотя восстанавливающее заклинание может быть применено к прививщику, его необычные свойства делают его использование утомительным.
 
 tc.research_name.MB_EssenceLife=Эссенция ложной жизни
 tc.research_text.MB_EssenceLife=[MB] Роза с другим названием. . .

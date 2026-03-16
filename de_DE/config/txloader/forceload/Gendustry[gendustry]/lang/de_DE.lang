@@ -9,7 +9,7 @@ tile.gendustry.sampler.name=Gen-Abtaster
 tile.gendustry.extractor.name=DNA-Extraktor
 tile.gendustry.liquifier.name=Proteinverflüssiger
 tile.gendustry.replicator.name=Genetischer Replikator
-tile.gendustry.transposer.name=Genetischer Wandler
+tile.gendustry.transposer.name=Genetischer Transposer
 
 # ==== GENERAL ITEMS ====
 
@@ -22,7 +22,7 @@ item.gendustry.UpgradeFrame.name=Upgrade-Rahmen
 item.gendustry.ClimateModule.name=Klimakontrollmodul
 item.gendustry.Labware.name=Genlabor-Utensilien
 item.gendustry.GeneSample.name=Genprobe
-item.gendustry.GeneTemplate.name=Genetische Schablone
+item.gendustry.GeneTemplate.name=Genetische Vorlage
 item.gendustry.GeneSampleBlank.name=Leere Genprobe
 item.gendustry.Waste.name=Genetischer Abfall
 item.gendustry.grafter.name=Industrielles Pfropfmesser

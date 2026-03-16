@@ -88,7 +88,7 @@ tile.kekztech_ichorjar_block.3.name=Ихоровая пустотная банк
 # -------- Ichor Jar: Research
 tc.research_name.ICHORJAR=Ихоровая банка
 tc.research_text.ICHORJAR=Гораздо улучшенная банка
-kekztech.research_page.ICHORJAR.0=Вот оно!<BR><BR>Добавив в банку всего один кусочек Ихора, вы создали нечто, способное соперничать с оцифрованным хранилищем Эссенции, не жертвуя при этом красотой защищенных банок.<BR><BR>Ихоровые банки могут вместить поразительные 4096 Эссенции и прекрасно впишутся в ваш недавно приобретенный набор достижений на основе Ихора.<BR><BR>Вы определенно не захотите тревожить эти банки. К счастью, Ихор достаточно устойчив, чтобы случайное уничтожение одной из них было маловероятным.
+kekztech.research_page.ICHORJAR.0=Вот оно!<BR><BR>Добавив в банку всего один кусочек Ихора, вы создали нечто, способное соперничать с оцифрованным хранилищем Эссенции, не жертвуя при этом красотой защищенных банок.<BR><BR>Ихоровые банки могут вместить поразительные 4096 Эссенции и прекрасно впишутся в ваш недавно приобретённый набор достижений на основе Ихора.<BR><BR>Вы определенно не захотите тревожить эти банки. К счастью, Ихор достаточно устойчив, чтобы случайное уничтожение одной из них было маловероятным.
 
 # -------- Cosmetic Blocks
 tile.kekztech_largehextile_block.name=Большая шестигранная плитка
@@ -126,7 +126,7 @@ tooltip.kekztech.lapotronic_energy_unit.capacity=Ёмкость: §c%s§7 EU
 tooltip.kekztech.lapotronic_energy_unit.wire_less_transfer=Поддерживает до §c%s§7 EU/t беспроводной передачи на %s§7 конденсатор.
 tooltip.kekztech.lapotronic_energy_unit.capacity.none=Ёмкость: Нет
 tooltip.kekztech.tfft.capacity=Ёмкость: §9%s§7 Л
-tooltip.kekztech.tfft.capacity.per_fluid=По объему жидкости: §9%s§7 Л
+tooltip.kekztech.tfft.capacity.per_fluid=Обьём на жидкость: §9%s§7 Л
 tooltip.kekztech.tfft.power_draw=Потребление энергии: §9%d§7 EU/t
 tooltip.kekztech.wrong=НАПОМИНАЕМ: Рецепты KekzTech проверены только для работы в GTNH!\nЗамещающий предмет на случай, если что-то пошло не так.\nЕсли этот предмет появится в GTNH, вы можете сообщить об этом по адресу:\nhttps://github.com/kekzdealer/KekzTech
 
@@ -159,7 +159,7 @@ kekztech.infodata.tank.tfft.stored_fluids=Хранимые жидкости:
 kekztech.infodata.tank.tfft.stored_fluids.null=NULL
 kekztech.infodata.tank.tfft.used=Использованная ёмкость: %sЛ
 kekztech.infodata.tank.tfft.total=Общая ёмкость: %sЛ
-kekztech.infodata.tank.tfft.per_fluid_capacity=По объему жидкости: %sЛ
+kekztech.infodata.tank.tfft.per_fluid_capacity=Обьём на жидкость: §9%s§7 Л
 kekztech.infodata.tank.tfft.running_cost=Расход при работе: %dEU/t
 kekztech.infodata.tank.tfft.auto_voiding=Авто-уничтожение: %b
 

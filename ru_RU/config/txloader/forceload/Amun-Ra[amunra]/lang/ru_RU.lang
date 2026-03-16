@@ -1,3 +1,5 @@
+itemGroup.AmunRaTab=Amun-Ra
+
 planet.starAmun=Амон
 star.starRa=Ра
 planet.osiris=Осирис
@@ -80,14 +82,10 @@ tile.aluChest.name=Алюминиевый сундук
 tile.aluChest.description=Такая же вместимость как деревянный сундук. Объединяется в двойной сундук.
 tile.steelChest.name=Стальной сундук
 tile.steelChest.description=Вместимость два раза выше деревянного сундука. Не объединяется в двойной сундук.
-
-
 tile.oldConcreteOre.0.name=Урболит
 tile.oldConcrete.name=Урболит
 tile.oldConcreteOre.oreSteel.name=Урболит содержащий сталь
 tile.oldConcreteOre.oreBone.name=Урболит содержащий окаменелости
-
-
 tile.baseBlockCrystal.0.name=Светящийся коралл
 tile.glowCoral.name=Светящийся коралл
 tile.obsidianbrick.name=Стена из обсидианового кирпича
@@ -110,19 +108,14 @@ tile.asteroidMultiOre1.0.name=Руда
 tile.basaltMultiOre.0.name=Руда
 tile.hardClayMultiOre.0.name=Руда
 tile.obsidianMultiOre.0.name=Руда
-
 tile.basePlant.0.name=Высокая красная трава
 tile.methaneTallGrass.name=Высокая красная трава
-
 tile.blockFake.0.name=Поддельный блок
-
 tile.bossSpawner.0.name=Спаунер босса
-
 tile.baseFalling.0.name=Падающий блок
 tile.basaltregolith.name=Базальтовый реголит
 tile.obsidianGravel.name=Обсидиановый гравий
 tile.obsidianSand.name=Обсидиановый песок
-
 tile.baseGrass.0.name=Красная трава
 tile.methanegrass.name=Красная трава
 tile.vacuumRedGrass.name=Бледная красная трава
@@ -151,13 +144,10 @@ tile.hydroponics.harvest=Собрать
 tile.hydroponics.fertilize=Удобрить
 tile.hydroponics.noplant=Нет растения
 tile.hydroponics.plantstatus=Статус растения
-
-
 tile.machines1.0.name=Радиоизотопный генератор
 tile.isotopeGeneratorBasic.name=Радиоизотопный генератор
 tile.isotopeGeneratorAdvanced.name=Продвинутый радиоизотопный генератор
 tile.isotopeGenerator.description=Генерирует електрическую енергию из тепла, которая выделяется при распаде радиоактивного материала. Скорость продукции енергии зависет от температуры среды генератора. Из-за высокого периода полураспада использованного материала, этот генератор можно считать бесконечным.
-
 
 item.baseItem.name=Предмет
 item.baseItem.compressedGold.name=Сжатое золото
@@ -165,7 +155,7 @@ item.baseItem.goldFoil.name=Золотая фольга
 item.baseItem.transformer.name=Трансформатор
 item.baseItem.waferEnder.name=Полупроводниковая пластина края
 item.baseItem.porcodonMeat.name=Мясо поркодона
-item.porcodonMeat.description=Пахнет бензином.
+
 item.baseItem.laserDiode.name=Лазерный диод
 item.baseItem.cryoDiode.name=Криодиод
 item.baseItem.cryoCrystal.name=Хионит
@@ -184,7 +174,6 @@ item.baseItem.uranMesh.name=Uranium-Урано-литиевая сеть
 item.baseItem.shuttleTank.name=Топливный бак шаттла
 item.baseItem.dockDoor.name=Дверь дока
 item.baseItem.dockGangway.name=Трап дока
-item.schematic.schematicShuttle.name=Схема шаттла
 item.baseItem.darkShard.name=Осколок тёмной материи
 item.baseItem.naniteCluster.name=Скопление нанороботов
 item.baseItem.naniteCluster.description=Эти нанороботы выглядят инертными, но работоспособными
@@ -192,29 +181,7 @@ item.baseItem.naniteControl.name=Управляющий модуль нанор�
 item.baseItem.mummyDust.name=Порошок мумии
 item.baseItem.gravityBlockDisabler.name=Подавитель искусственной гравитации
 item.baseItem.gravityBlockDisabler.description=Если включен, генераторы искусственной гравитации не влияют на пользователя.
-
-
 item.baseItem.dustMote.name=Пыль
-item.battery-lithium.name=Литиевая батарейка
-item.battery-quantum.name=Квантовая батарейка
-item.battery-ender.name=Продвинутая батарейка
-item.battery-nuclear.name=Атомная батарейка
-item.raygun.name=Бластер
-item.cryogun.name=Луч холода
-entity.robotVillager.name=Житель-робот
-entity.porcodon.name=Поркодон
-entity.sentryRobot.name=Часовой
-entity.osirisBoss.name=Босс-мумия
-entity.alienVillagerAR.name=Инопланетный житель
-entity.alienBug.name=Жук-щипач
-entity.GalacticraftAmunRa.Shuttle.name=Шаттл
-item.itemShuttle.name=Шаттл
-item.thermalSuit.name=Терморегулированная часть брони
-item.thermalSuit.thermalLevel.name=Уровень тепла: %s
-item.thermalSuit.helmet.name=Терморегулированный шлем
-item.thermalSuit.chest.name=Терморегулированная кираса
-item.thermalSuit.boots.name=Терморегулированные ботинки
-item.thermalSuit.legs.name=Терморегулированные поножи
 item.baseItem.thermalController.name=Портативный терморегулятор
 item.baseItem.tricorder.name=Мульти-сенсор
 item.baseItem.tricorder.description=Измеряет и показывает разные данные актуального измерения.
@@ -226,6 +193,21 @@ item.baseItem.tricorder.message.daylength=Длина дня: %s
 item.baseItem.tricorder.message.unknown=Неизвесно
 item.baseItem.tricorder.message.unknownGas=Неизвесный газ
 item.baseItem.tricorder.message.none=нет
+item.schematic.schematicShuttle.name=Схема шаттла
+item.porcodonMeat.description=Пахнет бензином.
+item.battery-lithium.name=Литиевая батарейка
+item.battery-quantum.name=Квантовая батарейка
+item.battery-ender.name=Продвинутая батарейка
+item.battery-nuclear.name=Атомная батарейка
+item.raygun.name=Бластер
+item.cryogun.name=Луч холода
+item.itemShuttle.name=Шаттл
+item.thermalSuit.name=Терморегулированная часть брони
+item.thermalSuit.thermalLevel.name=Уровень тепла: %s
+item.thermalSuit.helmet.name=Терморегулированный шлем
+item.thermalSuit.chest.name=Терморегулированная кираса
+item.thermalSuit.boots.name=Терморегулированные ботинки
+item.thermalSuit.legs.name=Терморегулированные поножи
 item.nanotool.name=Нанороботный мультиинструмент
 item.nanotool.mode-prefix=Режим
 item.nanotool.mode.workbench=Верстак
@@ -237,6 +219,15 @@ item.nanotool.mode.shovel=Лопата
 item.nanotool.mode.wrench=Гаечный ключ
 item.battery-using-item.powerlevel=Источник энергии
 
+schematic.shuttle.name=Шаттл
+
+entity.robotVillager.name=Житель-робот
+entity.porcodon.name=Поркодон
+entity.sentryRobot.name=Часовой
+entity.osirisBoss.name=Босс-мумия
+entity.alienVillagerAR.name=Инопланетный житель
+entity.alienBug.name=Жук-щипач
+entity.GalacticraftAmunRa.Shuttle.name=Шаттл
 
 gas.argon.name=Аргон
 gas.helium.name=Гелий
@@ -250,6 +241,7 @@ profession.refinery.name=Очищеник
 profession.ingotcompressor.name=Металлург
 profession.circuitfabricator.name=Производитель микросхем
 profession.crafter.name=Производитель
+
 death.attack.wrongAtmoSuffocate=%1$s задохнулся в неправильной атмосфере
 death.attack.fallOffMothership=%1$s был потерян в космосе
 death.attack.fallOffMothershipIntoPlanet=%1$s разбился об %2$s
@@ -257,7 +249,6 @@ death.attack.killedByEngine=%1$s был убит двигателем косми
 death.attack.ar_laser=%1$s был убит лучевым оружием
 death.attack.ar_heatray=%1$s был испарён
 death.attack.ar_coldray=%1$s был заморожен
-itemGroup.AmunRaTab=Amun-Ra
 
 gui.message.canCreateMothership.name=Здесь можно построить космический корабль!
 gui.message.tooManyMotherships.name=Ты не можешь строить ещё больше кораблей!
@@ -305,12 +296,6 @@ gui.checkbox.show_visual_guide=Показать зону
 gui.checkbox.invert_force=Вверх
 gui.message.force.strength=Сила
 gui.message.energy_usage=Энергопотребление
-
-
-info.message.celestialbodysearch.none=Небесных тел подходящих на '%s' не найдено
-info.message.celestialbodysearch.some=Найдено %s небесных тел подходящих на '%s':
-
-
 gui.message.misc.generalErrorCaption=Ошибка
 gui.message.misc.planet=Планета
 gui.message.misc.star=Звезда
@@ -323,6 +308,16 @@ gui.message.misc.yes=да
 gui.message.misc.no=нет
 gui.message.misc.unit.ticks=Тик
 
+gui.title.gravity=Генератор искусственной гравитации
+gui.title.isotopeGeneratorBasic=Радиоизотопный генератор
+gui.title.isotopeGeneratorAdvanced=Продвинутый радиоизотопный генератор
+gui.title.mothershipEngineIon=Ионный двигатель
+gui.title.hydroponics=Гидропонная система
+gui.title.aluChest=Алюминиевый сундук
+gui.title.steelChest=Стальной сундук
+gui.title.shuttleDock=Шаттл-док
+
+info.message.celestialbodysearch.none=Небесных тел подходящих на '%s' не найдено
+info.message.celestialbodysearch.some=Найдено %s небесных тел подходящих на '%s':
 
 mothership.default.name=Корабль %s
-
